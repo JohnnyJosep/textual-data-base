@@ -1,0 +1,8 @@
+# Data
+venv/
+data/
+
+# Editors
+.vscode/
+.idea/
+.ipynb_checkpoints/
