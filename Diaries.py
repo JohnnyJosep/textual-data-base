@@ -13,8 +13,13 @@ class Diary:
             session = re.split(EndSession, session)[0]
             session = re.sub(Header, '', session)
             session = re.sub(NumeroExpediente, '', session)
-            session = re.sub('cve: ' + splitext(basename(path))[0], '', session)
+            cve = splitext(basename(path))[0];
+            # leading zeros
+            cve = re.sub('-0', '-', cve)
+            cve = re.sub('-0', '-', cve)
+            session = re.sub('cve: ' + cve, '', session)
             session = re.sub(r'\n+', '\n', session)
+            session = re.sub(r'\n\?', '\n--', session)
             session = re.sub(r'( +?)', ' ', session)
             session = re.sub('—', '--', session)
             session = re.sub('―', '--', session)
@@ -22,6 +27,7 @@ class Diary:
 
     def get_points(self):
         lines = self.session_text.split('\n')
+        lines = [re.sub(r'^\?', '--', l) for l in lines]
         points = []
         last_is_point = False
         for line in lines:
@@ -29,13 +35,16 @@ class Diary:
                 continue
 
             if line.upper() == line:
-                if last_is_point and not line.startswith('--'):
+                if last_is_point and not line.startswith('--') and not line.startswith('?'):
                     updated_point = re.sub(r'( +?)', ' ', points[-1] + ' ' + line)
                     points[-1] = updated_point
+                    last_is_point = True
                 else:
-                    points.append(line)
-
-                last_is_point = True
+                    if not line.isnumeric():
+                        points.append(line)
+                        last_is_point = True
+                    else:
+                        last_is_point = False
             else:
                 last_is_point = False
 
@@ -67,13 +76,16 @@ class Diary:
         i = 0
         while i < len(debates_titles):
             title = debates_titles[i]
+            #title = re.sub(r'^\?', r'--', title)
             next_title = '' if i + 1 >= len(debates_titles) else debates_titles[i + 1]
+            #next_title = re.sub(r'^\?', r'--', next_title)
 
             title_pattern = title.split('--')[-1]
             title_pattern = re.sub(r'\.', r'\.', title_pattern)
             title_pattern = re.sub(r'\(', r'\(', title_pattern)
             title_pattern = re.sub(r'\)', r'\)', title_pattern)
             next_title_pattern = next_title.split('--')[-1]
+            next_title_pattern = re.sub(r'^\?', r'--', next_title_pattern)
             next_title_pattern = re.sub(r'\.', r'\.', next_title_pattern)
             next_title_pattern = re.sub(r'\(', r'\(', next_title_pattern)
             next_title_pattern = re.sub(r'\)', r'\)', next_title_pattern)
@@ -89,10 +101,10 @@ class Diary:
                 found_text = match.group(0)
                 found_text = re.sub('^' + title_pattern, '', found_text)
                 if next_title != '':
-                    net_title_full_pattern = re.sub(r'\.', r'\.', next_title)
-                    net_title_full_pattern = re.sub(r'\(', r'\(', net_title_full_pattern)
-                    net_title_full_pattern = re.sub(r'\)', r'\)', net_title_full_pattern)
-                    found_text = re.sub(net_title_full_pattern + '$', '', found_text)
+                    next_title_full_pattern = re.sub(r'\.', r'\.', next_title)
+                    next_title_full_pattern = re.sub(r'\(', r'\(', next_title_full_pattern)
+                    next_title_full_pattern = re.sub(r'\)', r'\)', next_title_full_pattern)
+                    found_text = re.sub(next_title_full_pattern + '$', '', found_text)
                     found_text = re.sub(next_title_pattern + '$', '', found_text)
                 found_text = found_text.strip()
                 debates.append(Debate(title, found_text))

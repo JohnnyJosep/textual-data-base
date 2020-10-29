@@ -1,0 +1,12 @@
+D:\Sources\TFG\ReadPdf\ReadPdf\bin\Debug\net472\ReadPdf.exe.config
+D:\Sources\TFG\ReadPdf\ReadPdf\bin\Debug\net472\ReadPdf.exe
+D:\Sources\TFG\ReadPdf\ReadPdf\bin\Debug\net472\ReadPdf.pdb
+D:\Sources\TFG\ReadPdf\ReadPdf\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\Sources\TFG\ReadPdf\ReadPdf\bin\Debug\net472\itextsharp.dll
+D:\Sources\TFG\ReadPdf\ReadPdf\obj\Debug\net472\ReadPdf.csprojAssemblyReference.cache
+D:\Sources\TFG\ReadPdf\ReadPdf\obj\Debug\net472\ReadPdf.AssemblyInfoInputs.cache
+D:\Sources\TFG\ReadPdf\ReadPdf\obj\Debug\net472\ReadPdf.AssemblyInfo.cs
+D:\Sources\TFG\ReadPdf\ReadPdf\obj\Debug\net472\ReadPdf.csproj.CoreCompileInputs.cache
+D:\Sources\TFG\ReadPdf\ReadPdf\obj\Debug\net472\ReadPdf.csproj.CopyComplete
+D:\Sources\TFG\ReadPdf\ReadPdf\obj\Debug\net472\ReadPdf.exe
+D:\Sources\TFG\ReadPdf\ReadPdf\obj\Debug\net472\ReadPdf.pdb

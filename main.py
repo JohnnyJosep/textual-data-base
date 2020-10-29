@@ -1,16 +1,23 @@
 from Diaries import Diary
+from os import listdir
+from os.path import isfile, join
+import json
+from TextData import TextData
+from TextData import TextDataEncoder
 
-path = './diaries-txts/DSCD-14-PL-6.txt'
+txts = [join('./data/diaries-txts/', f) for f in listdir('./data/diaries-txts') if isfile(join('./data/diaries-txts/', f))]
+diaries = {f:Diary(f) for f in txts}
 
-diary = Diary(path)
+data = []
+for path in diaries:
+    diary = diaries[path]
+    # print(path)
 
-debates = diary.get_debates()
-for debate in debates:
-    print("______________")
-    print(debate.title)
-    print("______________")
-    speaches = debate.get_speaches()
-    for speach in speaches:
-        print(speach)
-        print('\n')
-    print('\n')
+    debates = diary.get_debates()
+    for debate in debates:
+        sps = debate.get_speaches()
+        for s in sps:
+            data.append(TextData(s.speach, {
+                "speacker": s.speacker
+            }))
+
