@@ -3,13 +3,14 @@ create table texts
 (
     id              serial primary key,
     text            text not null,
+    meta_gzip       bytea not null,
     part_of_speach  text null
 );
 
 create table attributes 
 (
     id              serial primary key,
-    name            varchar(255) not null
+    name            varchar(255) unique not null 
 );
 
 create table attribute_values

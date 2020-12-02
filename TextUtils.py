@@ -11,3 +11,7 @@ class TextData:
 
         return stg
 
+if __name__ == "__main__":
+    td = TextData('hola', {'speacker': 'Pepe'})
+    for m in td.meta:
+        print(m)

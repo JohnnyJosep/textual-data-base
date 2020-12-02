@@ -7,10 +7,83 @@ class Diary:
     def __init__(self, path):
         with open(path, 'r', encoding='utf-8') as file:
             text = file.read()
+            self.path = path
             self.full_text = text
 
-            session = re.split(OpenSession, text)[-1]
-            session = re.split(EndSession, session)[0]
+            # Celebrated
+            self.celebrated = None
+            celebratedSearch = re.search(Celebrated, text)
+            if celebratedSearch:
+                celebratedFound = celebratedSearch.group()
+                self.celebrated = celebratedFound[13:]
+
+            # Legislature
+            self.legislature = None
+            legislatureSearch = re.search(Legislature, text)
+            if legislatureSearch:
+                self.legislature = legislatureSearch.group().split()[0]
+
+            # President
+            self.president = None
+            self.presidentTreatment = None
+            presidentSearch = re.search(Presidencia, text)
+            if presidentSearch:
+                presidentFound = presidentSearch.group()
+                if presidentFound.startswith('PRESIDENCIA DEL EXCMO. SR. D. '):
+                    self.presidentTreatment = 'Presidente'
+                    self.president = presidentFound[30:]
+                else:
+                    self.presidentTreatment = 'Presidenta'
+                    self.president = presidentFound[34:]
+
+            # First day order
+            self.firstDayOrder = None
+            fdoSearch = re.search(OrdenDelDia, text)
+            if fdoSearch:
+                fdo = fdoSearch.group()
+                fdo = re.sub(r'\n+', ' ', fdo)
+                fdo = re.sub(r'\n\?', '\n--', fdo)
+                fdo = re.sub(r'( +?)', ' ', fdo)
+                fdo = re.sub('—', '--', fdo)
+                fdo = re.sub('―', '--', fdo)
+                fdo = re.sub('«(.*)?', '', fdo)
+                fdo = re.sub('\((.*)?', '', fdo)
+                fdo = re.sub('\s*\.\.+\s*\d*', '', fdo)
+
+                self.firstDayOrder = fdo
+
+
+            openigs = len(re.findall(OpenSession, text))
+            session = text
+            if openigs % 2 == 0:
+                summaryOpenings = int(openigs / 2)
+                for i in range(summaryOpenings + 1):
+                    headerSearch = re.search(OpenSession, session)
+                    searchEnd = headerSearch.end()
+                    session = session[searchEnd:len(session)]
+
+            else:
+                session_first_page = None
+                sessionPageSeach = re.search(OrdenDelDia, text)
+                if sessionPageSeach:
+                    sessionPageFound = sessionPageSeach.group()
+                    sessionFistPageSearch = re.search(LastDigit, sessionPageFound)
+                    if sessionFistPageSearch:
+                        session_first_page = sessionFistPageSearch.group()
+
+                if session_first_page:
+                    startSession = 'Núm. \d+ ' + Date + r' Pág. ' + session_first_page + '\n'
+                    session = re.split(startSession, text)[-1]
+                headerSearch = re.search(OpenSession, session)
+                searchEnd = headerSearch.end()
+                session = session[searchEnd:len(session)]
+
+
+            footer = re.split(EndSession, session)[-1]
+            session = session[0:len(session)-len(footer)]
+
+            session = re.sub(OpenSession, '', session)
+            session = re.sub(EndSession, '', session)
             session = re.sub(Header, '', session)
             session = re.sub(NumeroExpediente, '', session)
             cve = splitext(basename(path))[0];
@@ -30,8 +103,10 @@ class Diary:
         lines = [re.sub(r'^\?', '--', l) for l in lines]
         points = []
         last_is_point = False
+        open_parenthesis = 0
         for line in lines:
-            if line == '':
+            lstrip = line.strip()
+            if lstrip == '' or lstrip == '.' or lstrip == '*':
                 continue
 
             if line.upper() == line:
@@ -40,7 +115,7 @@ class Diary:
                     points[-1] = updated_point
                     last_is_point = True
                 else:
-                    if not line.isnumeric():
+                    if not line.strip().isnumeric() and open_parenthesis == 0:
                         points.append(line)
                         last_is_point = True
                     else:
@@ -48,7 +123,13 @@ class Diary:
             else:
                 last_is_point = False
 
-        return points
+            open_parenthesis = open_parenthesis + len(re.findall('\(', line))
+            open_parenthesis = open_parenthesis - len(re.findall('\)', line))
+
+        if len(points) > 0:
+            return points
+        else:
+            return [self.firstDayOrder]
 
     def get_debates(self):
         session = self.session_text
@@ -84,11 +165,15 @@ class Diary:
             title_pattern = re.sub(r'\.', r'\.', title_pattern)
             title_pattern = re.sub(r'\(', r'\(', title_pattern)
             title_pattern = re.sub(r'\)', r'\)', title_pattern)
+            title_pattern = re.sub(r'\?', r'\?', title_pattern)
+            title_pattern = re.sub(r'\/', r'\/', title_pattern)
             next_title_pattern = next_title.split('--')[-1]
             next_title_pattern = re.sub(r'^\?', r'--', next_title_pattern)
             next_title_pattern = re.sub(r'\.', r'\.', next_title_pattern)
             next_title_pattern = re.sub(r'\(', r'\(', next_title_pattern)
             next_title_pattern = re.sub(r'\)', r'\)', next_title_pattern)
+            next_title_pattern = re.sub(r'\?', r'\?', next_title_pattern)
+            next_title_pattern = re.sub(r'\/', r'\/', next_title_pattern)
 
             pattern = title_pattern
             if next_title_pattern == '':
@@ -139,10 +224,12 @@ class Debate:
                 speach = found[len(speacker):].strip()
                 speacker = speacker[:-1]
                 speacker_treatment = re.search(SpeackerTreatmentPattern, speacker)
+                treatment = None
                 if speacker_treatment:
-                    speacker = speacker[len(speacker_treatment.group()):]
+                    treatment = speacker_treatment.group()
+                    speacker = speacker[len(treatment):]
 
-                speaches.append(Speach(speacker, speach))
+                speaches.append(Speach(treatment, speacker, speach))
 
             sample = sample[len(found):]
 
@@ -150,7 +237,8 @@ class Debate:
 
 
 class Speach:
-    def __init__(self, speacker, speach):
+    def __init__(self, speackerTreatment, speacker, speach):
+        self.speackerTreatment = speackerTreatment.strip()
         self.speacker = speacker
         self.speach = speach
 
