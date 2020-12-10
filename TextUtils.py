@@ -2,7 +2,7 @@
 class TextData:
     def __init__(self, text, meta):
         self.text = text
-        self.meta = meta
+        self.metadata = meta
 
     def __str__(self):
         stg = f"text:\t\t{self.text}\n"
