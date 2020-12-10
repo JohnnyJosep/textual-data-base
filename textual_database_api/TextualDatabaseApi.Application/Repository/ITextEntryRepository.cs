@@ -1,9 +1,9 @@
-﻿using TextualDatabaseApi.Application.Model;
-using TextualDatabaseApi.Application.Repository.Base;
+﻿using TextualDatabaseApi.Application.Repository.Base;
+using TextualDatabaseApi.Domain;
 
 namespace TextualDatabaseApi.Application.Repository
 {
-    public interface ITextualDataRepository : ICreateRepository<TextualData>
+    public interface ITextEntryRepository : ICreateRepository<TextEntry>, IReadRepository<TextEntry>
     {
         
     }

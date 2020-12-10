@@ -6,12 +6,12 @@ using Microsoft.Extensions.Logging;
 
 namespace TextualDatabaseApi.Application.Behaviors
 {
-    public class RequestPerformanceBehavior<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
+    public class RequestPerformanceBehaviour<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
     {
         private readonly Stopwatch _timer;
         private readonly ILogger<TRequest> _logger;
 
-        public RequestPerformanceBehavior(ILogger<TRequest> logger)
+        public RequestPerformanceBehaviour(ILogger<TRequest> logger)
         {
             _logger = logger;
             _timer = new Stopwatch();

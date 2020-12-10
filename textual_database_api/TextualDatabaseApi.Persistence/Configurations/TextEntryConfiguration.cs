@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using TextualDatabaseApi.Domain;
 
-namespace TextualDatabaseApi.Persistence.Confgurations
+namespace TextualDatabaseApi.Persistence.Configurations
 {
     public class TextEntryConfiguration : IEntityTypeConfiguration<TextEntry>
     {
@@ -15,10 +15,12 @@ namespace TextualDatabaseApi.Persistence.Confgurations
         {
             builder
                 .Property(t => t.Metadata)
-                .HasConversion(v => Zip, v => Unzip);
+                .HasConversion(
+                    v => Zip(v), 
+                    v => Unzip(v));
         }
         
-        public static void CopyTo(Stream src, Stream dest)
+        private static void CopyTo(Stream src, Stream dest)
         {
             byte[] bytes = new byte[4096];
             int cnt;
@@ -28,7 +30,7 @@ namespace TextualDatabaseApi.Persistence.Confgurations
             }
         }
 
-        public static byte[] Zip(Dictionary<string, string> metadata)
+        private static byte[] Zip(IDictionary<string, string> metadata)
         {
             var json = JsonSerializer.Serialize(metadata);
             var bytes = Encoding.UTF8.GetBytes(json);
@@ -42,7 +44,7 @@ namespace TextualDatabaseApi.Persistence.Confgurations
             return mso.ToArray();
         }
 
-        public static Dictionary<string, string> Unzip(byte[] bytes)
+        private static IDictionary<string, string> Unzip(byte[] bytes)
         {
             using var msi = new MemoryStream(bytes);
             using var mso = new MemoryStream();
@@ -52,7 +54,7 @@ namespace TextualDatabaseApi.Persistence.Confgurations
             }
 
             var json = Encoding.UTF8.GetString(mso.ToArray());
-            var metadata = JsonSerializer.Deserialize<Dictionary<string, string>>(json);
+            var metadata = JsonSerializer.Deserialize<IDictionary<string, string>>(json);
             return metadata;
         }
     }

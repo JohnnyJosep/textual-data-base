@@ -1,7 +1,15 @@
-﻿namespace TextualDatabaseApi.Persistence
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+
+namespace TextualDatabaseApi.Persistence
 {
-    public class DependencyInjection
+    public static class DependencyInjection
     {
-        
+        public static IServiceCollection AddTextualDatabasePersistence(this IServiceCollection services, string connectionString)
+        {
+            services.AddDbContext<TextualDbContext>(options => options.UseNpgsql(connectionString));
+            
+            return services;
+        }
     }
 }

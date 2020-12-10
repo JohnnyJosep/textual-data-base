@@ -1,28 +1,14 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using TextualDatabaseApi.Application.Interfaces;
-using TextualDatabaseApi.Application.Model;
+﻿using TextualDatabaseApi.Application.Interfaces;
 using TextualDatabaseApi.Application.Repository;
+using TextualDatabaseApi.Domain;
+using TextualDatabaseApi.Infrastructure.Repository.Base;
 
 namespace TextualDatabaseApi.Infrastructure.Repository
 {
-    public class TextualDataRepository : ITextualDataRepository
+    public class TextEntryRepository : GenericRepository<TextEntry>, ITextEntryRepository
     {
-        private ITextualDbContext _context;
-
-        public TextualDataRepository(ITextualDbContext context)
+        public TextEntryRepository(ITextualDbContext context) : base (context)
         {
-            _context = context;
-        }
-
-        public Task AddAsync(TextualData entity)
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public Task AddAsync(IEnumerable<TextualData> entities)
-        {
-            throw new System.NotImplementedException();
         }
     }
 }
