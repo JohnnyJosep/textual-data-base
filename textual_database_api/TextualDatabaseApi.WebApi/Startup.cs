@@ -28,7 +28,7 @@ namespace TextualDatabaseApi.WebApi
         
         public void ConfigureServices(IServiceCollection services)
         {
-            var connectionString = _configuration.GetConnectionString("TextualDatabase");
+            var connectionString = _configuration.GetConnectionString("TextualDatabasePg");
             services
                 .AddTextualDatabaseApplication()
                 .AddTextualDatabasePersistence(connectionString)

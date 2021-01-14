@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using TextualDatabaseApi.Domain;
+using TextualDatabaseApi.Domain.Entities;
 
 namespace TextualDatabaseApi.Persistence.Configurations
 {

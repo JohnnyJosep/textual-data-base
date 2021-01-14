@@ -1,7 +1,11 @@
-﻿namespace TextualDatabaseApi.Application.Interfaces
+﻿using System.Threading;
+using System.Threading.Tasks;
+using TextualDatabaseApi.Application.Models;
+
+namespace TextualDatabaseApi.Application.Interfaces
 {
-    public class IApplicationEventService
+    public interface IApplicationEventService
     {
-        
+        Task Publish(ApplicationEvent applicationEvent, CancellationToken cancellationToken = default);
     }
 }

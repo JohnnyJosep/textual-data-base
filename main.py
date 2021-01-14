@@ -1,14 +1,11 @@
-from Diaries import Diary
+import requests
 
-file = './data/diaries-txts/DSCD-12-PL-170.txt'
+url = "http://localhost:8008/api/pdfconverter"
 
-print(file)
-diary = Diary(file)
+files={
+  ('file', ('DSCD-11-PL-006.PDF', open('./data/diaries/DSCD-11-PL-002.PDF', 'rb'), 'application/octet-stream'))
+}
 
-poits = diary.get_points()
-print(poits)
+response = requests.post(url,  files=files)
 
-debates = diary.get_debates()
-for d in range(len(debates)):
-    debate = debates[d]
-    print(debate.title)
+print(response.text)

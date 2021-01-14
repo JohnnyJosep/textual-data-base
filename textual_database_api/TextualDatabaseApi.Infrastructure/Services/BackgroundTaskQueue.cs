@@ -1,7 +1,33 @@
-﻿namespace TextualDatabaseApi.Infrastructure.Services
+﻿using System;
+using System.Collections.Concurrent;
+using System.Threading;
+using System.Threading.Tasks;
+using TextualDatabaseApi.Application.Interfaces;
+
+namespace TextualDatabaseApi.Infrastructure.Services
 {
-    public class BackgroundTaskQueue
+    public class BackgroundTaskQueue : IBackgroundTaskQueue
     {
+        private ConcurrentQueue<Func<IServiceProvider, CancellationToken, Task>> _workItems = 
+            new ConcurrentQueue<Func<IServiceProvider, CancellationToken, Task>>();
+        private SemaphoreSlim _signal = new SemaphoreSlim(0);
         
+        public void QueueBackgroundWorkItem(Func<IServiceProvider, CancellationToken, Task> workItem)
+        {
+            if (workItem == null)
+            {
+                throw new ArgumentException(nameof(workItem));
+            }
+            
+            _workItems.Enqueue(workItem);
+            _signal.Release();
+        }
+
+        public async Task<Func<IServiceProvider, CancellationToken, Task>> DequeueAsync(CancellationToken cancellationToken = default)
+        {
+            await _signal.WaitAsync(cancellationToken);
+            _workItems.TryDequeue(out var workItem);
+            return workItem;
+        }
     }
 }

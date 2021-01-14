@@ -6,6 +6,6 @@ namespace TextualDatabaseApi.Application.Queries.GetTextualData
 {
     public class GetTextualDataRequest : IRequest<IEnumerable<TextualData>>
     {
-        
+        public string CacheKey => "get_textual_data";
     }
 }

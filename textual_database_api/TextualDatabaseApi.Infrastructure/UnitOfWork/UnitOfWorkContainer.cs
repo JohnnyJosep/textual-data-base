@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore.Storage;
 using TextualDatabaseApi.Application.Interfaces;
+using TextualDatabaseApi.Application.Models;
 using TextualDatabaseApi.Application.Repository;
 using TextualDatabaseApi.Application.UnitOfWork;
 using TextualDatabaseApi.Infrastructure.Repository;
@@ -11,9 +12,7 @@ namespace TextualDatabaseApi.Infrastructure.UnitOfWork
 {
     public class UnitOfWorkContainer : IUnitOfWork
     {
-        private readonly TextualDbContext _context;
-
-        public ITextualDbContext Context => _context;
+        private readonly ITextualDbContext _context;
         
         public ITextEntryRepository TextEntryRepository { get; }
         public ITextAttributeRepository TextAttributeRepository { get; }
@@ -30,11 +29,12 @@ namespace TextualDatabaseApi.Infrastructure.UnitOfWork
         public async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default) =>
             await _context.SaveChangesAsync(cancellationToken);
 
-        public async Task<IDbContextTransaction> BeginTransactionAsync() => 
-            await _context.Database.BeginTransactionAsync();
+        public async Task<IDbContextTransaction> BeginTransactionAsync(CancellationToken cancellationToken = default) => 
+            await _context.BeginTransactionAsync(cancellationToken);
 
-        public void CommitTransaction() => _context.Database.CommitTransaction();
+        public Task CommitTransactionAsync(CancellationToken cancellationToken = default, params ApplicationEvent[] applicationEvents) => 
+            _context.CommitTransactionAsync(cancellationToken, applicationEvents);
 
-        public void RollbackTransaction() => _context.Database.RollbackTransaction();
+        public Task RollbackTransactionAsync(CancellationToken cancellationToken = default) => _context.RollbackTransactionAsync(cancellationToken);
     }
 }

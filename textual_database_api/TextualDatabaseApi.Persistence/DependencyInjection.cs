@@ -8,8 +8,14 @@ namespace TextualDatabaseApi.Persistence
     {
         public static IServiceCollection AddTextualDatabasePersistence(this IServiceCollection services, string connectionString)
         {
-            services.AddDbContext<TextualDbContext>(options => options.UseNpgsql(connectionString));
-            services.AddScoped<ITextualDbContext>(provider => provider.GetService<TextualDbContext>());
+            services.AddDbContext<TextualDbContext>(
+                options => options.UseNpgsql(
+                    connectionString, 
+                    sqlOptions =>
+                    {
+                        sqlOptions.MigrationsAssembly(typeof(TextualDbContext).Assembly.FullName);
+                    }));
+            //services.AddScoped<ITextualDbContext>(provider => provider.GetService<TextualDbContext>());
             
             return services;
         }

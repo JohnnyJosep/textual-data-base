@@ -1,4 +1,4 @@
-﻿namespace TextualDatabaseApi.Domain
+﻿namespace TextualDatabaseApi.Domain.Entities
 {
     public class TextAttribute
     {

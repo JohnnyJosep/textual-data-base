@@ -1,0 +1,77 @@
+version: '3.9'
+
+services:
+
+  freeling:
+    build: 
+      context: ./docker
+      dockerfile: freeling.dockerfile
+    command: analyze -f es.cfg --server -p 50005
+    ports: 
+      - 50005:50005
+    networks: 
+      - tfg-network
+
+  rabbitmq:
+    image: rabbitmq:management-alpine
+    hostname: my-rabbit
+    volumes: 
+      - ./data/rabbitmq:/var/lib/rabbitmq
+    ports:
+      - 5672:5672
+      - 15672:15672
+    networks: 
+      - tfg-network
+
+  elasticsearch:
+    image: elasticsearch:7.10.1
+    volumes: 
+      - ./data/elasticseach:/usr/share/elasticsearch/data
+    environment: 
+      - "discovery.type=single-node"
+    ports: 
+      - 9200:9200
+      - 9300:9300
+    networks: 
+      - tfg-network
+
+  kibana:
+    image: kibana:7.10.1
+    ports: 
+      - 5601:5601
+    networks: 
+      - tfg-network
+  
+  api:
+    build: 
+      context: .
+      dockerfile: ./docker/textualapi.dockerfile
+    hostname: my-api
+    ports: 
+      - 8008:80
+      - 8009:443
+    networks: 
+      - tfg-network
+    depends_on: 
+      - freeling
+      - elasticsearch
+
+  jupyterlab:
+    image: jupyter/datascience-notebook
+    volumes: 
+      - ./Notebooks:/home/jovyan/work
+      - ./data/jupyter:/home/jovyan/data
+    environment: 
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=token
+    ports: 
+      - 8888:8888
+    networks: 
+      - tfg-network
+    depends_on: 
+      - api
+
+networks: 
+  tfg-network:
+    driver: bridge
+  

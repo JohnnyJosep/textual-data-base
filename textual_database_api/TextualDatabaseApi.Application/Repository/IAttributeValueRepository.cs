@@ -1,5 +1,5 @@
 ﻿using TextualDatabaseApi.Application.Repository.Base;
-using TextualDatabaseApi.Domain;
+using TextualDatabaseApi.Domain.Entities;
 
 namespace TextualDatabaseApi.Application.Repository
 {

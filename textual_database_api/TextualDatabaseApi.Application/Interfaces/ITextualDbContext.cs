@@ -1,17 +1,12 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using TextualDatabaseApi.Domain;
+﻿using Microsoft.EntityFrameworkCore;
+using TextualDatabaseApi.Domain.Entities;
 
 namespace TextualDatabaseApi.Application.Interfaces
 {
-    public interface ITextualDbContext
+    public interface ITextualDbContext : IDbContext
     {
         DbSet<TextEntry> TextEntries { get; set; }
         DbSet<TextAttribute> TextAttributes { get; set; }
         DbSet<AttributeValue> AttributeValues { get; set; }
-
-        Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
-        DbSet<TEntity> Set<TEntity>() where TEntity : class;
     }
 }

@@ -53,3 +53,4 @@ WORKDIR /root
 
 EXPOSE 50005
 CMD echo 'Hello world' | analyze -f en.cfg | grep -c 'world world NN 1'
+#CMD analyze -f es.cfg --server -p 50005

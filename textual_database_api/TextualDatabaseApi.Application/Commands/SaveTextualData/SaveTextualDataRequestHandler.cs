@@ -2,30 +2,37 @@
 using System.Threading.Tasks;
 using AutoMapper;
 using MediatR;
+using Microsoft.EntityFrameworkCore.Storage;
+using Microsoft.Extensions.Logging;
+using TextualDatabaseApi.Application.Extensions;
 using TextualDatabaseApi.Application.Models;
+using TextualDatabaseApi.Application.Models.ApplicationEvents;
 using TextualDatabaseApi.Application.UnitOfWork;
-using TextualDatabaseApi.Domain;
+using TextualDatabaseApi.Domain.Entities;
 
 namespace TextualDatabaseApi.Application.Commands.SaveTextualData
 {
     public class SaveTextualDataRequestHandler : IRequestHandler<SaveTextualDataRequest, TextualData>
     {
+        private readonly ILogger<SaveTextualDataRequestHandler> _logger;
         private readonly IUnitOfWork _uow;
         private readonly IMapper _mapper;
 
-        public SaveTextualDataRequestHandler(IUnitOfWork uow, IMapper mapper)
+        public SaveTextualDataRequestHandler(IUnitOfWork uow, IMapper mapper, ILogger<SaveTextualDataRequestHandler> logger)
         {
             _uow = uow;
             _mapper = mapper;
+            _logger = logger;
         }
 
         public async Task<TextualData> Handle(SaveTextualDataRequest request, CancellationToken cancellationToken)
         {
+            IDbContextTransaction transaction = null;
             try
             {
-                await _uow.BeginTransactionAsync();
+                transaction = await _uow.BeginTransactionAsync(cancellationToken);
 
-                var text = new TextEntry {Text = request.Text, Metadata = request.Metadata};
+                var text = new TextEntry {Text = request.Text, Metadata = request.Metadata.AsJson()};
                 await _uow.TextEntryRepository.AddAsync(text, cancellationToken);
                 await _uow.SaveChangesAsync(cancellationToken);
 
@@ -42,14 +49,21 @@ namespace TextualDatabaseApi.Application.Commands.SaveTextualData
                     await _uow.AttributeValueRepository.AddAsync(value, cancellationToken);
                     await _uow.SaveChangesAsync(cancellationToken);
                 }
-                
-                _uow.CommitTransaction();
+
                 var data = _mapper.Map<TextualData>(text);
+                
+                await _uow.CommitTransactionAsync(cancellationToken, new TextualDataCreateEvent(data));
+                
+                _logger.LogInformation("Commit transaction");
+                
                 return data;
             }
             catch
             {
-                _uow.RollbackTransaction();
+                if (transaction != null)
+                {
+                    await _uow.RollbackTransactionAsync(cancellationToken);
+                }
                 throw;
             }
         }

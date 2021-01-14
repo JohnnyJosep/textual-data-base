@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace TextualDatabaseApi.Application.Interfaces
+namespace TextualDatabaseApi.Application.Mapping
 {
     public interface IMapFrom<T>
     {

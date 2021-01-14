@@ -8,6 +8,5 @@ namespace TextualDatabaseApi.Application.Commands.SaveTextualData
         {
             RuleFor(v => v.Text).NotEmpty();
         }
-        
     }
 }

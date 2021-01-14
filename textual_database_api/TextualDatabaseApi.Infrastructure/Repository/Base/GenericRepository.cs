@@ -5,14 +5,15 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using TextualDatabaseApi.Application.Interfaces;
+using TextualDatabaseApi.Persistence;
 
 namespace TextualDatabaseApi.Infrastructure.Repository.Base
 {
     public abstract class GenericRepository<T> where T : class
     {
-        private readonly ITextualDbContext _context;
+        private readonly TextualDbContext _context;
 
-        protected GenericRepository(ITextualDbContext context)
+        protected GenericRepository(TextualDbContext context)
         {
             _context = context;
         }
@@ -24,19 +25,29 @@ namespace TextualDatabaseApi.Infrastructure.Repository.Base
         
         public virtual async Task<T> GetOrAddAsync(T entity, Expression<Func<T, bool>> predicate, CancellationToken cancellationToken = default)
         {
-            var t = await _context.Set<T>().FirstAsync(predicate, cancellationToken);
+            var t = await _context.Set<T>().FirstOrDefaultAsync(predicate, cancellationToken);
             if (t != null)
             {
                 return t;
             }
             
-            await _context.Set<T>().AddAsync(entity, cancellationToken);
+            await AddAsync(entity, cancellationToken);
             return entity;
         }
         
-        public virtual async Task<IEnumerable<T>> GetAllAsync()
+        public virtual async Task<IEnumerable<T>> GetAllAsync(CancellationToken cancellationToken = default)
         {
-            return await _context.Set<T>().ToListAsync();
+            return await _context.Set<T>().ToListAsync(cancellationToken);
+        }
+
+        public async Task<T> FindAsync(CancellationToken cancellationToken = default, params object[] keys)
+        {
+            return await _context.Set<T>().FindAsync(keys, cancellationToken);
+        }
+
+        public virtual void Update(T entity)
+        {
+            _context.Set<T>().Update(entity);
         }
     }
 }

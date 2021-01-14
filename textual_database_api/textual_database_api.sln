@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextualDatabaseApi.Domain", "TextualDatabaseApi.Domain\TextualDatabaseApi.Domain.csproj", "{AE2B54F8-E59F-4B61-A2D2-2331D20C33DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextualDatabaseApi.Domain", "TextualDatabaseApi.Domain\TextualDatabaseApi.Domain.csproj", "{AE2B54F8-E59F-4B61-A2D2-2331D20C33DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextualDatabaseApi.Persistence", "TextualDatabaseApi.Persistence\TextualDatabaseApi.Persistence.csproj", "{C44A2EFB-EA59-44A4-B0A7-6ACC01E806F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextualDatabaseApi.Persistence", "TextualDatabaseApi.Persistence\TextualDatabaseApi.Persistence.csproj", "{C44A2EFB-EA59-44A4-B0A7-6ACC01E806F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextualDatabaseApi.WebApi", "TextualDatabaseApi.WebApi\TextualDatabaseApi.WebApi.csproj", "{F1B3A4AC-5248-4B28-9935-72BE18C93C68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextualDatabaseApi.WebApi", "TextualDatabaseApi.WebApi\TextualDatabaseApi.WebApi.csproj", "{F1B3A4AC-5248-4B28-9935-72BE18C93C68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextualDatabaseApi.Application", "TextualDatabaseApi.Application\TextualDatabaseApi.Application.csproj", "{DDE999E0-EAD2-468F-BBA2-D9705D1D4EC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextualDatabaseApi.Application", "TextualDatabaseApi.Application\TextualDatabaseApi.Application.csproj", "{DDE999E0-EAD2-468F-BBA2-D9705D1D4EC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextualDatabaseApi.Infrastructure", "TextualDatabaseApi.Infrastructure\TextualDatabaseApi.Infrastructure.csproj", "{03A95F4D-08EC-4BB8-AC3B-431FC43F47EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextualDatabaseApi.Infrastructure", "TextualDatabaseApi.Infrastructure\TextualDatabaseApi.Infrastructure.csproj", "{03A95F4D-08EC-4BB8-AC3B-431FC43F47EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AE2B54F8-E59F-4B61-A2D2-2331D20C33DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -86,5 +83,11 @@ Global
 		{03A95F4D-08EC-4BB8-AC3B-431FC43F47EB}.Release|x64.Build.0 = Release|Any CPU
 		{03A95F4D-08EC-4BB8-AC3B-431FC43F47EB}.Release|x86.ActiveCfg = Release|Any CPU
 		{03A95F4D-08EC-4BB8-AC3B-431FC43F47EB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F73B71-290F-43D5-91E0-49CB3015589E}
 	EndGlobalSection
 EndGlobal
