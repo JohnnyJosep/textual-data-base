@@ -1,6 +1,5 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
-using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace TextualDatabaseApi.Persistence.Migrations
 {
@@ -12,9 +11,9 @@ namespace TextualDatabaseApi.Persistence.Migrations
                 name: "TextAttributes",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "integer", nullable: false)
-                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
-                    Name = table.Column<string>(type: "text", nullable: true)
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -25,11 +24,11 @@ namespace TextualDatabaseApi.Persistence.Migrations
                 name: "TextEntries",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "integer", nullable: false)
-                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
-                    Text = table.Column<string>(type: "text", nullable: true),
-                    PartOfSpeech = table.Column<string>(type: "text", nullable: true),
-                    Metadata = table.Column<byte[]>(type: "bytea", nullable: true)
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Text = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    PartOfSpeech = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Metadata = table.Column<byte[]>(type: "varbinary(max)", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -40,9 +39,9 @@ namespace TextualDatabaseApi.Persistence.Migrations
                 name: "AttributeValues",
                 columns: table => new
                 {
-                    TextEntryId = table.Column<int>(type: "integer", nullable: false),
-                    TextAttributeId = table.Column<int>(type: "integer", nullable: false),
-                    Value = table.Column<string>(type: "text", nullable: true)
+                    TextEntryId = table.Column<int>(type: "int", nullable: false),
+                    TextAttributeId = table.Column<int>(type: "int", nullable: false),
+                    Value = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
