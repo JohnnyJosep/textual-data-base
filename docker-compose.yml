@@ -25,10 +25,15 @@ services:
 
   elasticsearch:
     image: elasticsearch:7.10.1
+    hostname: my-elasticsearch
     volumes: 
-      - ./data/elasticseach:/usr/share/elasticsearch/data
+      - ./data/elasticsearch:/usr/share/elasticsearch/data
     environment: 
-      - "discovery.type=single-node"
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms2g -Xmx2g"
+      - ELASTIC_PASSWORD=password
+      - xpack.security.enabled=true
     ports: 
       - 9200:9200
       - 9300:9300
@@ -37,10 +42,15 @@ services:
 
   kibana:
     image: kibana:7.10.1
+    environment: 
+      - ELASTICSEARCH_USERNAME=elastic
+      - ELASTICSEARCH_PASSWORD=password
     ports: 
       - 5601:5601
     networks: 
       - tfg-network
+    depends_on: 
+      - elasticsearch
   
   api:
     build: 

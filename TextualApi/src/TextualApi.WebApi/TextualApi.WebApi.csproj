@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TextualApi.Application\TextualApi.Application.csproj" />
+    <ProjectReference Include="..\TextualApi.Infrastructure\TextualApi.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

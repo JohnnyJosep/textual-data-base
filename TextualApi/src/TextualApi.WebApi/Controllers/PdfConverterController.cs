@@ -18,11 +18,5 @@ namespace TextualApi.WebApi.Controllers
             var result = await Mediator.Send(new PdfConvertCommand {PdfBytes = ms.ToArray()});
             return Ok(result);
         }
-
-        [HttpGet]
-        public IActionResult Hello()
-        {
-            return Ok("hello");
-        }
     }
 }
