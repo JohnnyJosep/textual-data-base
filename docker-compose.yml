@@ -30,8 +30,6 @@ services:
       - ./data/elasticsearch:/usr/share/elasticsearch/data
     environment: 
       - discovery.type=single-node
-      - bootstrap.memory_lock=true
-      - "ES_JAVA_OPTS=-Xms2g -Xmx2g"
       - ELASTIC_PASSWORD=password
       - xpack.security.enabled=true
     ports: 
@@ -52,19 +50,19 @@ services:
     depends_on: 
       - elasticsearch
   
-  api:
-    build: 
-      context: .
-      dockerfile: ./docker/textualapi.dockerfile
-    hostname: my-api
-    ports: 
-      - 8008:80
-      - 8009:443
-    networks: 
-      - tfg-network
-    depends_on: 
-      - freeling
-      - elasticsearch
+#  api:
+#    build: 
+#      context: .
+#      dockerfile: ./docker/textualapi.dockerfile
+#    hostname: my-api
+#    ports: 
+#      - 8008:80
+#      - 8009:443
+#    networks: 
+#      - tfg-network
+#    depends_on: 
+#      - freeling
+#      - elasticsearch
 
   jupyterlab:
     image: jupyter/datascience-notebook
@@ -78,8 +76,8 @@ services:
       - 8888:8888
     networks: 
       - tfg-network
-    depends_on: 
-      - api
+#    depends_on: 
+#      - api
 
 networks: 
   tfg-network:
