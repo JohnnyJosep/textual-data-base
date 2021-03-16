@@ -1,0 +1,14 @@
+[Unit]
+Description=WebApi Java
+
+[Service]
+
+ExecStart=/bin/java -jar /home/freelingapi.jar
+Type=simple
+SuccessExitStatus=143
+TimeoutStopSec=10
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

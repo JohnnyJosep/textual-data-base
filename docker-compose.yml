@@ -3,6 +3,8 @@ version: '3.9'
 services:
 
   freeling:
+    container_name: tfg-freeling
+    hostname: my-freeling
     build: 
       context: ./docker
       dockerfile: freeling.dockerfile
@@ -12,18 +14,22 @@ services:
     networks: 
       - tfg-network
 
-  rabbitmq:
-    image: rabbitmq:management-alpine
-    hostname: my-rabbit
-    volumes: 
-      - ./data/rabbitmq:/var/lib/rabbitmq
+  freelingapi:
+    container_name: tfg-freeling-api
+    hostname: my-freeling-api
+    build: 
+      context: ./docker
+      dockerfile: freelingapi.dockerfile
+    command: /usr/bin/java -jar /freelingapi.jar
     ports:
-      - 5672:5672
-      - 15672:15672
+      - 8080:8080
     networks: 
       - tfg-network
+    depends_on: 
+      - freeling
 
   elasticsearch:
+    container_name: tfg-elasticsearch
     image: elasticsearch:7.10.1
     hostname: my-elasticsearch
     volumes: 
@@ -39,6 +45,7 @@ services:
       - tfg-network
 
   kibana:
+    container_name: tfg-kibana
     image: kibana:7.10.1
     environment: 
       - ELASTICSEARCH_USERNAME=elastic
@@ -49,22 +56,9 @@ services:
       - tfg-network
     depends_on: 
       - elasticsearch
-  
-#  api:
-#    build: 
-#      context: .
-#      dockerfile: ./docker/textualapi.dockerfile
-#    hostname: my-api
-#    ports: 
-#      - 8008:80
-#      - 8009:443
-#    networks: 
-#      - tfg-network
-#    depends_on: 
-#      - freeling
-#      - elasticsearch
 
   jupyterlab:
+    container_name: tfg-jupyterlab
     image: jupyter/datascience-notebook
     volumes: 
       - ./Notebooks:/home/jovyan/work
@@ -76,8 +70,9 @@ services:
       - 8888:8888
     networks: 
       - tfg-network
-#    depends_on: 
-#      - api
+    depends_on: 
+      - freeling
+      - elasticsearch
 
 networks: 
   tfg-network:

@@ -3,6 +3,13 @@ FROM debian:stable
 ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=Europe/Berlin
 
+#COPY startup.sh /home/freelingapi.sh
+#COPY freeling-0.0.1-SNAPSHOT.jar /home/freelingapi.jar
+#COPY freeling.service /etc/systemd/system/freelingapi.service
+
+#RUN chmod u+x /home/freelingapi.sh
+
+
 RUN echo "******** Installing dependencies... please wait" && \
     apt-get update -qq && \
     apt-get install -qq -y build-essential wget locales cmake \
@@ -33,12 +40,6 @@ RUN export FL_VERSION=4.2 && \
     echo "******** Installing FreeLing... please wait" && \
     make -j8 install && \
 #
-#   Uncomment to remove unwanted languages data to save space && \
-#   rm -rf /usr/local/share/freeling/ru && \
-#   rm -rf /usr/local/share/freeling/cy && \
-#   rm -rf /usr/local/share/freeling/pt && \
-#   etc ....
-#
     cd && \
     rm -rf /tmp/FreeLing-$FL_VERSION && \
     apt-get --purge -y remove build-essential libicu-dev \
@@ -52,5 +53,5 @@ RUN export FL_VERSION=4.2 && \
 WORKDIR /root
 
 EXPOSE 50005
+#EXPOSE 8080
 CMD echo 'Hello world' | analyze -f en.cfg | grep -c 'world world NN 1'
-#CMD analyze -f es.cfg --server -p 50005
