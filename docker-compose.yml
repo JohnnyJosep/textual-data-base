@@ -28,6 +28,17 @@ services:
     depends_on: 
       - freeling
 
+  pdfapi:
+    container_name: tfg-pdf-api
+    hostname: my-pdf-api
+    build:
+      context: ./TextualApi
+      dockerfile: dotnet.dockerfile
+    ports: 
+      - 8081:80
+    networks: 
+      - tfg-network
+
   elasticsearch:
     container_name: tfg-elasticsearch
     image: elasticsearch:7.10.1
@@ -73,6 +84,8 @@ services:
     depends_on: 
       - freeling
       - elasticsearch
+      - pdfapi
+      - freelingapi
 
 networks: 
   tfg-network:

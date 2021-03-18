@@ -7,9 +7,11 @@ using TextualApi.WebApi.Controllers.Base;
 
 namespace TextualApi.WebApi.Controllers
 {
-    
     public class PdfConverterController : ApiControllerBase
     {
+        [HttpGet]
+        public IActionResult Hello() => Ok("hello");
+        
         [HttpPost]
         public async Task<IActionResult> Index(IFormFile file)
         {

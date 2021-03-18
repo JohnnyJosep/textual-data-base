@@ -5,7 +5,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using TextualApi.Application;
-using TextualApi.Infrastructure;
 
 namespace TextualApi.WebApi
 {
@@ -22,7 +21,6 @@ namespace TextualApi.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddApplication();
-            services.AddInfrastructure(Configuration);
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -39,8 +37,6 @@ namespace TextualApi.WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "TextualApi.WebApi v1"));
             }
-
-            app.UseHttpsRedirection();
 
             app.UseRouting();
 
