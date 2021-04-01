@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN LUIS PEDREÑO MOLINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CUÁLES SON LOS PLANES EXACTOS DEL GOBIERNO RESPECTO AL USO DE TÉCNICAS DE GEOLOCALIZACIÓN DE LOS CIUDADANOS? ",
+        "diputado": [
+            {
+                "apellidos": "Pedreño Molina",
+                "apellidosNombre": "Pedreño Molina, Juan Luis",
+                "codParlamentario": 132,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Juan Luis",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/juan_pedreno",
+                "twitterUserId": "3208501132",
+                "twitterUserName": "juan_pedreno"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PEDREÑO MOLINA"
+    },
+    "text": "Muchas gracias, señora presidenta. Señora vicepresidenta, al inicio del estado de alarma su ministerio anunció el uso de tecnología de geolocalización para el estudio de la movilidad aplicada a la crisis sanitaria. Yo le pregunto, ¿cuáles son los planes del Gobierno respecto al uso de las técnicas de geolocalización de los ciudadanos? Muchas gracias."
+}

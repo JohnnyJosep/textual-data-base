@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-15T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, EN RELACIÓN A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPAÑOL. ",
+        "diputado": [
+            {
+                "apellidos": "Martín Llaguno",
+                "apellidosNombre": "Martín Llaguno, Marta",
+                "codParlamentario": 155,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-044.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍN LLAGUNO"
+    },
+    "text": "Que el Ejecutivo dé lecciones de madurez a los ciudadanos en este momento, que han tenido una paciencia y una responsabilidad ejemplar, es un insulto. Les pido que tengan empatía, que metan las propuestas del Partido Popular --que no son mías, y no se me caen los anillos por decir que son buenas-- y que, por favor, en el tema educativo nos pongamos a trabajar y a solucionar lo que se ve en la calle. Gracias. (Aplausos)."
+}

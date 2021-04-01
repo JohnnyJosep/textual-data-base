@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Esteban Bravo",
+                "apellidosNombre": "Esteban Bravo, Aitor",
+                "codParlamentario": 94,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Aitor",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/AITOR_ESTEBAN",
+                "twitterUserId": "158442670",
+                "twitterUserName": "AITOR_ESTEBAN"
+            },
+            0
+        ],
+        "order": 54,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESTEBAN BRAVO"
+    },
+    "text": "… es como creo que vamos a ganarnos la confianza de la ciudadanía. Soy optimista, creo que vamos a ver las cosas de una manera mucho más esperanzadora a partir del verano del año que viene. Ojalá acierte. Muchas gracias."
+}

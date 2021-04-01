@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 146,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "…, le digo que cada vez que pueda saque el ejemplo de Albert Rivera, porque cada vez que saque su ejemplo se va a ver la diferencia entre un hombre de Estado y una persona que a cualquier precio va a intentar llegar a dormir en un colchón de Moncloa. Muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario Ciudadanos, puestos en pie)."
+}

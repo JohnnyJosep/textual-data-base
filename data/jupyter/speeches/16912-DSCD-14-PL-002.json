@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO ERREJÓN GALVÁN, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿QUÉ PLANES TIENE EL GOBIERNO PARA FRENAR EL CAMBIO CLIMÁTICO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            95
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO (Ribera Rodríguez)"
+    },
+    "text": "Muchas gracias, presidenta. Muchas gracias, señoría. El Gobierno de España --como creo que la inmensa mayoría de los españoles y confío que la inmensa mayoría de los miembros de esta Cámara-- busca la plena descarbonización de nuestra economía lo antes posible y nunca después de 2050; la resiliencia, la seguridad de nuestras infraestructuras y nuestros ecosistemas --resiliencia climática--, y la prosperidad de los trabajadores, de las personas y de los consumidores, aprovechando las oportunidades. Por tanto, solidaridad y políticas sociales acompañando el cambio y el conocimiento, la apuesta por la innovación y el conocimiento, trabajando juntos en la misma dirección, sectores público y privado. (Aplausos)."
+}

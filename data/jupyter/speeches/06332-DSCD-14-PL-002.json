@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-22T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAYETANA ÁLVAREZ DE TOLEDO PERALTA-RAMOS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿QUÉ ESTÁ HACIENDO EL GOBIERNO PARA DEFENDER LA CONSTITUCIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ÁLVAREZ DE TOLEDO PERALTA-RAMOS"
+    },
+    "text": "Gracias. Señora Calvo, el domingo, Pere Aragonès, vicepresidente de la Generalidad y su socio de investidura, declaró lo siguiente: ¿Qué es la monarquía borbónica sino una organización criminal? Tenemos que avanzar desde la república catalana para hacer caer este régimen y esta monarquía. Ayer, con el voto de Esquerra, el Parlamento catalán pidió la abdicación de Felipe VI y la reprobación del señor Sánchez. Dígame, ¿piensa el Gobierno seguir cultivando el apoyo de partidos que atacan a la Constitución?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL ÁMBITO SOCIAL Y ECONÓMICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA.",
+        "diputado": [
+            {
+                "apellidos": "Ramos Esteban",
+                "apellidosNombre": "Ramos Esteban, César Joaquín",
+                "codParlamentario": 178,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 10,
+                "idLegislatura": 14,
+                "nombre": "César Joaquín",
+                "nombreCircunscripcion": "Cáceres",
+                "twitter": "https://twitter.com/CesarJRamos",
+                "twitterUserId": "11086042",
+                "twitterUserName": "CesarJRamos"
+            },
+            0
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RAMOS ESTEBAN"
+    },
+    "text": "Tenemos muy claro --termino-- que a nadie se le corta el debate y que todos los grupos parlamentarios van a tener la oportunidad de debatir con el ministro el jueves en la convalidación del decreto. No digan que en esta Cámara no se debate ni que el ministro de Transportes no busca la posibilidad de que se debata con él. El jueves se volverá a demostrar, como tantas otras veces, y podrán expresar allí lo que quieran, pero dejen de meter miedo a la gente con las situaciones complicadas que tienen muchas familias. Muchas gracias. (Aplausos)."
+}

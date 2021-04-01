@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-27T00:00:00.000Z",
+        "debate": "DEBATE RELATIVO AL OBJETIVO DE ESTABILIDAD PRESUPUESTARIA: -- ACUERDO DEL GOBIERNO POR EL QUE SE FIJAN LOS OBJETIVOS DE EST ABILIDAD PRESUPUESTARIA Y DE DEUDA PÚBLICA PARA EL CONJUNTO DE ADMINISTRACIONES PÚBLICAS Y DE CADA UNO DE SUS SUBSECTORES PARA EL PERIODO 2021-2023 Y EL LÍMITE DE GASTO NO FINANCIERO DEL PRESUPUESTO DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 16,
+        "path": "../data/diaries-txts/DSCD-14-PL-014.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señor Baldoví. Por el mismo grupo parlamentario tiene la palabra el señor Errejón Galván."
+}

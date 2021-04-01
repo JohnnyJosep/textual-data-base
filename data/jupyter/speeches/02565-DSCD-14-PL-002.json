@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-05-18T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMP AÑA AL REAL DECRET O 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL EST ADO DE ALARMA P ARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19. ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            0
+        ],
+        "order": 33,
+        "path": "../data/diaries-txts/DSCD-14-PL-015.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+    },
+    "text": "Afortunadamente, tenemos a VOX. (Aplausos). Muchas gracias."
+}

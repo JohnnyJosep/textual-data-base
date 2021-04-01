@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ ESTÁ HACIENDO EL GOBIERNO, DESPUÉS DE QUE PEDRO SÁNCHEZ RECONOCIERA LA EXISTENCIA DE UNA MAL LLAMADA «POLICÍA POLÍTICA», DEDICADA A ENCUBRIR DELITOS Y PERSEGUIR ADVERSARIOS? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pregunta de la diputada doña Laura Borràs Castanyer, del Grupo Parlamentario Plural."
+}

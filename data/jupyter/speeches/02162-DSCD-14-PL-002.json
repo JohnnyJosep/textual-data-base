@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
+        "diputado": [
+            {
+                "apellidos": "Baldoví Roda",
+                "apellidosNombre": "Baldoví Roda, Joan",
+                "codParlamentario": 247,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÉS COMPROMÍS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/joanbaldovi",
+                "twitterUserId": "378944786",
+                "twitterUserName": "joanbaldovi"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BALDOVÍ RODA"
+    },
+    "text": "Moltes gràcies, senyor president. Hacía tiempo que no oía en esta Cámara algunas intervenciones tan sucias y tan abyectas como las que he oído en el punto anterior. (Protestas)."
+}

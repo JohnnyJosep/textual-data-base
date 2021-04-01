@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LAS RAZONES QUE TIENE EL GOBIERNO PARA MODIFICAR LA REFORMA LABORAL. ",
+        "diputado": [
+            {
+                "apellidos": "Elizo Serrano",
+                "apellidosNombre": "Elizo Serrano, María Gloria",
+                "codParlamentario": 300,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "María Gloria",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/gloriaelizo",
+                "twitterUserId": "301403189",
+                "twitterUserName": "gloriaelizo"
+            },
+            17
+        ],
+        "order": 66,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Elizo Serrano)"
+    },
+    "text": "Señor Bel Accensi, le ruego que se atenga a la cuestión en su intervención."
+}

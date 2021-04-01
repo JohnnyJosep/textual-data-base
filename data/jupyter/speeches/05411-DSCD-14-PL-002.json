@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- PREGUNT A FORMULADA POR EL DIPUT ADO DON JOSÉ MARÍA FIGAREDO ÁL V AREZ–SALA, EN SUSTITUCIÓN DE DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CÓMO VA A PROTEGER EL GOBIERNO A LOS TRABAJADORES DE ALCOA? ",
+        "diputado": [
+            {
+                "apellidos": "Figaredo Álvarez-Sala",
+                "apellidosNombre": "Figaredo Álvarez-Sala, José María",
+                "codParlamentario": 318,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/FigaredoJose",
+                "twitterUserId": "2799483719",
+                "twitterUserName": "FigaredoJose"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "FIGAREDO ÁLVAREZ-SALA"
+    },
+    "text": "Señora ministra, ¿cómo va a proteger su Gobierno a los trabajadores de Alcoa?"
+}

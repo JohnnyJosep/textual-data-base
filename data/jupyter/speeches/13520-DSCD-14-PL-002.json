@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "DEL DÍA: -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA RENDIR CUENTAS SOBRE LA CRÍTICA SITUACIÓN ACTUAL DE LA COVID-19 EN ESPAÑA --CON LOS PEORES REGISTROS DESDE ENERO DE 2020-- Y ACLARAR SI TIENE PREVISTO LLEVAR A LA PRÁCTICA EN ALGÚN MOMENTO ALGUNA MEDIDA DE UTILIDAD REAL PARA CONTROLAR LA PANDEMIA. ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            0
+        ],
+        "order": 23,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+    },
+    "text": "Concluyo. La única solución que tenemos será desenmascarar a Sánchez y a su Gobierno. Sánchez y los miembros de su Gobierno tienen que dar la cara y por una vez decir la verdad, porque volver a elegir la peor alternativa será un billete seguro a la ruina. Muchas gracias."
+}

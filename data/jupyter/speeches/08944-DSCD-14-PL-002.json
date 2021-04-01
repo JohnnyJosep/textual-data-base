@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CREE EL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 QUE CON SU LABOR ESTÁ A YUDANDO A QUE AUMENTE LA CONFIANZA DE LOS ESP AÑOLES EN SUS GOBERNANTES? ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "Gracias, señora presidenta. Señor Iglesias, la confianza de los ciudadanos en sus gobernantes está por los suelos. Y yo quiero preguntarle: ¿Cree que usted, personalmente, como vicepresidente del Gobierno, está ayudando durante esta pandemia a resolver los graves problemas que tienen los ciudadanos?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO PLURAL (SEÑORA SABANÉS NADAL), A LA VICEPRESIDENT A CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO EN RELACIÓN CON MEDIDAS EXTRAORDINARIAS RELATIVAS A LA PLANIFICACIÓN Y EJECUCIÓN DE UN PLAN INTEGRAL DE MOVILIDAD SOSTENIBLE, SEGURO Y EFICAZ EN EL CONTEXTO DE LA CRISIS SANITARIA DEL COVID-19 Y LA PRÓXIMA DESESCALADA. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 6,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Mucha gracias, señora Sabanés. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Muchas gracias, señora García. Para concluir el debate, tiene la palabra, en nombre del Gobierno, la señora vicepresidenta cuarta del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico."
+}

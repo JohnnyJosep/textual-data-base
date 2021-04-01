@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAROLINA TELECHEA I LOZANO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CUÁNTAS REGULARIZACIONES EXTRAORDINARIAS DE MÁS DE UN MILLÓN DE EUROS TIENE CONTABILIZADAS EL MINISTERIO EN EL ÚLTIMO AÑO? ",
+        "diputado": [
+            {
+                "apellidos": "Montero Cuadrado",
+                "apellidosNombre": "Montero Cuadrado, María Jesús",
+                "codParlamentario": 225,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "María Jesús",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/mjmonteroc",
+                "twitterUserId": "310187114",
+                "twitterUserName": "mjmonteroc"
+            },
+            23
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE HACIENDA (Montero Cuadrado)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señora Telechea, entiendo que con el concepto de regularización extraordinaria se está refiriendo a las declaraciones fuera de plazo, las autoliquidaciones fuera de plazo, lo que técnicamente se llaman declaraciones extemporáneas. Le puedo decir que en el año 2020 las declaraciones extemporáneas fueron 311. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Bassa Coll",
+                "apellidosNombre": "Bassa Coll, Montserrat",
+                "codParlamentario": 192,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 17,
+                "idLegislatura": 14,
+                "nombre": "Montserrat",
+                "nombreCircunscripcion": "Girona",
+                "twitter": "https://twitter.com/BassaMontse",
+                "twitterUserId": "1084408297",
+                "twitterUserName": "BassaMontse"
+            },
+            0
+        ],
+        "order": 51,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BASSA COLL"
+    },
+    "text": "Señor Sánchez, el PSOE ha sido cómplice de todo esto y ha sido cómplice de la gran mentira sobre la violencia en Cataluña. (La señora Muñoz Vidal: ¡Deja el móvil!--Protestas). Ante esto, ante toda la rabia que me generan la injusticia y la mentira, ¿cree que me importa la gobernabilidad de una España que tiene a mi hermana y a mi Gobierno en la cárcel y en el exilio? (Grandes protestas.-- Un señor diputado: ¡Viva la Guardia Civil!--Varios señores diputados pronuncian palabras que no se perciben)."
+}

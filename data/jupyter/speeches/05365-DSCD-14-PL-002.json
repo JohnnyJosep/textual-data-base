@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿SE ESTÁ NEGOCIANDO EL ACERCAMIENTO DE PRESOS DE ETA A CÁRCELES PRÓXIMAS AL PAÍS VASCO? ",
+        "diputado": [
+            {
+                "apellidos": "Gil Lázaro",
+                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "codParlamentario": 295,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Ignacio",
+                "nombreCircunscripcion": "Valencia/València"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GIL LÁZARO"
+    },
+    "text": "Gracias, señora presidenta. Señor ministro, ¿se está negociando el acercamiento de presos de ETA al País Vasco?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA PATRICIA RUEDA PERELLÓ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CONSIDERA EL GOBIERNO QUE HA TOMADO LAS MEDIDAS NECESARIAS PARA REACTIVAR EL TURISMO EN ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Rueda Perelló",
+                "apellidosNombre": "Rueda Perelló, Patricia",
+                "codParlamentario": 75,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Patricia",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/_patricia_rueda",
+                "twitterUserId": "2613310915",
+                "twitterUserName": "_patricia_rueda"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUEDA PERELLÓ"
+    },
+    "text": "Gracias. ¿Considera el Gobierno que ha tomado las medidas necesarias para reactivar el turismo en España?"
+}

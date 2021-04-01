@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS ÚLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POLÍTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS ÓRDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
+        "diputado": [
+            {
+                "apellidos": "Legarda Uriarte",
+                "apellidosNombre": "Legarda Uriarte, Mikel",
+                "codParlamentario": 95,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Mikel",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/MikelLegarda",
+                "twitterUserId": "4178226827",
+                "twitterUserName": "MikelLegarda"
+            },
+            0
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "LEGARDA URIARTE"
+    },
+    "text": "Muchas gracias, presidenta. Si me lo permiten, intervendré desde el escaño, porque lo haré de manera muy breve y solo para manifestar que no votaremos a favor de la reprobación del ministro del Interior por el cese en un puesto de LD, de libre designación, por la pérdida de confianza de quien lo ocupaba hasta mayo pasado, de quien ocupaba la jefatura de la Comandancia de la Guardia Civil de Madrid. Si algo debiéramos reprochar al ministro en este asunto habría de ser no haber producido el mencionado cese mucho antes. Muchas gracias."
+}

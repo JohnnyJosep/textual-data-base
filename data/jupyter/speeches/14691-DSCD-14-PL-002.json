@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "EAJ-JPNV. -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿V A A DISCULP ARSE POR LAS V ALORACIONES HECHAS DESDE SU MINISTERIO EN MENOSCABO DE LA LABOR QUE REALIZAN LAS ASOCIACIONES DE VÍCTIMAS DEL TERRORISMO ETARRA CON LAS SUBVENCIONES QUE RECIBEN? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señor Gil Lázaro, quiero referir que en ningún momento desde el ministerio se ha realizado juicio de valor negativo sobre el trabajo de las asociaciones de víctimas del terrorismo; todo lo contrario. En esa orden se habla de la labor esencial e imprescindible de las propias asociaciones para crear la necesaria memoria pública de lo acontecido. Incluso, la evaluación, en esa orden a la que usted hace referencia, sobre el desarrollo y gestión de las subvenciones, es altamente satisfactoria. (Aplausos del Grupo Parlamentario Socialista)."
+}

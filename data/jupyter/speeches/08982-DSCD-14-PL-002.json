@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON IGNACIO GIL LÁZARO, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿POR QUÉ EL GOBIERNO HA IMPEDIDO LA PRESENCIA DEL REY EN EL ACTO DE ENTREGA DE LOS DESPACHOS A LOS JUECES DE LA 69.ª PROMOCIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Gil Lázaro",
+                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "codParlamentario": 295,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Ignacio",
+                "nombreCircunscripcion": "Valencia/València"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GIL LÁZARO"
+    },
+    "text": "Gracias, señora presidenta. ¿Por qué el Gobierno vetó la presencia del rey en la ceremonia judicial de Barcelona?"
+}

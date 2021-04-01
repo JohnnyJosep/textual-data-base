@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            0
+        ],
+        "order": 79,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DE JALÓN"
+    },
+    "text": "En 1978 desde esta misma tribuna, Francisco Letamendia, Ortzi, diputado en ese momento de Euskadiko Ezquerra, les decía una cosa muy clara: estamos aquí para luchar por una sociedad en la que no existan ni explotadores ni explotados, y les decimos con claridad que nuestros sueños no caben en vuestras leyes. Hoy quiero recordar para finalizar unas palabras de Daniel Bensaïd, militante histórico de la LCR francesa y del Mayo del 68: Nos hemos equivocado a veces, incluso a menudo, y sobre bastantes cosas, pero nunca, jamás, nos hemos equivocado ni de adversarios ni de trincheras. (Protestas). Hoy tenemos en mente a las trabajadoras del hogar, de residencias y de limpieza, a las kellys, a los obreros del metal, a los mineros, taxistas y estibadores, a los profesionales de la sanidad y la educación pública, que han salido a defender los derechos de los muchos frente a los intereses y privilegios de los pocos, a las trabajadoras precarias, a los becarios, a los que se matan a trabajar para poder pagar la vivienda, a los que sobreviven en esta enorme trituradora que se llama capitalismo. Hoy no es el comienzo de nada, sino la continuación de todo, porque la lucha es como un círculo, se puede empezar en cualquier punto, pero nunca --insisto, nunca-- termina. Por eso hoy votaremos abstención y por eso el 30 de enero saldremos a las calles de Euskal Herria en una huelga general para defender pensiones dignas, servicios públicos dignos y trabajo digno. (Rumores). Hoy más que nunca…"
+}

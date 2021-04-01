@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CONSIDERA EL PRESIDENTE DEL GOBIERNO QUE HAY QUE TOMAR MEDIDAS PARA ACABAR CON LA IMPUNIDAD DE LA QUE GOZAN ALGUNAS INSTITUCIONES DEL ESTADO? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señor Rufián, nadie es impune en nuestro país, nadie lo es. Fíjese, impunidad significa que las acciones punibles no se castigan, y quien determina el castigo es el Poder independiente Judicial, no es el Poder Ejecutivo, no es el Poder Legislativo. Por tanto, dejemos trabajar a la justicia independientemente. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO VALORE LAS ALARMANTES PREVISIONES CONOCIDAS RECIENTEMENTE EN RELACIÓN A LA ECONOMÍA Y EL EMPLEO DE LOS ESPAÑOLES. ",
+        "diputado": [
+            {
+                "apellidos": "Castellón Rubio",
+                "apellidosNombre": "Castellón Rubio, Miguel Ángel",
+                "codParlamentario": 74,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 4,
+                "idLegislatura": 14,
+                "nombre": "Miguel Ángel",
+                "nombreCircunscripcion": "Almería",
+                "twitter": "https://twitter.com/mcastellonPP",
+                "twitterUserId": "265938163",
+                "twitterUserName": "mcastellonPP"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASTELLÓN RUBIO"
+    },
+    "text": "Señor presidente, Ciudadanos ha presentado dos. En cuanto a la primera, la vamos a incorporar en su totalidad. La segunda, aunque la compartimos en gran medida, es muy específica y entendemos que nuestro texto es mucho más general, por lo que preferimos que no se incorpore. En cuanto a la de VOX, señora Cañizares, usted ha dicho que en nuestra moción hemos optado por conservar el escaño. Cuando yo tenía tres años, en su grupo hay un diputado que ya estaba aquí… (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-16T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, INTEGRAL PARA LA IGUALDAD DE TRATO Y LA NO DISCRIMINACIÓN. ",
+        "diputado": [
+            {
+                "apellidos": "Carvalho Dantas",
+                "apellidosNombre": "Carvalho Dantas, María",
+                "codParlamentario": 190,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "María",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/_Maria_Dantas_",
+                "twitterUserId": "87042194",
+                "twitterUserName": "_Maria_Dantas_"
+            },
+            0
+        ],
+        "order": 41,
+        "path": "../data/diaries-txts/DSCD-14-PL-078.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CARVALHO DANTAS"
+    },
+    "text": "Cuando diga usted. ¿Puedo continuar?"
+}

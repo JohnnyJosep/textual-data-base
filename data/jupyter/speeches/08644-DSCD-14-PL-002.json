@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-23T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPAÑOLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 41,
+        "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señorías, antes de empezar las votaciones, vamos a dar lectura a la declaración institucional del Congreso de los Diputados en conmemoración del Día Internacional contra la Explotación Sexual y la Trata de Mujeres, Niñas y Niños. Señor secretario primero, por favor."
+}

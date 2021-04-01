@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA GESTIÓN POLÍTICA DEL GOBIERNO, LA DEFENSA DEL ESTADO DE DERECHO Y DEL ORDEN CONSTITUCIONAL. ",
+        "diputado": [
+            {
+                "apellidos": "Gamarra Ruiz-Clavijo",
+                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepción",
+                "codParlamentario": 261,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 26,
+                "idLegislatura": 14,
+                "nombre": "Concepción",
+                "nombreCircunscripcion": "Rioja (La)",
+                "twitter": "https://twitter.com/cucagamarra",
+                "twitterUserId": "83573034",
+                "twitterUserName": "cucagamarra"
+            },
+            1
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GAMARRA RUIZ-CLA VIJO"
+    },
+    "text": "Señor ministro, espero simplemente que en este último turno nos conteste a todas estas preguntas. Muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario Popular en el Congreso, algunos de ellos puestos en pie)."
+}

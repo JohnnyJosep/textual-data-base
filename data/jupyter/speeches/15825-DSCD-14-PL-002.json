@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JON IÑARRITU GARCÍA, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿TODOS LOS CONTRIBUYENTES SON IGUALES ANTE LA AGENCIA TRIBUTARIA? ",
+        "diputado": [
+            {
+                "apellidos": "Iñarritu García",
+                "apellidosNombre": "Iñarritu García, Jon",
+                "codParlamentario": 62,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Jon",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/JonInarritu",
+                "twitterUserId": "402593346",
+                "twitterUserName": "JonInarritu"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "IÑARRITU GARCÍA"
+    },
+    "text": "Muchas gracias, presidenta. Señora Montero, ¿considera el Gobierno que todos los contribuyentes son iguales ante la Agencia Tributaria?"
+}

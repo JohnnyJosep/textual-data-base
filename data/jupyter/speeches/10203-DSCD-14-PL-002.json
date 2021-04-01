@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-27T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, POR LA QUE SE MODIFICA LA LEY ORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL, PARA DESPENALIZAR LAS INJURIAS A LA CORONA Y LOS ULTRAJES A ESPAÑA (ORGÁNICA). ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Oblanca",
+                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "codParlamentario": 20,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP-FORO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Isidro Manuel",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/imoblanca",
+                "twitterUserId": "3108277737",
+                "twitterUserName": "imoblanca"
+            },
+            0
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-057.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ OBLANCA"
+    },
+    "text": "Muchas gracias, señora presidenta."
+}

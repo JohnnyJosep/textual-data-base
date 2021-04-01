@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "TRAMITACIÓN DIRECTA Y EN LECTURA ÚNICA DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY POR LA QUE SE DEROGA EL DESPIDO OBJETIVO POR FALTAS DE ASISTENCIA AL TRABAJO ESTABLECIDO EN EL ARTÍCULO 52.D) DEL TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES, APROBADO POR EL REAL DECRETO LEGISLATIVO 2/2015, DE 23 DE OCTUBRE (PROCEDENTE DEL REAL DECRETO-LEY 4/2020, DE 18 DE FEBRERO). VOTACIÓN DE CONJUNTO.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Debate de totalidad de iniciativas legislativas. Votación conjunta de las enmiendas a la totalidad de devolución al proyecto de ley orgánica por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, presentada por los Grupos Parlamentarios Ciudadanos, VOX y Popular en el Congreso. Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 114 más 234 votos telemáticos, 348; a favor, 52 más 101 votos telemáticos, 153; en contra, 62 más 133 votos telemáticos, 195."
+}

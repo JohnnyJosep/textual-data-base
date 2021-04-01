@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, A LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL EN RELACIÓN A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPAÑOL. ",
+        "diputado": [
+            {
+                "apellidos": "Moneo Díez",
+                "apellidosNombre": "Moneo Díez, María Sandra",
+                "codParlamentario": 337,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 9,
+                "idLegislatura": 14,
+                "nombre": "María Sandra",
+                "nombreCircunscripcion": "Burgos"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MONEO DÍEZ"
+    },
+    "text": "Gracias, señora presidenta. Señorías, señora ministra, a lo largo de esta semana y en días posteriores la inmensa mayoría de los más de ocho millones de alumnos españoles volverán nuevamente a sus aulas, seis meses después de que las terribles consecuencias provocadas por el COVID-19 llevaran al cierre de los colegios. (Rumores). Un hecho dramático…"
+}

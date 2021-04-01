@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 18/2020, DE 12 DE MA YO, DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Para presentar el real decreto-ley tiene la palabra, en nombre del Gobierno, la señora ministra de Trabajo y Economía Social."
+}

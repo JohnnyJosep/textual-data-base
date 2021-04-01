@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-01T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Baldoví Roda",
+                "apellidosNombre": "Baldoví Roda, Joan",
+                "codParlamentario": 247,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÉS COMPROMÍS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/joanbaldovi",
+                "twitterUserId": "378944786",
+                "twitterUserName": "joanbaldovi"
+            },
+            0
+        ],
+        "order": 203,
+        "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BALDOVÍ RODA"
+    },
+    "text": "Moltes gràcies, senyora presidenta."
+}

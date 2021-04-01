@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-04T00:00:00.000Z",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DEL IMPUESTO SOBRE DETERMINADOS SERVICIOS DIGITALES. ",
+        "diputado": [
+            {
+                "apellidos": "Pérez Díaz",
+                "apellidosNombre": "Pérez Díaz, María Auxiliadora",
+                "codParlamentario": 160,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "María Auxiliadora",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/AuxiPD",
+                "twitterUserId": "192883412",
+                "twitterUserName": "AuxiPD"
+            },
+            7
+        ],
+        "order": 12,
+        "path": "../data/diaries-txts/DSCD-14-PL-026.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE"
+    },
+    "text": "Muchas gracias. A continuación tiene la palabra la señora Vehí Cantenys. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores.) Gracias."
+}

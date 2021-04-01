@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV) QUE FORMULA A LA SEÑORA MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿HA IMPLANT ADO EL GOBIERNO ALGÚN PLAN DE EUSKALDUNIZACIÓN RESPECTO DE LOS FUNCIONARIOS DE LA ADMINISTRACIÓN DEL ESTADO CON PRESENCIA EN EUSKADI? ",
+        "diputado": [
+            {
+                "apellidos": "Gorospe Elezcano",
+                "apellidosNombre": "Gorospe Elezcano, Josune",
+                "codParlamentario": 96,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Josune",
+                "nombreCircunscripcion": "Bizkaia"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GOROSPE ELEZCANO"
+    },
+    "text": "Eskerrik asko, presidenta. Ministra, egun on. Recientemente, el Consejo de Europa ha publicado su último informe sobre la situación de las lenguas minoritarias en Europa. El informe de expertos, nada sospechosos de ser abertzales, vuelve a cuestionar la implicación de la Administración del Estado con respecto al euskera y exige un mayor esfuerzo. Entre las recomendaciones urgentes que le realizan está la necesidad de fomentar el uso del euskera en la Administración del Estado en Euskadi. De ahí nuestra pregunta: ¿Qué medidas han adoptado, qué plan tienen para fomentar el uso del euskera?"
+}

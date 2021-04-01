@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON IGNACIO GIL LÁZARO, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿POR QUÉ EL GOBIERNO HA IMPEDIDO LA PRESENCIA DEL REY EN EL ACTO DE ENTREGA DE LOS DESPACHOS A LOS JUECES DE LA 69.ª PROMOCIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 6,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señor Gil Lázaro."
+}

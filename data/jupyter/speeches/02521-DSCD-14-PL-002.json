@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-27T00:00:00.000Z",
+        "debate": "DEBATE RELATIVO AL OBJETIVO DE ESTABILIDAD PRESUPUESTARIA: -- ACUERDO DEL GOBIERNO POR EL QUE SE FIJAN LOS OBJETIVOS DE EST ABILIDAD PRESUPUESTARIA Y DE DEUDA PÚBLICA PARA EL CONJUNTO DE ADMINISTRACIONES PÚBLICAS Y DE CADA UNO DE SUS SUBSECTORES PARA EL PERIODO 2021-2023 Y EL LÍMITE DE GASTO NO FINANCIERO DEL PRESUPUESTO DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 41,
+        "path": "../data/diaries-txts/DSCD-14-PL-014.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señorías, ayer fueron asesinadas en Aznalcóllar y Fuenlabrada 2 mujeres más, lo que suma 13 víctimas de la violencia de género en este año y 1046 desde 2003. Como prueba del compromiso y de la repulsa de esta Cámara y en recuerdo de las víctimas, la Mesa del Congreso ha acordado guardar un minuto de silencio antes de la votación. (La Cámara, puesta en pie, guarda un minuto de silencio). Muchas gracias."
+}

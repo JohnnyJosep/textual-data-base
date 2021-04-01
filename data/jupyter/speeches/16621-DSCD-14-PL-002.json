@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-18T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN): -- PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL Y DE MODIFICACIÓN DE LA LEY ORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL (ANTES DENOMINADA PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL). ",
+        "diputado": [
+            {
+                "apellidos": "Legarda Uriarte",
+                "apellidosNombre": "Legarda Uriarte, Mikel",
+                "codParlamentario": 95,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Mikel",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/MikelLegarda",
+                "twitterUserId": "4178226827",
+                "twitterUserName": "MikelLegarda"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "LEGARDA URIARTE"
+    },
+    "text": "Muchas gracias, presidenta. Simplemente deseo manifestar nuestro apoyo a la proposición, después del acuerdo plenamente satisfactorio alcanzado en Comisión. Muchas gracias."
+}

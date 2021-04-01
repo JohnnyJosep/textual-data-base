@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAROLINA ESPAÑA REINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿QUÉ SUBIDAS DE IMPUESTOS HAN ESCONDIDO EN EL PLAN PRESUPUESTARIO ENVIADO A BRUSELAS? ",
+        "diputado": [
+            {
+                "apellidos": "España Reina",
+                "apellidosNombre": "España Reina, Carolina",
+                "codParlamentario": 316,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Carolina",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/CarolinaEspanaR",
+                "twitterUserId": "700630213462401024",
+                "twitterUserName": "CarolinaEspanaR"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPAÑA REINA"
+    },
+    "text": "Doy por reproducida la pregunta."
+}

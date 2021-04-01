@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPT AR EL GOBIERNO PARA GARANTIZAR EL CUMPLIMIENTO DE LOS PRINCIPIOS DE NEUTRALIDAD E IMPARCIALIDAD INSTITUCIONAL DE LAS UNIVERSIDADES EN CATALUÑA. ",
+        "diputado": [
+            {
+                "apellidos": "Martín Llaguno",
+                "apellidosNombre": "Martín Llaguno, Marta",
+                "codParlamentario": 155,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍN LLAGUNO"
+    },
+    "text": "Sí."
+}

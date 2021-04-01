@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LOS MOTIVOS DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE LE LLEVARON A MANTENER UNA REUNIÓN CON DELCY RODRÍ GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPAÑA CON EL RÉGIMEN DE NICOLÁS MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPAÑA CON VENEZUELA, CON LA UNIÓN EUROPEA Y CON NUESTROS ALIADOS. ",
+        "diputado": [
+            {
+                "apellidos": "González Vázquez",
+                "apellidosNombre": "González Vázquez, Marta",
+                "codParlamentario": 237,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/martaglezvzqz",
+                "twitterUserId": "3436686957",
+                "twitterUserName": "martaglezvzqz"
+            },
+            0
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GONZÁLEZ VÁZQUEZ"
+    },
+    "text": "Voy terminando, sí. Ciudadanos libres y sin miedo a represalias y una prensa libre han dado a conocer a la opinión pública lo que verdaderamente ocurrió en el aeropuerto de Barajas frente a la voluntad del Gobierno de ocultarlo mediante el recurso a la negación y a la mentira. Veremos si el Gobierno lleva más allá aún su opacidad y su falta de voluntad de explicar lo ocurrido."
+}

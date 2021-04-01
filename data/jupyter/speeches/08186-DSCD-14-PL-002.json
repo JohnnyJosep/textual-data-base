@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-22T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO PLURAL, SOBRE EL PLAN FISCAL COVID-19, O IMPUESTOS DE SOLIDARIDAD CÍVICA PARA HACER FRENTE A LAS CONSECUENCIAS ECONÓMICAS Y SOCIALES DEL COVID-19. ",
+        "diputado": [
+            {
+                "apellidos": "Errejón Galván",
+                "apellidosNombre": "Errejón Galván, Íñigo",
+                "codParlamentario": 233,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÁS PAÍS-EQUO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Íñigo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ierrejon",
+                "twitterUserId": "482389606",
+                "twitterUserName": "ierrejon"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ERREJÓN GALVÁN"
+    },
+    "text": "No aceptamos ninguna."
+}

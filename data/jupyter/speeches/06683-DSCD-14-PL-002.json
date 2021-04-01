@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DE -- COMPARECENCIA DEL MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES, PARA EXPLICAR LAS ACTUACIONES ADOPTADAS POR SU MINISTERIO PARA COORDINAR LA RESPUESTA DEL GOBIERNO ANTE LA LLEGADA DE INMIGRACIÓN IRREGULAR DURANTE LOS MESES DE VERANO.",
+        "diputado": [
+            {
+                "apellidos": "Vehí Cantenys",
+                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "codParlamentario": 86,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "CUP-PR",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/Mireia_veca",
+                "twitterUserId": "312297259",
+                "twitterUserName": "Mireia_veca"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VEHÍ CANTENYS"
+    },
+    "text": "Gracias, señora presidenta. A nosotras nos parece bien hablar de migraciones, pero la perspectiva que entendemos que se tiene que traer aquí es radicalmente distinta. Nosotras queremos hablar de los mecanismos públicos de control de la frontera sur y nos hubiera gustado que el ministro que hubiese sido citado hubiese sido el de Interior. El informe de Migreurop de 2019 con respecto al Estado español establece que, efectivamente, el Estado español es uno de los puntos de entrada de la migración irregular más fuertes de Europa. El mismo informe habla de vulneración de derechos en los centros de internamiento de extranjeros, abiertos otra vez, de espacios de detención en los aeropuertos para personas migrantes y de prácticas sistemáticas de vulneración de derechos en la frontera sur, que, por cierto, han estado condenadas distintas veces por el Tribunal Europeo de Derechos Humanos. De hecho, el otro día fue asesinada una persona saltando la valla de Melilla y la Delegación del Gobierno utilizó el eufemismo de que murió por causas naturales. Sorprende y forma parte de una distopía que ustedes, a pesar de tener las fronteras militarizadas dentro del territorio del Estado español y hasta el Sahel, se preocupen por si hay orden y regularidad y estén alentando la vulneración del Convenio de la infancia pidiendo que se deporte a menores de edad. Sorprende y forma parte de una distopía que el mismo Gobierno de progreso sea implacable con las políticas migratorias, continúe con el racismo institucional, que se cobra vidas, continúe sin garantizar el derecho de asilo y refugio y haya abierto otra vez los centros de internamiento de extranjeros. Sorprende y forma parte de una distopía que en medio de una pandemia mundial ustedes estén pidiendo que haya vidas que valgan más que otras."
+}

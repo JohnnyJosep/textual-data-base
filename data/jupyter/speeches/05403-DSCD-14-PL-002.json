@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON EDUARDO CARAZO HERMOSO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE UNIVERSIDADES: ¿ESTÁ ATENDIENDO EL GOBIERNO LAS NECESIDADES DE LOS UNIVERSITARIOS ESPAÑOLES EN ESTA CRISIS? ",
+        "diputado": [
+            {
+                "apellidos": "Carazo Hermoso",
+                "apellidosNombre": "Carazo Hermoso, Eduardo",
+                "codParlamentario": 245,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 47,
+                "idLegislatura": 14,
+                "nombre": "Eduardo",
+                "nombreCircunscripcion": "Valladolid",
+                "twitter": "https://twitter.com/educarazo",
+                "twitterUserId": "242430168",
+                "twitterUserName": "educarazo"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CARAZO HERMOSO"
+    },
+    "text": "Gracias, presidenta. Señor ministro, me alegra verle porque no le hemos visto mucho en los últimos meses, nos tenía preocupados, pero ya veo que está bien. Los que no están tan bien son los estudiantes a los que usted ha abandonado. ¿Cómo ha atendido sus problemas el Gobierno durante esta crisis?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, AL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 PARA QUE EXPLIQUE CÓMO VAN A INFLUIR EN LA ACCIÓN DE GOBIERNO LOS ACUERDOS POLÍTICOS CON EL NACIONALISMO RADICAL. ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            0
+        ],
+        "order": 12,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ÁLVAREZ DE TOLEDO PERALTA-RAMOS"
+    },
+    "text": "¿Cómo? No. ¿Por qué? (El señor vicepresidente, Gil Lázaro: ¿Por qué? ¿Es censura?)."
+}

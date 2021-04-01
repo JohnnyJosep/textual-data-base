@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO P ARLAMENT ARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DE UNIVERSIDADES: ¿QUÉ MEDIDAS HA ADOPTADO EL GOBIERNO EN SU ÁMBITO COMPETENCIAL PARA AUMENTAR LAS OPORTUNIDADES LABORALES QUE HOY OFRECEN LOS ESTUDIOS UNIVERSITARIOS A LOS Y LAS JÓVENES? ",
+        "diputado": [
+            {
+                "apellidos": "Gorospe Elezcano",
+                "apellidosNombre": "Gorospe Elezcano, Josune",
+                "codParlamentario": 96,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Josune",
+                "nombreCircunscripcion": "Bizkaia"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GOROSPE ELEZCANO"
+    },
+    "text": "Gracias, presidenta. Ministro, nos preocupa el desempleo de los colectivos más vulnerables, de las y los jóvenes y en particular, también en lo que a usted le respecta, de los que tienen estudios universitarios. Desde el PNV le hemos formulado propuestas para ampliar sus oportunidades laborales, como la formación dual universitaria. Quisiéramos saber las medidas concretas que ha adoptado usted para ampliar las oportunidades laborales de este colectivo. Gracias."
+}

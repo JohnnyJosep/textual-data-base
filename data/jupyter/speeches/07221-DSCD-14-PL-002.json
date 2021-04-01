@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON IVÁN ESPINOSA DE LOS MONTEROS DE SIMÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA EXCMA. SRA. VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿SIGUE MANTENIENDO EL GOBIERNO QUE DE ESTA CRISIS «SALIMOS MÁS FUERTES»? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+    },
+    "text": "Gracias, señora presidenta. Esta pregunta iba dirigida a la señora Calvo. Pero veo que la señora Calvo insiste en su postura de no contestar a las preguntas que formula el Grupo VOX, seguramente porque VOX le es incómodo: sabe que somos el único grupo de la oposición que nunca negocia nada con ustedes. En fin, lo mismo nos da la señora Calvo que la señora Calviño, porque las dos son corresponsables de todo lo que hace este Gobierno. Todo lo que hace este Gobierno no será juzgado amablemente por la historia y ustedes no quedarán en buen lugar. Por tanto, señora Calviño, teniendo en cuenta que, a pesar de la adopción por parte del Gobierno que usted vicepreside de las medidas de confinamiento más estrictas del planeta, las más drásticas y restrictivas, tenemos los peores datos económicos del mundo, la mayor destrucción de empleo, la mayor destrucción del producto interior bruto --sí, en agosto nos ha superado Perú, es un gran consuelo--; teniendo en cuenta todas esas circunstancias, ustedes encargan una campaña de marketing, puesta en todos los periódicos de España, diciendo que de esta crisis saldremos más fuertes, un lema que presidía sus consejos de ministros hasta hace pocas semanas. ¿Sigue el Gobierno pensando que de esto saldremos más fuertes?"
+}

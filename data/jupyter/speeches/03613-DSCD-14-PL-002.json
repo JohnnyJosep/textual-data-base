@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-20T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            103
+        ],
+        "order": 111,
+        "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA (Calvo Poyato)"
+    },
+    "text": "Señora presidenta, su señoría ha cambiado la pregunta. A mí no me importa, se la voy a contestar. Vivimos una situación plenamente constitucional y democrática a pesar de tener decretado el estado de alarma, la prueba evidente es que usted está ahí ejerciendo su labor de control legítimamente y yo aquí, en mi deber de escucharla y contestarla. (Aplausos)."
+}

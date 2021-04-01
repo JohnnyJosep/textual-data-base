@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO P ARLAMENT ARIO CIUDADANOS, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CREE QUE LAS POLÍTICAS SOCIALES QUE SE HAN PUESTO EN MARCHA DESDE SU VICEPRESIDENCIA HAN SIDO EFICACES PARA PODER SUPERAR ESTA CRISIS SANITARIA Y QUE LO SERÁN PARA EVITAR FUTUROS REBROTES DE LA PANDEMIA? ",
+        "diputado": [
+            {
+                "apellidos": "Bal Francés",
+                "apellidosNombre": "Bal Francés, Edmundo",
+                "codParlamentario": 211,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edmundo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/BalEdmundo",
+                "twitterUserId": "1099251922152931329",
+                "twitterUserName": "BalEdmundo"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAL FRANCÉS"
+    },
+    "text": "Señor Iglesias, ¿qué balance hace usted de las políticas de protección social impulsadas por el Gobierno en esta crisis? ¿Cree que los colectivos vulnerables van a estar protegidos en caso de rebrote?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-21T00:00:00.000Z",
+        "debate": "DICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS: -- DICT AMEN DE LA COMISIÓN DEL EST A TUTO DE LOS DIPUT ADOS SOBRE DECLARACIÓN DE ACTIVIDADES DE LOS EXCELENTÍSIMOS SEÑORES DIPUTADOS. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-036.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos a examinar el punto del orden del día relativo al dictamen de la Comisión del Estatuto de los Diputados sobre declaración de actividades de los excelentísimos señores diputados. Para la presentación de la iniciativa tiene la palabra la señora presidenta de la Comisión del Estatuto de los Diputados, Nasarre Oliva."
+}

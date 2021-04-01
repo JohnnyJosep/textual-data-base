@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "diputado": [
+            {
+                "apellidos": "Marcos Ortega",
+                "apellidosNombre": "Marcos Ortega, Milagros",
+                "codParlamentario": 92,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 34,
+                "idLegislatura": 14,
+                "nombre": "Milagros",
+                "nombreCircunscripcion": "Palencia",
+                "twitter": "https://twitter.com/milamarcos08",
+                "twitterUserId": "",
+                "twitterUserName": "milamarcos08"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARCOS ORTEGA"
+    },
+    "text": "Por tanto, hechos son amores y no buenas razones y enmiendas como esta, de verdad, no ayudan nada al sector. El otro día en la interpelación parecía que a ustedes les importaba el campo, pero hemos visto que les importan mucho más sus negociaciones y lo que les interesa a sus socios está muy lejos, muy lejos de nuestros pueblos y de nuestro medio rural. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario Popular en el Congreso, alguno de ellos puestos en pie)."
+}

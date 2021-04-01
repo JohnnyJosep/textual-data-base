@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ ÁNGEL ALONSO PÉREZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿CONSIDERA EL GOBIERNO QUE UNA TASA DE PARO JUVENIL DEL 40 % ES DEJAR A LA JUVENTUD ATRÁS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            36
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL (Díaz Pérez)"
+    },
+    "text": "Gracias por su pregunta. Este Gobierno no va dejar a nadie atrás, y mucho menos a los jóvenes, imprescindibles para la reconstrucción de nuestro país. (Aplausos)."
+}

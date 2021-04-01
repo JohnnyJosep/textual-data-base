@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-28T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 38/2020, DE 29 DE DICIEMBRE, POR EL QUE SE ADOPTAN MEDIDAS DE ADAPTACIÓN A LA SITUACIÓN DE ESTADO TERCERO DEL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE TRAS LA FINALIZACIÓN DEL PERIODO TRANSITORIO PREVISTO EN EL ACUERDO SOBRE LA RETIRADA DEL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE DE LA UNIÓN EUROPEA Y DE LA COMUNIDAD EUROPEA DE LA ENERGÍA ATÓMICA, DE 31 DE ENERO DE 2020. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-074.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muchas gracias, señora ministra. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). En turno de fijación de posiciones interviene, por el Grupo Parlamentario Mixto, en primer lugar, el señor Martínez Oblanca."
+}

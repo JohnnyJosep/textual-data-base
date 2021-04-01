@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- PREGUNTA DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CÓMO A V ANZAN LAS NEGOCIACIONES DEL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 PARA APROBAR UNOS NUEVOS PRESUPUESTOS GENERALES DEL ESTADO? ",
+        "diputado": [
+            {
+                "apellidos": "García Egea",
+                "apellidosNombre": "García Egea, Teodoro",
+                "codParlamentario": 310,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Teodoro",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/teogarciaegea",
+                "twitterUserId": "224074203",
+                "twitterUserName": "teogarciaegea"
+            },
+            0
+        ],
+        "order": 4,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA EGEA"
+    },
+    "text": "Señor Iglesias, señores del Gobierno, dicen, con una deslealtad absoluta, que van a tomar el control sanitario de Madrid. ¿Y el de Aragón? ¿Y el de Cataluña? ¿Y el de La Rioja? ¿Y el de Navarra? Todos tienen cifras peores. ¿Y ustedes qué control van a tomar? ¿Los que compran mascarillas que no funcionan, los que compran test falsos, los que tienen comités de expertos fantasmas, los que ignoran los riesgos, los que mandan a la gente a manifestarse arriesgando su vida en manifestaciones como la del 8-M, y los que no saben ni contar a nuestros muertos? (Protestas). Ya no engañan a nadie. Madrid lucha contra el virus y ustedes luchan contra Madrid. Por eso Madrid es Ifema, la gestión de los colegios y la lucha por evitar el coladero de Barajas. Y ustedes van a ser recordados por el 8-M, por el abandono de las residencias de mayores y por las comilonas en el barrio de Salamanca. Señor Iglesias, ha demostrado que la mejor forma de acabar con un revolucionario es hacerlo rico. (Aplausos)."
+}

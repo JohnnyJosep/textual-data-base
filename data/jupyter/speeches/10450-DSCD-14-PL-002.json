@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ALBERT BOTRAN PAHISSA, EN SUSTITUCIÓN DE LA DIPUTADA DOÑA MIREIA VEHÍ CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿LA POLÍTICA FISCAL DEL GOBIERNO PASARÁ A SER MÁS PROGRESIVA ANTE LA EVIDENCIA DE LAS NECESIDADES CON EL NUEVO ESTADO DE ALARMA? ",
+        "diputado": [
+            {
+                "apellidos": "Botran Pahissa",
+                "apellidosNombre": "Botran Pahissa, Albert",
+                "codParlamentario": 87,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "CUP-PR",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Albert",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/albertbotran",
+                "twitterUserId": "2978274629",
+                "twitterUserName": "albertbotran"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BOTRAN PAHISSA"
+    },
+    "text": "Ministra, esta semana se hacía efectivo que la pandemia va para largo y, por tanto, su impacto en la economía también. Conocemos algunas de sus medidas en fiscalidad, pero nuestra pregunta es: ¿Esto es todo lo lejos que va a llegar el Gobierno llamado progresista en fiscalidad?"
+}

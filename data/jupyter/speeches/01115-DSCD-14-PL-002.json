@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIÓN DE REFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE REFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS SOBRE LA FORMA EN QUE SE HA DE PRESTAR EL JURAMENTO O PROMESA DE ACATAMIENTO A LA CONSTITUCIÓN. ",
+        "diputado": [
+            {
+                "apellidos": "López Álvarez",
+                "apellidosNombre": "López Álvarez, María Teresa",
+                "codParlamentario": 327,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 51,
+                "idLegislatura": 14,
+                "nombre": "María Teresa",
+                "nombreCircunscripcion": "Ceuta",
+                "twitter": "https://twitter.com/TeresaGdVinuesa",
+                "twitterUserId": "2286278800",
+                "twitterUserName": "TeresaGdVinuesa"
+            },
+            0
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "LÓPEZ ÁLVAREZ"
+    },
+    "text": "Ustedes sigan queriendo imponer su visión estrecha de la vida, que nosotros seguiremos defendiendo la libertad para convivir y seguir caminando juntos. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario Socialista, puestos en pie)."
+}

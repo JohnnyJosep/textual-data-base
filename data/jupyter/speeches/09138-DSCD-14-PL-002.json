@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR QUEVEDO ITURBE), SOBRE LAS PREVISIONES DEL GOBIERNO PARA ATENDER EL MAYOR IMPACTO DE LA CRISIS EN CANARIAS POR SUS SINGULARIDADES Y SU REFLEJO EN LOS PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Quevedo Iturbe",
+                "apellidosNombre": "Quevedo Iturbe, Pedro",
+                "codParlamentario": 351,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "NC-CCa-PNC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Palmas (Las)"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "QUEVEDO ITURBE"
+    },
+    "text": "No, he solicitado votación separada punto por punto."
+}

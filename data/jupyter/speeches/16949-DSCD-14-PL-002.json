@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON MIGUEL ÁNGEL CASTELLÓN RUBIO, EN SUSTITUCIÓN DEL DIPUTADO DON MIGUEL ÁNGEL JEREZ JUAN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE CONSUMO: ¿CONSIDERA EL GOBIERNO QUE LA ADMISIÓN A TRÁMITE POR EL TRIBUNAL CONSTITUCIONAL DEL RECURSO CONTRA EL REAL DECRETO-LEY 1/2021 PONE EN PELIGRO LAS POLÍTICAS DE APOYO A LA OCUPACIÓN DEL GOBIERNO DE ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 6,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señor ministro de Transportes, Movilidad y Agenda Urbana."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, A LA MINISTRA DE DEFENSA SOBRE LA SITUACIÓN DE LOS MILITARES DE TROPA Y MARINERÍA TEMPORALES QUE HA Y AN CUMPLIDO O VA Y AN A CUMPLIR LA EDAD DE CUARENTA Y CINCO AÑOS DURANTE LA ACTUAL SITUACIÓN DE CRISIS SANITARIA, ECONÓMICA Y SOCIAL. ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Muchas gracias. A continuación, tiene la palabra, en nombre del Gobierno, la señora ministra de Defensa. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores)."
+}

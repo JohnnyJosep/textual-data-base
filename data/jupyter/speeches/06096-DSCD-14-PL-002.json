@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-15T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 23/2020, DE 23 DE JUNIO, POR EL QUE SE APRUEBAN MEDIDAS EN MATERIA DE ENERGÍA Y EN OTROS ÁMBITOS PARA LA REACTIVACIÓN ECONÓMICA. ",
+        "diputado": [
+            {
+                "apellidos": "Contreras Peláez",
+                "apellidosNombre": "Contreras Peláez, Francisco José",
+                "codParlamentario": 229,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Francisco José",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/fjconpe",
+                "twitterUserId": "192834709",
+                "twitterUserName": "fjconpe"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-035.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CONTRERAS PELÁEZ"
+    },
+    "text": "… nuestras emisiones representan el 0,7 % del total mundial y, si devastando nuestra economía conseguimos reducir las emisiones en un tercio --que es lo que propone la ley--, habremos contribuido un 0,2 % a la descarbonización mundial. Muchas gracias por su atención. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie.)"
+}

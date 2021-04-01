@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO ERREJÓN GALVÁN, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES: ¿COMO MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES, CREE QUE LOS ESPAÑOLES TIENEN UNA BUENA VIDA? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señor ministro de Inclusión, Seguridad Social y Migraciones."
+}

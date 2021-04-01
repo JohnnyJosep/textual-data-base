@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LOS PASOS QUE ESTÁ DANDO PARA RESOLVER EL PROBLEMA DE FINANCIACIÓN --ACTUAL Y FUTURA-- DE LAS COMUNIDADES AUTÓNOMAS. ",
+        "diputado": [
+            {
+                "apellidos": "Elizo Serrano",
+                "apellidosNombre": "Elizo Serrano, María Gloria",
+                "codParlamentario": 300,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "María Gloria",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/gloriaelizo",
+                "twitterUserId": "301403189",
+                "twitterUserName": "gloriaelizo"
+            },
+            17
+        ],
+        "order": 10,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Elizo Serrano)"
+    },
+    "text": "Muchas gracias, señor Guijarro. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Por el Grupo Parlamentario Socialista, tiene la palabra la señora Blanquer Alcaraz."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 18,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Ha elegido a los extremistas y ha denigrado a los moderados, a las fuerzas que fundaron Europa, a las fuerzas que hicieron la Transición y la Constitución, esa es su única responsabilidad. Espero que esté usted a tiempo de corregirla, porque sus errores los están pagando todos los españoles. Muchas gracias. (Prolongados aplausos de las señoras y los señores diputados del Grupo Parlamentario Popular en el Congreso, puestos en pie)."
+}

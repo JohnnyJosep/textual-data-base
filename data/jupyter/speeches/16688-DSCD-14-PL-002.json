@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-18T00:00:00.000Z",
+        "debate": "SOLICITUD DE PRÓRROGA DE COMISIONES DE INVESTIGACIÓN (VOTACIÓN): -- SOLICITUD DE PRÓRROGA HASTA EL DÍA 30/06/2021 DEL PLAZO PARA LA REALIZACIÓN DEL DICTAMEN DE LA COMISIÓN DE INVESTIGACIÓN RELATIVA A LA UTILIZACIÓN ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POLÍTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCIÓN, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 12,
+        "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Queda rechazado. -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA DEJAR DE HUMILLAR A LAS VÍCTIMAS DEL TERRORISMO DE ETA."
+}

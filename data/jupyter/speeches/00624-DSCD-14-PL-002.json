@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "TRAMIT ACIÓN DIRECT A Y EN LECTURA ÚNICA DE PROPOSICIÓN DE REFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS. (VOTACIÓN): -- PROPOSICIÓN DE REFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS POR LA QUE SE MODIFICA EL ARTÍCULO 46.1. ",
+        "diputado": [
+            {
+                "apellidos": "Casares Hontañón",
+                "apellidosNombre": "Casares Hontañón, Pedro",
+                "codParlamentario": 347,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Cantabria",
+                "twitter": "https://twitter.com/pedro_casares",
+                "twitterUserId": "378525757",
+                "twitterUserName": "pedro_casares"
+            },
+            0
+        ],
+        "order": 102,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASARES HONTAÑÓN"
+    },
+    "text": "… como hemos visto en esta Cámara, actualizarlas conforme al IPC. Así que gracias al Consejo de Ministras y Ministras. (Risas). ¿Qué era mejor, señorías...?"
+}

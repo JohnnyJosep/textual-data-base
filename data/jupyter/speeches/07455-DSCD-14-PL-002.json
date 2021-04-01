@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-10T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 57,
+        "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "Este es, por tanto, un aspecto que necesariamente creemos que hay que modificar. En todo caso, el BNG votará no. Obrigado."
+}

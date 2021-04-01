@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-19T00:00:00.000Z",
+        "debate": "INFORMES DE COMISIONES PERMANENTES. (VOTACIÓN): -- INFORME DE EVALUACIÓN Y REFORMA DEL PACTO DE TOLEDO, APROBADO POR LA COMISIÓN PERMANENTE DE SEGUIMIENTO Y EVALUACIÓN DE LOS ACUERDOS DEL PACTO DE TOLEDO. ",
+        "diputado": [
+            {
+                "apellidos": "Sáez Alonso-Muñumer",
+                "apellidosNombre": "Sáez Alonso-Muñumer, Pablo",
+                "codParlamentario": 278,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 47,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Valladolid",
+                "twitter": "https://twitter.com/PabloSaezAM",
+                "twitterUserId": "559273864",
+                "twitterUserName": "PabloSaezAM"
+            },
+            0
+        ],
+        "order": 33,
+        "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁEZ ALONSO-MUÑUMER"
+    },
+    "text": "Termino dándole las gracias a la presidenta de la Comisión, Magdalena Valerio, a los portavoces, comparecientes y letrado por el respeto observado en todas las reuniones. Muchísimas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

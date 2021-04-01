@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON MANUEL MESTRE BAREA, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE DEFENSA: ¿QUÉ PLANES TIENE EL GOBIERNO EN RELACIÓN AL FUTURO DE LOS MILITARES DE MÁS DE CUARENTA Y CINCO AÑOS? ",
+        "diputado": [
+            {
+                "apellidos": "Bermúdez de Castro Fernández",
+                "apellidosNombre": "Bermúdez de Castro Fernández, José Antonio",
+                "codParlamentario": 181,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 37,
+                "idLegislatura": 14,
+                "nombre": "José Antonio",
+                "nombreCircunscripcion": "Salamanca"
+            },
+            20
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE DEFENSA (Robles Fernández)"
+    },
+    "text": "Gracias, señora presidenta. Señor Mestre, para el Gobierno la defensa nacional y las Fuerzas Armadas son un tema de Estado, y sus hombres y mujeres, su prioridad. Por tanto, estamos implementando y vamos a seguir implementando el acuerdo al que se llegó en la subcomisión creada a tal efecto en la Comisión de Defensa en septiembre de 2018. En esa línea estamos trabajando y esperamos contar con la cooperación de todas las fuerzas parlamentarias. (Aplausos)."
+}

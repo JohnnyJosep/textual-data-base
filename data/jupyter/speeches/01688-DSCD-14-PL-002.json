@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA ISABEL POZUET A FERNÁNDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿RESPETARÁ EL AUTOGOBIERNO DE NAVARRA Y NUESTRA COMPETENCIA HISTÓRICA EN MATERIA DE DERECHO CIVIL, RETIRANDO EL RECURSO DE INCONSTITUCIONALIDAD A LEY FORAL 21/2019, DE 4 DE ABRIL, DE MODIFICACIÓN Y ACTUALIZACIÓN DE LA COMPILACIÓN DEL DERECHO CIVIL FORAL DE NA V ARRA O FUERO NUEVO? ",
+        "diputado": [
+            {
+                "apellidos": "Pozueta Fernández",
+                "apellidosNombre": "Pozueta Fernández, Isabel",
+                "codParlamentario": 65,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Isabel",
+                "nombreCircunscripcion": "Navarra"
+            },
+            1
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "POZUET A FERNÁNDEZ"
+    },
+    "text": "Gracias, presidenta. Señora ministra, ¿el Gobierno de España va a respetar el autogobierno de Navarra y nuestra competencia histórica en materia de derecho civil, retirando el recurso de inconstitucionalidad a la Ley Foral de Modificación y Actualización de la Compilación del Derecho Civil Foral de Navarra o Fuero Nuevo?"
+}

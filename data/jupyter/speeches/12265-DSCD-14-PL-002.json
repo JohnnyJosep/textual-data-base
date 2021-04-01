@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-03T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez García",
+                "apellidosNombre": "Sánchez García, José María",
+                "codParlamentario": 322,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-068.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ GARCÍA"
+    },
+    "text": "Ustedes han… (Rumores)."
+}

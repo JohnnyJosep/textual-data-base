@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CREE QUE EL GOBIERNO ESTÁ AYUDANDO A GENERAR UN CLIMA DE ENTENDIMIENTO POLÍTICO? ",
+        "diputado": [
+            {
+                "apellidos": "Bal Francés",
+                "apellidosNombre": "Bal Francés, Edmundo",
+                "codParlamentario": 211,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edmundo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/BalEdmundo",
+                "twitterUserId": "1099251922152931329",
+                "twitterUserName": "BalEdmundo"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAL FRANCÉS"
+    },
+    "text": "Señor Sánchez, ¿cree usted que los españoles se merecen este clima de enfrentamiento y de crispación que tenemos en la política nacional? ¿El Gobierno de España va a hacer algo por rebajar el tono en lugar de acentuarlo?"
+}

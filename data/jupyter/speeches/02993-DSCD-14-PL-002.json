@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ CRITERIOS ESTÁN SIGUIENDO PARA SELECCIONAR A LAS EMPRESAS A QUIENES ENCARGAN LA COMPRA O LA FABRICACIÓN DE MATERIAL SANITARIO? ",
+        "diputado": [
+            {
+                "apellidos": "Olona Choclán",
+                "apellidosNombre": "Olona Choclán, Macarena",
+                "codParlamentario": 84,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 18,
+                "idLegislatura": 14,
+                "nombre": "Macarena",
+                "nombreCircunscripcion": "Granada",
+                "twitter": "https://twitter.com/Macarena_Olona",
+                "twitterUserId": "1109573601995440129",
+                "twitterUserName": "Macarena_Olona"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "OLONA CHOCLÁN"
+    },
+    "text": "Gracias, presidenta. Señor ministro, ¿qué criterios se están siguiendo para seleccionar a las empresas a las que se encarga la compra o la fabricación de productos sanitarios?"
+}

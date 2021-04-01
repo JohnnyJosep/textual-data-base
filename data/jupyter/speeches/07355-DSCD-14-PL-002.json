@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE EL GOBIERNO VA A ADOPTAR PARA GARANTIZAR UNAS ELECCIONES LIBRES, PACÍFICAS Y SIN ACTOS DE VIOLENCIA E INTIMIDACIÓN EN EL PAÍS VASCO Y GALICIA. ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            14
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARRIGA VAZ DE CONCICAO"
+    },
+    "text": "Simplemente me he limitado a describir los hechos de una gestión negligente que ha ocasionado la muerte de más de 50 000 compatriotas, señor presidente. (Aplausos)."
+}

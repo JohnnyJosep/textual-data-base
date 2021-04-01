@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LA GRAVE CRISIS ABIERTA EN EL SENO DE LA GUARDIA CIVIL POR LAS ÚLTIMAS DESTITUCIONES OCURRIDAS EN EL CITADO CUERPO, POR LA POLÍTICA GENERAL DE DESTITUCIONES Y NOMBRAMIENTOS LLEVADAS A CABO POR EL MINISTRO DEL INTERIOR Y, EN GENERAL, POR LAS ÓRDENES EMANADAS DEL GOBIERNO HACIA LOS ALTOS MANDOS DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO DURANTE ESTA CRISIS SANITARIA. ",
+        "diputado": [
+            {
+                "apellidos": "Gil Lázaro",
+                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "codParlamentario": 295,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Ignacio",
+                "nombreCircunscripcion": "Valencia/València"
+            },
+            0
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GIL LÁZARO"
+    },
+    "text": "… y que representa la voz de la calle y el espíritu de la nación. Muchas gracias. (Varios señores diputados: ¡Bravo! ¡Bravo!--Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

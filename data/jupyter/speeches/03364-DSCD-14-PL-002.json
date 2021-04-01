@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 15/2020, DE 21 DE ABRIL, DE MEDIDAS URGENTES COMPLEMENT ARIAS PARA APOYAR LA ECONOMÍA Y EL EMPLEO. ",
+        "diputado": [
+            {
+                "apellidos": "Pastor Julián",
+                "apellidosNombre": "Pastor Julián, Ana María",
+                "codParlamentario": 31,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/anapastorjulian",
+                "twitterUserId": "307570052",
+                "twitterUserName": "anapastorjulian"
+            },
+            17
+        ],
+        "order": 23,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Pastor Julián)"
+    },
+    "text": "Muchas gracias. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Muchas gracias. Por el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, tiene la palabra el señor Guijarro García."
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Ortega Domínguez",
+                "apellidosNombre": "Ortega Domínguez, José Ramón",
+                "codParlamentario": 368,
+                "fchAlta": "24/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 11,
+                "idLegislatura": 14,
+                "nombre": "José Ramón",
+                "nombreCircunscripcion": "Cádiz"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ORTEGA DOMÍNGUEZ"
+    },
+    "text": "Sí, prometo."
+}

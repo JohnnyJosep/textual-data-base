@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ IGNACIO ECHÁNIZ SALGADO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿CREE EL GOBIERNO QUE EL RETRASO EN LA TOMA DE DECISIONES Y EN LA PREVENCIÓN DE LA COVID–19 HA AFECTADO AL EMPLEO EN ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            36
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL (Díaz Pérez)"
+    },
+    "text": "Señor Echániz, Gracias por su pregunta. Creemos que el Gobierno, en materia laboral, ha actuado con la prontitud debida. (Aplausos)."
+}

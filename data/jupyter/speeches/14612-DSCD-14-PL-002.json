@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IVÁN ESPINOSA DE LOS MONTEROS DE SIMÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿EXISTE UNIDAD DE ACCIÓN EN EL GOBIERNO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+    },
+    "text": "Gracias, señora presidenta. Señora vicepresidenta, en su origen --y todos lo recordamos-- este Gobierno de Pedro Sánchez se formó basado en un engaño. Como dijo el presidente, pactar con el populismo es una cosa grave, porque todos sabemos cómo acaba el populismo en la Venezuela de Chávez --Pedro Sánchez dixit--, y en la práctica estamos comprobando a diario, semana a semana, pasmados cómo en tantos ámbitos su Gobierno es capaz de sostener una posición y la contraria. Señora vicepresidenta, ¿existe una mínima unidad de acción en este Gobierno?"
+}

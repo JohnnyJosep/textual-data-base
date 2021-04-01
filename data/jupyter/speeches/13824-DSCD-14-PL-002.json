@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-28T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 36/2020, DE 30 DE DICIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS URGENTES PARA LA MODERNIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA Y PARA LA EJECUCIÓN DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA. ",
+        "diputado": [
+            {
+                "apellidos": "Pastor Julián",
+                "apellidosNombre": "Pastor Julián, Ana María",
+                "codParlamentario": 31,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/anapastorjulian",
+                "twitterUserId": "307570052",
+                "twitterUserName": "anapastorjulian"
+            },
+            17
+        ],
+        "order": 74,
+        "path": "../data/diaries-txts/DSCD-14-PL-074.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Pastor Julián)"
+    },
+    "text": "Muchas gracias, señor ministro. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). En el turno de fijación de posiciones interviene, por el Grupo Parlamentario Mixto, en primer lugar, el señor Martínez Oblanca. Tiene usted la palabra."
+}

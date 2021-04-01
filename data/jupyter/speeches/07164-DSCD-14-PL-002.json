@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-08T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, RELA TIV A A LA MODIFICACIÓN DE LA LEY 50/1981, DE 30 DE DICIEMBRE, POR LA QUE SE REGULA EL EST A TUT O ORGÁNICO DEL MINISTERIO FISCAL. ",
+        "diputado": [
+            {
+                "apellidos": "Hurtado Zurera",
+                "apellidosNombre": "Hurtado Zurera, Antonio",
+                "codParlamentario": 372,
+                "fchAlta": "25/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 14,
+                "idLegislatura": 14,
+                "nombre": "Antonio",
+                "nombreCircunscripcion": "Córdoba",
+                "twitter": "https://twitter.com/AntonioHurtado",
+                "twitterUserId": "20585781",
+                "twitterUserName": "AntonioHurtado"
+            },
+            0
+        ],
+        "order": 126,
+        "path": "../data/diaries-txts/DSCD-14-PL-041.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "HURTADO ZURERA"
+    },
+    "text": "Concluyo, presidenta. Hago un llamamiento a la responsabilidad por parte de todos para abordar estos dos grandes retos. No podemos estar en una continua guerra entre nosotros en una situación tan crítica como la que estamos viviendo. Por otra parte, es fundamental transformar estos dos retos en una gran oportunidad para transformar la economía española y darle la modernidad en cuanto a la transición digital, la transición ecológica, la cohesión y la igualdad."
+}

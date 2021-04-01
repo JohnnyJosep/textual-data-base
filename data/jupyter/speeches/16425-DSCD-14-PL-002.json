@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE SANIDAD: ¿TIENE EL GOBIERNO PREVISTO ACOMETER LA REGULACIÓN DEL CANNABIS PARA USO MÉDICO EN EL ESTADO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            30
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE SANIDAD (Darias San Sebastián)"
+    },
+    "text": "Señora presidenta, señorías, señora Gorospe, en esta cuestión el criterio del Gobierno es hacer prevalecer la evidencia científica y el rigor técnico para dictaminar sobre el cumplimiento de los estándares de calidad, seguridad y eficacia que deben exigirse a cualquier medicamento. (Aplausos)."
+}

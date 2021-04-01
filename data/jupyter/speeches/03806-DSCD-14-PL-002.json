@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO TIENE PLANTEADA LA LEGISLATURA EL GOBIERNO? ",
+        "diputado": [
+            {
+                "apellidos": "Rufián Romero",
+                "apellidosNombre": "Rufián Romero, Gabriel",
+                "codParlamentario": 187,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Gabriel",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/gabrielrufian",
+                "twitterUserId": "2904896141",
+                "twitterUserName": "gabrielrufian"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUFIÁN ROMERO"
+    },
+    "text": "Muchas gracias, presidenta. Señor Sánchez, ¿cómo se plantea el Gobierno esta legislatura?"
+}

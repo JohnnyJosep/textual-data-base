@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MARTA ROSIQUE I SALTOR, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CONSIDERA EL GOBIERNO ESPAÑOL QUE SE DEBEN ADOPTAR MEDIDAS PARA EVITAR EL RACISMO EN EL ÁMBITO DE LA SEGURIDAD? ",
+        "diputado": [
+            {
+                "apellidos": "Rosique i Saltor",
+                "apellidosNombre": "Rosique i Saltor, Marta",
+                "codParlamentario": 185,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/martarosiq",
+                "twitterUserId": "572925673",
+                "twitterUserName": "martarosiq"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ROSIQUE I SALTOR"
+    },
+    "text": "Igual que la violencia machista no se pudo enfrentar hasta reconocer que existe un sistema patriarcal y machista, no podremos afrontar la violencia racista hasta no reconocer que existe un sistema racista que lo ampara. Señor ministro, no le acuso de ser el único responsable del racismo institucional, le estoy pidiendo que reconozca… (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-16T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO ACLARE EL IMPACTO CONSTITUCIONAL DE LA REUNIÓN DE LA MESA ENTRE EL GOBIERNO DE ESPAÑA Y EL GOBIERNO DE LA GENERALITAT DE CATALUÑA QUE TUVO LUGAR EL DÍA 26/02/2020. ",
+        "diputado": [
+            {
+                "apellidos": "Uriarte Bengoechea",
+                "apellidosNombre": "Uriarte Bengoechea, Edurne",
+                "codParlamentario": 30,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edurne",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/EdurneUriarte",
+                "twitterUserId": "250092838",
+                "twitterUserName": "EdurneUriarte"
+            },
+            0
+        ],
+        "order": 24,
+        "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "URIARTE BENGOECHEA"
+    },
+    "text": "Sí, eso es."
+}

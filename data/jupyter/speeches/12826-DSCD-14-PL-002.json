@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 78,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "He participado en 39 ruedas de prensa, en 18 durante el estado de alarma, con 185 turnos de preguntas y 432 respuestas, mientras algunos presidentes y presidentas autonómicos del Partido Popular cerraban asambleas autonómicas. (Aplausos). He participado en 27 comparecencias en el Congreso de los Diputados, con 21 sesiones de control, 9 durante el estado de alarma; he comparecido 2 veces para dar cuenta de los Consejos Europeos; he estado presente en 5 comparecencias en el Senado para cuatro sesiones de control, 2 durante el estado de alarma y una comparecencia a petición propia. Señorías, se han celebrado además 17 conferencias de presidentes autonómicos. (Rumores)."
+}

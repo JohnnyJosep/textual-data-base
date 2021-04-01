@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ANA BELÉN VÁZQUEZ BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ MEDIDAS VA A TOMAR PARA SOLUCIONAR LA CRISIS DE LA LLEGADA MASIVA DE INMIGRANTES IRREGULARES A CANARIAS? ",
+        "diputado": [
+            {
+                "apellidos": "Vázquez Blanco",
+                "apellidosNombre": "Vázquez Blanco, Ana Belén",
+                "codParlamentario": 115,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 32,
+                "idLegislatura": 14,
+                "nombre": "Ana Belén",
+                "nombreCircunscripcion": "Ourense",
+                "twitter": "https://twitter.com/anadebande",
+                "twitterUserId": "397867366",
+                "twitterUserName": "anadebande"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VÁZQUEZ BLANCO"
+    },
+    "text": "Muchas gracias, señora presidenta. Los diputados del Partido Popular de Canarias y de toda España no tenemos que esperar a lo sucedido ayer en un muelle de Arguineguin, con más de 2300 inmigrantes hacinados como ganado y 227 libres por las calles, sin PCR y sin un plan de seguridad. Señor Marlaska, ¿va a dimitir por su incompetencia para resolver la crisis migratoria de Canarias? (Aplausos)."
+}

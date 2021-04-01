@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-21T00:00:00.000Z",
+        "debate": "MOCIÓN DE CENSURA: -- MOCIÓN DE CENSURA AL GOBIERNO PRESIDIDO POR DON PEDRO SÁNCHEZ PÉREZ- CASTEJÓN, QUE INCLUYE COMO CANDIDATO A LA PRESIDENCIA DEL GOBIERNO A DON SANTIAGO ABASCAL CONDE. ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            0
+        ],
+        "order": 61,
+        "path": "../data/diaries-txts/DSCD-14-PL-055.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DE JALÓN"
+    },
+    "text": "Los ultrasonidos diríjanselos a Iker Jiménez, que sabrá interpretarlos, yo no. (Risas.--Rumores). En cualquier caso, el refranero español es muy sabio, y yo algo conozco el refranero castellano y hay una expresión que dice: a palabras necias… termínenla ustedes. (Protestas)."
+}

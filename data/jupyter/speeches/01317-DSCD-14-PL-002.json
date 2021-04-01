@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA APLICACIÓN DE LAS MEDIDAS NECESARIAS PARA ACABAR CON EL INVIERNO DEMOGRÁFICO, FOMENTAR LA NATALIDAD Y PROTEGER LA FAMILIA COMO NÚCLEO DE LA SOCIEDAD. ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Pasamos al siguiente punto del orden del día, relativo a las proposiciones no de ley. Comenzamos con la proposición no de ley del Grupo Parlamentario VOX, relativa a la aplicación de las medidas necesarias para acabar con el invierno demográfico, fomentar la natalidad y proteger la familia como núcleo de la sociedad. Para la presentación de la iniciativa tiene la palabra la señora De Meer Méndez. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-21T00:00:00.000Z",
+        "debate": "MOCIÓN DE CENSURA: -- MOCIÓN DE CENSURA AL GOBIERNO PRESIDIDO POR DON PEDRO SÁNCHEZ PÉREZ- CASTEJÓN, QUE INCLUYE COMO CANDIDATO A LA PRESIDENCIA DEL GOBIERNO A DON SANTIAGO ABASCAL CONDE. ",
+        "diputado": [
+            {
+                "apellidos": "De las Heras Fernández",
+                "apellidosNombre": "De las Heras Fernández, Patricia",
+                "codParlamentario": 248,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 7,
+                "idLegislatura": 14,
+                "nombre": "Patricia",
+                "nombreCircunscripcion": "Balears (Illes)",
+                "twitter": "https://twitter.com/PatriciadlHeras",
+                "twitterUserId": "1086595769833017344",
+                "twitterUserName": "PatriciadlHeras"
+            },
+            41
+        ],
+        "order": 95,
+        "path": "../data/diaries-txts/DSCD-14-PL-055.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (Abascal Conde)"
+    },
+    "text": "Después, cuando terminen."
+}

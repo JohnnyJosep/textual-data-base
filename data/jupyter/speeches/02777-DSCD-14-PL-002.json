@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CREE EL GOBIERNO QUE LAS MEDIDAS SOCIALES QUE HA ADOPTADO DURANTE EL ESTADO DE ALARMA PROTEGEN EFECTIVAMENTE LOS DERECHOS SOCIALES DE LOS SECTORES MÁS VULNERABLES? ",
+        "diputado": [
+            {
+                "apellidos": "Rufián Romero",
+                "apellidosNombre": "Rufián Romero, Gabriel",
+                "codParlamentario": 187,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Gabriel",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/gabrielrufian",
+                "twitterUserId": "2904896141",
+                "twitterUserName": "gabrielrufian"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUFIÁN ROMERO"
+    },
+    "text": "Muchas gracias, señora presidenta. Buenos días, señor Iglesias. Señor vicepresidente, aun a riesgo de parecer un socialcomunista, ¿cree usted que el Gobierno está aplicando todas las medidas adecuadas y posibles para intentar proteger a la población más vulnerable durante este estado de alarma? Muchas gracias."
+}

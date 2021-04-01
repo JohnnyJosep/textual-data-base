@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DOÑA MARÍA VALENTINA MARTÍNEZ FERRO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN: ¿CÓMO VALORA LA MINISTRA EL RESULTADO DE LAS GESTIONES REALIZADAS PARA A YUDAR A QUE ESPAÑA SEA PERCIBIDA EN EL MUNDO COMO UN DESTINO SEGURO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            57
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN (González Laya)"
+    },
+    "text": "… la Comisión Europea adoptará van en la dirección en que está empujando España, es decir, territorialización de las medidas contra el COVID; es decir, gradualización de la información no solamente sobre un criterio, sino sobre una multiplicidad de criterios, y, sobre todo, apertura de corredores seguros. Ahí está también la discusión que hemos iniciado con el Reino Unido, que está dando sus frutos, para dar soluciones a aquellos territorios españoles que más necesitan del turismo a través de corredores seguros. Luego, sí, señoría, lo volvería a repetir. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-20T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
+        "diputado": [
+            {
+                "apellidos": "Oramas González-Moro",
+                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "codParlamentario": 161,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "CCa-PNC-NC",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 38,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "S/C Tenerife",
+                "twitter": "https://twitter.com/anioramas",
+                "twitterUserId": "479394745",
+                "twitterUserName": "anioramas"
+            },
+            0
+        ],
+        "order": 106,
+        "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ORAMAS GONZÁLEZ-MORO"
+    },
+    "text": "Gracias, señora presidenta. Señor Sánchez, el mismo discurso de España ante Bruselas se lo hace Canarias al Gobierno de España: solidaridad, políticas distintas, recuperar políticas de empleo y, sobre todo, inversiones importantes, y los 4000 millones que están en los bancos del superávit de las administraciones canarias. Vamos a estar con usted y con el Gobierno de Canarias para que Canarias salga de la crisis."
+}

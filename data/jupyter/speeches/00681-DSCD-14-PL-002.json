@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-11T00:00:00.000Z",
+        "debate": "PROPUESTAS DE CREACIÓN DE COMISIONES. (VOTACIÓN): -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA, POPULAR EN EL CONGRESO Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, DE CREACIÓN DE UNA COMISIÓN MIXTA DE CONTROL PARLAMENTARIO DE LA CORPORACIÓN RTVE Y SUS SOCIEDADES. ",
+        "diputado": [
+            {
+                "apellidos": "Velarde Gómez",
+                "apellidosNombre": "Velarde Gómez, Martina",
+                "codParlamentario": 235,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 14,
+                "idLegislatura": 14,
+                "nombre": "Martina",
+                "nombreCircunscripcion": "Córdoba",
+                "twitter": "https://twitter.com/MartinaVelardeG",
+                "twitterUserId": "3300574151",
+                "twitterUserName": "MartinaVelardeG"
+            },
+            0
+        ],
+        "order": 10,
+        "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VELARDE GÓMEZ"
+    },
+    "text": "Gracias. (Aplausos)."
+}

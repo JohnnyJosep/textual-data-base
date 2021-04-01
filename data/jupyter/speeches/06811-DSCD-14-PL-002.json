@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA URGENTE DEL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030, PARA DAR CUENTA DE LAS ÚLTIMAS INFORMACIONES RELATIVAS A LA FINANCIACIÓN IRREGULAR DE PODEMOS Y LA RECIENTE IMPUTACIÓN, TANTO DEL PARTIDO COMO DE ALTOS CARGOS DEL MISMO, Y EL PAPEL DEL VICEPRESIDENTE EN ESTE ASUNTO.",
+        "diputado": [
+            {
+                "apellidos": "Borrás Pabón",
+                "apellidosNombre": "Borrás Pabón, Mireia",
+                "codParlamentario": 142,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/_mireiaborras",
+                "twitterUserId": "2348453556",
+                "twitterUserName": "_mireiaborras"
+            },
+            8
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORRÀS CASTANYER"
+    },
+    "text": "Termino. Esta fiscalía patriótica que durante años ha ignorado beneméritos informes y testimonios de dudosa veracidad. Nosotros ahora podríamos hacer como ustedes han hecho durante mucho tiempo y muy a nuestro pesar ante la persecución del Gobierno legítimo de Cataluña, que lleva casi tres años en una situación de prisión y exilio, pero no lo haremos. La equidistancia nos queda lejos, como decían algunos. Ante la represión solo queda una opción: plantar cara. Pero al plano judicial se le contrapone el plano político, y yo creo que el vicepresidente Pablo Iglesias debería dar explicaciones políticas. Es una manera de asumir estas responsabilidades políticas. Yo misma comparecí voluntariamente en el Parlament de Catalunya para hacerlo."
+}

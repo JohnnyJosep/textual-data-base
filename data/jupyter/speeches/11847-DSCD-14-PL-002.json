@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-01T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Robles López",
+                "apellidosNombre": "Robles López, Joaquín",
+                "codParlamentario": 246,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Joaquín",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/JoaquinRobles55",
+                "twitterUserId": "1133273163884826624",
+                "twitterUserName": "JoaquinRobles55"
+            },
+            0
+        ],
+        "order": 118,
+        "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ROBLES LÓPEZ"
+    },
+    "text": "… se mencionan partidas presupuestarias cuyo destino es… (Aplausos de las señores y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

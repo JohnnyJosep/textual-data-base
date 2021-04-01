@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "DEL DÍA: -- COMP ARECENCIA DEL MINISTRO DE JUSTICIA P ARA INFORMAR SOBRE EL POSICIONAMIENTO Y LAS INTENCIONES DEL GOBIERNO ANTE LA POSIBLE CONCESIÓN DEL INDULTO A LOS PRESOS DEL PROCÉS.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos a debatir el punto 4: Petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión de Justicia con el siguiente orden del día: Comparecencia del ministro de Justicia para informar sobre el posicionamiento y las intenciones del Gobierno ante la posible concesión del indulto a los presos del procés. Para la defensa de la iniciativa, por el Grupo Parlamentario Popular en el Congreso, tiene la palabra el señor Rojas García."
+}

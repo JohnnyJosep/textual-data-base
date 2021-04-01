@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-19T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN): -- PROYECTO DE LEY ORGÁNICA POR LA QUE SE MODIFICA LA LEY ORGÁNICA 2/2006, DE 3 DE MAYO, DE EDUCACIÓN. ",
+        "diputado": [
+            {
+                "apellidos": "Sabanés Nadal",
+                "apellidosNombre": "Sabanés Nadal, Inés",
+                "codParlamentario": 234,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÁS PAÍS-EQUO",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/isabanes",
+                "twitterUserId": "110442665",
+                "twitterUserName": "isabanes"
+            },
+            0
+        ],
+        "order": 25,
+        "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SABANÉS NADAL"
+    },
+    "text": "Vamos a apoyar la ley. Muchas gracias, presidenta."
+}

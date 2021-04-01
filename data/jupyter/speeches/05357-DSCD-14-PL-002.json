@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOSÉ MARÍA MAZÓN RAMOS, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA AL GOBIERNO: ¿TIENE PREVISTO EL GOBIERNO PRESENTAR RECURSO DE CASACIÓN ANTE EL TRIBUNAL SUPREMO CONTRA LA SENTENCIA DE FECHA 24 DE ENERO DE 2020 DE LA AUDIENCIA NACIONAL RECAÍDA EN EL RECURSO CONTENCIOSO- ADMINISTRATIVO 114/18 SOBRE LA DEUDA PENDIENTE DE VALDECILLA? ",
+        "diputado": [
+            {
+                "apellidos": "Mazón Ramos",
+                "apellidosNombre": "Mazón Ramos, José María",
+                "codParlamentario": 349,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PRC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Cantabria"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MAZÓN RAMOS"
+    },
+    "text": "Buenos días, señor ministro. A las pocas horas de presentar esta pregunta me informaron de que el Gobierno de Pedro Sánchez había recurrido la sentencia de la Audiencia Nacional que le obligaba a pagar la deuda de 22 millones con Valdecilla. Ahora me tendrá que explicar usted por qué han tomado esta decisión."
+}

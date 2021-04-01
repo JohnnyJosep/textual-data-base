@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA IDOIA SAGASTIZABAL UNZET ABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CONSIDERA EL GOBIERNO QUE EL DE LA AUTOMOCIÓN ES UN SECTOR ESTRATÉGICO PARA LA ECONOMÍA? ",
+        "diputado": [
+            {
+                "apellidos": "Sagastizabal Unzetabarrenetxea",
+                "apellidosNombre": "Sagastizabal Unzetabarrenetxea, Idoia",
+                "codParlamentario": 98,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Idoia",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/Idosagasti",
+                "twitterUserId": "250635207",
+                "twitterUserName": "Idosagasti"
+            },
+            1
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SAGASTIZABAL UNZET ABARRENETXEA"
+    },
+    "text": "Gracias. Ministra, ¿considera el Gobierno que el de la automoción es un sector estratégico para la economía?"
+}

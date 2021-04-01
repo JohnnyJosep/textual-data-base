@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-20T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 3/2020, DE 4 DE FEBRERO, DE MEDIDAS URGENTES POR EL QUE SE INCORPORAN AL ORDENAMIENTO JURÍDICO ESPAÑOL DIVERSAS DIRECTIVAS DE LA UNIÓN EUROPEA EN EL ÁMBITO DE LA CONTRATACIÓN PÚBLICA EN DETERMINADOS SECTORES; DE SEGUROS PRIVADOS; DE PLANES Y FONDOS DE PENSIONES; DEL ÁMBITO TRIBUTARIO Y DE LITIGIOS FISCALES. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 32,
+        "path": "../data/diaries-txts/DSCD-14-PL-011.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señor Aizcorbe. Por el Grupo Parlamentario Socialista, tiene la palabra el señor Casares Hontañón."
+}

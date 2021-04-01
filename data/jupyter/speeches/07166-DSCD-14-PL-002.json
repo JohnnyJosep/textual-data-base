@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-08T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, RELA TIV A A LA MODIFICACIÓN DE LA LEY 50/1981, DE 30 DE DICIEMBRE, POR LA QUE SE REGULA EL EST A TUT O ORGÁNICO DEL MINISTERIO FISCAL. ",
+        "diputado": [
+            {
+                "apellidos": "Hurtado Zurera",
+                "apellidosNombre": "Hurtado Zurera, Antonio",
+                "codParlamentario": 372,
+                "fchAlta": "25/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 14,
+                "idLegislatura": 14,
+                "nombre": "Antonio",
+                "nombreCircunscripcion": "Córdoba",
+                "twitter": "https://twitter.com/AntonioHurtado",
+                "twitterUserId": "20585781",
+                "twitterUserName": "AntonioHurtado"
+            },
+            0
+        ],
+        "order": 128,
+        "path": "../data/diaries-txts/DSCD-14-PL-041.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "HURTADO ZURERA"
+    },
+    "text": "Concluyo ya. Son retos fundamentales. Os animo y hago un llamamiento sincero para que todos vayamos arrimando el hombro y vayamos conduciendo a este país hacia lo que todos los ciudadanos y ciudadanas de España se merecen: el progreso, el bienestar y la igualdad. Gracias."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-18T00:00:00.000Z",
+        "debate": "ENMIENDAS DEL SENADO: -- VOTACIÓN.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "La presente sesión plenaria incluye el debate y la aprobación del dictamen de Comisión y de las enmiendas del Senado de iniciativa legislativa orgánica, puntos 26 y 28 del orden del día, que tienen que ser sometidos a una votación final sobre el conjunto, la cual, de conformidad con el artículo 131.2 del Reglamento, debe ser anunciada con antelación por la Presidencia. Por ello, en cumplimiento de esta disposición, anuncio que las votaciones no se realizarán antes de las 12:30 horas. Asimismo, les informo de que desde las 11:00 hasta las 12:00 de hoy se podrán votar telemáticamente las proposiciones no de ley y las mociones. El dictamen de Comisión y la correspondiente votación de conjunto, la votación de conjunto en relación con las enmiendas del Senado a la proposición de ley orgánica de regulación de la eutanasia, las enmiendas del Senado al proyecto de ley de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID- 19 y las solicitudes de prórroga de las comisiones de investigación serán objeto de votación presencial en el hemiciclo al final de la sesión."
+}

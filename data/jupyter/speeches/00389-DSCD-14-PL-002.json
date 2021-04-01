@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 18/2019, DE 27 DE DICIEMBRE, POR EL QUE SE ADOPTAN DETERMINADAS MEDIDAS EN MATERIA TRIBUTARIA, CATASTRAL Y DE SEGURIDAD SOCIAL. ",
+        "diputado": [
+            {
+                "apellidos": "Casares Hontañón",
+                "apellidosNombre": "Casares Hontañón, Pedro",
+                "codParlamentario": 347,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Cantabria",
+                "twitter": "https://twitter.com/pedro_casares",
+                "twitterUserId": "378525757",
+                "twitterUserName": "pedro_casares"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASARES HONTAÑÓN"
+    },
+    "text": "… como hemos visto en esta Cámara, actualizarlas conforme al IPC. Así que gracias al Consejo de Ministras y Ministras. (Risas). ¿Qué era mejor, señorías...?"
+}

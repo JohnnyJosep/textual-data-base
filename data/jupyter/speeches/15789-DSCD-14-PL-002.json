@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IVÁN ESPINOSA DE LOS MONTEROS DE SIMÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿QUÉ APORTA A LOS ESPAÑOLES EL ENFRENTAMIENTO PERMANENTE QUE SE DA EN EL SENO DEL GOBIERNO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            103
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA (Calvo Poyato)"
+    },
+    "text": "Gracias, señora presidenta. Señor Espinosa de los Monteros, me ha llamado señora Calvo y se lo agradezco mucho, pero como miraba y le preguntaba al vicepresidente segundo, no sé si me estaba preguntando usted a mí. En cualquier caso, le diré lo que aporta este Gobierno: estabilidad a este país, gobernabilidad, 155 escaños legítimos y legales, la búsqueda de apoyos en el sistema parlamentario y, en definitiva, democracia. (Aplausos)."
+}

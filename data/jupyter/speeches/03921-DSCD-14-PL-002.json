@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "─ DEL DIPUT ADO DON IGNACIO GIL LÁZARO, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿POR QUÉ EL MINISTERIO DEL INTERIOR INTENTA AMEDRENTAR A LOS CIUDADANOS QUE PACÍFICAMENTE EXPRESAN SU PROTESTA CONTRA EL GOBIERNO EN LAS CALLES? -- DE LA DIPUTADA DOÑA IDOIA SAGASTIZABAL UNZETABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿QUÉ MEDIDAS DE APOYO PREVÉ IMPULSAR PARA EL SECTOR DE AUTOMOCIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Sagastizabal Unzetabarrenetxea",
+                "apellidosNombre": "Sagastizabal Unzetabarrenetxea, Idoia",
+                "codParlamentario": 98,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Idoia",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/Idosagasti",
+                "twitterUserId": "250635207",
+                "twitterUserName": "Idosagasti"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SAGASTIZABAL UNZETABARRENETXEA"
+    },
+    "text": "Gracias, presidenta. Ministra, el sector de la automoción es el sector industrial al que más duramente está afectando la crisis sanitaria y económica, un sector que se encuentra bajo la tormenta perfecta, ya que el COVID le ha llegado cuando no estaba pasando por su mejor momento y, además, cuando se encontraba en plena transformación de su propio modelo productivo o modelo de negocio: cambio de producto hacia la descarbonización, obligación del cumplimiento de reducción de emisiones e incluso incertidumbre en la regulación sobre determinadas tecnologías que se había traducido en una disminución de ventas. La expansión del virus y, desde luego, su efecto en la actividad productiva ha puesto en jaque a un sector con alto impacto en la economía, un sector que es clave y que, además, ha arrastrado a la industria auxiliar, por tres motivos básicamente: por la paralización de los suministradores, que ha supuesto la fractura de su propio modelo de abastecimiento, basado en una cadena de suministro de piezas basadas en el just in time, o por la paralización de fábricas, que ha supuesto un desplome en la producción y también por la paralización de las ventas de automóviles como consecuencia del confinamiento de los consumidores. Una crisis, además, en la que vamos a descubrir que no solo van a cambiar los factores o las motivaciones de compra, sino que también va a cambiar la forma en la que se van a comprar los vehículos, la forma en la que se van a fabricar y la forma en la que se van a distribuir. Y todo esto en un contexto de crisis económica, con un desplome del PIB en torno al 9,2 % y un aumento del desempleo en el mejor de los pronósticos. Ante esta situación, ¿qué medidas prevé el ministerio impulsar para el sector de la automoción? Gracias."
+}

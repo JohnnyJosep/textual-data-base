@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-21T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES NO PERMANENTES: -- DICTAMEN DE LA COMISIÓN PARA LA RECONSTRUCCIÓN SOCIAL Y ECONÓMICA. ",
+        "diputado": [
+            {
+                "apellidos": "Pastor Julián",
+                "apellidosNombre": "Pastor Julián, Ana María",
+                "codParlamentario": 31,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/anapastorjulian",
+                "twitterUserId": "307570052",
+                "twitterUserName": "anapastorjulian"
+            },
+            0
+        ],
+        "order": 51,
+        "path": "../data/diaries-txts/DSCD-14-PL-036.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PASTOR JULIÁN"
+    },
+    "text": "Termino ya, señora presidenta."
+}

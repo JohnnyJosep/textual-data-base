@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 41,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "Gracias, señora presidenta. Señorías --es obvio, pero quiero decirlo--, lo que voy a exponer hoy ahora, en este momento, es la postura de la Agrupación de Electores Teruel Existe, no mi postura personal. Vamos a cumplir lo que dijimos reiteradamente durante la campaña electoral; durante la campaña electoral dijimos que apoyaríamos a aquel candidato que fuese capaz de concitar en su persona mayores apoyos --y así lo vamos a hacer-- y que lo haríamos atendiendo a varios criterios. En primer lugar, para desbloquear una situación que considerábamos que la ciudadanía no admitía por más tiempo. En segundo lugar, por responsabilidad institucional. Y , en tercer lugar, porque queremos que haya un Gobierno que tome medidas ya, medidas que a nosotros, como dije en mi anterior intervención, nos urgen, como el Convenio de transición justa de la central térmica de Andorra. (Rumores)."
+}

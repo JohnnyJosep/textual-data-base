@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿QUÉ PRUEBAS DE LEALTAD HA DADO EL GOBIERNO A LA OPOSICIÓN COMO PARA EXIGIRLE QUE «ARRIME EL HOMBRO»? ",
+        "diputado": [
+            {
+                "apellidos": "Gamarra Ruiz-Clavijo",
+                "apellidosNombre": "Gamarra Ruiz-Clavijo, Concepción",
+                "codParlamentario": 261,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 26,
+                "idLegislatura": 14,
+                "nombre": "Concepción",
+                "nombreCircunscripcion": "Rioja (La)",
+                "twitter": "https://twitter.com/cucagamarra",
+                "twitterUserId": "83573034",
+                "twitterUserName": "cucagamarra"
+            },
+            0
+        ],
+        "order": 11,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GAMARRA RUIZ-CLAVIJO"
+    },
+    "text": "Por cierto, señora Calvo, ¿por qué no arriman ustedes el hombro apoyando la Comisión de investigación de la gestión de la pandemia que ha pedido mi partido? Señoría, se arrima el hombro con un Gobierno que valora la gestión por encima de la propaganda, el valor de la palabra por encima de la mentira y además el bienestar de los españoles por encima de sus ansias de poder. Pero eso sería un Gobierno del Partido Popular, y no lo que tenemos ahora. (Aplausos.-- Varios señores diputados: ¡Muy bien!)."
+}

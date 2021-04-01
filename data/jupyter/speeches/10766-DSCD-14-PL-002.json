@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-11T00:00:00.000Z",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Montero Cuadrado",
+                "apellidosNombre": "Montero Cuadrado, María Jesús",
+                "codParlamentario": 225,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "María Jesús",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/mjmonteroc",
+                "twitterUserId": "310187114",
+                "twitterUserName": "mjmonteroc"
+            },
+            23
+        ],
+        "order": 36,
+        "path": "../data/diaries-txts/DSCD-14-PL-060.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE HACIENDA (Montero Cuadrado)"
+    },
+    "text": "¡Mira, mira! ¿Esta es la educación?"
+}

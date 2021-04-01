@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿CÓMO VA A GARANTIZAR EL GOBIERNO UNA VUELTA AL COLEGIO QUE GARANTICE LOS PRINCIPIOS DE IGUALDAD Y SEGURIDAD QUE MERECEN ESTUDIANTES, PROFESIONALES Y FAMILIAS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            45
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL (Celaá Diéguez)"
+    },
+    "text": "Señora Arrimadas, siento decirle que tiene usted una reflexión muy poco madura acerca del funcionamiento del sistema autonómico. Muy poco madura. ¿Está usted acaso acusando a su consejero de Andalucía de no haber previsto las medidas? Porque desde junio tenían absolutamente… (Aplausos)."
+}

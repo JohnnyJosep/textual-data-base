@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "CON EL SIGUIENTE ORDEN DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL, PARA INFORMAR DE LAS MEDIDAS DEL GOBIERNO QUE ASEGUREN UN INICIO DEL CURSO ESCOLAR 2020/2021 EN LAS MISMAS CONDICIONES DE SEGURIDAD PARA TODOS LOS ALUMNOS, PROFESORES Y PERSONAL DE LOS CENTROS EDUCATIVOS.",
+        "diputado": [
+            {
+                "apellidos": "Martínez Seijo",
+                "apellidosNombre": "Martínez Seijo, María Luz",
+                "codParlamentario": 251,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 34,
+                "idLegislatura": 14,
+                "nombre": "María Luz",
+                "nombreCircunscripcion": "Palencia",
+                "twitter": "https://twitter.com/luzseijo",
+                "twitterUserId": "270356445",
+                "twitterUserName": "luzseijo"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ SEIJO"
+    },
+    "text": "Donde más se duplica el número de profesores… (Rumores). Señorías, lo que les sucede es que ahora han visto que se inicia el curso escolar, les ha entrado miedo y vienen a pedir ayuda al Estado. Pero les voy a decir una cosa: de su negligencia nadie les va a poder salvar. Ahora, desde luego, el Ministerio de Educación y el Ministerio de Sanidad van a seguir trabajando, como lo han venido haciendo a lo largo de este verano, para que las condiciones de inicio del curso escolar sean lo más protectoras y lo más seguras posibles para esos más de 8,5 millones de alumnos. Pero, eso sí, no estaría de más…"
+}

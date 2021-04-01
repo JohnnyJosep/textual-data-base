@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- INTERPELACIÓN A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO, DEL GRUPO PARLAMENTARIO CIUDADANOS, PARA VALORAR LA AUSENCIA DE MEDIDAS PUESTAS EN MARCHA POR PARTE DEL GOBIERNO PARA ASEGURAR LA SUPERVIVENCIA DE LOS NEGOCIOS Y EMPLEOS EN EL SECTOR DE LA HOSTELERÍA Y OTROS SECTORES RELACIONADOS CON EL TURISMO EN ESPAÑA. ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "El 103. Quiero hacerle una pregunta como presidenta del Congreso de los Diputados."
+}

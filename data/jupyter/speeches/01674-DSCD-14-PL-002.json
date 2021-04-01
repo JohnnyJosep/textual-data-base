@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿QUÉ ACTUACIONES PREVÉ EL GOBIERNO ESPAÑOL PARA COMBATIR LA MOROSIDAD ENTRE EMPRESAS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            42
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO (Maroto Illera)"
+    },
+    "text": "Gracias, presidenta. Señor Capdevila, me alegra que me haga esta pregunta, porque compartimos con usted y su grupo, y yo diría con la mayoría de los grupos parlamentarios, la necesidad de adoptar medidas para luchar contra la morosidad, que afecta a muchos de autónomos y de nuestras pequeñas y medianas empresas. En el Marco estratégico de la pyme 2030, que aprobamos en abril del año pasado, se incluyen mecanismos para reducir la morosidad. Esperamos contar con el consenso de esta Cámara para desarrollarlos a lo largo de la legislatura. (Aplausos)."
+}

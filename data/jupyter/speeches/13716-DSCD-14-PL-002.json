@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL ÁMBITO SOCIAL Y ECONÓMICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 71,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Queda rechazada. Punto 17. Petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión de Sanidad y Consumo con el siguiente orden del día: Comparecencia del Ministro de Sanidad para dar cumplimiento en el mes de enero de 2021 al artículo 14 del Real Decreto 956/2020, de 3 de noviembre, por el que se prorroga el estado de alarma declarado por el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2, por el que «el ministro de Sanidad solicitará su comparecencia ante la Comisión de Sanidad y Consumo del Congreso de los Diputados, con periodicidad mensual, para dar cuenta de los datos y gestiones correspondientes a su departamento en relación a la aplicación del estado de alarma». Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 68; a favor, 32; en contra, 31; abstenciones, 5."
+}

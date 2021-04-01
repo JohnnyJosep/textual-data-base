@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA ISABEL POZUET A FERNÁNDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ MEDIDAS TOMARÁN PARA CONTENER LOS CONTAGIOS EN EL ÁMBITO PÚBLICO Y LABORAL? ",
+        "diputado": [
+            {
+                "apellidos": "Pozueta Fernández",
+                "apellidosNombre": "Pozueta Fernández, Isabel",
+                "codParlamentario": 65,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Isabel",
+                "nombreCircunscripcion": "Navarra"
+            },
+            1
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "POZUET A FERNÁNDEZ"
+    },
+    "text": "Gracias. Señoría, le hacemos esta pregunta porque planea una idea generalizada de que algo ocultan y no se le hace frente. Durante las últimas semanas, frente a la segunda ola, se han limitado las reuniones familiares, el ocio e incluso la cultura, pero los contagios siguen subiendo, porque mientras se restringe la vida de la ciudadanía los metros siguen abarrotados y las fábricas y empresas llenas de gente durante ocho o diez horas al día. Parece que, por lo que nos cuentan, el virus respeta las fábricas y empresas, los transportes y los barrios ricos. Ahí no se contagia. Curioso cuanto menos. Se podría pensar que, mientras a la ciudadanía se le piden sacrificios y cumple con el bienestar de todos y todas, esto no ocurre con las empresas y los transportes. En Navarra se cerró la empresa Uvesa, tras numerosas denuncias por parte de los trabajadores por el incumplimiento de las medidas sanitarias y de protección. No se les escuchó, no hubo inspección ni control, hasta que se tuvo que cerrar por un gran brote. Es de esperar que estas situaciones se estén dando en otras muchas empresas. ¡Qué decir de las imágenes diarias de metros y trenes o aviones llenos! Yo misma vengo todas las semanas a esta Cámara en tren desde Pamplona, tres horas de ida y tres horas de vuelta, sentada al lado de personas que no conozco. ¿Cree que esto no es un riesgo? Por ello le pregunto: ¿Qué medidas tomarán para contener los contagios en el ámbito público y laboral?"
+}

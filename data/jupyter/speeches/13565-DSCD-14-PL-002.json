@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "EL SIGUIENTE ORDEN DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO, PARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO ESTÁ EMPRENDIENDO Y TIENE PREVISTO EMPRENDER PARA LA APLICACIÓN DEL PLAN DE A YUDAS A LA HOSTELERÍA Y AL COMERCIO.",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Como se ha informado al principio de la sesión, los puntos 6 y 8 han sido retirados. Pasamos al punto número 7, petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión de Industria, Comercio y Turismo con el siguiente orden del día: Comparecencia de la ministra de Industria, Comercio y Turismo para informar sobre las acciones que el Gobierno está emprendiendo y tiene previsto emprender para la aplicación del plan de ayudas a la hostelería y al comercio. Para la defensa de la iniciativa, por el Grupo Parlamentario Popular en el Congreso, tiene la palabra la señora Borrego Cortés."
+}

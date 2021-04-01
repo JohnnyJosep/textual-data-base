@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-04T00:00:00.000Z",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DEL IMPUESTO SOBRE DETERMINADOS SERVICIOS DIGITALES. ",
+        "diputado": [
+            {
+                "apellidos": "Guijarro García",
+                "apellidosNombre": "Guijarro García, Txema",
+                "codParlamentario": 344,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Txema",
+                "nombreCircunscripcion": "Alicante/Alacant",
+                "twitter": "https://twitter.com/TxemaGuijarro",
+                "twitterUserId": "752439542859304960",
+                "twitterUserName": "TxemaGuijarro"
+            },
+            0
+        ],
+        "order": 35,
+        "path": "../data/diaries-txts/DSCD-14-PL-026.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUIJARRO GARCÍA"
+    },
+    "text": "Sí, voy terminando, señora presidenta."
+}

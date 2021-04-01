@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CARMEN RIOLOBOS REGADERA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿POR QUÉ NO HA DIMITIDO A PESAR DE LA EVOLUCIÓN DEL COVID-19 EN ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Ruiz de Pinedo Undiano",
+                "apellidosNombre": "Ruiz de Pinedo Undiano, Iñaki",
+                "codParlamentario": 64,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Iñaki",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/RuizdePinedo",
+                "twitterUserId": "596531845",
+                "twitterUserName": "RuizdePinedo"
+            },
+            21
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE SANIDAD (Illa Roca)"
+    },
+    "text": "Muchas gracias, señora presidente. Señoría, estamos en medio de una segunda ola en toda Europa del virus, y usted y yo tenemos prioridades distintas. Su prioridad parece ser la de derribar al Gobierno; la mía es la de derrotar al virus, y para conseguirlo hemos de seguir trabajando y, si es posible, todos juntos. Muchas gracias. (Aplausos)."
+}

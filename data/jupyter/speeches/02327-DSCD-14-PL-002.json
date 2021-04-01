@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON MANUEL MESTRE BAREA, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE DEFENSA: ¿QUÉ PLANES TIENE EL GOBIERNO EN RELACIÓN AL FUTURO DE LOS MILITARES DE MÁS DE CUARENTA Y CINCO AÑOS? ",
+        "diputado": [
+            {
+                "apellidos": "Mestre Barea",
+                "apellidosNombre": "Mestre Barea, Manuel",
+                "codParlamentario": 268,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Manuel",
+                "nombreCircunscripcion": "Alicante/Alacant",
+                "twitter": "https://twitter.com/mestremanuel",
+                "twitterUserId": "93471453",
+                "twitterUserName": "mestremanuel"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MESTRE BAREA"
+    },
+    "text": "Gracias, presidenta. Buenos días, señora ministra. ¿Qué planes tiene el Gobierno con relación al futuro de los militares de tropa y marinería que al cumplir los cuarenta y cinco años tienen que abandonar las Fuerzas Armadas en virtud de la Ley 8/2006?"
+}

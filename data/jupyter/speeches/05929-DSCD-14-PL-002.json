@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-14T00:00:00.000Z",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DE CAMBIO CLIMÁTICO Y TRANSICIÓN ENERGÉTICA. ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            0
+        ],
+        "order": 42,
+        "path": "../data/diaries-txts/DSCD-14-PL-034.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+    },
+    "text": "Señor presidente, pido la palabra sobre la base del artículo 103.1."
+}

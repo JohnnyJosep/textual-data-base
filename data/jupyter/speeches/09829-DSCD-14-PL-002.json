@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-15T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "diputado": [
+            {
+                "apellidos": "Oramas González-Moro",
+                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "codParlamentario": 161,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "CCa-PNC-NC",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 38,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "S/C Tenerife",
+                "twitter": "https://twitter.com/anioramas",
+                "twitterUserId": "479394745",
+                "twitterUserName": "anioramas"
+            },
+            0
+        ],
+        "order": 25,
+        "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ORAMAS GONZÁLEZ-MORO"
+    },
+    "text": "Termino ya. ... si uno de los dos no quiere pelear, no hay pelea. Muchas gracias, señor presidente."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 84,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "Con todo, el acuerdo alcanzado entre el PSOE y el BNG, que va a permitir avanzar y mejorar la calidad de vida de todos los gallegos y gallegas, así como nuestra responsabilidad política como fuerza democrática a la hora de cerrar el paso a esa derecha cada vez más ultra y más españolista, nos lleva a votar a favor de su investidura como presidente del Gobierno español. (Rumores.--Aplausos). No es un cheque en blanco ni mucho menos un acuerdo de legislatura, solo un apoyo puntual para posibilitar que haya un Gobierno y no nuevas elecciones. En ese sentido, quiero dejar claro que el BNG no se vincula ni se vinculará a su acción de Gobierno, salvo en lo concerniente al acuerdo establecido… (Una señora diputada pronuncia palabras que no se perciben)."
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-01T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 142,
+        "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "Se aprueba, se publica y luego no se cumple."
+}

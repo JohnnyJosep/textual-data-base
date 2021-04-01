@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SERGIO SAYAS LÓPEZ, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CUÁNDO TIENE PREVISTO EL GOBIERNO CELEBRAR UNA REUNIÓN DE LA COMISIÓN COORDINADORA DEL CONVENIO ECONÓMICO PARA ABORDAR LA PARTICIPACIÓN DE LA COMUNIDAD FORAL DE NAVARRA EN EL REPARTO DEL FONDO DE 16 000 MILLONES DE EUROS PARA LAS COMUNIDADES AUTÓNOMAS ANUNCIADO POR EL GOBIERNO DE ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 4,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señora ministra. Señor Sayas López."
+}

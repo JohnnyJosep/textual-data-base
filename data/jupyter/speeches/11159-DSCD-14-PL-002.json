@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿RESPONDE LA REFORMA EN TRÁMITE A LAS VERDADERAS NECESIDADES DEL SISTEMA EDUCATIVO ESPAÑOL? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            45
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL (Celaá Diéguez)"
+    },
+    "text": "Señora Olona, efectivamente es necesaria, muy necesaria. Y le voy a decir por qué, porque sitúa la equidad en el centro del sistema. Esta era una cuestión absolutamente esencial. Pensamos en la equidad no en términos exclusivos de acceso universal a la educación, sino de su conclusión con éxito. Por eso, es necesaria. (Aplausos)."
+}

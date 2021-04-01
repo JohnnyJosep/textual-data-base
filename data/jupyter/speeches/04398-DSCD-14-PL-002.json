@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 20/2020, DE 29 DE MAYO, POR EL QUE SE ESTABLECE EL INGRESO MÍNIMO VITAL. ",
+        "diputado": [
+            {
+                "apellidos": "Nogueras i Camero",
+                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "codParlamentario": 27,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Míriam",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/miriamnoguerasM",
+                "twitterUserId": "343507680",
+                "twitterUserName": "miriamnoguerasM"
+            },
+            0
+        ],
+        "order": 84,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "NOGUERAS I CAMERO"
+    },
+    "text": "No, no lo retiro."
+}

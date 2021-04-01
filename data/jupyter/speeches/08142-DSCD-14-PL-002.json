@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-22T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, RELATIVA A LA REGULARIZACIÓN EXPRÉS DE PERSONAS INMIGRANTES EN LOS ÁMBITOS SANITARIO, DE LOS CUIDADOS Y AGRARIO. ",
+        "diputado": [
+            {
+                "apellidos": "Franco Carmona",
+                "apellidosNombre": "Franco Carmona, Isabel",
+                "codParlamentario": 321,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Isabel",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/Isabel_Franco_",
+                "twitterUserId": "302453497",
+                "twitterUserName": "Isabel_Franco_"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "FRANCO CARMONA"
+    },
+    "text": "Termino, señor presidente. Como dirían nuestras compañeras de Barcelona: el amor gana al odio siempre. (Aplausos)."
+}

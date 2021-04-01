@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-23T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA QUE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PUEDAN PROTEGER A LOS ESPAÑOLES DE LOS ASALTOS Y OCUPACIONES ILEGALES DE SUS PROPIEDADES. ",
+        "diputado": [
+            {
+                "apellidos": "Elizo Serrano",
+                "apellidosNombre": "Elizo Serrano, María Gloria",
+                "codParlamentario": 300,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "María Gloria",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/gloriaelizo",
+                "twitterUserId": "301403189",
+                "twitterUserName": "gloriaelizo"
+            },
+            17
+        ],
+        "order": 8,
+        "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Elizo Serrano)"
+    },
+    "text": "Muchas gracias. Por el Grupo Euskal Herria Bildu tiene la palabra el señor Matute García de Jalón."
+}

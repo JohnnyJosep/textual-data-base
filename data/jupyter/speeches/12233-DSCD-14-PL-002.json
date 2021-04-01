@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-02T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Cantera de Castro",
+                "apellidosNombre": "Cantera de Castro, Zaida",
+                "codParlamentario": 38,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Zaida",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ZaidaCantera",
+                "twitterUserId": "2610041328",
+                "twitterUserName": "ZaidaCantera"
+            },
+            31
+        ],
+        "order": 193,
+        "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE UNIVERSIDADES (Castells Oliván)"
+    },
+    "text": "Señorías, buenas tardes. Comparezco ante ustedes para presentarles el presupuesto del Ministerio de Universidades para 2021. Este presupuesto se sitúa en el marco de los Presupuestos Generales del Estado que presenta nuestro Gobierno a su consideración. Se trata de los presupuestos más expansivos de nuestra historia reciente que, en caso de contar con su aprobación, permitirán atender la emergencia sanitaria…, (Rumores)."
+}

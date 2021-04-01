@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL ÁMBITO SOCIAL Y ECONÓMICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 76,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Queda rechazada. Finalmente, punto 22. Petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión de Trabajo, Inclusión, Seguridad Social y Migraciones con el siguiente orden del día: Comparecencia del Ministro de Inclusión, Seguridad Social y Migraciones para que aclare si se va a ampliar de veinticinco a treinta y cinco años el periodo de cotización para el cálculo de las pensiones y si la implementación de esta medida supondrá un recorte de hasta un 6% en las futuras pensiones. Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 68; a favor, 65; abstenciones, 3."
+}

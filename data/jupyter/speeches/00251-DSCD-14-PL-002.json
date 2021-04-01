@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            0
+        ],
+        "order": 81,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DE JALÓN"
+    },
+    "text": "Hoy más que nunca hacemos nuestra la proclama zapatista que dice que el pueblo manda y el Gobierno obedece. Mila esker. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario Euskal Herria Bildu y del Grupo Parlamentario Republicano, puestos en pie)."
+}

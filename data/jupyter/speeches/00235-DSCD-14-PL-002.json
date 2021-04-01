@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 65,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "¿Están ustedes insultando a la señora Oramas diciendo que ha hecho un ‘tamayazo’? Es más, ¿ustedes están diciendo que la señora Batet, a quienes ustedes han hecho presidenta de las Cortes, hizo un ‘tamayazo’ cuando se saltó la disciplina de voto del Partido Socialista para votar que sí al referéndum de secesión? (Aplausos). ¿Es lo que están ustedes diciendo? Se saltan muchas veces la disciplina de voto, sáltensela una vez por la igualdad de todos los españoles, sáltensela una vez para garantizar la convivencia, que solo cuando se la saltan lo hacen por la desigualdad y por los privilegios territoriales. (Rumores)."
+}

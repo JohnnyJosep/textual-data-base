@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN LUIS PEDREÑO MOLINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CUÁLES SON LOS PLANES EXACTOS DEL GOBIERNO RESPECTO AL USO DE TÉCNICAS DE GEOLOCALIZACIÓN DE LOS CIUDADANOS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            91
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA TERCERA DEL GOBIERNO Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL (Calviño Santamaría)"
+    },
+    "text": "Muchas gracias, presidenta. Señoría, la verdad es que no tengo muy claro el objetivo de su pregunta. Estaba intrigada después de oír al señor Casado hablar de que quería implantar la huella digital. Me he quedado igual de confusa con su pregunta. Lo cierto es que hemos puesto en marcha un conjunto de aplicaciones, la de autodiagnóstico ha servido para descargar todos los sistemas de 112 y de consulta telefónica. Yo creo que ha sido útil. Pusimos en marcha un piloto en Madrid y hay otras comunidades autónomas que se han unido después a esta aplicación. Me parece que está teniendo un resultado positivo, y no entiendo ninguna crítica por su parte. En segundo lugar, la aplicación de control de la movilidad ha respondido al objetivo principal de control de la pandemia, porque como usted sabe, supongo, todos los modelos epidemiológicos consideran la movilidad de las personas como el elemento más determinante para la expansión del virus. Es decir, que hemos establecido un mecanismo con la colaboración de las empresas telefónicas sin ningún tipo de dato personal --creo que usted mismo lo ha dicho--, y por tanto sin ningún tipo de riesgo para la privacidad y los datos personales de las personas, que, junto con el Instituto Nacional de Estadística, nos proporciona información muy valiosa sobre los movimientos de las personas en todo el territorio nacional. Es un instrumento útil durante el control, va a ser un instrumento muy útil en la desescalada, y seguiremos utilizando todos los instrumentos digitales que puedan ayudarnos a luchar contra la emergencia sanitaria y a mejorar la vida de los ciudadanos españoles. Muchas gracias. (Aplausos)."
+}

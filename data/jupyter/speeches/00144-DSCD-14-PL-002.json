@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Rufián Romero",
+                "apellidosNombre": "Rufián Romero, Gabriel",
+                "codParlamentario": 187,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Gabriel",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/gabrielrufian",
+                "twitterUserId": "2904896141",
+                "twitterUserName": "gabrielrufian"
+            },
+            0
+        ],
+        "order": 136,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUFIÁN ROMERO"
+    },
+    "text": "Intervendré muy brevemente. Señor Sánchez, un matiz: no se trata tanto de imponer a uno o a otro hablar de identidades, porque, al final, ¿la identidad qué es? Sentirse catalán, sentirse español, sentirse de Tombuctú, ¿qué es? Yo, por ejemplo, no renuncio a Machado, no renuncio a Cervantes, no renuncio a Rosalía, no renuncio a Alejandro Sanz, no renuncio a un montón de cosas que forman parte de mi cultura. (Rumores). Pero la buena noticia --o la mala, según para quién-- es que yo no soy una excepción. Esta gente, cuando me habla de Pujol, del 3 per cent y tal… Si Pujol era más suyo que nuestro: fue español del año, primero pactó con Felipe y después con Aznar. En definitiva, hablemos y dialoguemos, porque lo que tenemos enfrente es esto. Y bienvenidos otra vez a la senda del diálogo. Muchas gracias. (Aplausos)."
+}

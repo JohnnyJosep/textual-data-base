@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-29T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO. -- COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO EL 23 DE ABRIL, PARA INFORMAR DEL CONSEJO EUROPEO ORDINARIO CELEBRADO EL DÍA 19 DE JUNIO, ASÍ COMO DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 17, 18, 19, 20 Y 21 DE JULIO DE 2020. ",
+        "diputado": [
+            {
+                "apellidos": "Mazón Ramos",
+                "apellidosNombre": "Mazón Ramos, José María",
+                "codParlamentario": 349,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PRC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Cantabria"
+            },
+            0
+        ],
+        "order": 59,
+        "path": "../data/diaries-txts/DSCD-14-PL-039.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MAZÓN RAMOS"
+    },
+    "text": "De todas formas, en Cantabria nos estamos poniendo las pilas para aprobar unas estrategia en el menor tiempo posible y estamos expectantes por conocer la estrategia del Gobierno, también por comprobar los compromisos que tiene con Cantabria y que deben cumplirse en este mes de julio. Muchas gracias"
+}

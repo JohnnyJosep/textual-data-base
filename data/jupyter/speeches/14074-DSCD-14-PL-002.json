@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: --ACTUAL Y FUTURA-- DE LAS COMUNIDADES AUTÓNOMAS. ",
+        "diputado": [
+            {
+                "apellidos": "Garcés Sanagustín",
+                "apellidosNombre": "Garcés Sanagustín, Mario",
+                "codParlamentario": 219,
+                "fchAlta": "26/11/2016",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 22,
+                "idLegislatura": 14,
+                "nombre": "Mario",
+                "nombreCircunscripcion": "Huesca",
+                "twitter": "https://twitter.com/MarioGarcesSan",
+                "twitterUserId": "808948514155855872",
+                "twitterUserName": "MarioGarcesSan"
+            },
+            0
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÉS SANAGUSTÍN"
+    },
+    "text": "Acabo. Muchas gracias, señor presidente. Por tanto, le pido, por favor, en este sentido que iniciemos los trabajos y que lo hagamos con lealtad. Estaremos con lealtad, ministra, aplicando los principios, pero no reventemos con discursos espurios, completamente injustos, el trabajo bien hecho de algunas comunidades autónomas que solamente pugnan por la libertad y por la igualdad en nuestro país. Muchísimas gracias. (Aplausos)."
+}

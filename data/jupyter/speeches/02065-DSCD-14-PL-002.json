@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO SOCIALIST A, ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. ",
+        "diputado": [
+            {
+                "apellidos": "Cabezón Casas",
+                "apellidosNombre": "Cabezón Casas, Tomás",
+                "codParlamentario": 28,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 42,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Soria",
+                "twitter": "https://twitter.com/tcabcas",
+                "twitterUserId": "516834154",
+                "twitterUserName": "tcabcas"
+            },
+            0
+        ],
+        "order": 91,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CABEZÓN CASAS"
+    },
+    "text": "Muchas gracias, presidente. Señor Baldoví, comprendo sus nervios, pero yo en su lugar votaría a favor de esa comisión de investigación por los abusos, para que se aclarara cualquier duda sobre esas personas a las que usted hoy aquí ha defendido. Eso es lo que usted debería hacer."
+}

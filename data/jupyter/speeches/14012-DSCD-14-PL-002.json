@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "VOX. -- DEL DIPUTADO DON CARLOS GARCÍA ADANERO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿TIENE PREVISTO EL GOBIERNO DE ESPAÑA LLEVAR A CABO ALGUNA ACTUACIÓN DIRIGIDA A CUMPLIR LA MOCIÓN APROBADA POR EL PARLAMENTO DE NAVARRA EL PASADO 21 DE ENERO EN QUE LE INSTA A APLICAR UNA POLÍTICA PENITENCIARIA QUE FACILITE EL ACERCAMIENTO DE PRESOS? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Muchas gracias, señor García Adanero. En materia penitenciaria el Gobierno, como ha venido reiterando ya en esta Cámara en distintas ocasiones, se limitará en todo caso y en todo momento a aplicar la ley. (Aplausos)."
+}

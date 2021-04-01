@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IVÁN ESPINOSA DE LOS MONTEROS DE SIMÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿POR QUÉ EL GOBIERNO SE DESENTIENDE DE LOS PROBLEMAS REALES DE LOS ESPAÑOLES? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPINOSA DE LOS MONTEROS DE SIMÓN"
+    },
+    "text": "Señora vicepresidenta, hemos presentado una enmienda a la totalidad porque no queremos ser totalmente responsables de los presupuestos de la ruina, pero no vamos a presentar enmiendas a la parcialidad porque tampoco queremos ser ni siquiera parcialmente responsables de los presupuestos de la ruina de los españoles. (Aplausos)."
+}

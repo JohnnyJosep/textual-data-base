@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-17T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 34/2020, DE 17 DE NOVIEMBRE, DE MEDIDAS URGENTES DE APOYO A LA SOLVENCIA EMPRESARIAL Y AL SECTOR ENERGÉTICO, Y EN MATERIA TRIBUTARIA. ",
+        "diputado": [
+            {
+                "apellidos": "Bel Accensi",
+                "apellidosNombre": "Bel Accensi, Ferran",
+                "codParlamentario": 14,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 43,
+                "idLegislatura": 14,
+                "nombre": "Ferran",
+                "nombreCircunscripcion": "Tarragona",
+                "twitter": "https://twitter.com/ferran_bel",
+                "twitterUserId": "352930189",
+                "twitterUserName": "ferran_bel"
+            },
+            0
+        ],
+        "order": 11,
+        "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BEL ACCENSI"
+    },
+    "text": "Sí, termino. Esperemos que los Reyes, los magos de Oriente --no los otros--, nos traigan esto."
+}

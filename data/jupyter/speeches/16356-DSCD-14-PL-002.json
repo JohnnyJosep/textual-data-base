@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLA VIJO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿HAY ALGUIEN A QUIEN NO PIENSE TRAICIONAR EL GOBIERNO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            103
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA (Calvo Poyato)"
+    },
+    "text": "Gracias, señora presidenta. Señora Gamarra, lo que hace este Gobierno sin su ayuda empieza por te, por dos tes: tajo y trabajo (varias señoras y señores diputados: ¡Oooh!), cada día durante un año, sin que ustedes hayan ayudado ni un solo instante, tampoco hoy con la pregunta que ha hecho. (Aplausos)."
+}

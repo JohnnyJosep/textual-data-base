@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-21T00:00:00.000Z",
+        "debate": "MOCIÓN DE CENSURA: -- MOCIÓN DE CENSURA AL GOBIERNO PRESIDIDO POR DON PEDRO SÁNCHEZ PÉREZ- CASTEJÓN, QUE INCLUYE COMO CANDIDATO A LA PRESIDENCIA DEL GOBIERNO A DON SANTIAGO ABASCAL CONDE. ",
+        "diputado": [
+            {
+                "apellidos": "Santiago Romero",
+                "apellidosNombre": "Santiago Romero, Enrique Fernando",
+                "codParlamentario": 45,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Enrique Fernando",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ensanro",
+                "twitterUserId": "",
+                "twitterUserName": "ensanro"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-055.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SANTIAGO ROMERO"
+    },
+    "text": "Simplemente, conforme a lo establecido en el artículo 71 del Reglamento de la Cámara y a la vista de las alusiones personales, quería dejar constancia, en primer lugar, de que es un honor haber participado en un proceso de paz que ha merecido un Premio Nobel de la Paz. Y, en segundo lugar, para acreditar las falsedades vertidas, querría saber si se podía incorporar al acta el informe de la DEA del año 2019. Muchas gracias. (Aplausos)."
+}

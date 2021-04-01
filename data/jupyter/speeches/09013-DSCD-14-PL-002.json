@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA ROSA MARÍA ROMERO SÁNCHEZ, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿HA DADO EL GOBIERNO TODAS LAS EXPLICACIONES QUE TIENE QUE DAR SOBRE SU GESTIÓN DE LA PANDEMIA DE COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Romero Sánchez",
+                "apellidosNombre": "Romero Sánchez, Rosa María",
+                "codParlamentario": 36,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 13,
+                "idLegislatura": 14,
+                "nombre": "Rosa María",
+                "nombreCircunscripcion": "Ciudad Real",
+                "twitter": "https://twitter.com/rosaromerocr",
+                "twitterUserId": "253968932",
+                "twitterUserName": "rosaromerocr"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ROMERO SÁNCHEZ"
+    },
+    "text": "Señor ministro, su Gobierno llegó tarde en la aplicación de las medidas: los EPI no llegaron a tiempo; primero mascarillas, no, y luego mascarillas, sí; ocultaron informes y no reconocen el número real de fallecidos. ¿Cree que han dado todas las explicaciones que tiene que dar su Gobierno? (Aplausos)."
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TOMÁS GUITARTE GIMENO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO. ¿CON QUÉ CRITERIOS SE VAN A SELECCIONAR LOS PROYECTOS PRESENTADOS AL PLAN DE MEDIDAS ANTE EL RETO DEMOGRÁFICO, ENTRE LAS MÁS DE 4200 PROPUESTAS QUE HA RECIBIDO EL MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO? ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "Gracias. Señora vicepresidenta, ¿con qué criterio se van a seleccionar los proyectos presentados al Plan de medidas ante el reto demográfico entre las más de 4200 propuestas que ha recibido el Ministerio para la Transición Ecológica y el Reto Demográfico?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-29T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO. -- COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO EL 23 DE ABRIL, PARA INFORMAR DEL CONSEJO EUROPEO ORDINARIO CELEBRADO EL DÍA 19 DE JUNIO, ASÍ COMO DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 17, 18, 19, 20 Y 21 DE JULIO DE 2020. ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-039.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Gracias, señora presidenta. Señores del Grupo Socialista, ¿qué aplauden tanto? ¿De qué se ríen tanto? Yo traía un discurso escrito sobre los Consejos Europeos, y, sinceramente, como padre de dos niños, como nieto, como hijo, como español, no entiendo lo que está pasando en esta sesión. (Rumores)."
+}

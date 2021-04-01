@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-20T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 3/2020, DE 4 DE FEBRERO, DE MEDIDAS URGENTES POR EL QUE SE INCORPORAN AL ORDENAMIENTO JURÍDICO ESPAÑOL DIVERSAS DIRECTIVAS DE LA UNIÓN EUROPEA EN EL ÁMBITO DE LA CONTRATACIÓN PÚBLICA EN DETERMINADOS SECTORES; DE SEGUROS PRIVADOS; DE PLANES Y FONDOS DE PENSIONES; DEL ÁMBITO TRIBUTARIO Y DE LITIGIOS FISCALES. ",
+        "diputado": [
+            {
+                "apellidos": "Casares Hontañón",
+                "apellidosNombre": "Casares Hontañón, Pedro",
+                "codParlamentario": 347,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Cantabria",
+                "twitter": "https://twitter.com/pedro_casares",
+                "twitterUserId": "378525757",
+                "twitterUserName": "pedro_casares"
+            },
+            0
+        ],
+        "order": 35,
+        "path": "../data/diaries-txts/DSCD-14-PL-011.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASARES HONTAÑÓN"
+    },
+    "text": "Termino. Tienen ustedes un compromiso no con este Gobierno, no con esta Cámara, sino con los hombres y mujeres de este país. Por tanto, les pedimos que recapaciten y que voten a favor de la convalidación de este real decreto-ley. Muchísimas gracias. (Aplausos)."
+}

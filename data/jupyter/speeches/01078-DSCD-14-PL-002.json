@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "José Vélez",
+                "apellidosNombre": "José Vélez, Rafael",
+                "codParlamentario": 361,
+                "fchAlta": "17/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Rafael",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/rafajosevelez",
+                "twitterUserId": "504365221",
+                "twitterUserName": "rafajosevelez"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "JOSÉ VÉLEZ"
+    },
+    "text": "Sí, prometo."
+}

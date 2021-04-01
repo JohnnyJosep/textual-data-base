@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIÓN DE REFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE REFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS SOBRE LA FORMA EN QUE SE HA DE PRESTAR EL JURAMENTO O PROMESA DE ACATAMIENTO A LA CONSTITUCIÓN. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Comenzamos con la toma en consideración de la proposición del Grupo Parlamentario Popular en el Congreso, de reforma del Reglamento del Congreso de los Diputados sobre la forma en que se ha de prestar el juramento o promesa de acatamiento a la Constitución. Para la presentación de esta iniciativa tiene la palabra el señor Rojas García."
+}

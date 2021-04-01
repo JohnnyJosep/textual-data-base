@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-15T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 24/2020, DE 26 DE JUNIO, DE MEDIDAS SOCIALES DE REACTIVACIÓN DEL EMPLEO Y PROTECCIÓN DEL TRABAJO AUTÓNOMO Y DE COMPETITIVIDAD DEL SECTOR INDUSTRIAL. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 91,
+        "path": "../data/diaries-txts/DSCD-14-PL-035.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Real Decreto-ley 25/2020, de 3 de julio, de medidas urgentes para apoyar la reactivación económica y el empleo. Comienza la votación. (Pausa.) Efectuada la votación, dio el siguiente resultado: votos emitidos, 160 más 187 votos telemáticos, 347; a favor, 84 más 117 votos telemáticos, 201; en contra, 1 voto telemático; abstenciones, 76 más 69 votos telemáticos, 145."
+}

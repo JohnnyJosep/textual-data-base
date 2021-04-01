@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 94,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "¿Podemos utilizar el tiempo de la réplica?"
+}

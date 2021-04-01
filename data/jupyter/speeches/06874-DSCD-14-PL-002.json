@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "CON EL SIGUIENTE ORDEN DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL, PARA INFORMAR DE LAS MEDIDAS DEL GOBIERNO QUE ASEGUREN UN INICIO DEL CURSO ESCOLAR 2020/2021 EN LAS MISMAS CONDICIONES DE SEGURIDAD PARA TODOS LOS ALUMNOS, PROFESORES Y PERSONAL DE LOS CENTROS EDUCATIVOS.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 43,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Queda rechazada. Punto 11. Petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión de Sanidad y Consumo, con el siguiente orden del día: Comparecencia del Ministro de Sanidad, para informar sobre las razones del desfase de cifras de pacientes hospitalizados por COVID-19 entre los informes dados a conocer públicamente por su ministerio y los datos remitidos al mismo por parte de las comunidades autónomas. Efectuada la votación, dio el siguiente resultado: votos a favor, 31; en contra, 32; abstenciones, 5."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 118,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Acabo ya. Si rompe los pactos con estos radicales y si quiere estabilidad en las políticas de Estado y de reconstrucción europea, encontrará al Partido Popular donde ha estado siempre en la historia democrática. Es usted el que ha cambiado. Es usted el que denigra la historia de su partido y la historia de España pactando con ellos, que dicen públicamente que quieren derribar a esta gran nación, que sobrevivirá incluso a pesar de ustedes. Muchas gracias. (Varios señores diputados: ¡Bravo!, ¡Bravo!, ¡Muy bien!--Aplausos de las señoras y los señores diputados del Grupo Parlamentario Popular en el Congreso, puestos en pie)."
+}

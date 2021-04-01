@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-12T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ANA BELÉN VÁZQUEZ BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ INSTRUCCIONES DIO EL GOBIERNO A LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PARA EL CUMPLIMIENTO ESTRICTO DE LA DECISIÓN (PESC) 2017/2074 DEL CONSEJO, DE 13 DE NOVIEMBRE DE 2017, ANTE LA PRESENCIA DE LA VICEPRESIDENTA DE VENEZUELA EN SUELO ESPAÑOL, QUE HAN OCASIONADO --ENTRE OTRAS-- LAS QUEJAS EL PASADO SÁBADO DEL REPRESENTANTE ESPECIAL DE ESTADOS UNIDOS EN VENEZUELA ELIOT ABRAMS ADVIRTIENDO DE QUE SE PODRÍA HABER VIOLADO LA DECISIÓN DE LAS AUTORIDADES DE LA UNIÓN EUROPEA? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señora Vázquez, voy a ser muy breve. No es cuestión de lanzar palabras ni discursos. Quiero decir que este ministro a la Policía y a la Guardia Civil simplemente les da una indicación desde el primer día, desde el 7 de junio de 2018: cumplimiento de la ley. En este caso, como en otros, se cumplió la ley. La vicepresidenta del Gobierno venezolano no entró en espacio Schengen. (Rumores)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CONSIDERA EL VICEPRESIDENTE SEGUNDO QUE TIENE ALGUNA RESPONSABILIDAD EN EL HECHO DE QUE EL GOBIERNO DE ESPAÑA SEA EL QUE PEOR HA GESTIONADO LA PANDEMIA DEL COVID EN EUROPA? ",
+        "diputado": [
+            {
+                "apellidos": "García Egea",
+                "apellidosNombre": "García Egea, Teodoro",
+                "codParlamentario": 310,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Teodoro",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/teogarciaegea",
+                "twitterUserId": "224074203",
+                "twitterUserName": "teogarciaegea"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA EGEA"
+    },
+    "text": "Señor Iglesias, hay que salir más, que España es muy diversa en los acentos y hay que aprender a entenderlos todos. (Aplausos). Señor Iglesias, España suma en dos semanas tantos casos de coronavirus como Italia, Alemania, Francia y Reino Unido. ¿Sabe por qué? Porque a un italiano que viene a España no se le obliga a hacer ningún test, pero a un español que va a Italia sí se le obliga a hacer un test. Entiendo que usted no esté en esto, que esté en sus líos y en sus escándalos judiciales, que le tienen muy ocupado, y que por eso quiera usted meter la mano en los jueces con la ayuda del señor Sánchez, porque hoy Podemos tiene la peor cantera pero el mejor banquillo de la política española. Por eso, cuando ustedes gobiernan las preocupaciones de los españoles cambian: normalmente los españoles están preocupados por saber dónde van de vacaciones, y ahora los españoles están preocupados por saber si cuando vuelven de vacaciones su vivienda está ocupada. Con esa excelente vocalización y esa voz campanuda, debería recoger la mano tendida de Pablo Casado, que ha propuesto en la Cámara una ley antiocupación, la única esperanza de miles de españoles para que al volver a casa no haya alguien en su vivienda. Entiendo que usted no tiene este problema, pero hay mucha gente que sí lo tiene. (Risas). Vino usted a ser el Robin Hood de la política española y ha acabado siendo el figurante en la foto del IBEX. Se les acaba el tiempo a usted y a su Gobierno. Tic-tac, señor Iglesias. (Aplausos.--Rumores)."
+}

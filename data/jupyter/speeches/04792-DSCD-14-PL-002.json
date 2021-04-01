@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿MANTIENE EL GOBIERNO QUE SALDREMOS MÁS FUERTES DE ESTA CRISIS? ",
+        "diputado": [
+            {
+                "apellidos": "Abascal Conde",
+                "apellidosNombre": "Abascal Conde, Santiago",
+                "codParlamentario": 43,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Santiago",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Santi_ABASCAL",
+                "twitterUserId": "260788584",
+                "twitterUserName": "Santi_ABASCAL"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ABASCAL CONDE"
+    },
+    "text": "Buenos días, señor Sánchez. ¿Mantiene usted que salimos más fuertes? ¿Podría decirnos si tiene algún tipo de dato objetivo para sostenerlo o si estamos ante la propaganda vacía que le recomiendan de nuevo sus asesores? Muchas gracias."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-09T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN.",
+        "diputado": [
+            {
+                "apellidos": "Pagès i Massó",
+                "apellidosNombre": "Pagès i Massó, Josep",
+                "codParlamentario": 379,
+                "fchAlta": "09/03/2021",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Josep",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/jpagesm",
+                "twitterUserId": "1347580676",
+                "twitterUserName": "jpagesm"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-084.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PAGÈS I MASSÓ"
+    },
+    "text": "Lleial a l’mandat de l’1 d’octubre, per la llibertat dels presos polítics i el retorn dels exiliats, (protestas), per imperatiu legal, jo prometo."
+}

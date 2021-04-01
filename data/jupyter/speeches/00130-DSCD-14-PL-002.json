@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Rufián Romero",
+                "apellidosNombre": "Rufián Romero, Gabriel",
+                "codParlamentario": 187,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Gabriel",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/gabrielrufian",
+                "twitterUserId": "2904896141",
+                "twitterUserName": "gabrielrufian"
+            },
+            0
+        ],
+        "order": 122,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUFIÁN ROMERO"
+    },
+    "text": "Pero lo que no unió el afecto lo ha unido el espanto. (Un señor diputado: Es una vergüenza.--Rumores). Se ha escrito mucho y se escribirá aún más sobre este acuerdo, pero no es ni más ni menos que un instrumento creado por dos equipos de trabajo de los dos partidos ganadores de las elecciones en Cataluña y en España, Esquerra Republicana y el PSOE, al servicio del diálogo, al servicio de la política; en el caso de Esquerra Republicana, al servicio de nuestro país, al servicio de Cataluña. Esto no será en cualquier caso, pase lo que pase, la victoria o el fracaso de un partido, ni mucho menos de Esquerra Republicana; esto será la victoria o el fracaso, pase lo que pase, de un país. Esquerra Republicana pone al servicio de Cataluña y de la política la fuerza de sus trece diputados y diputadas en la investidura para la creación de una solución, porque Esquerra Republicana no es el problema, ni siquiera es parte del problema, Esquerra Republicana es la solución. (Rumores). Es un partido al servicio de un país y no un país al servicio de un partido. (Aplausos). Mesa de Govern a Gobierno, con cuatro pilares, con cuatro bases claras que aglutinan el sentir, que aglutinan el consenso de hasta el 80 % de la población de Cataluña, y ahí, a la fuerza, hay votantes suyos: del PP, de Ciudadanos e incluso, por qué no decirlo, de VOX; son lentejas. Uno --primera base--, entre iguales: reconocimiento mutuo y respeto mutuo institucional, desjudicialización y activación de la vía política. Dos, sin vetos: se habla de todo y con todos; nosotros llevamos ochenta y nueve años de historia defendiendo la autodeterminación de Cataluña, no engañamos a nadie y estaremos encantados de escuchar sus propuestas. (Protestas)."
+}

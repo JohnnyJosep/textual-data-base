@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ISIDRO MANUEL MARTÍNEZ OBLANCA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿QUÉ MEDIDAS ESTÁ APLICANDO EL GOBIERNO PARA REVERTIR URGENTEMENTE LA DERIVA DE LA INDUSTRIA ASTURIANA REFLEJADA EN EL DESPLOME DE SU PRODUCCIÓN, LOS ALTOS COSTES ENERGÉTICOS Y LA CRÍTICA SITUACIÓN DE UN SECTOR AMENAZADO POR CIERRES, DESLOCALIZACIONES Y LA DESTRUCCIÓN DE MILES DE PUESTOS DE TRABAJO? ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Oblanca",
+                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "codParlamentario": 20,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP-FORO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Isidro Manuel",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/imoblanca",
+                "twitterUserId": "3108277737",
+                "twitterUserName": "imoblanca"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ OBLANCA"
+    },
+    "text": "Muchas gracias, señora presidenta. Señora ministra, lleva usted camino de cumplir tres años como responsable de Industria y también en esta materia el panorama ha ido de mal en peor. Lo certifica el Instituto Nacional de Estadística, que en estos pasados días ha publicado datos demoledores respecto al año 2020, como que la producción industrial cayó un –9,1 % en España y en Asturias un 13,9 % y que el sector fabril asturiano registró el mayor desplome anual de facturación, con un –19,4 %, casi el doble que la media nacional. Pensando en el empleo, le pregunto por sus medidas para revertir urgentemente esta preocupante deriva. Muchas gracias."
+}

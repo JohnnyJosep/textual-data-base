@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO ERREJÓN GALVÁN, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL GOBIERNO: ¿TIENE PREVISTO EL GOBIERNO ALGUNA MEDIDA FISCAL PARA RECAUDAR DE QUIENES MÁS TIENEN LOS RECURSOS NECESARIOS PARA LUCHAR CONTRA LA COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Errejón Galván",
+                "apellidosNombre": "Errejón Galván, Íñigo",
+                "codParlamentario": 233,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÁS PAÍS-EQUO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Íñigo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ierrejon",
+                "twitterUserId": "482389606",
+                "twitterUserName": "ierrejon"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ERREJÓN GALVÁN"
+    },
+    "text": "Gracias, señora ministra. Me constan esas voluntades, aunque no hemos visto todavía ninguna desarrollada. Es verdad que había toda una serie de propuestas, digamos, en materia de avance hacia una fiscalidad más justa, pero el momento es excepcional. El confinamiento es correcto, pero es caro; es caro porque requiere recursos para proteger a las familias españolas que se confinan --y ahí tenemos que volver a insistir en una renta de cuarentena, porque mucha gente se está quedando por el camino sin poder acceder a las ayudas, que tienen muchos requisitos--; y es caro, porque va a requerir de mucha inversión pública para volver a arrancar la economía, diversificar nuestro aparato productivo y modernizarlo con una transición ecológica. Claro, la pregunta fundamental en este caso es: ¿quién va a pagar esto? Existen dos opciones: esto se puede pagar vía aumento de los ingresos públicos o se puede pagar, a la postre, vía recortes que van a acabar pagando los de siempre, quienes pagaron la anterior crisis. Lo sabe usted mejor que yo, señora ministra: para que haya un aumento en los ingresos públicos hay que poner orden en el sistema fiscal español, que es un sistema profundamente injusto e ineficaz, que descansa sobre los hombros de las clases medias y trabajadoras y permite que los millonarios, si quieren, se puedan desentenderse de nuestro país. Así sucede que recaudamos 7,5 puntos menos que la media de la eurozona y dejamos de percibir 80 000 millones de euros, que ahora nos vendrían muy bien para política económica y de reconstrucción nacional. Por eso, Más País les propone una tasa COVID para equilibrar la balanza, una tasa COVID para hacer dos cosas: una, establecer dos tramos más en el IRPF para quienes más dinero tienen, para quienes ganan hasta 100 000 y hasta 600 000 euros --la derecha llama a esto clases medias y la matemática lo llama el 1 %--; y dos, aumentar 1,5 puntos a quienes declaran más de un millón de euros en el impuesto sobre el patrimonio. Señora ministra, estaremos de acuerdo en que este es un momento de solidaridad nacional, pero a veces en estos momentos los señoritos que se llenan la boca gritando España, cuando tienen que elegir entre patria y patrimonio, eligen siempre patrimonio. Usted y yo sabemos que no va a haber reconstrucción de nuestro país si no hay justicia fiscal, y créame si le digo que este es el momento para hacerlo, por emergencia nacional, por comprensión de la mayor parte de la ciudadanía y por un espíritu y una evidencia cívica y republicana: no vamos a tener un país del siglo XXI si los millonarios siguen pagando impuestos como en el siglo XIX. Muchas gracias."
+}

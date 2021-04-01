@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON GABRIEL RUFIÁN ROMERO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿EL GOBIERNO ESTÁ CUMPLIENDO CON TODAS LAS MEDIDAS CONTENIDAS EN LOS REALES DECRETOS PARA AFRONTAR LA CRISIS DEL COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            103
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA (Calvo Poyato)"
+    },
+    "text": "Gracias, señora presidenta. Señor Rufián, naturalmente. Para eso hemos reaccionado rápido, en muchas direcciones, con legislación de urgencia que hemos traído a la Cámara y que ustedes han apoyado. Se trata justamente de algo que ha salido esta mañana aquí, en las preguntas al presidente; se trata de que la situación que va a arrastrar a nuestro país, que ya ha arrastrado a nuestro país por la pandemia, no sea una crisis de la que salgamos con insolidaridad, sin justicia social, sin igualdad, sin protección a quienes la necesitan, protegiendo a la vez nuestra economía para levantarnos pronto. (Aplausos)."
+}

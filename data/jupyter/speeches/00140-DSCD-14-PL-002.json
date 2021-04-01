@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Rufián Romero",
+                "apellidosNombre": "Rufián Romero, Gabriel",
+                "codParlamentario": 187,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Gabriel",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/gabrielrufian",
+                "twitterUserId": "2904896141",
+                "twitterUserName": "gabrielrufian"
+            },
+            0
+        ],
+        "order": 132,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUFIÁN ROMERO"
+    },
+    "text": "Si les cabrea tanto es que es bueno. (Risas y aplausos). Muchas gracias."
+}

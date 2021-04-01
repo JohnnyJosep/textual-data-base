@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-20T00:00:00.000Z",
+        "debate": "MINUTO DE SILENCIO.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muy buenos días. Se abre la sesión. Al comenzar hoy otra sesión plenaria en las condiciones que aconseja la situación de emergencia sanitaria, recordamos, siempre con reconocimiento y admiración, a quienes siguen trabajando por la salud y la seguridad de todos. En la representación que ostenta esta Cámara, les agradecemos su inestimable tarea y expresamos también nuestra gratitud a quienes siguen cumpliendo con las instrucciones de las autoridades sanitarias. De igual forma, por acuerdo de la Junta de Portavoces, volvemos a expresar nuestro pesar por quienes han fallecido como consecuencia de la pandemia, así como nuestras condolencias a sus familiares y allegados, guardando un minuto de silencio. (Las señoras y los señores diputados presentes en el hemiciclo, puestos en pie, guardan un minuto de silencio)."
+}

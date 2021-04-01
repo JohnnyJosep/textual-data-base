@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-19T00:00:00.000Z",
+        "debate": "DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO: -- DICTAMEN DE LA COMISIÓN MIXTA PARA LAS RELACIONES CON EL TRIBUNAL DE CUENTAS EN RELACIÓN CON LA DECLARACIÓN SOBRE LA CUENTA GENERAL DEL ESTADO DEL EJERCICIO 2018, ASÍ COMO LA RESOLUCIÓN ADOPTADA POR DICHA COMISIÓN. ",
+        "diputado": [
+            {
+                "apellidos": "Uriarte Torrealday",
+                "apellidosNombre": "Uriarte Torrealday, Roberto",
+                "codParlamentario": 207,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Roberto",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/RoberUriarte",
+                "twitterUserId": "3019568698",
+                "twitterUserName": "RoberUriarte"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "URIARTE TORREALDAY"
+    },
+    "text": "Muchísimas gracias. Termino, presidente. (Aplausos)."
+}

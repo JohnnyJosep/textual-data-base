@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 90,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "¿Un Gobierno legítimamente elegido por esta Cámara, por sus señorías, o una presidenta autonómica, la de Madrid, que defiende punto por punto la carta de unos militares retirados llamando al golpismo en nuestro país? (Aplausos). Señor Casado, usted me pide que me parezca a Merkel. Bueno, yo lo que le pido es que dejen ustedes de parecerse a la ultraderecha en sus discursos y en sus acciones políticas. (Aplausos.--Protestas). Una de las cosas que le agradezco, señor Abascal, es que usted por lo menos habla claro y felicita a Orbán, aunque tengo bastantes discrepancias --y luego las mencionaré-- respecto al resultado de este Consejo y las razones que usted esgrime para felicitar a Orbán. Sin embargo, el señor Casado no lo dice pero con la boca pequeñita apoya a Orbán. (Risas). Va dando clases de moderación el señor Casado; es una persona de centro, pero en Europa se sitúa a la derecha del Partido Popular Europeo. (Un señor diputado: A la derecha del PSOE.--Rumores). Sí, sí, es que a lo mejor ustedes no lo saben, pero yo se lo voy a decir. (Continúan los rumores)."
+}

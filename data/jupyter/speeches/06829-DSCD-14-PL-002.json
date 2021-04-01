@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA URGENTE DEL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030, PARA DAR CUENTA DE LAS ÚLTIMAS INFORMACIONES RELATIVAS A LA FINANCIACIÓN IRREGULAR DE PODEMOS Y LA RECIENTE IMPUTACIÓN, TANTO DEL PARTIDO COMO DE ALTOS CARGOS DEL MISMO, Y EL PAPEL DEL VICEPRESIDENTE EN ESTE ASUNTO.",
+        "diputado": [
+            {
+                "apellidos": "Sicilia Alférez",
+                "apellidosNombre": "Sicilia Alférez, Felipe Jesús",
+                "codParlamentario": 259,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Felipe Jesús",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/felipe_sicilia",
+                "twitterUserId": "246982544",
+                "twitterUserName": "felipe_sicilia"
+            },
+            0
+        ],
+        "order": 47,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SICILIA ALFÉREZ"
+    },
+    "text": "Termino, señora presidenta. Termino ya. En definitiva, señora Gamarra, ustedes elijan los temas que quieran, que nosotros vamos a elegir los que les preocupan a los ciudadanos y ciudadanas de este país: la educación, la sanidad, la pandemia. En eso estará mi grupo, pero en el juego sucio que ustedes pretenden utilizar, incluso con la justicia de por medio, no nos van a tener, señora Gamarra. (Aplausos)."
+}

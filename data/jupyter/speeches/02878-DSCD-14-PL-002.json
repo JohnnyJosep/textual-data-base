@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "SOLICITUDES DE CREACIÓN DE COMISIONES DE INVESTIGACIÓN: -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA, CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN Y REPUBLICANO, DE CREACIÓN DE UNA COMISIÓN DE INVESTIGACIÓN RELATIVA AL ACCIDENTE DEL VUELO JK5022 DE SPANAIR. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos al punto relativo a la solicitud de los grupos parlamentarios Socialista, Confederal de Unidas Podemos-En Comú Podem-Galicia en Común y Republicano de creación de una comisión de investigación relativa al accidente del vuelo JK 5022 de Spanair. Tal y como se acordó en la Junta de Portavoces, no hay debate previo. ¿Se puede entender aprobada por asentimiento? (Asentimiento). En consecuencia, queda aprobada la creación de la citada comisión de investigación. Se levanta la sesión."
+}

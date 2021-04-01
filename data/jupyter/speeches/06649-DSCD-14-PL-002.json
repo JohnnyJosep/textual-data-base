@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-29T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO. -- COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO EL 23 DE ABRIL, PARA INFORMAR DEL CONSEJO EUROPEO ORDINARIO CELEBRADO EL DÍA 19 DE JUNIO, ASÍ COMO DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 17, 18, 19, 20 Y 21 DE JULIO DE 2020. ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 100,
+        "path": "../data/diaries-txts/DSCD-14-PL-039.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "Insisto, señor Abascal, si tan urgente es, no entiendo por qué espera al mes de septiembre; renuncie a algunas de sus merecidas vacaciones por tener ese debate antes en estas Cortes. Les deseo a todos unas buenas vacaciones y, sobre todo, como se ha dicho antes por parte de algún interviniente, salud para los suyos y sus seres queridos. (Aplausos de las señoras y los señores diputados de los grupos parlamentarios Socialista y Confederal de Unidas Podemos-En Comú Podem-Galicia en Común y de los miembros del Gobierno, puestos en pie)."
+}

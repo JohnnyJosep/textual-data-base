@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO ERREJÓN GALVÁN, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA DEL GOBIERNO Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CUÁNDO V AN A EMPEZAR A IMPLEMENTAR MEDIDAS EFICACES PARA EL CONTROL DE PRECIOS DE LOS ALQUILERES? ",
+        "diputado": [
+            {
+                "apellidos": "Errejón Galván",
+                "apellidosNombre": "Errejón Galván, Íñigo",
+                "codParlamentario": 233,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÁS PAÍS-EQUO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Íñigo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ierrejon",
+                "twitterUserId": "482389606",
+                "twitterUserName": "ierrejon"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ERREJÓN GALVÁN"
+    },
+    "text": "Gracias, señora presidenta. Señor Ábalos, quizás le sorprenda porque se estila poco últimamente en esta Cámara, que siendo sesión de control al Gobierno de España le vaya a hacer una pregunta que tiene que ver con problemas que suceden en nuestra tierra y que afectan a nuestra gente. ¿Cuándo tiene pensado el Gobierno implementar y desarrollar medidas para la intervención y el control de los precios de los alquileres? Muchas gracias."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-15T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 22/2020, DE 16 DE JUNIO, POR EL QUE SE REGULA LA CREACIÓN DEL FONDO COVID-19 Y SE ESTABLECEN LAS REGLAS RELATIVAS A SU DISTRIBUCIÓN Y LIBRAMIENTO. ",
+        "diputado": [
+            {
+                "apellidos": "Bel Accensi",
+                "apellidosNombre": "Bel Accensi, Ferran",
+                "codParlamentario": 14,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 43,
+                "idLegislatura": 14,
+                "nombre": "Ferran",
+                "nombreCircunscripcion": "Tarragona",
+                "twitter": "https://twitter.com/ferran_bel",
+                "twitterUserId": "352930189",
+                "twitterUserName": "ferran_bel"
+            },
+            0
+        ],
+        "order": 25,
+        "path": "../data/diaries-txts/DSCD-14-PL-035.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BEL ACCENSI"
+    },
+    "text": "Voy terminando, señora presidenta. Respeten la voluntad de las corporaciones locales porque no les están pidiendo mayor déficit, les están pidiendo poder aplicar los ahorros generados durante los últimos años para la lucha contra la pandemia. Muchas gracias."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-17T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA DEJAR DE HUMILLAR A LAS VÍCTIMAS DEL TERRORISMO DE ETA. ",
+        "diputado": [
+            {
+                "apellidos": "Sayas López",
+                "apellidosNombre": "Sayas López, Sergio",
+                "codParlamentario": 55,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Sergio",
+                "nombreCircunscripcion": "Navarra",
+                "twitter": "https://twitter.com/sergiosayas",
+                "twitterUserId": "144600462",
+                "twitterUserName": "sergiosayas"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SAYAS LÓPEZ"
+    },
+    "text": "Acabo en un segundo. Por eso, señorías, creo que tenemos que hacer un esfuerzo que es dramático, que no debería ocurrir en un país que se tiene por mínimamente democrático: reivindicar sin cesar a las víctimas del terrorismo. Porque aquí, en nombre de todos los españoles a los que representamos, les deberíamos decir todos que nunca las vamos a olvidar y, lejos de eso, hay muchos que se empeñan en seguir humillándolas. Muchas gracias. (Aplausos de las señoras y los señores diputados de los grupos parlamentarios Popular en el Congreso y VOX, puestos en pie)."
+}

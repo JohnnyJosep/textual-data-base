@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 105,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señorías, vamos a proceder a votar. Votamos, en primer lugar, la toma en consideración de la proposición de ley del Grupo Parlamentario Socialista, orgánica de reforma de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 336 más 3 votos telemáticos, 339; a favor, 195 más 3 votos telemáticos, 198; en contra, 134; abstenciones, 7."
+}

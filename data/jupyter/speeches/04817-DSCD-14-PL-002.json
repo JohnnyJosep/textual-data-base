@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA ISABEL POZUET A FERNÁNDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿APROBARÁ EL GOBIERNO UNA LEY PARA LA REVOCACIÓN DE RECONOCIMIENTOS Y CONDECORACIONES A FUNCIONARIOS O AUTORIDADES CON CONDUCTAS CONTRARIAS A LOS DERECHOS HUMANOS? ",
+        "diputado": [
+            {
+                "apellidos": "Pozueta Fernández",
+                "apellidosNombre": "Pozueta Fernández, Isabel",
+                "codParlamentario": 65,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Isabel",
+                "nombreCircunscripcion": "Navarra"
+            },
+            1
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "POZUET A FERNÁNDEZ"
+    },
+    "text": "Señora vicepresidenta, la semana pasada se aprobaba en esta Cámara una PNL del PSOE y Unidas Podemos para retirar las condecoraciones a las autoridades franquistas que, además de ser totalmente insuficiente y un claro lavado de cara, no obliga al Gobierno a nada, pues simplemente tiene validez declarativa. Además, pactaron ustedes esta PNL con el ala naranja del trío de Colón, este trío que parece indignarse cada vez que se dan pasos a favor de la memoria histórica y democrática. Por eso, le pregunto: ¿aprobará el Gobierno una ley que retire los reconocimientos y condecoraciones a todas las autoridades que hayan tenido acciones contrarias a los derechos humanos? Gracias."
+}

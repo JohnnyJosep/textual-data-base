@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACIÓN DE LAS MUJERES EN ESPAÑA AL CUMPLIRSE UN AÑO DE LA CREACIÓN DEL MINISTERIO DE IGUALDAD. ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Interpelación urgente del Grupo Parlamentario Popular en el Congreso para que el Gobierno explique la situación de las mujeres en España al cumplirse un año de la creación del Ministerio de Igualdad. Para su defensa tiene la palabra la señora Prohens Rigo."
+}

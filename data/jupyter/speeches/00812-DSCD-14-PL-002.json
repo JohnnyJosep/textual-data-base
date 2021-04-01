@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-11T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORGÁNICA DE REGULACIÓN DE LA EUTANASIA). ",
+        "diputado": [
+            {
+                "apellidos": "Nogueras i Camero",
+                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "codParlamentario": 27,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Míriam",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/miriamnoguerasM",
+                "twitterUserId": "343507680",
+                "twitterUserName": "miriamnoguerasM"
+            },
+            0
+        ],
+        "order": 76,
+        "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "NOGUERAS I CAMERO"
+    },
+    "text": "Termino."
+}

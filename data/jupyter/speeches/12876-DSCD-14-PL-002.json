@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Bel Accensi",
+                "apellidosNombre": "Bel Accensi, Ferran",
+                "codParlamentario": 14,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 43,
+                "idLegislatura": 14,
+                "nombre": "Ferran",
+                "nombreCircunscripcion": "Tarragona",
+                "twitter": "https://twitter.com/ferran_bel",
+                "twitterUserId": "352930189",
+                "twitterUserName": "ferran_bel"
+            },
+            0
+        ],
+        "order": 128,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BEL ACCENSI"
+    },
+    "text": "Gracias, presidenta. Seré breve. Señor presidente, he introducido el tema de Cataluña porque usted ha hecho un breve resumen de la legislatura. Si ustedes están dando pasos en su hoja de ruta, lo único que les pido es que se aceleren y se materialicen, porque en Cataluña es necesario. Respecto a las ayudas a todos los sectores económicos, señor presidente, sinceramente, usted no se puede esconder ante la incapacidad y la mala gestión de la Generalitat de Catalunya en relación con los autónomos, que yo constato. El problema es que los autónomos constatan una ausencia de medidas por parte del Gobierno, y se equivoca --discrepo absolutamente, señor presidente-- cuando desde esta tribuna usted parece que les indica que su solución pasa por los ayuntamientos. Los ayuntamientos tienen una situación muy complicada. A diferencia de las comunidades autónomas, no han tenido el fondo COVID de tres mil millones, y la señora ministra lo sabe. Por tanto, usted no puede fijar desde aquí que los ayuntamientos resolverán el problema de todos aquellos negocios que han tenido que cerrar por medidas sanitarias. Finalmente, quiero introducir un tema que ha sido colateral en todo este debate y que me parece muy significativo, el del brexit, porque, más allá de que esperemos --y esperamos-- que haya un acuerdo, si no lo hay la situación va a ser muy complicada. Seguramente el Estado español será el que salga más castigado de un no acuerdo en el brexit dentro de la Unión Europea y a nosotros nos gustaría conocer qué medidas está preparando el Gobierno en el caso de que no exista acuerdo. Va a haber sectores que resultarán muy perjudicados. Repito, espero que exista el acuerdo, pero, si no, el sector primario, el sector de la pesca, el sector turístico y el sector del automóvil pueden sufrir una segunda pandemia."
+}

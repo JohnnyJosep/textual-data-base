@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-17T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 34/2020, DE 17 DE NOVIEMBRE, DE MEDIDAS URGENTES DE APOYO A LA SOLVENCIA EMPRESARIAL Y AL SECTOR ENERGÉTICO, Y EN MATERIA TRIBUTARIA. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 41,
+        "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muchas gracias, señor Mazón. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Muchas gracias, señora Cepeda. Por el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra la señora Sagastizabal Unzetabarrenetxea."
+}

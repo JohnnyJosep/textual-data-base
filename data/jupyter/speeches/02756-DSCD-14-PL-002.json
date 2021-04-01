@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MIREIA VEHÍ CANTENYS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ OPINIÓN LE MERECE QUE GRANDES EMPRESAS ESPAÑOLAS TENGAN BENEFICIOS MIENTRAS AUMENTAN EL PARO Y EL ENDEUDAMIENTO DE LAS CLASES POPULARES Y EL SECTOR PÚBLICO? ",
+        "diputado": [
+            {
+                "apellidos": "Vehí Cantenys",
+                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "codParlamentario": 86,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "CUP-PR",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/Mireia_veca",
+                "twitterUserId": "312297259",
+                "twitterUserName": "Mireia_veca"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VEHÍ CANTENYS"
+    },
+    "text": "Gracias, presidenta. Señor presidente, Amazon ha hecho máximos históricos en la Bolsa de Wall Street, Glovo ha multiplicado por cuatro los repartos en los supermercados, Blackstone ha invertido más que nunca en activos en Europa y BlackRock, otro fondo de inversión, se plantea como comisario político de las medidas anticrisis en Europa. ¿Qué medidas va a tomar su Gobierno con relación a las grandes empresas y los grandes capitales para repartir la riqueza?"
+}

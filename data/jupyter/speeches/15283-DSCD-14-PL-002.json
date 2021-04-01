@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ OPINIÓN LE MERECE COMO MÁXIMO RESPONSABLE DE LA SEGURIDAD CIUDADANA QUE UNA PARTE DEL GOBIERNO APOYE PÚBLICAMENTE A LOS CAUSANTES DE LOS GRAVES DISTURBIOS QUE SE HAN PRODUCIDO EN LOS ÚLTIMOS DÍAS? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Muchas gracias, señor Gil Lázaro. Sin intención de mentirle a usted ni a la Cámara, bien sabe usted que la posición de todo el Gobierno de España la ha expresado de una forma determinante el presidente del Gobierno --abro comillas--: «La violencia es inadmisible en una democracia plena como la española» --cierro comillas--. Por tanto, he de decirle que ningún miembro del Gobierno ha apoyado, y menos públicamente, los disturbios que han tenido lugar en estos últimos días. (Aplausos)."
+}

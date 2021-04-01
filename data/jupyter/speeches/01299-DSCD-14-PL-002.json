@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "diputado": [
+            {
+                "apellidos": "Chamorro Delmo",
+                "apellidosNombre": "Chamorro Delmo, Ricardo",
+                "codParlamentario": 125,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 13,
+                "idLegislatura": 14,
+                "nombre": "Ricardo",
+                "nombreCircunscripcion": "Ciudad Real",
+                "twitter": "https://twitter.com/rchamode",
+                "twitterUserId": "279233001",
+                "twitterUserName": "rchamode"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CHAMORRO DELMO"
+    },
+    "text": "Sí, presidenta, termino. Además, tenemos muy en cuenta el mandato constitucional en su artículo 130, que señala que los poderes públicos atenderán la modernización y desarrollo de todos los sectores económicos y en particular de la agricultura, de la ganadería, de la pesca y de la artesanía, a fin de equiparar el nivel de vida de todos los españoles. En VOX defendemos un campo español vivo. Muchas gracias. (Aplausos de las señoras y señores diputados del Grupo Parlamentario VOX, puestos en pie.--Algunos señores diputados: ¡Bravo!)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA PATRICIA RUEDA PERELLÓ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿QUÉ CUALIFICACIÓN TIENE EL SEÑOR KOLDO GARCÍA IZAGUIRRE PARA HABER SIDO NOMBRADO CONSEJERO DE RENFE MERCANCÍAS? ",
+        "diputado": [
+            {
+                "apellidos": "Rueda Perelló",
+                "apellidosNombre": "Rueda Perelló, Patricia",
+                "codParlamentario": 75,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Patricia",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/_patricia_rueda",
+                "twitterUserId": "2613310915",
+                "twitterUserName": "_patricia_rueda"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUEDA PERELLÓ"
+    },
+    "text": "Gracias, señora presidente. ¿Qué cualificación tiene el señor Koldo García Izaguirre para haber sido nombrado consejero de Renfe Mercancías?"
+}

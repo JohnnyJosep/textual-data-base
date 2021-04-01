@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-02T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Martín Llaguno",
+                "apellidosNombre": "Martín Llaguno, Marta",
+                "codParlamentario": 155,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 116,
+        "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍN LLAGUNO"
+    },
+    "text": "Finalmente, hemos intentado transaccionar con Más País una enmienda para que los contratos de FPU y FPI tuvieran una característica laboral. Lamentablemente, el sectarismo ha hecho…"
+}

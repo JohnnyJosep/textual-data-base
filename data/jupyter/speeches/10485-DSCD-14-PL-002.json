@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CARMEN RIOLOBOS REGADERA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿POR QUÉ NO HA DIMITIDO A PESAR DE LA EVOLUCIÓN DEL COVID-19 EN ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Riolobos Regadera",
+                "apellidosNombre": "Riolobos Regadera, Carmen",
+                "codParlamentario": 7,
+                "fchAlta": "18/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 45,
+                "idLegislatura": 14,
+                "nombre": "Carmen",
+                "nombreCircunscripcion": "Toledo",
+                "twitter": "https://twitter.com/CarmenRiolobos",
+                "twitterUserId": "106811959",
+                "twitterUserName": "CarmenRiolobos"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RIOLOBOS REGADERA"
+    },
+    "text": "Señor Illa, ¿por qué no ha dimitido a pesar de la evolución del COVID en España?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO VALORA LA ACTUAL SITUACIÓN DE ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "Muchas gracias, señora presidenta. Ya veo, señor Casado, que más que una pregunta lo que ha hecho usted ha sido plantear una opinión entre interrogaciones. Año nuevo y usted continúa igual que el año pasado, con la misma mala sombra que proyecta desde que usted lidera el Partido Popular desde hace dos años a esta parte. (Protestas.-- Aplausos). Señor Casado, de verdad, escúcheme, usted me pide que dimita el señor Illa, pero también me reprocha que se vaya el señor Illa. Me pide que confine pero también que desconfine; me critica el que este Gobierno no recentralice las competencias del Estado de alarma, es decir el mando único, pero también me pide más competencias para las comunidades autónomas. (Rumores)."
+}

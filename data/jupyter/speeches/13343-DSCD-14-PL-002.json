@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-17T00:00:00.000Z",
+        "debate": "DICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UN SEÑOR DIPUTADO. ",
+        "diputado": [
+            {
+                "apellidos": "Requena Ruiz",
+                "apellidosNombre": "Requena Ruiz, Juan Diego",
+                "codParlamentario": 79,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Juan Diego",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/alcaldeJDR",
+                "twitterUserId": "",
+                "twitterUserName": "alcaldeJDR"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REQUENA RUIZ"
+    },
+    "text": "Muchas gracias, señora presidenta. Señores del Gobierno, presentan un nuevo real decreto-ley en el que, una vez más, abusan de esta figura legislativa sometiendo esta facultad constitucional legislativa para modificar veinticuatro artículos de once leyes, si no me falla la cuenta… (Rumores)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-22T00:00:00.000Z",
+        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DEL DIPUTADO DON NÉSTOR REGO CANDAMIL, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CONTEMPLA EL GOBIERNO LA INTERVENCIÓN PÚBLICA DE ALCOA PARA NACIONALIZAR LA PLANTA DE SAN CIBRAO? ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "Grazas, señora presidenta. Señora ministra, teniendo en cuenta que el tiempo se acaba, ¿contempla el Gobierno la intervención pública de Alcoa para nacionalizar la planta de San Cibrao y garantizar así la continuidad de la actividad en los puestos de trabajo?"
+}

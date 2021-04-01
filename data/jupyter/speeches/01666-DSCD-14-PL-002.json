@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA TRIST ANA MARÍA MORALEJA GÓMEZ, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿CONSIDERA EL GOBIERNO QUE, AUN CON UN NOTABLE RETRASO, SE HA DADO UNA COMPLETA SOLUCIÓN A LOS PROBLEMAS DE LAS EMPRESAS ELECTROINTENSIVAS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            42
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO (Maroto Illera)"
+    },
+    "text": "Gracias, presidenta. Disculpe que le dé la espalda, señora Moraleja. Estará de acuerdo conmigo en la importancia y la necesidad de tener un marco de estabilidad y certidumbre del precio energético para garantizar la competitividad de la industria electrointensiva, y el estatuto es un instrumento riguroso para abordarlo. Por primera vez se define y certifica la condición de consumidor electrointensivo, se ofrecen medidas para mejorar su competitividad y se establecen compromisos y obligaciones. Esperamos contar con un amplio consenso parlamentario para aprobar esta medida tan necesaria para nuestra industria. (Aplausos)."
+}

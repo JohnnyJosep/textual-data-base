@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-28T00:00:00.000Z",
+        "debate": "CONSTITUCIÓN DE LA DIPUTACIÓN PERMANENTE. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-005.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "El resultado de la votación para la elección de los secretarios de la Diputación Permanente ha sido el siguiente: votos emitidos, 69; votos a favor de don Javier Sánchez Serna, 36; votos a favor de don Adolfo Suárez Illana, 20; votos a favor de don Ignacio Garriga Vaz de Concicao, 10; votos en blanco, 3. Quedan, en consecuencia, proclamados secretario primero don Javier Sánchez Serna y secretario segundo don Adolfo Suárez Illana. Ruego a los vicepresidentes y secretarios electos que ocupen su lugar en la Mesa. (Aplausos.--Así lo hacen la señora diputada y los señores diputados miembros de la Mesa). Enhorabuena a los cuatro. Señorías, queda constituida la Diputación Permanente. Se levanta la sesión."
+}

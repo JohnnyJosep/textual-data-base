@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN DIEGO REQUENA RUIZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿QUÉ OPINIÓN TIENE SOBRE LAS EMPRESAS QUE NO APROVECHAN LAS AYUDAS NI DEVUELVEN LOS PRÉSTAMOS QUE LE REALIZAN LAS ADMINISTRACIONES PÚBLICAS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            96
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO (Ribera Rodrí guez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Buenos días, señoría. Considero, como entiendo que la mayor parte de los ciudadanos españoles y presumo que usted también, que las empresas y los ciudadanos --todos-- debemos cumplir nuestros compromisos y obligaciones y hacer el mayor esfuerzo para llevarlos a buen puerto. (Aplausos)."
+}

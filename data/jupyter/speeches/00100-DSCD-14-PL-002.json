@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 92,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "… la constatación de cómo se ha jugado con nuestras vidas y haciendas en beneficio de otros, y el convencimiento de que la España vaciada ha dicho basta nos lleva a advertir que, si la acción política durante esta legislatura que se inicia no evidencia una voluntad real manifestada en los sucesivos presupuestos del Estado, buscaremos una solución de cohesión y reequilibrio territorial y seremos capaces --no les quepa la menor duda de que seremos capaces-- de articular nosotros una respuesta firme, estable y permanente. Es decir, o en esta legislatura se ve que hay una voluntad real de solucionar el problema que denunciamos o la España vaciada tendrá que tomar ejemplo de lo que ha hecho Teruel Existe."
+}

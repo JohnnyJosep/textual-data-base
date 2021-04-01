@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CREE EL GOBIERNO QUE LOS FONDOS EUROPEOS DEBEN USARSE PARA FORTALECER LA POSICIÓN DEL IBEX FRENTE A PYMES Y AUTÓNOMOS? ",
+        "diputado": [
+            {
+                "apellidos": "Capdevila i Esteve",
+                "apellidosNombre": "Capdevila i Esteve, Joan",
+                "codParlamentario": 172,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/capdevilajoan",
+                "twitterUserId": "331085228",
+                "twitterUserName": "capdevilajoan"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CAPDEVILA I ESTEVE"
+    },
+    "text": "Gràcies, presidenta. Bon día. Buenos días, vicepresidenta tercera. Ola de contagios por COVID-19, 66 000 fallecidos acumulados, una crisis económica y social sin precedentes en tiempos de paz; muchas empresas han depositado su esperanza en la llegada de los 140 000 millones provenientes de los fondos europeos. Señora vicepresidenta, ¿cree el Gobierno que los fondos europeos deben usarse para fortalecer la posición del IBEX frente a las pymes? Gracias."
+}

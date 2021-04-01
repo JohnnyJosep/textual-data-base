@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA ISABEL POZUET A FERNÁNDEZ, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ MEDIDAS TOMARÁN PARA CONTENER LOS CONTAGIOS EN EL ÁMBITO PÚBLICO Y LABORAL? ",
+        "diputado": [
+            {
+                "apellidos": "Pozueta Fernández",
+                "apellidosNombre": "Pozueta Fernández, Isabel",
+                "codParlamentario": 65,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Isabel",
+                "nombreCircunscripcion": "Navarra"
+            },
+            1
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "POZUET A FERNÁNDEZ"
+    },
+    "text": "Le pedimos que trabaje junto a las comunidades autónomas para consensuar y reforzar los medios de control e inspección en el ámbito laboral y público, antes de que la señora Ayuso, además de decidir sobre Pamplona o Bilbao, también decida sobre otros ámbitos. Porque igual que hacen falta médicas y rastreadores, también hacen falta inspectoras para que las medidas se cumplan en las empresas; hacen falta más medios que protejan a las trabajadoras y a los trabajadores en su salud en el día a día laboral. Para proteger la economía, que parece ser el primero de los objetivos, no olvidemos que se debe proteger a los y las trabajadoras, que son precisamente quienes hacen que la economía sobreviva y no al revés. Esperamos contar con su compromiso para tomar todas las medidas necesarias también en el ámbito laboral."
+}

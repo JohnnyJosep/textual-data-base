@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-22T00:00:00.000Z",
+        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DEL DIPUTADO DON ISIDRO MANUEL MARTÍNEZ OBLANCA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿QUÉ MEDIDAS DE EMERGENCIA PIENSA ADOPTAR EL GOBIERNO PARA DAR SOLUCIÓN AL COLAPSO ECONÓMICO-ADMINISTRATIVO QUE HA SUMIDO A LA PLANTILLA Y A LOS CENTROS DEL INSTITUTO ESPAÑOL DE OCEANOGRAFÍA (IEO), ENTRE ELLOS EL DE GIJÓN (ASTURIAS), EN LA MAYOR CRISIS DE SU HISTORIA, COMPROMETIENDO GRAVEMENTE EL DESARROLLO DE LAS INVESTIGACIONES SOBRE EL MAR Y SUS RECURSOS? ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Oblanca",
+                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "codParlamentario": 20,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP-FORO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Isidro Manuel",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/imoblanca",
+                "twitterUserId": "3108277737",
+                "twitterUserName": "imoblanca"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ OBLANCA"
+    },
+    "text": "Muchas gracias señora presidenta. El Instituto Español de Oceanografía atraviesa el momento más crítico de su historia centenaria, con un colapso económico-administrativo de gravísimas consecuencias para sus centros, instalaciones, buques y personal, así como para la investigación marina y los recursos pesqueros. De ahí que pregunte al Gobierno por las medidas de emergencia para solventar tan insostenible situación. Muchas gracias."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DEL DIPUTADO DON VICENTE BETORET COLL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿QUÉ PLANES TIENE EL GOBIERNO DE ESPAÑA EN RELACIÓN CON LA AUTONOMÍA DE LAS ENTIDADES LOCALES? ",
+        "diputado": [
+            {
+                "apellidos": "Betoret Coll",
+                "apellidosNombre": "Betoret Coll, Vicente",
+                "codParlamentario": 228,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Vicente",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/VicenteBetoret",
+                "twitterUserId": "141173322",
+                "twitterUserName": "VicenteBetoret"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BETORET COLL"
+    },
+    "text": "Gracias, señora presidenta. ¿Qué planes tiene el Gobierno en relación con la autonomía de las entidades locales?"
+}

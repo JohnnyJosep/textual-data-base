@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DE LA DIPUTADA DOÑA MIREIA BORRÁS PABÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE IGUALDAD: ¿QUÉ UTILIDAD TIENE EL MINISTERIO DE ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muchas gracias, señora Borrás. Señora ministra de Igualdad."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Fuentes Curbelo",
+                "apellidosNombre": "Fuentes Curbelo, Juan Bernardo",
+                "codParlamentario": 359,
+                "fchAlta": "03/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Juan Bernardo",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/Juanb0462",
+                "twitterUserId": "379117713",
+                "twitterUserName": "Juanb0462"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "FUENTES CURBELO"
+    },
+    "text": "Sí, prometo."
+}

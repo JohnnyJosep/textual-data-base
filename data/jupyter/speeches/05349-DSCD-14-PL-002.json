@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON OSKAR MATUTE GARCÍA DE JALÓN, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA DEL GOBIERNO Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CONTEMPLA EL GOBIERNO APLICAR LAS RECETAS PROPUESTAS POR LA CEOE? ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DE JALÓN"
+    },
+    "text": "Muchas gracias, presidenta. Señora ministra y vicepresidenta, desde el pasado día 15 hasta la actualidad se está celebrando en Madrid, en la capital del Estado español, un foro promovido por la CEOE con el nombre Las empresas españolas liderando el futuro. De hecho, hoy mismo se clausura por el rey y sabemos que se clausura de forma solemne, lo que no sabemos es si va a ir a recoger leche y aceite. En cualquier caso, en dicho foro se ha hablado de tres elementos fundamentales. Se ha hablado de la necesidad de mayor flexibilidad laboral, de la apuesta por más colaboración público-privada transformada en ayudas a las empresas, y de la exigencia de una fiscalidad a la carta, a la medida de las necesidades de las empresas. ¿Contempla su Gobierno aplicar las recetas propuestas por la CEOE?"
+}

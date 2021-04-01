@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO P ARLAMENT ARIO CIUDADANOS, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ MEDIDAS TIENE PREVISTO IMPULSAR SU MINISTERIO, EN COLABORACIÓN CON EL REST O DEL GOBIERNO, P ARA GARANTIZAR LA CONCILIACIÓN F AMILIAR, INCLUYENDO AL PROPIO PROFESORADO, EN CASO DE QUE FINALMENTE SEA IMPOSIBLE QUE TODO EL ALUMNADO VUELVA A LOS COLEGIOS EL SIGUIENTE CURSO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            45
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL (Celaá Diéguez)"
+    },
+    "text": "Gracias, señora presidenta. Gracias, señor Bal. El Ministerio de Educación y Formación Profesional la semana pasada planteó a las comunidades autónomas un acuerdo sólido y bien planificado de catorce puntos que fue respaldado por quince de las diecisiete comunidades autónomas. Dos de los principales puntos, el primero y el segundo, hacen referencia a su preocupación, afirmando que el curso 2020-2021 comenzará en septiembre --como todos los demás cursos-- con una especificidad, que será la observancia de los requerimientos de las medidas sanitarias para aportar a las familias, a los alumnos y a los docentes un entorno escolar seguro y cuyo principio general será la presencialidad. Muchas gracias. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-23T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
+        "diputado": [
+            {
+                "apellidos": "Romero Sánchez",
+                "apellidosNombre": "Romero Sánchez, Rosa María",
+                "codParlamentario": 36,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 13,
+                "idLegislatura": 14,
+                "nombre": "Rosa María",
+                "nombreCircunscripcion": "Ciudad Real",
+                "twitter": "https://twitter.com/rosaromerocr",
+                "twitterUserId": "253968932",
+                "twitterUserName": "rosaromerocr"
+            },
+            0
+        ],
+        "order": 103,
+        "path": "../data/diaries-txts/DSCD-14-PL-031.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ROMERO SÁNCHEZ"
+    },
+    "text": "Termino con una última frase."
+}

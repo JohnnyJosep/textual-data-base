@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
+        "diputado": [
+            {
+                "apellidos": "Cabezón Casas",
+                "apellidosNombre": "Cabezón Casas, Tomás",
+                "codParlamentario": 28,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 42,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Soria",
+                "twitter": "https://twitter.com/tcabcas",
+                "twitterUserId": "516834154",
+                "twitterUserName": "tcabcas"
+            },
+            0
+        ],
+        "order": 37,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CABEZÓN CASAS"
+    },
+    "text": "… no es que el Partido Popular o la derecha --voy concluyendo-- vayan a poner una línea roja a los acuerdos del Pacto de Toledo por estas transferencias, es que es una línea roja que está incluida en las recomendaciones del Pacto de Toledo la transferencia de la gestión de la Seguridad Social al Partido Nacionalista Vasco. Por eso nos oponemos y esto quiero decírselo alto y claro al Partido Socialista."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON DIEGO GAGO BUGARÍN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿QUÉ SOLUCIONES OFRECE EL GOBIERNO P ARA LOS TRABAJADORES SUJET OS A ERTE A PARTIR DEL 30 DE SEPTIEMBRE DE 2020? ",
+        "diputado": [
+            {
+                "apellidos": "Gago Bugarín",
+                "apellidosNombre": "Gago Bugarín, Diego",
+                "codParlamentario": 121,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 36,
+                "idLegislatura": 14,
+                "nombre": "Diego",
+                "nombreCircunscripcion": "Pontevedra",
+                "twitter": "https://twitter.com/diegogagob",
+                "twitterUserId": "267707645",
+                "twitterUserName": "diegogagob"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GAGO BUGARÍN"
+    },
+    "text": "Muchas gracias, presidenta. Señora ministra de Trabajo y Economía Social, ¿qué soluciones ofrece a los trabajadores que se encuentran en ERTE a partir del 30 de septiembre? Gracias."
+}

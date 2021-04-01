@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Acabo ya. Nosotros nunca propondremos que el miedo cambie de bando porque no tenemos bando, porque dos bandos no son un país entero, sino un país hecho pedazos. Lo que hemos visto esta semana en el hemiciclo da miedo. (Varios señores diputados: Sí, sí.--Rumores). Una de sus socias llegó a decir que no se quedaran solo en ser la buena imagen del Frente Popular. ¡¿Pero qué locura es esta?! Ahora que cita a Azaña, recuerde que decía: Yo les tolero que ataquen la República, pero nunca les toleraré que ataquen a España. (Varios señores diputados: ¡Olé! ¡Bien!--El señor García Egea: ¡Apuntad!-- Aplausos de las señoras y los señores diputados del Grupo Parlamentario Popular en el Congreso, algunos puestos en pie). Acabo ya. Señor Sánchez, no puede pretender gobernar contra media España ni cometer la irresponsabilidad de recuperar los fantasmas del pasado. No pervierta la verdadera memoria histórica de España; una historia de reconciliación, generosidad, tolerancia y ambición compartida, que ha sido ejemplo para el mundo. Ni barricada ni trinchera; calle ancha y plaza abierta, porque queremos convivir, pero dentro de la ley, que nos garantiza la libertad, sin miedo y sin ira. Para ello lideraremos una reagrupación nacional de los constitucionalistas que no quieren volver a esa España naftalinada que ustedes están invocando. Construiremos una nueva mayoría social que pueda albergar también a los socialdemócratas huérfanos por la deriva del ‘sanchismo’ (aplausos), a quien prefiera reforma a ruptura, concordia a enfrentamiento, igualdad a privilegio, progreso a parálisis y libertad a sectarismo."
+}

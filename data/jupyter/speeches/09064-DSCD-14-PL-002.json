@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON SERGIO SA Y AS LÓPEZ, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿QUÉ ACCIONES TIENE PREVISTO PONER EN MARCHA EL GOBIERNO DE ESPAÑA PARA EVITAR EL CIERRE DE LA PLANTA DE TRENASA EN CASTEJÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            42
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO (Maroto Illera)"
+    },
+    "text": "Gracias, presidenta. Señoría, antes de nada me gustaría, ante el anuncio del cierre de la empresa Trenasa, mostrar toda la solidaridad y el apoyo del Gobierno a sus trabajadores y familias. Señoría, como siempre hemos hecho, el Gobierno siempre se implica en la resolución de las crisis industriales, defendiendo las capacidades productivas y los puestos de trabajo. Lo acabamos de demostrar recientemente en Alcoa, y le garantizo que el Ministerio de Industria va a trabajar de forma leal y coordinada con las administraciones afectadas en busca de soluciones para mantener estas capacidades productivas y empleos en Navarra. Muchas gracias. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO PIENSA GARANTIZAR EL GOBIERNO UNA GESTIÓN EFICIENTE E INDEPENDIENTE DE LOS FONDOS EUROPEOS? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señoría, usted sabe como yo --lo compartimos-- que esta es una democracia, una gran democracia, tenemos una serie de fiscalizaciones y de contrapesos que van a garantizar efectivamente esa gestión eficaz, transparente y ejemplar de unos fondos que van a cambiar España para bien. (Aplausos)."
+}

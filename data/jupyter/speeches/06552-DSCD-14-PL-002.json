@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-29T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO. -- COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO EL 23 DE ABRIL, PARA INFORMAR DEL CONSEJO EUROPEO ORDINARIO CELEBRADO EL DÍA 19 DE JUNIO, ASÍ COMO DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 17, 18, 19, 20 Y 21 DE JULIO DE 2020. ",
+        "diputado": [
+            {
+                "apellidos": "Bal Francés",
+                "apellidosNombre": "Bal Francés, Edmundo",
+                "codParlamentario": 211,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edmundo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/BalEdmundo",
+                "twitterUserId": "1099251922152931329",
+                "twitterUserName": "BalEdmundo"
+            },
+            0
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-039.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAL FRANCÉS"
+    },
+    "text": "Por el artículo 72 del Reglamento, pidiéndole la aplicación de una norma jurídica con rango de ley, que es el artículo 6.1.a) del Real Decreto-ley 21/2020, de nueva normalidad --como lo llama el Gobierno--, que establece que donde se tiene que mantener una distancia de metro y medio debe mantenerse, y no es suficiente el uso de la mascarilla. Así lo acordamos también en las últimas reuniones de la Junta de Portavoces, que solamente íbamos a permitir un aforo del 50 % de los grupos parlamentarios. El Grupo Socialista no ha cumplido, probablemente porque querrá atronar con aplausos al presidente del Gobierno, pero mi grupo sí ha cumplido, somos cinco de diez. Difícilmente vamos a hacer cumplir las normas a la gente si nosotros mismos no las cumplimos, cuando las aprobamos. (Aplausos)."
+}

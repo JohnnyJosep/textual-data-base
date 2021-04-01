@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "CON EL SIGUIENTE ORDEN DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL, PARA INFORMAR DE LAS MEDIDAS DEL GOBIERNO QUE ASEGUREN UN INICIO DEL CURSO ESCOLAR 2020/2021 EN LAS MISMAS CONDICIONES DE SEGURIDAD PARA TODOS LOS ALUMNOS, PROFESORES Y PERSONAL DE LOS CENTROS EDUCATIVOS.",
+        "diputado": [
+            {
+                "apellidos": "Martínez Seijo",
+                "apellidosNombre": "Martínez Seijo, María Luz",
+                "codParlamentario": 251,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 34,
+                "idLegislatura": 14,
+                "nombre": "María Luz",
+                "nombreCircunscripcion": "Palencia",
+                "twitter": "https://twitter.com/luzseijo",
+                "twitterUserId": "270356445",
+                "twitterUserName": "luzseijo"
+            },
+            0
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ SEIJO"
+    },
+    "text": "… que por una vez colaborasen un poquito más y tuviesen más seriedad a la hora de trasladar una imagen de seguridad y de certidumbre para la comunidad educativa. Gracias. (Aplausos.-- Varios señores diputados: ¡Muy bien!)."
+}

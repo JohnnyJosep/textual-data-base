@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-20T00:00:00.000Z",
+        "debate": "DEBATE RELATIVO A LA APRECIACIÓN POR LA CÁMARA DE LA PREVISIÓN CONTENIDA EN LOS ARTÍCULOS 135.4 DE LA CONSTITUCIÓN Y 11.3 DE LA LEY ORGÁNICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. -- COMUNICACIÓN DEL ACUERDO DEL CONSEJO DE MINISTROS DE 6 DE OCTUBRE DE 2020, POR EL QUE SE SOLICITA DEL CONGRESO DE LOS DIPUTADOS LA APRECIACIÓN DE QUE ESPAÑA ESTÁ SUFRIENDO UNA PANDEMIA, LO QUE SUPONE UNA SITUACIÓN DE EMERGENCIA EXTRAORDINARIA, A LOS EFECTOS PREVISTOS EN LOS ARTÍCULOS 135.4 DE LA CONSTITUCIÓN Y 11.3 DE LA LEY ORGÁNICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 12,
+        "path": "../data/diaries-txts/DSCD-14-PL-054.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señor Espinosa de los Monteros, tiene que terminar, por favor."
+}

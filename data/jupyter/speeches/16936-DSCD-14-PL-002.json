@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA INÉS GRANOLLERS CUNILLERA, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CÓMO PIENSAN SOLUCIONAR EL COLAPSO EN LAS JEFATURAS DE TRÁFICO CATALANAS? ",
+        "diputado": [
+            {
+                "apellidos": "Granollers Cunillera",
+                "apellidosNombre": "Granollers Cunillera, Inés",
+                "codParlamentario": 183,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 25,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Lleida",
+                "twitter": "https://twitter.com/InesGranollers",
+                "twitterUserId": "357586041",
+                "twitterUserName": "InesGranollers"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GRANOLLERS CUNILLERA"
+    },
+    "text": "Señor ministro, ¿cómo piensa solucionar el colapso que tienen las jefaturas de Tráfico en Cataluña?"
+}

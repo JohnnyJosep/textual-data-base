@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON IGNACIO GIL LÁZARO, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿POR QUÉ EL GOBIERNO HA IMPEDIDO LA PRESENCIA DEL REY EN EL ACTO DE ENTREGA DE LOS DESPACHOS A LOS JUECES DE LA 69.ª PROMOCIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Nevado del Campo",
+                "apellidosNombre": "Nevado del Campo, María Magdalena",
+                "codParlamentario": 293,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 10,
+                "idLegislatura": 14,
+                "nombre": "María Magdalena",
+                "nombreCircunscripcion": "Cáceres",
+                "twitter": "https://twitter.com/malenanevado",
+                "twitterUserId": "274481242",
+                "twitterUserName": "malenanevado"
+            },
+            24
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE JUSTICIA (Campo Moreno)"
+    },
+    "text": "En ese acto no solo faltó el rey, faltaron todos los miembros de la sala de gobierno del Tribunal Supremo, faltaron dieciséis de los diecisiete presidentes de TSJ de nuestro territorio, faltó un buen número de los propios alumnos que recogían el despacho, faltó la consejera de Justicia de donde estábamos. Este ministro estuvo allí porque, desde luego, lo importante era el acto y que íbamos a contar con un nuevo paquete de jueces y juezas para velar por el ordenamiento jurídico y la convivencia en este país. (Aplausos)."
+}

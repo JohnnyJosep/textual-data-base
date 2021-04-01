@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CONSIDERA QUE SE PUEDE HABLAR DE DERECHOS HUMANOS CON LOS HEREDEROS POLÍTICOS DE ETA? ",
+        "diputado": [
+            {
+                "apellidos": "Gil Lázaro",
+                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "codParlamentario": 295,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Ignacio",
+                "nombreCircunscripcion": "Valencia/València"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GIL LÁZARO"
+    },
+    "text": "Gracias, señora presidenta. Señor ministro, ¿se puede hablar de derechos humanos con los herederos políticos de ETA?"
+}

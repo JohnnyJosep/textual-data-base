@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, A LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL EN RELACIÓN A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPAÑOL. ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            45
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL (Celaá Diéguez)"
+    },
+    "text": "Menos mal que ustedes salieron del Gobierno, porque, si no, nuestra inversión en educación habría desaparecido. Muchas gracias. (Aplausos)."
+}

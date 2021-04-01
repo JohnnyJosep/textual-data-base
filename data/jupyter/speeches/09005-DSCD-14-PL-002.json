@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿ES LA TRAMITACIÓN DEL INDULTO LA RESPUESTA POLÍTICA QUE OFRECE EL GOBIERNO PARA LA RESOLUCIÓN DEL CONFLICTO POLÍTICO EN CATALUÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Borrás Pabón",
+                "apellidosNombre": "Borrás Pabón, Mireia",
+                "codParlamentario": 142,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/_mireiaborras",
+                "twitterUserId": "2348453556",
+                "twitterUserName": "_mireiaborras"
+            },
+            8
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORRÀS CASTANYER"
+    },
+    "text": "Gracias, presidenta. Señor ministro, la semana pasada en su respuesta a mi pregunta --y sin disponer yo de turno de réplica-- usted lanzó la cuestión de los indultos, que tanto revuelo ha causado, cuando se trata de un mero trámite administrativo. ¿Le parece que, con todo lo que ha ocurrido esta semana --porque menuda semana, menuda época para ser ministro de Justicia-- en España, indultemos la pregunta y nos centremos en otro trámite administrativo que no ha tenido lugar, como es la firma del decreto de inhabilitación del presidente Torra, que ni el presidente del Gobierno ni el jefe del Estado han osado firmar? Porque el Tribunal Supremo acaba de consumar un atropello jurídico que ha culminado con la primera inhabilitación de un president de la Generalitat en ejercicio de su cargo. La pregunta es sencilla, y no se la formulo como ministro presuntamente progresista y presuntamente de Justicia, se la pregunto como demócrata: ¿No le da vergüenza?"
+}

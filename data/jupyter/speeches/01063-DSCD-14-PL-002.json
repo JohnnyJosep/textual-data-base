@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-12T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, AL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA PARA QUE EXPLIQUE LOS MOTIVOS QUE LE LLEVARON A MANTENER UNA REUNIÓN CON DELCY RODRÍ GUEZ, LOS COMPROMISOS QUE FUERON ADQUIRIDOS EN NOMBRE DEL GOBIERNO DE ESPAÑA CON EL RÉGIMEN DE NICOLÁS MADURO Y LA INCIDENCIA DE DICHOS COMPROMISOS EN LAS RELACIONES DE ESPAÑA CON VENEZUELA, CON LA UNIÓN EUROPEA Y CON NUESTROS ALIADOS. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 6,
+        "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Para concluir el debate, tiene la palabra, en nombre del Gobierno, el señor ministro de Transportes, Movilidad y Agenda Urbana."
+}

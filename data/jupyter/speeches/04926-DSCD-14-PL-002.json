@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, AL MINISTRO DEL INTERIOR PARA QUE EXPLIQUE LAS DECISIONES ADOPTADAS EN EL SENO DE LA GUARDIA CIVIL. ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 11,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Gracias, señor presidente. Señoras y señores diputados, señora Vázquez, en primer lugar, quiero decirle que conozco un poco el Reglamento del Congreso. La portavoz la firma, pero quien hace luego la interpelación también confirma el escrito. En este caso, solo estaba la firma de la portavoz. Digo normalmente y espero que lo entiendan bien. (Rumores)."
+}

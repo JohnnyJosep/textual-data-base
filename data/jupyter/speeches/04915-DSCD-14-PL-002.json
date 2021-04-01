@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, AL MINISTRO DEL INTERIOR PARA QUE EXPLIQUE LAS DECISIONES ADOPTADAS EN EL SENO DE LA GUARDIA CIVIL. ",
+        "diputado": [
+            {
+                "apellidos": "Pérez Díaz",
+                "apellidosNombre": "Pérez Díaz, María Auxiliadora",
+                "codParlamentario": 160,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "María Auxiliadora",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/AuxiPD",
+                "twitterUserId": "192883412",
+                "twitterUserName": "AuxiPD"
+            },
+            7
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE"
+    },
+    "text": "A continuación, interpelación urgente del Grupo Parlamentario Popular en el Congreso al ministro del Interior para que explique las decisiones adoptadas en el seno de la Guardia Civil. Para su defensa tiene la palabra la señora Vázquez Blanco."
+}

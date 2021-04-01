@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-15T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "diputado": [
+            {
+                "apellidos": "Pastor Julián",
+                "apellidosNombre": "Pastor Julián, Ana María",
+                "codParlamentario": 31,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/anapastorjulian",
+                "twitterUserId": "307570052",
+                "twitterUserName": "anapastorjulian"
+            },
+            17
+        ],
+        "order": 135,
+        "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Pastor Julián)"
+    },
+    "text": "Muchas gracias. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Muchas gracias. Por el Grupo Parlamentario Ciudadanos, tiene la palabra la señora Muñoz Vidal."
+}

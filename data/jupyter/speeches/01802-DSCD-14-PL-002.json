@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Hurtado Zurera",
+                "apellidosNombre": "Hurtado Zurera, Antonio",
+                "codParlamentario": 372,
+                "fchAlta": "25/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 14,
+                "idLegislatura": 14,
+                "nombre": "Antonio",
+                "nombreCircunscripcion": "Córdoba",
+                "twitter": "https://twitter.com/AntonioHurtado",
+                "twitterUserId": "20585781",
+                "twitterUserName": "AntonioHurtado"
+            },
+            0
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "HURTADO ZURERA"
+    },
+    "text": "Sí, prometo."
+}

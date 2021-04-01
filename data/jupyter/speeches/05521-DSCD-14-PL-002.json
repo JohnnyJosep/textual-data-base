@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-25T00:00:00.000Z",
+        "debate": "INFORMES DEL DEFENSOR DEL PUEBLO CORRESPONDIENTES A LA GESTIÓN REALIZADA DURANTE LOS AÑOS 2018 Y 2019. -- INFORME DEL DEFENSOR DEL PUEBLO CORRESPONDIENTE A LA GESTIÓN REALIZADA DURANTE EL AÑO 2019. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Buenos días, señorías. Se reanuda la sesión. Comenzamos con el punto del orden del día relativo a los informes del Defensor del Pueblo correspondientes a la gestión realizada durante los años 2018 y 2019. Como saben sus señorías, con arreglo a las normas de procedimiento, las deliberaciones comenzarán una vez que el defensor del pueblo en funciones haya terminado la presentación de sus informes. Asimismo, tal y como ha acordado la Junta de Portavoces, el debate de los dos informes se hará de forma acumulada. Para la exposición de un resumen de los informes, tiene la palabra el defensor del pueblo en funciones, don Francisco Fernández Marugán."
+}

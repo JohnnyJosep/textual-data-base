@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "VOX. -- DEL DIPUTADO DON TOMÁS CABEZÓN CASAS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿QUÉ REFORMAS SE HA COMPROMETIDO A REALIZAR EL GOBIERNO DE ESPAÑA A CAMBIO DE RECIBIR LOS FONDOS EUROPEOS? ",
+        "diputado": [
+            {
+                "apellidos": "Cabezón Casas",
+                "apellidosNombre": "Cabezón Casas, Tomás",
+                "codParlamentario": 28,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 42,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Soria",
+                "twitter": "https://twitter.com/tcabcas",
+                "twitterUserId": "516834154",
+                "twitterUserName": "tcabcas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CABEZÓN CASAS"
+    },
+    "text": "Gracias, presidenta. Señora vicepresidenta, el pasado viernes, tras su comparecencia sobre los fondos europeos, hubo unanimidad entre los portavoces de los diferentes grupos parlamentarios sobre la falta de concreción en sus explicaciones. Señora Calviño, nos jugamos la llegada de 140 000 millones de euros y ustedes mientras tanto, en el Gobierno, están en la pelea, en las filtraciones y en su lucha de egos. En definitiva, en vez de un Gobierno ustedes cada día se parecen más a la casa de los líos. Señora vicepresidenta, ¿puede concretarnos hoy qué reformas ha mandado a Europa? (Aplausos)."
+}

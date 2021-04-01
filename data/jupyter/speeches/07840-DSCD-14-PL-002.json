@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-15T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, EN RELACIÓN A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPAÑOL. ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Seijo",
+                "apellidosNombre": "Martínez Seijo, María Luz",
+                "codParlamentario": 251,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 34,
+                "idLegislatura": 14,
+                "nombre": "María Luz",
+                "nombreCircunscripcion": "Palencia",
+                "twitter": "https://twitter.com/luzseijo",
+                "twitterUserId": "270356445",
+                "twitterUserName": "luzseijo"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-044.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ SEIJO"
+    },
+    "text": "Utilicen los fondos del COVID-19, utilicen los recursos para mejorar la situación educativa allá donde ustedes gobiernan porque es a ustedes a los que les han convocado huelgas en Madrid y en Andalucía por su incompetencia, por su falta de previsión y por no apostar por el sistema educativo, señorías. (Aplausos). Esta es la realidad, estos son los datos, así que aporten algo más y menos demagogia. (Aplausos)."
+}

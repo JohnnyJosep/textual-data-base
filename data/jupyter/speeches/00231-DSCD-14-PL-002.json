@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Bassa Coll",
+                "apellidosNombre": "Bassa Coll, Montserrat",
+                "codParlamentario": 192,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 17,
+                "idLegislatura": 14,
+                "nombre": "Montserrat",
+                "nombreCircunscripcion": "Girona",
+                "twitter": "https://twitter.com/BassaMontse",
+                "twitterUserId": "1084408297",
+                "twitterUserName": "BassaMontse"
+            },
+            0
+        ],
+        "order": 61,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BASSA COLL"
+    },
+    "text": "… si queremos resolver el conflicto político, si queremos que la mesa de diálogo y la negociación sean provechosas, necesitamos esta empatía. Por tanto, desde la gestión de la rabia y la impotencia, desde esta empatía necesaria, desde un gran escepticismo y plenamente fiel a una ideología pacifista y feminista que considera que los conflictos se resuelven dialogando, hoy votamos abstención para darle esta oportunidad al diálogo. Y, finalmente, hoy desde esta tribuna reivindicamos la libertad inmediata de Oriol Junqueras y la nulidad de la sentencia. Muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario Republicano, puestos en pie.--Protestas.--Un señor diputado: ¡Viva la Guardia Civil!--Varios señores diputados: ¡Viva!)."
+}

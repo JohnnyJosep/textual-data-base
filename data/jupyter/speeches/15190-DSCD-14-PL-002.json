@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA CONTENER LA PROPAGACIÓN DE INFECCIONES CAUSADAS POR EL SARS-COV-2, PARA DAR CUENTA DE LOS DATOS Y GESTIONES DEL GOBIERNO EN RELACIÓN A LA APLICACIÓN DEL MISMO. ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 81,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "¿Dónde estaría la sociedad española? ¿Dónde estaría ahora mismo la imagen de España? ¿Cuáles serían los datos económicos y sanitarios de nuestro país si ustedes, en vez de pelearse en público y acordar en privado el reparto del Estado, se sentaran públicamente con esa mayoría de 221 escaños para reforzar y fortalecer el Estado? Esa mayoría de 221 escaños sigue existiendo y si ustedes no la utilizan, van a estar perdiendo cada día y robando a los españoles oportunidades y, desde luego, esperanza. Y para acabar…"
+}

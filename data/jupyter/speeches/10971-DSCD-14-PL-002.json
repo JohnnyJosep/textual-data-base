@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-17T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 70,
+        "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "(Continúa su intervención en gallego.--Aplausos)."
+}

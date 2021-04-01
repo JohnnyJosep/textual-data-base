@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SERGIO SAYAS LÓPEZ, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CUÁNDO TIENE PREVISTO EL GOBIERNO CELEBRAR UNA REUNIÓN DE LA COMISIÓN COORDINADORA DEL CONVENIO ECONÓMICO PARA ABORDAR LA PARTICIPACIÓN DE LA COMUNIDAD FORAL DE NAVARRA EN EL REPARTO DEL FONDO DE 16 000 MILLONES DE EUROS PARA LAS COMUNIDADES AUTÓNOMAS ANUNCIADO POR EL GOBIERNO DE ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Sayas López",
+                "apellidosNombre": "Sayas López, Sergio",
+                "codParlamentario": 55,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Sergio",
+                "nombreCircunscripcion": "Navarra",
+                "twitter": "https://twitter.com/sergiosayas",
+                "twitterUserId": "144600462",
+                "twitterUserName": "sergiosayas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SAYAS LÓPEZ"
+    },
+    "text": "Señora ministra, el Gobierno anunció un fondo de 16 000 millones de euros para las comunidades autónomas con el fin de contribuir a la reconstrucción social y económica de nuestro país. Me gustaría que en su intervención garantizara que Navarra podrá participar de ese fondo, y también que dijera si en la reunión que hay prevista mañana en el marco de la Comisión Coordinadora del Convenio Económico se fijará la cuantía y la forma en la que Navarra podrá participar de este fondo. Muchas gracias."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-19T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY ORGÁNICA POR LA QUE SE MODIFICA LA LEY ORGÁNICA 2/2006, DE 3 DE MAYO, DE EDUCACIÓN. ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Seijo",
+                "apellidosNombre": "Martínez Seijo, María Luz",
+                "codParlamentario": 251,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 34,
+                "idLegislatura": 14,
+                "nombre": "María Luz",
+                "nombreCircunscripcion": "Palencia",
+                "twitter": "https://twitter.com/luzseijo",
+                "twitterUserId": "270356445",
+                "twitterUserName": "luzseijo"
+            },
+            0
+        ],
+        "order": 47,
+        "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ SEIJO"
+    },
+    "text": "Con la educación se progresa. (Prolongados aplausos de las señoras y los señores diputados del Grupo Parlamentario Socialista y del Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, así como de los miembros del Gobierno, puestos en pie.--Las señoras y los señores diputados del Grupo Parlamentario Popular en el Congreso y del Grupo Parlamentario VOX, puestos en pie y golpeando con las manos los escaños, gritan reiteradamente: ¡Libertad!, ¡libertad!, ¡libertad! Esta situación se prolonga durante varios minutos)."
+}

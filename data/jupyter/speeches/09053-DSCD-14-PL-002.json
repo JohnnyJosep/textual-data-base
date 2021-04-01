@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DE LA DIPUT ADA DOÑA ANA MARÍA ORAMAS GONZÁLEZ-MORO, DEL GRUPO P ARLAMENT ARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿QUÉ MEDIDAS URGENTES TIENE PREVISTAS EL GOBIERNO PARA HACER FRENTE A LA GRAVE SITUACIÓN ECONÓMICA Y SOCIAL DE CANARIAS, POR EL NUEVO CERO TURÍSTICO? ",
+        "diputado": [
+            {
+                "apellidos": "Oramas González-Moro",
+                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "codParlamentario": 161,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "CCa-PNC-NC",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 38,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "S/C Tenerife",
+                "twitter": "https://twitter.com/anioramas",
+                "twitterUserId": "479394745",
+                "twitterUserName": "anioramas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ORAMAS GONZÁLEZ-MORO"
+    },
+    "text": "Gracias, señora presidenta. Señora ministra, ¿qué medidas urgentes y específicas para Canarias va a plantear su Gobierno ante el nuevo cero turístico de mi tierra?"
+}

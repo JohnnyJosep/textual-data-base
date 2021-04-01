@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA URGENTE DEL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030, PARA DAR CUENTA DE LAS ÚLTIMAS INFORMACIONES RELATIVAS A LA FINANCIACIÓN IRREGULAR DE PODEMOS Y LA RECIENTE IMPUTACIÓN, TANTO DEL PARTIDO COMO DE ALTOS CARGOS DEL MISMO, Y EL PAPEL DEL VICEPRESIDENTE EN ESTE ASUNTO.",
+        "diputado": [
+            {
+                "apellidos": "Santiago Romero",
+                "apellidosNombre": "Santiago Romero, Enrique Fernando",
+                "codParlamentario": 45,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Enrique Fernando",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ensanro",
+                "twitterUserId": "",
+                "twitterUserName": "ensanro"
+            },
+            0
+        ],
+        "order": 37,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SANTIAGO ROMERO"
+    },
+    "text": "Acabo. Es imprescindible mantener la credibilidad de las instituciones del Estado, y para ello hay que velar para que no coincidan diligencias mediáticas con la anunciada moción de censura de la extrema derecha y la derecha extrema contra el Gobierno de coalición, porque esa coincidencia supondría una evidente utilización del Poder Judicial en los asuntos políticos. Por todo ello, vamos a votar en contra de la propuesta goebbeliana, digna de Goebbels, del Partido Popular y Ciudadanos. Propuesta que consideramos una primera aportación de ambas fuerzas políticas a la moción de censura anunciada por VOX contra el Gobierno de coalición. Muchas gracias. (Aplausos)."
+}

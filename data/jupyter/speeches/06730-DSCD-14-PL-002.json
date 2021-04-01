@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE HACIENDA, PARA INFORMAR SOBRE EL ACUERDO ALCANZADO ENTRE EL DEPARTAMENTO QUE DIRIGE Y LA FEDERACIÓN ESPAÑOLA DE MUNICIPIOS Y PROVINCIAS (FEMP) RELATIVO A LA INCAUTACIÓN DE REMANENTES DE LAS ENTIDADES LOCALES POR PARTE DEL ESTADO, ASÍ COMO LA AUTORIZACIÓN DEL USO DE SUPERÁVIT DE LOS AYUNTAMIENTOS.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos al punto quinto del orden del día: Petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión de Hacienda, con el siguiente orden del día: comparecencia de la ministra de Hacienda, para informar sobre el acuerdo alcanzado entre el departamento que dirige y la Federación Española de Municipios y Provincias relativo a la incautación de remanentes de las entidades locales por parte del Estado, así como la autorización del uso de superávit de los ayuntamientos. Para la defensa de la iniciativa, por el Grupo Parlamentario Popular en el Congreso, tiene la palabra el señor González Terol."
+}

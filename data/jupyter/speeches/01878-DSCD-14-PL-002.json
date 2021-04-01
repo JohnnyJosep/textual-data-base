@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO P ARLAMENT ARIO DE EUSKAL HERRIA BILDU, SOBRE PENSIONES. ",
+        "diputado": [
+            {
+                "apellidos": "Muñoz Vidal",
+                "apellidosNombre": "Muñoz Vidal, María",
+                "codParlamentario": 333,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "María",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/mariadelamiel",
+                "twitterUserId": "316058009",
+                "twitterUserName": "mariadelamiel"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MUÑOZ VIDAL"
+    },
+    "text": "Acabo ya, señor presidente. Sepan, señores de Bildu, que nosotros no nos tragamos su mantra de la solidaridad. En la solidaridad se basan las enmiendas que hemos presentado, que buscan justamente lo contrario de lo que ustedes pretenden; la igualdad de prestaciones sociales sin importar donde residan los españoles, porque la igualdad, señorías, aunque no lo crean, no tiene precio. Muchas gracias. (Aplausos)."
+}

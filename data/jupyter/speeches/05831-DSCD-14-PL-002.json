@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-25T00:00:00.000Z",
+        "debate": "DICTÁMENES DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN). -- DICTAMEN DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UNA SEÑORA DIPUTADA. ",
+        "diputado": [
+            {
+                "apellidos": "Píriz Maya",
+                "apellidosNombre": "Píriz Maya, Víctor Valentín",
+                "codParlamentario": 9,
+                "fchAlta": "18/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 6,
+                "idLegislatura": 14,
+                "nombre": "Víctor Valentín",
+                "nombreCircunscripcion": "Badajoz",
+                "twitter": "https://twitter.com/vicpiriz1975",
+                "twitterUserId": "807001880220073988",
+                "twitterUserName": "vicpiriz1975"
+            },
+            0
+        ],
+        "order": 59,
+        "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PÍRIZ MAYA"
+    },
+    "text": "Es que estoy conectando los puntos, señor presidente."
+}

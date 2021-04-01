@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO PLURAL (SEÑOR REGO CANDAMIL), A LA VICEPRESIDENT A TERCERA DEL GOBIERNO Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL PARA QUE EXPONGA LAS MEDIDAS QUE PREVÉ EL GOBIERNO PARA GARANTIZAR UNA SALIDA SOCIAL Y JUSTA A LA CRISIS ECONÓMICA TRAS LA PANDEMIA DE LA COVID-19. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos a tratar las interpelaciones dirigidas al Gobierno. En primer lugar, interpelación urgente del Grupo Parlamentario Plural a la vicepresidenta Tercera del Gobierno y ministra de Asuntos Económicos y Transformación Digital, para que exponga las medidas que prevé el Gobierno para garantizar una salida social y justa a la crisis económica tras la pandemia de la COVID-19. Para su defensa, tiene la palabra el señor Rego Candamil."
+}

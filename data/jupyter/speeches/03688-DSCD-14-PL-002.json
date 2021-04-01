@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-20T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
+        "diputado": [
+            {
+                "apellidos": "Bal Francés",
+                "apellidosNombre": "Bal Francés, Edmundo",
+                "codParlamentario": 211,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edmundo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/BalEdmundo",
+                "twitterUserId": "1099251922152931329",
+                "twitterUserName": "BalEdmundo"
+            },
+            0
+        ],
+        "order": 186,
+        "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAL FRANCÉS"
+    },
+    "text": "Señor ministro, ¿cómo valora la gestión de la crisis sanitaria que ha realizado el Gobierno respecto a la epidemia del COVID-19?"
+}

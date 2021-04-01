@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON CARLOS HUGO FERNÁNDEZ-ROCA SUÁREZ, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA A LA SEÑORA MINISTRA DE DEFENSA: ¿POR QUÉ NO APLICAN LA LEY DE SEGURIDAD NACIONAL EN LUGAR DE PRORROGAR EL ESTADO DE ALARMA DURANTE 50 DÍAS MÁS? ",
+        "diputado": [
+            {
+                "apellidos": "Fernández Casero",
+                "apellidosNombre": "Fernández Casero, Ana Belén",
+                "codParlamentario": 230,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 10,
+                "idLegislatura": 14,
+                "nombre": "Ana Belén",
+                "nombreCircunscripcion": "Cáceres",
+                "twitter": "https://twitter.com/belenfcasero",
+                "twitterUserId": "2718789058",
+                "twitterUserName": "belenfcasero"
+            },
+            8
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "FERNÁNDEZ-ROCA SUÁREZ"
+    },
+    "text": "Señora ministra, ¿por qué no aplican la Ley de Seguridad Nacional en lugar de prorrogar el estado de alarma durante cincuenta días más?"
+}

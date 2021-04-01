@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO ERREJÓN GALVÁN, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿TIENE UN PLAN DE CHOQUE EL GOBIERNO PARA ABORDAR EL PROBLEMA DE LA SALUD MENTAL? ",
+        "diputado": [
+            {
+                "apellidos": "Errejón Galván",
+                "apellidosNombre": "Errejón Galván, Íñigo",
+                "codParlamentario": 233,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÁS PAÍS-EQUO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Íñigo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ierrejon",
+                "twitterUserId": "482389606",
+                "twitterUserName": "ierrejon"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ERREJÓN GALVÁN"
+    },
+    "text": "Gracias, señora presidenta. Señor Sánchez, ¿tiene el Gobierno un plan de choque para abordar el inmenso problema de la salud mental?"
+}

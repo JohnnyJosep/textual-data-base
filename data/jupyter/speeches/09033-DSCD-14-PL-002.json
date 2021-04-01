@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON MIGUEL ÁNGEL JEREZ JUAN, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE CONSUMO: ¿MANTIENE EL MINISTRO SUS AFIRMACIONES REFERIDAS A LA JEFATURA DEL ESTADO? ",
+        "diputado": [
+            {
+                "apellidos": "Garzón Espinosa",
+                "apellidosNombre": "Garzón Espinosa, Alberto",
+                "codParlamentario": 12,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Alberto",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/agarzon",
+                "twitterUserId": "11904592",
+                "twitterUserName": "agarzon"
+            },
+            22
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE CONSUMO (Garzón Espinosa)"
+    },
+    "text": "Señor Jerez, respecto a su pregunta, le recuerdo que nuestro sistema político es una monarquía parlamentaria. (Rumores.--Aplausos)."
+}

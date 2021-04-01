@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-28T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR LOS GRUPOS PARLAMENTARIOS POPULAR EN EL CONGRESO Y CIUDADANOS, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DE LA MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN, PARA DAR CUENTA DE LA REUNIÓN BILATERAL MANTENIDA CON FABIÁN PICARDO, EL DÍA 23/07/2020, PARA TRATAR MATERIAS RELACIONADAS CON GIBRALTAR.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 37,
+        "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Queda aprobada la comparecencia. (Aplausos). Pasamos a votar el punto número 2, petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión de Hacienda, con el siguiente orden del día: Comparecencia urgente de la Ministra de Hacienda y portavoz del Gobierno para dar cuenta de la denuncia efectuada por el sindicato Comisiones Obreras de Radiotelevisión Española, según la cual el director de Información y Actualidad de Radiotelevisión Española, don Enric Hernández, elaboró la respuesta de la ministra portavoz a una pregunta oral en Pleno sobre Radiotelevisión Española, del Grupo Parlamentario Popular el día 22 de abril de 2020. Efectuada la votación, dio el siguiente resultado: votos a favor, 31; en contra, 31; abstenciones, 4."
+}

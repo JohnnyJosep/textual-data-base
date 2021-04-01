@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LA GESTIÓN DEL INGRESO MÍNIMO VITAL. ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            55
+        ],
+        "order": 11,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES (Escrivá Belmonte)"
+    },
+    "text": "Señora diputada, ahora que le oigo hacer referencia a todos esos titulares de prensa --que, sobre todo, aparecen en la prensa madrileña-- sobre cosas que no ocurren, debo decirle que yo, que vivo la vida dentro del Gobierno y sus relaciones, nunca he entendido cuál era su objetivo. Ahora creo que el objetivo es, en parte, para que ustedes vengan aquí a hacer de caja de resonancia de estas cosas. (Rumores). No hay otra explicación porque yo nunca…"
+}

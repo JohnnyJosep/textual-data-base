@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-29T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA CONTENER LA PROPAGACIÓN DE INFECCIONES CAUSADAS ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 78,
+        "path": "../data/diaries-txts/DSCD-14-PL-059.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señor ministro. Señorías, votaremos en tres minutos. Les recuerdo que solamente podrán votar desde el escaño que les corresponde identificado con su nombre en la pantalla. Asimismo, les recuerdo que aquellas señorías que ya han emitido el voto mediante el procedimiento telemático no pueden volver a hacerlo desde su escaño. (Pausa). VOTACIÓN DE LAS PROPUESTAS PRESENTADAS POR LOS GRUPOS PARLAMENTARIOS."
+}

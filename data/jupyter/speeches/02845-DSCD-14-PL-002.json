@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN LUIS STEEGMANN OLMEDILLAS, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿V A A INFORMAR ALGUNA VEZ EL GOBIERNO DEL NÚMERO REAL DE MUERTOS POR LA COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Steegmann Olmedillas",
+                "apellidosNombre": "Steegmann Olmedillas, Juan Luis",
+                "codParlamentario": 135,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Juan Luis",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/jlsteeg_doc",
+                "twitterUserId": "900446435111579648",
+                "twitterUserName": "jlsteeg_doc"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "STEEGMANN OLMEDILLAS"
+    },
+    "text": "Buenos días, señora presidenta. Señor ministro, señorías, muchas gracias. Mi pregunta es: ¿Va a informar alguna vez el Gobierno del número real de muertos por la COVID-19?"
+}

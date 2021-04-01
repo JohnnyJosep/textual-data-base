@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IÑAKI RUIZ DE PINEDO UNDIANO, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DE CONSUMO: ¿ANTE LA PERSISTENCIA DE LA PANDEMIA Y LA GRAN CARGA ECONÓMICA QUE SUPONE EL GASTO EN MASCARILLAS, ESPECIALMENTE A LAS FAMILIAS MÁS VULNERABLES, TIENE PREVISTA ALGUNA MEDIDA PARA RESPONDER A ESTA SITUACIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Garzón Espinosa",
+                "apellidosNombre": "Garzón Espinosa, Alberto",
+                "codParlamentario": 12,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Alberto",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/agarzon",
+                "twitterUserId": "11904592",
+                "twitterUserName": "agarzon"
+            },
+            22
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE CONSUMO (Garzón Espinosa)"
+    },
+    "text": "Señor diputado, totalmente de acuerdo. De hecho, tenemos una guía de uso de mascarillas. Al mismo tiempo, seguimos explorando las vías que usted ha citado. (Aplausos)."
+}

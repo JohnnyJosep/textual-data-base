@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ELVIRA VELASCO MORILLO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿QUÉ MEDIDAS ESTÁ ADOPTANDO EL GOBIERNO ANTE EL ELEVADO NÚMERO DE CONTAGIOS ENTRE LOS PROFESIONALES SANITARIOS? ",
+        "diputado": [
+            {
+                "apellidos": "Velasco Morillo",
+                "apellidosNombre": "Velasco Morillo, Elvira",
+                "codParlamentario": 10,
+                "fchAlta": "18/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 49,
+                "idLegislatura": 14,
+                "nombre": "Elvira",
+                "nombreCircunscripcion": "Zamora"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VELASCO MORILLO"
+    },
+    "text": "Gracias, presidenta. Ayer agradecíamos el trabajo de mis compañeras enfermeras en el Día Internacional de Enfermería y mañana el Foro de la Profesión Médica guardará dos minutos de silencio en todos los centros de trabajo como muestra de agradecimiento a los compañeros que han perdido la vida como consecuencia de la COVID-19. Otros profesionales sanitarios también nos han dejado. Son más de sesenta los sanitarios que han fallecido y cerca de 49 000 los contagiados. Señor ministro, ¿qué medidas está tomando el Gobierno ante el elevado número de contagios de los profesionales sanitarios?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CAROLINA ESP AÑA REINA, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CUÁNDO ADVIRTIÓ EL MINISTERIO LA URGENCIA PARA COMPLETAR EL PAGO DEL TERCER TRAMO DE LA EQUIPARACIÓN SALARIAL DE POLICÍA NACIONAL Y GUARDIA CIVIL? ",
+        "diputado": [
+            {
+                "apellidos": "España Reina",
+                "apellidosNombre": "España Reina, Carolina",
+                "codParlamentario": 316,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Carolina",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/CarolinaEspanaR",
+                "twitterUserId": "700630213462401024",
+                "twitterUserName": "CarolinaEspanaR"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESPAÑA REINA"
+    },
+    "text": "Señor ministro, ¿cuándo advirtió de la urgencia para completar el pago de la equiparación salarial?"
+}

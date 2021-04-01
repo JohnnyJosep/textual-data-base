@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-17T00:00:00.000Z",
+        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 58/2003, DE 17 DE DICIEMBRE, GENERAL TRIBUTARIA, EN TRANSPOSICIÓN DE LA DIRECTIVA (UE) 2018/822 DEL CONSEJO, DE 25 DE MAYO DE 2018, QUE MODIFICA LA DIRECTIVA 2011/16/UE POR LO QUE SE REFIERE AL INTERCAMBIO AUTOMÁTICO Y OBLIGATORIO DE INFORMACIÓN EN EL ÁMBITO DE LA FISCALIDAD EN RELACIÓN CON LOS MECANISMOS TRANSFRONTERIZOS SUJETOS A COMUNICACIÓN DE INFORMACIÓN. ",
+        "diputado": [
+            {
+                "apellidos": "Fuentes Curbelo",
+                "apellidosNombre": "Fuentes Curbelo, Juan Bernardo",
+                "codParlamentario": 359,
+                "fchAlta": "03/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Juan Bernardo",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/Juanb0462",
+                "twitterUserId": "379117713",
+                "twitterUserName": "Juanb0462"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "FUENTES CURBELO"
+    },
+    "text": "Quiero desearles mucha felicidad en estas fiestas y mucha salud. Muchas gracias. (Aplausos)."
+}

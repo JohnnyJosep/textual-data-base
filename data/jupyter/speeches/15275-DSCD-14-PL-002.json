@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MONTSERRAT BASSA COLL, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CREE EL GOBIERNO ESPAÑOL QUE ESTÁ GARANTIZADA LA LIBERTAD DE EXPRESIÓN EN EL ESTADO ESPAÑOL? ",
+        "diputado": [
+            {
+                "apellidos": "Nevado del Campo",
+                "apellidosNombre": "Nevado del Campo, María Magdalena",
+                "codParlamentario": 293,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 10,
+                "idLegislatura": 14,
+                "nombre": "María Magdalena",
+                "nombreCircunscripcion": "Cáceres",
+                "twitter": "https://twitter.com/malenanevado",
+                "twitterUserId": "274481242",
+                "twitterUserName": "malenanevado"
+            },
+            24
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE JUSTICIA (Campo Moreno)"
+    },
+    "text": "Gracias, señora presidenta. Señorías, señora Bassa, en España la libertad de expresión, como el ejercicio de cualquier otro derecho fundamental reconocido en nuestro texto constitucional, está plenamente garantizada. Me va a permitir un pequeño consejo: No se confundan, no confundan sobre cómo defenderla. (Aplausos)."
+}

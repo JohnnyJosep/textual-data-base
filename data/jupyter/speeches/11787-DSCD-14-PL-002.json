@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-01T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Gutiérrez Vivas",
+                "apellidosNombre": "Gutiérrez Vivas, Miguel Ángel",
+                "codParlamentario": 375,
+                "fchAlta": "27/05/2020",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Miguel Ángel",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/MGutierrezCs",
+                "twitterUserId": "2250812558",
+                "twitterUserName": "MGutierrezCs"
+            },
+            0
+        ],
+        "order": 58,
+        "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUTIÉRREZ VIVAS"
+    },
+    "text": "Por nuestra parte no hay ningún problema, si a la señora Vázquez no le importa."
+}

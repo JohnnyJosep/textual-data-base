@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-11T00:00:00.000Z",
+        "debate": "ACUERDO DE TRAMITACIÓN DIRECTA Y EN LECTURA ÚNICA DE INICIATIVAS LEGISLATIVAS: -- ACUERDO DE TRAMIT ACIÓN DIRECT A Y EN LECTURA ÚNICA DEL PROYECT O DE LEY POR LA QUE SE DEROGA EL DESPIDO OBJETIVO POR FALTAS DE ASISTENCIA AL TRABAJO ESTABLECIDO EN EL ARTÍCULO 52.D) DEL TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES, APROBADO POR EL REAL DECRETO LEGISLATIVO 2/2015, DE 23 DE OCTUBRE (PROCEDENTE DEL REAL DECRETO-LEY 4/2020, DE 18 DE FEBRERO). ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-028.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señora Peña. Votaremos en tres minutos. (Pausa). Señorías, vamos a iniciar las votaciones. PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, RELATIVA A LA RETIRADA DE CONDECORACIONES A FUNCIONARIOS Y AUTORIDADES FRANQUISTAS QUE HUBIESEN OBSERVADO CONDUCTAS INCOMPATIBLES CON LOS VALORES DEMOCRÁTICOS Y LOS PRINCIPIOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS."
+}

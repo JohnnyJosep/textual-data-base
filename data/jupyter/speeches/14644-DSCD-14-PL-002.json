@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CREE EL GOBIERNO QUE LOS FONDOS EUROPEOS DEBEN USARSE PARA FORTALECER LA POSICIÓN DEL IBEX FRENTE A PYMES Y AUTÓNOMOS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            92
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENT A TERCERA DEL GOBIERNO Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL (Calviño Santamaría)"
+    },
+    "text": "Gracias, presidenta. Señor Capdevila, como usted sabe muy bien que el objetivo principal de esos fondos de recuperación, de ese plan de recuperación, es impulsar el crecimiento económico, la creación de empleo de calidad y la modernización de todo el tejido productivo. Las pymes y los autónomos van a estar en el corazón de la recuperación económica, como han sido prioridad absoluta en todas las medidas que hemos venido adoptando para responder a la pandemia. (Aplausos del Grupo Parlamentario Socialista)."
+}

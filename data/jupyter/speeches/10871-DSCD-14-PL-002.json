@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-17T00:00:00.000Z",
+        "debate": "MODIFICACIÓN DEL ORDEN DEL DÍA.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "De conformidad con lo dispuesto por el artículo 68.1 del Reglamento y con lo acordado por la Junta de Portavoces, esta Presidencia somete al Pleno de la Cámara las siguientes modificaciones del orden del día: en la parte correspondiente a las interpelaciones, que la interpelación urgente del Grupo Parlamentario Ciudadanos, que figura en el orden del día como punto 24, sea debatida antes que la interpelación urgente del Grupo Parlamentario VOX, que figura como punto 23 del orden del día. En segundo lugar, que el punto 29, correspondiente al dictamen del proyecto de ley orgánica por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, pase a debatirse como primer punto de la sesión del jueves. Y finalmente, la permuta en el orden de debate de la convalidación o derogación de los reales decretos-leyes que figuran en el orden del día, de forma que el correspondiente al punto 27 sea debatido en primer lugar. ¿Lo acuerda así la Cámara? (Asentimiento). En consecuencia, quedan aprobadas las modificaciones del orden del día."
+}

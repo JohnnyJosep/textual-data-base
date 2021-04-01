@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-20T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
+        "diputado": [
+            {
+                "apellidos": "Abascal Conde",
+                "apellidosNombre": "Abascal Conde, Santiago",
+                "codParlamentario": 43,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Santiago",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Santi_ABASCAL",
+                "twitterUserId": "260788584",
+                "twitterUserName": "Santi_ABASCAL"
+            },
+            0
+        ],
+        "order": 69,
+        "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ABASCAL CONDE"
+    },
+    "text": "Concluyo inmediatamente. VOX ha nacido en el año 2014, VOX es un partido nuevo, que no tiene pasado. Aquí quien tiene pasado es su partido, no voy a decir ni usted --si le concedo que usted no es responsable de ese pasado--: en el año 1934, un golpe de Estado a la República; en el año 1936, un pucherazo electoral. Y su vicepresidente --y espero que con esto no se rían, porque además no tiene gracia-- fue el que dijo que ustedes tenían un pasado manchado de cal viva. ¡Vaya socios que elige usted! (Aplausos)."
+}

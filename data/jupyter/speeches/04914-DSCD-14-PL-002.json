@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO, SEÑOR GUITARTE GIMENO, SOBRE LA NECESIDAD DE UN PLAN ESPECIAL PARA LA RECUPERACIÓN DE LA ESPAÑA VACIADA Y EL RETO DEMOGRÁFICO, DE ACUERDO CON LOS OBJETIVOS DEL PLAN DE RECUPERACIÓN PARA EUROPA DE LA UNIÓN EUROPEA. ",
+        "diputado": [
+            {
+                "apellidos": "Pérez Díaz",
+                "apellidosNombre": "Pérez Díaz, María Auxiliadora",
+                "codParlamentario": 160,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "María Auxiliadora",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/AuxiPD",
+                "twitterUserId": "192883412",
+                "twitterUserName": "AuxiPD"
+            },
+            7
+        ],
+        "order": 10,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE"
+    },
+    "text": "Muchísimas gracias. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). --"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-30T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Simancas Simancas",
+                "apellidosNombre": "Simancas Simancas, Rafael",
+                "codParlamentario": 287,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Rafael",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/SimancasRafael",
+                "twitterUserId": "402219133",
+                "twitterUserName": "SimancasRafael"
+            },
+            0
+        ],
+        "order": 116,
+        "path": "../data/diaries-txts/DSCD-14-PL-065.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SIMANCAS SIMANCAS"
+    },
+    "text": "Yo no se lo reprocho, pero no nos den lecciones. (Prolongados aplausos de las señoras y señores diputados del Grupo Parlamentario Socialista, puestos en pie). Muchas gracias."
+}

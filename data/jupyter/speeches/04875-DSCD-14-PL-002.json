@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO P ARLAMENT ARIO CIUDADANOS, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ MEDIDAS TIENE PREVISTO IMPULSAR SU MINISTERIO, EN COLABORACIÓN CON EL REST O DEL GOBIERNO, P ARA GARANTIZAR LA CONCILIACIÓN F AMILIAR, INCLUYENDO AL PROPIO PROFESORADO, EN CASO DE QUE FINALMENTE SEA IMPOSIBLE QUE TODO EL ALUMNADO VUELVA A LOS COLEGIOS EL SIGUIENTE CURSO? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 4,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señor Bal Francés."
+}

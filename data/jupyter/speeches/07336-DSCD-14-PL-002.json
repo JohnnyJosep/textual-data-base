@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO PLURAL (SEÑOR REGO CANDAMIL), SOBRE LAS MEDIDAS QUE PREVÉ EL GOBIERNO PARA DAR SOLUCIÓN A LA CRISIS INDUSTRIAL EN GALICIA. ",
+        "diputado": [
+            {
+                "apellidos": "Marra Domínguez",
+                "apellidosNombre": "Marra Domínguez, María Ángeles",
+                "codParlamentario": 46,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PsdeG-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 36,
+                "idLegislatura": 14,
+                "nombre": "María Ángeles",
+                "nombreCircunscripcion": "Pontevedra",
+                "twitter": "https://twitter.com/AngelesMarra",
+                "twitterUserId": "487856790",
+                "twitterUserName": "AngelesMarra"
+            },
+            0
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARRA DOMÍNGUEZ"
+    },
+    "text": "Bo día, buenos días. Gracias, señor presidente. Quiero que mis primeras palabras en esta tribuna sean para recordar a las víctimas, a los enfermos y a sus familias en esta terrible pandemia. (Rumores)."
+}

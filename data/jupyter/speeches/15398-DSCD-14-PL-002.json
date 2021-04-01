@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO CIUDADANOS, P ARA GARANTIZAR EL EJERCICIO DEL PERIODISMO EN LIBERTAD Y SIN INJERENCIAS POLÍTICAS. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señorías, les informo de que desde las 20:15 horas y hasta las 21:15 horas se podrán votar telemáticamente las proposiciones no de ley y las mociones, los dictámenes sobre convenios internacionales y la enmienda a la totalidad. Estos asuntos se votarán presencialmente al final de la sesión del jueves. En cuanto a la votación para la elección de miembros del Consejo de Administración de la Corporación Radiotelevisión Española, que se celebrará íntegramente de modo telemático, el plazo para la emisión del voto será desde que finalice el plazo de la votación telemática anterior y hasta las 11:00 horas del jueves. Por la Presidencia se anunciará el resultado de las votaciones al final de la sesión plenaria del jueves. Se suspende la sesión hasta mañana a las nueve. Buenas noches."
+}

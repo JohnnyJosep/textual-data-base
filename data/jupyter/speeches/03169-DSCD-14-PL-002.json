@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-06T00:00:00.000Z",
+        "debate": "SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, Y 492/2020, DE 24 DE ABRIL. ",
+        "diputado": [
+            {
+                "apellidos": "Asens Llodrà",
+                "apellidosNombre": "Asens Llodrà, Jaume",
+                "codParlamentario": 291,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "ECP-GUAYEM EL CANVI",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Jaume",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/Jaumeasens",
+                "twitterUserId": "212377097",
+                "twitterUserName": "Jaumeasens"
+            },
+            0
+        ],
+        "order": 70,
+        "path": "../data/diaries-txts/DSCD-14-PL-021.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ASENS LLODRÀ"
+    },
+    "text": "Solo una referencia. Quiero decirle al señor presidente que estamos obligados también a dar respuestas valientes e innovadoras que ofrezcan certezas, seguridades sanitarias y económicas al conjunto de la ciudadanía, y creo que sería un error conformarse con ser la alternativa menos mala. Hay que plantear nuevos horizontes de futuro, de esperanza, y creo que ahora es una gran oportunidad para construir un nuevo mundo que sea diferente al viejo, que es el que nos ha traído hasta aquí. Nada más. (Aplausos)."
+}

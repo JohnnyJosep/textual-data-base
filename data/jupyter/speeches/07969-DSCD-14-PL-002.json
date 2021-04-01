@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑOR BOTRAN P AHISSA), A LA VICEPRESIDENT A PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA, RELATIVA A LA RELACIÓN DEL GOBIERNO CON LAS CORTES Y LA NECESIDAD DE TRANSPARENCIA. ",
+        "diputado": [
+            {
+                "apellidos": "Botran Pahissa",
+                "apellidosNombre": "Botran Pahissa, Albert",
+                "codParlamentario": 87,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "CUP-PR",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Albert",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/albertbotran",
+                "twitterUserId": "2978274629",
+                "twitterUserName": "albertbotran"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BOTRAN PAHISSA"
+    },
+    "text": "¿Qué cree que piensan muchos países de la Unión Europea sobre cómo se fiscalizan aquí los dineros públicos si el que está arriba del todo, el jefe del Estado, se los ha metido en el bolsillo ante las narices de todo el Gobierno y ante las narices de los que deben fiscalizar este ejercicio de la jefatura del Estado? Eso sí que hace daño a la democracia, eso sí que daña la imagen del Estado español a nivel internacional."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL MINISTRO DEL INTERIOR EXPLIQUE LAS DECISIONES ADOPTADAS EN EL SENO DE LA GUARDIA CIVIL. ",
+        "diputado": [
+            {
+                "apellidos": "Beltrán Villalba",
+                "apellidosNombre": "Beltrán Villalba, Ana María",
+                "codParlamentario": 260,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/abeltran_ana",
+                "twitterUserId": "2300055003",
+                "twitterUserName": "abeltran_ana"
+            },
+            0
+        ],
+        "order": 25,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BELTRÁN VILLALBA"
+    },
+    "text": "La de adición, sí."
+}

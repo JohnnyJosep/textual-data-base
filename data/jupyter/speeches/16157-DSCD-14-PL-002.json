@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-16T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Segura Just",
+                "apellidosNombre": "Segura Just, Juan Carlos",
+                "codParlamentario": 380,
+                "fchAlta": "16/03/2021",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Juan Carlos",
+                "nombreCircunscripcion": "Barcelona"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-087.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SEGURA JUST"
+    },
+    "text": "Sí, juro. (Aplausos)."
+}

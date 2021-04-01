@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CUÁNTO DINERO PÚBLICO SE DESTINA A LA ESTANCIA Y SEGURIDAD DE SU MAJESTAD EL REY DON JUAN CARLOS EN EMIRATOS ÁRABES UNIDOS? ",
+        "diputado": [
+            {
+                "apellidos": "Borrás Pabón",
+                "apellidosNombre": "Borrás Pabón, Mireia",
+                "codParlamentario": 142,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/_mireiaborras",
+                "twitterUserId": "2348453556",
+                "twitterUserName": "_mireiaborras"
+            },
+            8
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORRÀS CASTANYER"
+    },
+    "text": "Señor ministro, le pedíamos una cifra, una información concreta. Es un coste que se debería poder cuantificar con precisión y que, por transparencia, la ciudadanía debería poder conocer, todavía más en tiempos de COVID y con las emergencias sociales que estamos sufriendo. Lo que sí es incalculable es el precio que el Estado español está dispuesto a pagar desde el punto de vista del prestigio democrático en el ámbito internacional para proteger a un rey que ya tuvo que abdicar y que ahora ha tenido que emigrar. Que el anterior jefe del Estado huya, y huya además a lo que muchos llaman el lugar del crimen --una dictadura--, es escandaloso y es la peor imagen internacional para España. Y no lo digo yo, lo dice el vicepresidente de su Gobierno, Pablo Iglesias. Lo que verdaderamente es un escándalo --otro más-- es que, como Gobierno que se denomina progresista, formado por dos partidos que se consideran republicanos, no hagan ustedes absolutamente nada. Bueno, sí, darle cobertura y contribuir a la opacidad, bloqueando hasta cuatro comisiones de investigación y otras tantas solicitudes de comparecencia. La Corona española disfruta de un grado de protección legal impensable e inaceptable en democracias consolidadas. Pero aquí la consigna es proteger a la Corona cueste lo que cueste --nunca mejor dicho-- y no se dan cuenta de que el precio que están pagando es la ruina de la reputación española en el mundo. La están despilfarrando por méritos y eméritos propios. Primero enseñaron al mundo cómo usaban y premiaban la violencia policial contra pacíficos ciudadanos que querían ejercer su derecho al voto en Cataluña y hoy le muestran cómo utilizan a las Fuerzas de Seguridad para proteger a un rey a la fuga. Cualquier jefe del Estado debería estar obligado a rendir cuentas, pero la sacrosanta Constitución española proclama que el rey de España es inviolable, lo que traducido quiere decir que tiene impunidad absoluta. Y eso para los demócratas es una vergüenza también absoluta, porque de tanto proteger a la Corona están desprotegiendo a la democracia."
+}

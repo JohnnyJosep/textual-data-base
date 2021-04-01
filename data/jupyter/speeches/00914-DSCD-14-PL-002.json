@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-12T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿SE REUNIÓ EL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, SEÑOR ÁBALOS, CON LA VICEPRESIDENTA DE VENEZUELA, DOÑA DELCY RODRÍ GUEZ, EN EL AEROPUERTO MADRID­BARAJAS ADOLFO SUÁREZ Y FUERA DEL AVIÓN POR INSTRUCCIONES EXPRESAS DEL PRESIDENTE DEL GOBIERNO? ",
+        "diputado": [
+            {
+                "apellidos": "Abascal Conde",
+                "apellidosNombre": "Abascal Conde, Santiago",
+                "codParlamentario": 43,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Santiago",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Santi_ABASCAL",
+                "twitterUserId": "260788584",
+                "twitterUserName": "Santi_ABASCAL"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ABASCAL CONDE"
+    },
+    "text": "Muy buenos días. Señor Sánchez, ¿se reunió el ministro de Transportes, el señor Ábalos, en el aeropuerto de Barajas, con la vicepresidenta del narcogobierno de Venezuela, permitiendo su entrada en España y a la vez impidiendo su detención, por instrucciones expresas del presidente del Gobierno?"
+}

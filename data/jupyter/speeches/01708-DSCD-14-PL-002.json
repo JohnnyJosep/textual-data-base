@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑORA ORAMAS GONZÁLEZ-MORO), SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO ANTE LA DELIMITACIÓN EFECTUADA POR PARTE DE MARRUECOS DE SU FRONTERA MARÍTIMA AFECTANDO A CANARIAS Y AL SÁHARA OCCIDENTAL. ",
+        "diputado": [
+            {
+                "apellidos": "Oramas González-Moro",
+                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "codParlamentario": 161,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "CCa-PNC-NC",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 38,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "S/C Tenerife",
+                "twitter": "https://twitter.com/anioramas",
+                "twitterUserId": "479394745",
+                "twitterUserName": "anioramas"
+            },
+            0
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ORAMAS GONZÁLEZ-MORO"
+    },
+    "text": "Muchas gracias."
+}

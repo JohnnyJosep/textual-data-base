@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-04T00:00:00.000Z",
+        "debate": "PALABRAS DE LA PRESIDENCIA.",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            17
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-077.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodríguez Gómez de Celis)"
+    },
+    "text": "Buenos días, señorías. Reanudamos la sesión. Señorías, la presente sesión plenaria incluye el debate y aprobación de un dictamen de Comisión de iniciativa legislativa orgánica --punto número 30 del orden del día-- que tiene que ser sometido a votación final de conjunto, la cual, de conformidad con el artículo 131.2 del Reglamento, debe ser anunciada con antelación por la Presidencia. Por ello, en cumplimiento de esta disposición, anuncio que las votaciones no se producirán antes de las trece horas."
+}

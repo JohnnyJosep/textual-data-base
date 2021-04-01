@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA URGENTE DEL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030, PARA DAR CUENTA DE LAS ÚLTIMAS INFORMACIONES RELATIVAS A LA FINANCIACIÓN IRREGULAR DE PODEMOS Y LA RECIENTE IMPUTACIÓN, TANTO DEL PARTIDO COMO DE ALTOS CARGOS DEL MISMO, Y EL PAPEL DEL VICEPRESIDENTE EN ESTE ASUNTO.",
+        "diputado": [
+            {
+                "apellidos": "Borrás Pabón",
+                "apellidosNombre": "Borrás Pabón, Mireia",
+                "codParlamentario": 142,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/_mireiaborras",
+                "twitterUserId": "2348453556",
+                "twitterUserName": "_mireiaborras"
+            },
+            8
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORRÀS CASTANYER"
+    },
+    "text": "Voy terminando. Sin embargo, lo que es correcto hay que hacerlo siempre, no por conveniencia. Y hoy, desde Junts per Catalunya y yo misma como portavoz, habiendo sufrido su voto a favor de mi suplicatorio, haremos lo correcto y votaremos en contra de la comparecencia y reivindicaremos la presunción de inocencia siempre. Muchas gracias."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CONSIDERA EL VICEPRESIDENTE SEGUNDO QUE SUS INICIATIVAS VAN A FAVORECER LA RECONSTRUCCIÓN ECONÓMICA DE ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Pérez Díaz",
+                "apellidosNombre": "Pérez Díaz, María Auxiliadora",
+                "codParlamentario": 160,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "María Auxiliadora",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/AuxiPD",
+                "twitterUserId": "192883412",
+                "twitterUserName": "AuxiPD"
+            },
+            7
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE"
+    },
+    "text": "Silencio, por favor."
+}

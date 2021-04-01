@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-16T00:00:00.000Z",
+        "debate": "TRAMITACIÓN DIRECTA Y EN LECTURA ÚNICA DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY POR LA QUE SE DEROGA EL DESPIDO OBJETIVO POR FALTAS DE ASISTENCIA AL TRABAJO ESTABLECIDO EN EL ARTÍCULO 52.D) DEL TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES, APROBADO POR EL REAL DECRETO LEGISLATIVO 2/2015, DE 23 DE OCTUBRE (PROCEDENTE DEL REAL DECRETO-LEY 4/2020, DE 18 DE FEBRERO). ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 22,
+        "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "En consecuencia, queda rechazada la enmienda a la totalidad del texto alternativo. Señorías, les informo de que desde las 22:45 horas del día de hoy hasta las 14:00 horas de mañana se podrán votar telemáticamente los restantes puntos del orden del día. La votación presencial de estos puntos se producirá al final de la sesión del día de mañana. Se suspende la sesión hasta mañana a las nueve."
+}

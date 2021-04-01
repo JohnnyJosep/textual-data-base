@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-28T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR LOS GRUPOS PARLAMENTARIOS POPULAR EN EL CONGRESO Y CIUDADANOS, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DE LA MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN, PARA DAR CUENTA DE LA REUNIÓN BILATERAL MANTENIDA CON FABIÁN PICARDO, EL DÍA 23/07/2020, PARA TRATAR MATERIAS RELACIONADAS CON GIBRALTAR.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 41,
+        "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Queda rechazada. Pasamos a votar el punto número 4. Petición formulada por los grupos parlamentarios Popular en el Congreso y Ciudadanos de que se acuerde la convocatoria de una sesión extraordinaria del Pleno con el siguiente orden del día: Comparecencia urgente de la ministra de Asuntos Exteriores, Unión Europea y Cooperación para dar cuenta de la reunión bilateral mantenida con Fabian Picardo el día 23 de julio de 2020 para tratar materias relacionadas con Gibraltar. Efectuada la votación, dio el siguiente resultado: votos a favor, 30; en contra, 35; abstenciones, 1."
+}

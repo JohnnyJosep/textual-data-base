@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO SOCIALIST A, ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. ",
+        "diputado": [
+            {
+                "apellidos": "Martín Llaguno",
+                "apellidosNombre": "Martín Llaguno, Marta",
+                "codParlamentario": 155,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 56,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍN LLAGUNO"
+    },
+    "text": "Estamos trabajando en una transaccional en la que hemos recogido enmiendas de todos los grupos. Luego lo trasladaremos a la Mesa."
+}

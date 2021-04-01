@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LAS RAZONES QUE TIENE EL GOBIERNO PARA MODIFICAR LA REFORMA LABORAL. ",
+        "diputado": [
+            {
+                "apellidos": "García Adanero",
+                "apellidosNombre": "García Adanero, Carlos",
+                "codParlamentario": 127,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Carlos",
+                "nombreCircunscripcion": "Navarra"
+            },
+            0
+        ],
+        "order": 24,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA ADANERO"
+    },
+    "text": "… pongamos en cuestión el trabajo de los demás. Muchas gracias. (Aplausos)."
+}

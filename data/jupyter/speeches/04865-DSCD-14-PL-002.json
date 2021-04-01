@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CONCEPCIÓN GAMARRA RUIZ-CLA VIJO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ RESPONSABILIDADES ASUME EL GOBIERNO DE CARA AL COMIENZO DEL PRÓXIMO CURSO ESCOLAR? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            45
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL (Celaá Diéguez)"
+    },
+    "text": "Gracias, señora presidenta. Gracias, señoría. Absolutamente todas las que nos tiene atribuidas el ordenamiento jurídico vigente, sobre todo las de cooperación, colaboración y lealtad constitucional, como lo han venido haciendo durante algo más de cuarenta años todos los ministerios de Educación en este país. (Aplausos)."
+}

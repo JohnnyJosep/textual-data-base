@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-22T00:00:00.000Z",
+        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DEL DIPUTADO DON ISIDRO MANUEL MARTÍNEZ OBLANCA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿QUÉ MEDIDAS DE EMERGENCIA PIENSA ADOPTAR EL GOBIERNO PARA DAR SOLUCIÓN AL COLAPSO ECONÓMICO-ADMINISTRATIVO QUE HA SUMIDO A LA PLANTILLA Y A LOS CENTROS DEL INSTITUTO ESPAÑOL DE OCEANOGRAFÍA (IEO), ENTRE ELLOS EL DE GIJÓN (ASTURIAS), EN LA MAYOR CRISIS DE SU HISTORIA, COMPROMETIENDO GRAVEMENTE EL DESARROLLO DE LAS INVESTIGACIONES SOBRE EL MAR Y SUS RECURSOS? ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Oblanca",
+                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "codParlamentario": 20,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP-FORO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Isidro Manuel",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/imoblanca",
+                "twitterUserId": "3108277737",
+                "twitterUserName": "imoblanca"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ OBLANCA"
+    },
+    "text": "Señor Duque, lleva más de dos años como ministro y en este tiempo la situación del IOE ha retrocedido de mala a caótica. De hecho, en este semestre ha tenido tres responsables distintos y su ejecutiva está descabezada, a la par que varios directores territoriales han solicitado el relevo en una llamada de atención sobre el preocupante derrotero que sufre la oceanografía nacional. Como diputado de la oposición, me felicito de que hace apenas unas horas, en la víspera de mi pregunta en esta sesión de control, usted enviase una carta (muestra un documento) para trasladar a todo el personal lo mucho --muchísimo-- que, esta vez sí, va a hacer el Gobierno, incluida la integración en el CSIC, lo que va a diluir el carácter autónomo del IEO, en una decisión que ya ha indignado a muchos, totalmente alejada del diagnóstico, conclusiones y soluciones propuestas por el grupo de trabajo, que recientemente ha reflejado con precisión el hartazgo de la comunidad oceanográfica, la misma a la que usted no se había dirigido hasta ayer. Los agobios vienen derivados de la carencia de agilidad para superar el sinfín de trabas que impiden atender necesidades del personal, afrontar compras imprescindibles y vencer los obstáculos en los plazos para utilizar los fondos. Señor Duque, la ciencia no puede resignarse a tener en el Consejo de Ministros una presencia ornamental que no resuelva los problemas. Este rumbo desvela su inoperancia para enfrentarse a la burocracia que ha desmoronado al Instituto Español de Oceanografía y que es una muestra palmaria de los grandes males que aquejan a las cuestiones que son de su entera incumbencia y competencia. Muchas gracias, señora presidenta."
+}

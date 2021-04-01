@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "─ DEL DIPUT ADO DON IGNACIO GIL LÁZARO, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿POR QUÉ EL MINISTERIO DEL INTERIOR INTENTA AMEDRENTAR A LOS CIUDADANOS QUE PACÍFICAMENTE EXPRESAN SU PROTESTA CONTRA EL GOBIERNO EN LAS CALLES? -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿TIENE PENSADO EL GOBIERNO LLEVAR A CABO LA EQUIPARACIÓN SALARIAL DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO? ",
+        "diputado": [
+            {
+                "apellidos": "Bal Francés",
+                "apellidosNombre": "Bal Francés, Edmundo",
+                "codParlamentario": 211,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edmundo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/BalEdmundo",
+                "twitterUserId": "1099251922152931329",
+                "twitterUserName": "BalEdmundo"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAL FRANCÉS"
+    },
+    "text": "Don Fernando, ustedes en su Gobierno han roto las reglas que siempre han disciplinado las relaciones entre el poder político y la Administración. Ustedes no respetan una administración neutral, apolítica, técnica, que busque los intereses generales; ustedes quieren una administración servil, y lo que hacen es utilizar las coacciones y las amenazas de los ceses para que los funcionarios, los honestos funcionarios de este país, tengan miedo de perder su salario o de truncar su carrera profesional. Usted, desde luego, es todo un ejemplo. Cesó al jefe de la UCO; cesó al mando de la Policía Nacional que pedía mascarillas; acaba de cesar a Diego Pérez de los Cobos; ha conseguido la dimisión del DAO; su Gobierno cesó prácticamente a Fernando Garea en la Agencia EFE; no revalidó a María José Segarra. ¿Se acuerda de que cesaron al abogado del Estado, jefe de Penal, por no firmar un escrito inconveniente para el Gobierno? Me suena mucho eso de la falta de confianza. ¿Ha sido la falta de confianza de verdad? Ya se lo han preguntado, pero no ha contestado, ¿fue usted el que ordenó llamar al coronel Diego Pérez de los Cobos? ¿Fue usted el que ordenó el cese? Estas serían las preguntas que usted haría en el caso Faisán cuando lo instruía, pero ahora el fiscal son los españoles y usted el investigado. Ya sabe cuáles son sus derechos, no se acoja a ellos."
+}

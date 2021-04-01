@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 94,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señorías, el resultado de la votación ha sido el siguiente: votos emitidos, 350; votos a favor del candidato, 167; votos en contra del candidato, 165; abstenciones, 18. Señorías, al haberse alcanzado el voto favorable de la mayoría simple de los miembros de la Cámara, queda otorgada la confianza al candidato don Pedro Sánchez Pérez-Castejón, lo cual comunicaré a su majestad el Rey para que sea nombrado presidente del Gobierno. (Prolongados y fuertes aplausos de las señoras y los señores diputados del Grupo Parlamentario Socialista, del Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, de varios diputados del Grupo Parlamentario Plural y de los miembros del Gobierno en funciones, puestos en pie.--Aplausos del señor presidente del Gobierno, Sánchez Pérez-Castejón). Se levanta la sesión."
+}

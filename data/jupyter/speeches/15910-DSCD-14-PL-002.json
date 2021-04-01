@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS ADOPTADAS POR EL GOBIERNO PARA LA REDUCCIÓN DEL COSTE DE LA FACTURA ELÉCTRICA DE LOS SECTORES ECONÓMICOS MÁS AFECTADOS POR LA CRISIS DE LA COVID-19 Y AQUELLOS CON ALTA ESTACIONALIDAD COMO LA AGRICULTURA Y EL TURISMO. ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "… que buscan dar transparencia y equidad al funcionamiento marginalista del mercado eléctrico, de forma que el precio que se paga a los productores no se fije con la última central que entra en el pool de cada hora, es decir, que no sea con el precio de la electricidad más cara. Muchas gracias."
+}

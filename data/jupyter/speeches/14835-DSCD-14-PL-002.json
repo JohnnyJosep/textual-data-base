@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LOS PASOS QUE ESTÁ DANDO PARA RESOLVER EL PROBLEMA DE FINANCIACIÓN --ACTUAL Y FUTURA-- DE LAS COMUNIDADES AUTÓNOMAS. ",
+        "diputado": [
+            {
+                "apellidos": "Bas Corugeira",
+                "apellidosNombre": "Bas Corugeira, Javier",
+                "codParlamentario": 118,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 36,
+                "idLegislatura": 14,
+                "nombre": "Javier",
+                "nombreCircunscripcion": "Pontevedra",
+                "twitter": "https://twitter.com/javierbasco",
+                "twitterUserId": "1103313372479672320",
+                "twitterUserName": "javierbasco"
+            },
+            0
+        ],
+        "order": 23,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAS CORUGEIRA"
+    },
+    "text": "Al admitir la votación por puntos no se pueden admitir enmiendas. No obstante, estaríamos encantados de debatir en los órganos que correspondan estos puntos, que sí parecen enriquecedores para mejorar el sistema de financiación autonómico."
+}

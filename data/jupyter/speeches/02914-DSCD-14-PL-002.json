@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO MONTESINOS AGUAYO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿SE COMPROMETE EL GOBIERNO A INFORMAR CON PUNTUALIDAD Y TRANSPARENCIA SOBRE SUS PLANES DE DESCONFINAMIENTO? ",
+        "diputado": [
+            {
+                "apellidos": "Montesinos Aguayo",
+                "apellidosNombre": "Montesinos Aguayo, Pablo",
+                "codParlamentario": 315,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/montesinospablo",
+                "twitterUserId": "326735453",
+                "twitterUserName": "montesinospablo"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MONTESINOS AGUAYO"
+    },
+    "text": "Gracias, señora presidenta. Señora vicepresidenta, pida perdón a los españoles. En plena crisis sanitaria, cuando más necesaria es la transparencia y la rendición de cuentas, la opacidad ha marcado la gestión de este Gobierno. Y no lo dice el Partido Popular --que también--, lo han denunciado las principales asociaciones de periodistas cuando, por ejemplo, ustedes se negaban a responder sin filtros. Por ello, le pregunto, más aún tras la caótica comparecencia ayer de Pedro Sánchez: ¿Se compromete el Gobierno a informar con puntualidad y transparencia de sus planes de desconfinamiento?"
+}

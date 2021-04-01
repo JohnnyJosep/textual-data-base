@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Nogueras i Camero",
+                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "codParlamentario": 27,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Míriam",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/miriamnoguerasM",
+                "twitterUserId": "343507680",
+                "twitterUserName": "miriamnoguerasM"
+            },
+            14
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ALONSO-CUEVILLAS I SAYROL"
+    },
+    "text": "(Termina su intervención en catalán)."
+}

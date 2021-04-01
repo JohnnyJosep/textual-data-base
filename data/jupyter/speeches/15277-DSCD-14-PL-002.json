@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MONTSERRAT BASSA COLL, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CREE EL GOBIERNO ESPAÑOL QUE ESTÁ GARANTIZADA LA LIBERTAD DE EXPRESIÓN EN EL ESTADO ESPAÑOL? ",
+        "diputado": [
+            {
+                "apellidos": "Bassa Coll",
+                "apellidosNombre": "Bassa Coll, Montserrat",
+                "codParlamentario": 192,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 17,
+                "idLegislatura": 14,
+                "nombre": "Montserrat",
+                "nombreCircunscripcion": "Girona",
+                "twitter": "https://twitter.com/BassaMontse",
+                "twitterUserId": "1084408297",
+                "twitterUserName": "BassaMontse"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BASSA COLL"
+    },
+    "text": "Señor ministro, si hay gente condenada por el delito de injurias a la Corona es porque el Grupo Parlamentario Socialista ha votado reiteradamente en contra de la proposición de ley de Esquerra Republicana para la derogación de este delito. Es decir, en este caso no son los tribunales, sino ustedes quienes han condenado a Pablo Hasél o Valtònyc, entre otros. No se trata solo de ser republicanos o monárquicos, se trata de ser demócratas. Muchas gracias. (Aplausos)."
+}

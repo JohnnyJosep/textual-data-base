@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA BELÉN HOYO JULIÁ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CONTEMPLA EL PROCESO DE DESESCALADA ANUNCIADO POR EL GOBIERNO ALGÚN PLAN PARA ABRIR CUANTO ANTES LA ECONOMÍA EN SECTORES TAN IMPORTANTES COMO LA INDUSTRIA Y EL TURISMO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            42
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO (Maroto Illera)"
+    },
+    "text": "Gracias, señora presidenta. Señoría, como ayer anunció el presidente, el proceso de desescalada será gradual, asimétrico y, por supuesto, coordinado con las comunidades autónomas, pero siempre con las máximas garantías de seguridad, porque coincidirá conmigo en que no podemos dar pasos atrás. Como sabe, hay actividades industriales esenciales que no han parado como la química, la farmacéutica o la industria agroalimentaria y otras están recuperando su actividad de forma gradual. Esta misma semana están abriendo ya centros productivos del sector del automóvil y la semana que viene terminará de hacerlo. Respecto al turismo, estamos coordinando con las comunidades autónomas un protocolo único para preparar su apertura, que será progresiva y, por supuesto, cumpliendo las recomendaciones sanitarias."
+}

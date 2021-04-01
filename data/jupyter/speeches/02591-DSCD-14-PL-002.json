@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-09T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON EL ESTADO DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUT ORIZACIÓN DE LA PRÓRROGA DEL EST ADO DE ALARMA DECLARADO MEDIANTE REAL DECRET O 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL EST ADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR EL REAL DECRET O 476/2020, DE 27 DE MARZO. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 10,
+        "path": "../data/diaries-txts/DSCD-14-PL-017.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muchas gracias, señor Rufián. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Muchísimas gracias. Por el Grupo Parlamentario Plural, tiene la palabra en primer lugar el señor Errejón Galván."
+}

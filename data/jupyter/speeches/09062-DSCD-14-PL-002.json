@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUT ADO DON SERGIO SA Y AS LÓPEZ, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿QUÉ ACCIONES TIENE PREVISTO PONER EN MARCHA EL GOBIERNO DE ESPAÑA PARA EVITAR EL CIERRE DE LA PLANTA DE TRENASA EN CASTEJÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Sayas López",
+                "apellidosNombre": "Sayas López, Sergio",
+                "codParlamentario": 55,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Sergio",
+                "nombreCircunscripcion": "Navarra",
+                "twitter": "https://twitter.com/sergiosayas",
+                "twitterUserId": "144600462",
+                "twitterUserName": "sergiosayas"
+            },
+            2
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SA Y AS LÓPEZ"
+    },
+    "text": "Gracias, presidenta. Nos ha tocado turno de pregunta en una sesión en la que muchos españoles tienen que sentir vergüenza al ver cómo el Gobierno de su país pastelea con quienes dieron un golpe a la democracia en Cataluña, y con quienes no se han apeado ni una sola línea del terrorismo de ETA, en lugar de defender nuestro sistema constitucional, la monarquía parlamentaria y la figura del rey. Creo que los españoles merecen un Gobierno menos cobarde y menos vendido. Aprovecharé este turno que tenemos para preguntarle, señora ministra, por una enorme preocupación que tenemos en Navarra. El pasado viernes, la empresa Trenasa anunció el cierre de la planta, 110 trabajadores estarán en la calle, y le pregunto, señora ministra, ¿qué piensa hacer su ministerio?"
+}

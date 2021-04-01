@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-16T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), SOBRE LAS MEDIDAS PREVISTAS PARA DOTAR DE FLEXIBILIDAD A LOS SECTORES CLAVE DE LA ACTIVIDAD ECONÓMICA. ",
+        "diputado": [
+            {
+                "apellidos": "Muñoz Vidal",
+                "apellidosNombre": "Muñoz Vidal, María",
+                "codParlamentario": 333,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "María",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/mariadelamiel",
+                "twitterUserId": "316058009",
+                "twitterUserName": "mariadelamiel"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MUÑOZ VIDAL"
+    },
+    "text": "Gracias, señora presidenta. Seguro que me va a permitir que por un minuto le conteste por alusiones al señor García Morís, que ha arremetido contra mí en la anterior moción por decir que el aislamiento de Asturias le ha permitido pasar esta pandemia con mejores datos que otras comunidades autónomas. Le voy a leer dos citas. Primera. La casi ausencia de entradas de casos infectados de otros países y la inexistencia de medios de transporte masivos, como el metro, han sido factores destacados para explicar la evolución positiva de Asturias frente al COVID. Segunda. Asturias tiene unas características…"
+}

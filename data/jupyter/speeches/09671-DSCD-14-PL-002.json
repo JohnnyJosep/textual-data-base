@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑOR MARTÍNEZ OBLANCA), SOBRE LAS MEDIDAS QUE ESTÁ ADOPTANDO O PIENSA ADOPTAR EL GOBIERNO PARA TRATAR DE DETENER LA CONTINUA CAÍDA DE POBLACIÓN EN ESPAÑA Y EVITAR EL GRAVE PROBLEMA DEL DESPOBLAMIENTO TERRITORIAL, ASÍ COMO CORREGIR LAS DESIGUALDADES SOCIALES Y ECONÓMICAS DE SUS ZONAS RURALES. ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Interpelación urgente del Grupo Parlamentario Mixto, señor Martínez Oblanca, sobre las medidas que está adoptando o piensa adoptar el Gobierno para tratar de detener la continua caída de población en España y evitar el grave problema de despoblamiento territorial, así como corregir las desigualdades sociales y económicas de sus zonas rurales. Tiene la palabra para su defensa el señor Martínez Oblanca."
+}

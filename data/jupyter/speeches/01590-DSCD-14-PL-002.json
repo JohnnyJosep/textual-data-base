@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿VA USTED A VELAR POR QUE LAS INSTITUCIONES DEL EST ADO ESTÉN AL SERVICIO DE TODOS LOS ESP AÑOLES? ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "Gracias, señora presidenta. Señor Sánchez, el 75 % de los españoles desconfía de las instituciones políticas, según el Eurobarómetro. Los ciudadanos exigen cada vez más que las instituciones pagadas con dinero público estén al servicio de todos los españoles, y no al servicio del Gobierno de turno. Mi pregunta es: ¿Cree usted que sus nombramientos al frente de Radiotelevisión Española, del CIS, de la Fiscalía General o de la Agencia EFE persiguen el interés general o solo persiguen su interés personal?"
+}

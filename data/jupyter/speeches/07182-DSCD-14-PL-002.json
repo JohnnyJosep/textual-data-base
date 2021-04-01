@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL PRESIDENTE DEL GOBIERNO: ¿PIENSA EL GOBIERNO SEGUIR ANTEPONIENDO SU AGENDA IDEOLÓGICA A LAS VERDADERAS NECESIDADES DE LOS ESPAÑOLES? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "En todo caso, para responderle a su pregunta, señoría, la agenda ideológica del Gobierno de España es defender la salud pública, salvar vidas y no dejar a nadie atrás con el mayor escudo social que se haya puesto en marcha en la historia de la democracia en una situación inédita como la que está viviendo la sociedad española. (Aplausos)."
+}

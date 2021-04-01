@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿CÓMO VA A GARANTIZAR EL GOBIERNO UNA VUELTA AL COLEGIO QUE GARANTICE LOS PRINCIPIOS DE IGUALDAD Y SEGURIDAD QUE MERECEN ESTUDIANTES, PROFESIONALES Y FAMILIAS? ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "Gracias, señora presidenta. Después de escuchar a Bildu y al señor Sánchez ayer en el Senado, le pido al Gobierno que muestre más empatía con las víctimas de ETA que con sus verdugos, que les debería dar vergüenza. (Aplausos). Somos los únicos que en esta sesión de control vamos a preguntar al Gobierno por la preocupación que estos días quita literalmente el sueño a los padres en este país, que es la vuelta al colegio. Señora ministra, ¿cree usted que su Gobierno está garantizando que la vuelta al cole se produzca en toda España con unos criterios claros y coordinados?"
+}

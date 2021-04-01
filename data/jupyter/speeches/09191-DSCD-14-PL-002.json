@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-01T00:00:00.000Z",
+        "debate": "SOLICITUDES DE CREACIÓN DE COMISIONES DE INVESTIGACIÓN: -- SOLICITUD DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, DE CREACIÓN DE UNA COMISIÓN DE INVESTIGACIÓN RELATIVA A LA UTILIZACIÓN ILEGAL DE EFECTIVOS, MEDIOS Y RECURSOS DEL MINISTERIO DEL INTERIOR, CON LA FINALIDAD DE FAVORECER INTERESES POLÍTICOS DEL PP Y DE ANULAR PRUEBAS INCULPATORIAS PARA ESTE PARTIDO EN CASOS DE CORRUPCIÓN, DURANTE LOS MANDATOS DE GOBIERNO DEL PARTIDO POPULAR. ",
+        "diputado": [
+            {
+                "apellidos": "Echenique Robba",
+                "apellidosNombre": "Echenique Robba, Pablo",
+                "codParlamentario": 13,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 50,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Zaragoza",
+                "twitter": "https://twitter.com/PabloEchenique",
+                "twitterUserId": "25555639",
+                "twitterUserName": "PabloEchenique"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-050.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ECHENIQUE ROBBA"
+    },
+    "text": "En último lugar, y creo que esto es lo más triste de todo, lo que revela la utilización de argumentario falso y lo que revela el nerviosismo tan evidente en los portavoces del Partido Popular es que el Partido Popular no hace propósito de enmienda y que seguramente si no hubiéramos echado a la Gürtel de la Moncloa y si no hubiéramos echado a Mariano Rajoy, hoy el Partido Popular estaría utilizando el Ministerio del Interior y las cloacas del Estado para destruir pruebas sobre los contratos con Kike Sarasola, sobre la operación Bicho o sobre lo que hizo la señora Ayuso con las residencias en Madrid. (Rumores). Muchas gracias. (Aplausos)."
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-01T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Martín Llaguno",
+                "apellidosNombre": "Martín Llaguno, Marta",
+                "codParlamentario": 155,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 102,
+        "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍN LLAGUNO"
+    },
+    "text": "Muchas gracias. (Aplausos)."
+}

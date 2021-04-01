@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JULIO UTRILLA CANO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿POR QUÉ SE HA INCLUIDO AL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030 COMO MIEMBRO DE LA COMISIÓN DELEGADA DEL GOBIERNO PARA ASUNTOS DE INTELIGENCIA? (180/000054).",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            103
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA (Calvo Poyato)"
+    },
+    "text": "Se lo voy a decir: porque a usted no le gusta esta decisión del Gobierno, ni ninguna de las que hemos tomado, ni ninguna de las que tomaremos; porque ustedes, en un alarde de ‘racionalidad y actitud democrática’, ya han dicho que estarán en contra de todo, absolutamente de todo lo que haga este Gobierno. A lo mejor, lo que a ustedes no les gusta son las urnas y sus resultados; lo que ha ocurrido durante cuarenta y dos años en este país. (Aplausos). A lo mejor les gusta más lo que ocurrió los cuarenta años antes de la democracia. A lo mejor ese es el problema que tienen ustedes. (Aplausos). --"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MARGARIT A PROHENS RIGO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE IGUALDAD: ¿POR QUÉ ANIMÓ A MILES DE MUJERES A PARTICIPAR EN LAS MANIFESTACIONES DEL 8 DE MARZO CUANDO --SEGÚN HEMOS SABIDO AHORA-- CONOCÍA USTED EL AL T O RIESGO DE CONTAGIO QUE ELLO SUPONÍA? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            22
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE IGUALDAD (Montero Gil)"
+    },
+    "text": "Gracias, presidenta. Mire, yo hago mías las palabras del presidente del Gobierno. Es evidente que toda España y toda Europa llegamos tarde, no a la primera semana de marzo sino seguramente a mediados de febrero, que es cuando los expertos saben ahora lo que no sabían entonces y es que el virus ya se estaba extendiendo. (El señor Guijarro García: No se callan; es que no se puede escuchar). Y llegamos tarde, como le digo, porque no lo sabíamos ni en España ni en Europa, donde también se produjeron… (Rumores.--El señor Guijarro pronuncia palabras que no se perciben)."
+}

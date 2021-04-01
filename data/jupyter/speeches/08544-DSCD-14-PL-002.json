@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-23T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO VALORE LAS ALARMANTES PREVISIONES CONOCIDAS RECIENTEMENTE EN RELACIÓN A LA ECONOMÍA Y EL EMPLEO DE LOS ESPAÑOLES. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Interpelación urgente del Grupo Parlamentario Popular en el Congreso para que el Gobierno valore las alarmantes previsiones conocidas recientemente en relación con la economía y el empleo de los españoles. Para su defensa, tiene la palabra el señor Garcés Sanagustín."
+}

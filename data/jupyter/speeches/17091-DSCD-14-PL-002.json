@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LAS RAZONES QUE TIENE EL GOBIERNO PARA MODIFICAR LA REFORMA LABORAL. ",
+        "diputado": [
+            {
+                "apellidos": "Píriz Maya",
+                "apellidosNombre": "Píriz Maya, Víctor Valentín",
+                "codParlamentario": 9,
+                "fchAlta": "18/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 6,
+                "idLegislatura": 14,
+                "nombre": "Víctor Valentín",
+                "nombreCircunscripcion": "Badajoz",
+                "twitter": "https://twitter.com/vicpiriz1975",
+                "twitterUserId": "807001880220073988",
+                "twitterUserName": "vicpiriz1975"
+            },
+            0
+        ],
+        "order": 75,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PÍRIZ MAYA"
+    },
+    "text": "Sí, señoría, aceptamos las enmiendas."
+}

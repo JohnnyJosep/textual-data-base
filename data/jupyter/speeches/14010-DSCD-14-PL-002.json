@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "VOX. -- DEL DIPUTADO DON CARLOS GARCÍA ADANERO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿TIENE PREVISTO EL GOBIERNO DE ESPAÑA LLEVAR A CABO ALGUNA ACTUACIÓN DIRIGIDA A CUMPLIR LA MOCIÓN APROBADA POR EL PARLAMENTO DE NAVARRA EL PASADO 21 DE ENERO EN QUE LE INSTA A APLICAR UNA POLÍTICA PENITENCIARIA QUE FACILITE EL ACERCAMIENTO DE PRESOS? ",
+        "diputado": [
+            {
+                "apellidos": "García Adanero",
+                "apellidosNombre": "García Adanero, Carlos",
+                "codParlamentario": 127,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Carlos",
+                "nombreCircunscripcion": "Navarra"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA ADANERO"
+    },
+    "text": "Muchas gracias, señora presidenta. En los acuerdos entre el Partido Socialista y Bildu para conseguir la Presidencia del Gobierno de España y la Presidencia del Gobierno de Navarra estaba el acercamiento de presos etarras y el blanqueamiento de la propia banda terrorista y del partido Bildu. En ese sentido, ¿piensa el Gobierno de España seguir acercando presos terroristas? (Aplausos)."
+}

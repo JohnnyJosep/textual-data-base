@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAYETANA ÁLVAREZ DE TOLEDO PERALTA-RAMOS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CONSIDERA EL GOBIERNO QUE ESTÁ OFRECIENDO INFORMACIÓN VERAZ Y COMPLETA EN LA CRISIS DE LA COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ÁLVAREZ DE TOLEDO PERALTA-RAMOS"
+    },
+    "text": "Señora ministra, toda la nación se pregunta, con dolor y con asombro, por este gráfico. (Muestra un gráfico). Lo elabora la Universidad de Oxford, fuente predilectísima del presidente del Gobierno. Muestra los países del mundo con más muertos por millón de habitantes: somos los primeros, somos los peores. Esto no es simetría, esto es liderazgo en el peor sentido, esto es una tragedia inconmensurable y un fracaso radical. Lo repito: España es el país con más muertos por millón de habitantes. Y le pregunto, simplemente: ¿Por qué?"
+}

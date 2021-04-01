@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-17T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE REGULACIÓN DE LA EUTANASIA. ",
+        "diputado": [
+            {
+                "apellidos": "Carcedo Roces",
+                "apellidosNombre": "Carcedo Roces, María Luisa",
+                "codParlamentario": 270,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "María Luisa",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/luisacarcedo",
+                "twitterUserId": "925676922838929408",
+                "twitterUserName": "luisacarcedo"
+            },
+            0
+        ],
+        "order": 47,
+        "path": "../data/diaries-txts/DSCD-14-PL-072.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CARCEDO ROCES"
+    },
+    "text": "Hoy es un día muy importante. (Continúan los rumores)."
+}

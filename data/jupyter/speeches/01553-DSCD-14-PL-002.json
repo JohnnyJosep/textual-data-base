@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "diputado": [
+            {
+                "apellidos": "Chamorro Delmo",
+                "apellidosNombre": "Chamorro Delmo, Ricardo",
+                "codParlamentario": 125,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 13,
+                "idLegislatura": 14,
+                "nombre": "Ricardo",
+                "nombreCircunscripcion": "Ciudad Real",
+                "twitter": "https://twitter.com/rchamode",
+                "twitterUserId": "279233001",
+                "twitterUserName": "rchamode"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CHAMORRO DELMO"
+    },
+    "text": "Sí, enseguida termino. No obstante, a pesar de apoyar esta moción, hemos de decir que consideramos que es un parche y que VOX apuesta por un ambicioso plan estratégico nacional para el futuro del campo que tenga en cuenta todas las variantes en todos los sectores. Le damos muchísima importancia por parte de nuestra formación a la soberanía alimentaria nacional y al sector primario como un sector geoestratégico para España que hay que proteger y tenemos muy en cuenta…"
+}

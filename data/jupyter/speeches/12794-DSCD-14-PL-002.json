@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Baldoví Roda",
+                "apellidosNombre": "Baldoví Roda, Joan",
+                "codParlamentario": 247,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÉS COMPROMÍS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/joanbaldovi",
+                "twitterUserId": "378944786",
+                "twitterUserName": "joanbaldovi"
+            },
+            0
+        ],
+        "order": 46,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BALDOVÍ RODA"
+    },
+    "text": "Si llegáramos a tener parte de esos fondos seguro que podríamos contribuir muchísimo más. Moltes gràcies, senyor president."
+}

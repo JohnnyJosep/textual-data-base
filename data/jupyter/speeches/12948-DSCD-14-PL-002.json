@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MIREIA BORRÁS PABÓN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿COMPARTE EL GOBIERNO LA POSICIÓN DEL EXPRESIDENTE ZAPATERO RESPECTO AL RÉGIMEN DICTATORIAL DE VENEZUELA? ",
+        "diputado": [
+            {
+                "apellidos": "Borrás Pabón",
+                "apellidosNombre": "Borrás Pabón, Mireia",
+                "codParlamentario": 142,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/_mireiaborras",
+                "twitterUserId": "2348453556",
+                "twitterUserName": "_mireiaborras"
+            },
+            5
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORRÁS EGEA"
+    },
+    "text": "Gracias, presidenta. Señora ministra, agradecemos que vaya a responder usted hoy aquí a la pregunta que, como sabe, inicialmente iba dirigida al señor Iglesias. Ya vemos que ni siquiera ustedes se fían de su segundo vicepresidente del Gobierno para contestar a esta pregunta. Señora ministra, ¿comparte el Gobierno la posición de Zapatero respecto al régimen dictatorial en Venezuela?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO MONTESINOS AGUAYO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿SE COMPROMETE EL GOBIERNO A INFORMAR CON PUNTUALIDAD Y TRANSPARENCIA SOBRE SUS PLANES DE DESCONFINAMIENTO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            96
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO (Ribera Rodrí guez)"
+    },
+    "text": "Señor Montesinos, buenos días. Muchas gracias, señora presidenta. Mis primeras palabras están dedicadas a los profesionales, a las personas que están enfermas, a los fallecidos y a los familiares de los fallecidos. Me sumo a la expresión de agradecimiento, de afecto y de condolencias expresada por la presidenta. Este Gobierno, como ha hecho hasta ahora, se compromete por supuesto a la máxima transparencia, diálogo y entendimiento en un contexto de incertidumbre, de complejidad y de necesidad de respuestas y afecto por el conjunto de los españoles que esperan que respondamos unidos. (Aplausos)."
+}

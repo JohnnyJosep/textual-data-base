@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-29T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO. -- COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO EL 23 DE ABRIL, PARA INFORMAR DEL CONSEJO EUROPEO ORDINARIO CELEBRADO EL DÍA 19 DE JUNIO, ASÍ COMO DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 17, 18, 19, 20 Y 21 DE JULIO DE 2020. ",
+        "diputado": [
+            {
+                "apellidos": "Borrás Pabón",
+                "apellidosNombre": "Borrás Pabón, Mireia",
+                "codParlamentario": 142,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/_mireiaborras",
+                "twitterUserId": "2348453556",
+                "twitterUserName": "_mireiaborras"
+            },
+            8
+        ],
+        "order": 89,
+        "path": "../data/diaries-txts/DSCD-14-PL-039.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORRÀS CASTANYER"
+    },
+    "text": "… dejar de ser prisioneros en un Estado autoritario que no acepta la voluntad democrática de los catalanes. No podría añadir nada más. Muchas gracias."
+}

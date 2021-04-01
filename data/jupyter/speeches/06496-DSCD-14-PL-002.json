@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-28T00:00:00.000Z",
+        "debate": "ORDEN DEL DÍA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA INFORMAR SOBRE LAS MEDIDAS IMPULSADAS DESDE SU DEPARTAMENTO PARA PONER FRENO A LOS REBROTES DE COVID-19 QUE SE ESTÁN PRODUCIENDO EN ESPAÑA DESDE LA SUSPENSIÓN DEL ESTADO DE ALARMA.",
+        "diputado": [
+            {
+                "apellidos": "Bassa Coll",
+                "apellidosNombre": "Bassa Coll, Montserrat",
+                "codParlamentario": 192,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 17,
+                "idLegislatura": 14,
+                "nombre": "Montserrat",
+                "nombreCircunscripcion": "Girona",
+                "twitter": "https://twitter.com/BassaMontse",
+                "twitterUserId": "1084408297",
+                "twitterUserName": "BassaMontse"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BASSA COLL"
+    },
+    "text": "La Alianza Popular creada por el franquista Manuel Fraga Iribarne… (Rumores.--Risas). Por cierto, dice mucho del régimen del 78 que un ministro franquista tenga un retrato en esta misma sala y una sala en su honor en esta Cámara. Decía que la Alianza Popular creada por el franquista Manuel Fraga Iribarne votó no al título VIII de la Constitución española, en el que se creaban las comunidades autónomas. Cuarenta años más tarde, el constitucionalista Partido Popular continúa sin aceptar el título VIII de la Constitución y la distribución competencial entre Estado y comunidades autónomas, y por ello nos trae una solicitud de comparecencia del ministro de Sanidad, y por ello nosotros vamos a votar en contra. En el fondo, señoras y señores del Partido Popular, ustedes aceptan la Constitución tan poco como nosotros, la diferencia es que nuestras posturas son antagónicas. Ustedes, junto a VOX y Ciudadanos, quieren regresar a un Estado centralista en el que las comunidades autónomas son meras delegaciones, pero es Madrid quien lo decide todo, y nosotros queremos la independencia de los països catalans para que, en nuestro territorio, Madrid y ustedes no decidan nada."
+}

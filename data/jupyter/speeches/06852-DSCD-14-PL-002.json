@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "CON EL SIGUIENTE ORDEN DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL, PARA INFORMAR DE LAS MEDIDAS DEL GOBIERNO QUE ASEGUREN UN INICIO DEL CURSO ESCOLAR 2020/2021 EN LAS MISMAS CONDICIONES DE SEGURIDAD PARA TODOS LOS ALUMNOS, PROFESORES Y PERSONAL DE LOS CENTROS EDUCATIVOS.",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Serna",
+                "apellidosNombre": "Sánchez Serna, Javier",
+                "codParlamentario": 67,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Javier",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/J_Sanchez_Serna",
+                "twitterUserId": "300969753",
+                "twitterUserName": "J_Sanchez_Serna"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ SERNA"
+    },
+    "text": "Quiero terminar enviando toda nuestra solidaridad a la comunidad educativa, que está reivindicando una vuelta segura a los coles y a los institutos y, además, mostrar todo nuestro apoyo a las movilizaciones que decidan emprender. (Aplausos). Gracias."
+}

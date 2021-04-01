@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-20T00:00:00.000Z",
+        "debate": "DEBATE RELATIVO A LA APRECIACIÓN POR LA CÁMARA DE LA PREVISIÓN CONTENIDA EN LOS ARTÍCULOS 135.4 DE LA CONSTITUCIÓN Y 11.3 DE LA LEY ORGÁNICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. -- COMUNICACIÓN DEL ACUERDO DEL CONSEJO DE MINISTROS DE 6 DE OCTUBRE DE 2020, POR EL QUE SE SOLICITA DEL CONGRESO DE LOS DIPUTADOS LA APRECIACIÓN DE QUE ESPAÑA ESTÁ SUFRIENDO UNA PANDEMIA, LO QUE SUPONE UNA SITUACIÓN DE EMERGENCIA EXTRAORDINARIA, A LOS EFECTOS PREVISTOS EN LOS ARTÍCULOS 135.4 DE LA CONSTITUCIÓN Y 11.3 DE LA LEY ORGÁNICA 2/2012, DE 27 DE ABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. ",
+        "diputado": [
+            {
+                "apellidos": "Muñoz Vidal",
+                "apellidosNombre": "Muñoz Vidal, María",
+                "codParlamentario": 333,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "María",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/mariadelamiel",
+                "twitterUserId": "316058009",
+                "twitterUserName": "mariadelamiel"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-054.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MUÑOZ VIDAL"
+    },
+    "text": "Acabo ya. Ciudadanos ofrece responsabilidad y sentido de Estado, ministra, la misma responsabilidad y sentido de Estado que les exigimos a ustedes. Muchas gracias. (Aplausos)."
+}

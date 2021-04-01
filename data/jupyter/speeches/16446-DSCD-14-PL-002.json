@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-17T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), SOBRE QUÉ MEDIDAS PIENSA ADOPTAR EL GOBIERNO EN ORDEN A ESCLARECER LA VERDAD SOBRE LA MUERTE DE MIKEL ZABALZA GÁRATE. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos a tratar las interpelaciones dirigidas al Gobierno. Interpelación urgente del Grupo Parlamentario Vasco (EAJPNV), sobre qué medidas piensa adoptar el Gobierno en orden a esclarecer la verdad sobre la muerte de Mikel Zabalza Gárate. Para su defensa, tiene la palabra el señor Esteban Bravo."
+}

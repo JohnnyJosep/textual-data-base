@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA CA YET ANA ÁL V AREZ DE T OLEDO PERAL T A-RAMOS, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CUÁLES SON LOS PRÓXIMOS PASOS QUE PIENSA DAR EL GOBIERNO PARA DAR CUMPLIMIENTO A LOS COMPROMISOS ADQUIRIDOS DURANTE EL DEBATE DE INVESTIDURA? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            5
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ÁL V AREZ DE T OLEDO PERAL T A-RAMOS"
+    },
+    "text": "Gracias. Señora vicepresidenta, toda la nación se pregunta, completamente abochornada, por sus intenciones de reformar el Código Penal para rebajar el castigo a los delitos contra la democracia. En unas declaraciones recientes usted dijo que el Tribunal Supremo les había mandado un mensaje, es decir, usted señaló al Supremo como inductor de esa rebaja democrática. ¿Puede usted explicarme los detalles de ese sorprendente mensaje? (Aplausos)."
+}

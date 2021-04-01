@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-28T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 36/2020, DE 30 DE DICIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS URGENTES PARA LA MODERNIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA Y PARA LA EJECUCIÓN DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA. ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Herrer",
+                "apellidosNombre": "Rodríguez Herrer, María Elvira",
+                "codParlamentario": 123,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "María Elvira",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/erodriguez_2019",
+                "twitterUserId": "1184610201812590593",
+                "twitterUserName": "erodriguez_2019"
+            },
+            1
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-074.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RODRÍ GUEZ HERRER"
+    },
+    "text": "Termino, presidenta. … y sin dar espectáculos deplorables como el que vivimos la semana pasada. Muchas gracias. (Aplausos)."
+}

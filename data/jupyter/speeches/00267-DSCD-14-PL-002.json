@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-28T00:00:00.000Z",
+        "debate": "CONSTITUCIÓN DE LA DIPUTACIÓN PERMANENTE. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-005.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "El resultado de la votación para la elección de los vicepresidentes de la Diputación Permanente ha sido el siguiente: votos emitidos, 68; votos a favor de don Alfonso Rodrí guez Gómez de Celis, 35; votos a favor de doña Ana María Pastor Julián, 20; votos a favor de don Ignacio Gil Lázaro, 10; votos en blanco, 3. Quedan, en consecuencia, proclamados vicepresidente primero don Alfonso Rodrí guez Gómez de Celis y vicepresidenta segunda doña Ana Pastor Julián. Enhorabuena. (Aplausos). Pasamos al recuento de la urna de la elección de los secretarios. (Pausa). Verificado el escrutinio, dijo"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 152,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "Acabo con esto, señora presidenta. Gracias por recordar que cuando presentamos una moción de censura en Cataluña contra Torra ustedes no la apoyaron. Muchísimas gracias, señor Sánchez. Lo último. Es mejor no llegar nunca a ser presidente del Gobierno que llegar como usted lo va a hacer a Moncloa. Es mucho mejor no tener nunca un cargo público que ejercerlo como usted lo está ejerciendo ahora. Y le aseguro que muchos votantes socialistas están mucho más de acuerdo con lo que hemos dicho nosotros hoy que con lo que ha dicho usted desde la tribuna. (Aplausos)."
+}

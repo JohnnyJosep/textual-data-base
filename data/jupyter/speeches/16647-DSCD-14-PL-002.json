@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-18T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN): -- PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL Y DE MODIFICACIÓN DE LA LEY ORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL (ANTES DENOMINADA PROPOSICIÓN DE LEY ORGÁNICA COMPLEMENTARIA DE LA LEY POR LA QUE SE MODIFICA LA LEY 20/2011, DE 21 DE JULIO, DEL REGISTRO CIVIL, DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL). ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señora Telechea. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Por el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, tiene la palabra la señora Medel Pérez."
+}

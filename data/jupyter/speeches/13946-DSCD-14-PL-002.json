@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿POR QUÉ ACTÚA EL GOBIERNO EN CONTRA DEL INTERÉS GENERAL DE LOS ESPAÑOLES? ",
+        "diputado": [
+            {
+                "apellidos": "Abascal Conde",
+                "apellidosNombre": "Abascal Conde, Santiago",
+                "codParlamentario": 43,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Santiago",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Santi_ABASCAL",
+                "twitterUserId": "260788584",
+                "twitterUserName": "Santi_ABASCAL"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ABASCAL CONDE"
+    },
+    "text": "En su respuesta ha dejado claro que para usted la soberanía nacional, la libertad de todos los españoles, unas elecciones seguras no forman parte del interés general, y usted no lo defiende porque usted solo tiene un interés, que es permanecer en el poder a cualquier precio, señor Sánchez. (Aplausos). --"
+}

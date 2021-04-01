@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-13T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM- GALICIA EN COMÚN, DE COORDINACIÓN DE LOS SERVICIOS DE PREVENCIÓN, EXTINCIÓN DE INCENDIOS Y SALVAMENTO EN EL MARCO DEL SISTEMA NACIONAL DE PROTECCIÓN CIVIL. ",
+        "diputado": [
+            {
+                "apellidos": "Iñarritu García",
+                "apellidosNombre": "Iñarritu García, Jon",
+                "codParlamentario": 62,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Jon",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/JonInarritu",
+                "twitterUserId": "402593346",
+                "twitterUserName": "JonInarritu"
+            },
+            0
+        ],
+        "order": 86,
+        "path": "../data/diaries-txts/DSCD-14-PL-051.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "IÑARRITU GARCÍA"
+    },
+    "text": "No les debe de gustar lo que digo. A mí tampoco me gusta lo que dicen ellos. (Rumores)."
+}

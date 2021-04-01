@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON JOAN CAPDEVILA I ESTEVE, DEL GRUPO P ARLAMENT ARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿QUÉ ACTUACIONES PREVÉ EL GOBIERNO ESPAÑOL PARA COMBATIR LA MOROSIDAD ENTRE EMPRESAS? ",
+        "diputado": [
+            {
+                "apellidos": "Capdevila i Esteve",
+                "apellidosNombre": "Capdevila i Esteve, Joan",
+                "codParlamentario": 172,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/capdevilajoan",
+                "twitterUserId": "331085228",
+                "twitterUserName": "capdevilajoan"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CAPDEVILA I ESTEVE"
+    },
+    "text": "Buenos días. Señora ministra, según datos de la plataforma multisectorial contra la morosidad, el plazo medio de pago de las empresas del IBEX 35 es de ciento 169 días, doblando, casi triplicando el plazo medio establecido por la ley, que es de 60 días; 169 días contra 60. Hoy, la mencionada plataforma presentará datos actualizados, temo que en absoluto halagüeños. Señora ministra, ¿están usted y su Gobierno de acuerdo en que la morosidad es una lacra, una injusta causa de liquidación de empresas viables, un lastre para cualquier economía que se precie de saneada y competitiva? Siendo así, ¿qué actuaciones prevé el Gobierno español para combatir la morosidad entre empresas? Muchas gracias."
+}

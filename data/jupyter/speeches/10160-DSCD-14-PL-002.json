@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-21T00:00:00.000Z",
+        "debate": "MOCIÓN DE CENSURA: -- MOCIÓN DE CENSURA AL GOBIERNO PRESIDIDO POR DON PEDRO SÁNCHEZ PÉREZ- CASTEJÓN, QUE INCLUYE COMO CANDIDATO A LA PRESIDENCIA DEL GOBIERNO A DON SANTIAGO ABASCAL CONDE. ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            37
+        ],
+        "order": 81,
+        "path": "../data/diaries-txts/DSCD-14-PL-055.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CANDIDATO A PRESIDENTE DEL GOBIERNO (Abascal Conde)"
+    },
+    "text": "Señora Arrimadas, evidentemente estamos de acuerdo en que en mitad de una epidemia lo que hay que hacer es concentrarse en salvar vidas. Lo que pasa es que creemos que hay que hacerlo de manera diferente. Nosotros pensamos precisamente que para salvar vidas lo que hay que hacer es echar urgentemente a este Gobierno, que con su acción política está provocando que haya más muertes. Esa es la diferencia entre ustedes y nosotros. Por otra parte, insiste en la idea de que hemos favorecido al señor Sánchez por presentar esta moción de censura. ¿Usted favoreció al señor Torra por presentar una moción de censura que fue también derrotada en el Parlamento de Cataluña? (Aplausos). Yo creo que no y que usted hizo muy bien en presentar aquella moción de censura."
+}

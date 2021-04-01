@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOAN BALDOVÍ RODA, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿PIENSA EL GOBIERNO DE COALICIÓN PRORROGAR LA VIDA ÚTIL DE LA CENTRAL NUCLEAR DE COFRENTES? ",
+        "diputado": [
+            {
+                "apellidos": "Baldoví Roda",
+                "apellidosNombre": "Baldoví Roda, Joan",
+                "codParlamentario": 247,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÉS COMPROMÍS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/joanbaldovi",
+                "twitterUserId": "378944786",
+                "twitterUserName": "joanbaldovi"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BALDOVÍ RODA"
+    },
+    "text": "¿Piensa el Gobierno de coalición prorrogar la vida útil de la central nuclear de Cofrentes?"
+}

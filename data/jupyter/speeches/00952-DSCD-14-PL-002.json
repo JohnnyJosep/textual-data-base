@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-12T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ANA BELÉN VÁZQUEZ BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ INSTRUCCIONES DIO EL GOBIERNO A LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO PARA EL CUMPLIMIENTO ESTRICTO DE LA DECISIÓN (PESC) 2017/2074 DEL CONSEJO, DE 13 DE NOVIEMBRE DE 2017, ANTE LA PRESENCIA DE LA VICEPRESIDENTA DE VENEZUELA EN SUELO ESPAÑOL, QUE HAN OCASIONADO --ENTRE OTRAS-- LAS QUEJAS EL PASADO SÁBADO DEL REPRESENTANTE ESPECIAL DE ESTADOS UNIDOS EN VENEZUELA ELIOT ABRAMS ADVIRTIENDO DE QUE SE PODRÍA HABER VIOLADO LA DECISIÓN DE LAS AUTORIDADES DE LA UNIÓN EUROPEA? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 8,
+        "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señor ministro del Interior."
+}

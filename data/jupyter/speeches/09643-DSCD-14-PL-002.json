@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON OSKAR MATUTE GARCÍA DE JALÓN, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿QUÉ PORCENTAJE DE LOS FONDOS EUROPEOS GESTIONARÁN DIRECTAMENTE LAS COMUNIDADES AUTÓNOMAS Y LOS AYUNTAMIENTOS? ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DE JALÓN"
+    },
+    "text": "Muchas gracias, señora presidenta. Señora ministra, el pasado 31 de julio el presidente del Gobierno del que usted forma parte señaló que asumía en exclusiva la gestión de los fondos europeos. Desde entonces hasta ahora ha venido acompañando sus declaraciones de una máxima, la cogobernanza, la cogobernanza entre las diferentes instituciones. Creemos que ha llegado el momento de que su Gobierno nos aclare qué porcentaje de los fondos europeos gestionarán directamente las comunidades autónomas y los ayuntamientos."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL ÁMBITO DE LA LIBERTAD DE EXPRESIÓN EN ESPAÑA. ",
+        "diputado": [
+            {
+                "apellidos": "Mariscal Zabala",
+                "apellidosNombre": "Mariscal Zabala, Manuel",
+                "codParlamentario": 153,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 45,
+                "idLegislatura": 14,
+                "nombre": "Manuel",
+                "nombreCircunscripcion": "Toledo",
+                "twitter": "https://twitter.com/MariscalZabala",
+                "twitterUserId": "257669729",
+                "twitterUserName": "MariscalZabala"
+            },
+            0
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARISCAL ZABALA"
+    },
+    "text": "De acuerdo."
+}

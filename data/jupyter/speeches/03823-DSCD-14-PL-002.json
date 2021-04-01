@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON OSKAR MA TUTE GARCÍA DE JALÓN, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿MANTENDRÁ EL MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030 EL ESCUDO SOCIAL TRAS EL ESTADO DE ALARMA? ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DE JALÓN"
+    },
+    "text": "Muchas gracias, presidenta. (Las señoras y los señores diputados del Grupo Parlamentario VOX abandonan el hemiciclo). Señor vicepresidente segundo, la crisis sociosanitaria del COVID-19 ha obligado a este Gobierno a tomar medidas excepcionales para intentar frenar el impacto que la pandemia ha causado entre la gente, medidas de carácter sanitario, medidas de carácter económico, medidas de carácter social, pero seguramente usted y yo podemos convenir que estas medidas tienen poca validez si se acaban en junio. Por desgracia, la vida de millones y millones de personas que actualmente viven en el Estado va a seguir convulsionada por la previsible crisis económica que espera a las puertas. Por eso, le planteamos la siente pregunta: ¿mantendrá el Ministerio de Derechos Sociales y Agenda 2030 el escudo social tras el estado de alarma?"
+}

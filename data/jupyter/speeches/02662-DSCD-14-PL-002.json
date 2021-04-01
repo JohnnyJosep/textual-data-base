@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-09T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON EL ESTADO DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUT ORIZACIÓN DE LA PRÓRROGA DEL EST ADO DE ALARMA DECLARADO MEDIANTE REAL DECRET O 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL EST ADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR EL REAL DECRET O 476/2020, DE 27 DE MARZO. ",
+        "diputado": [
+            {
+                "apellidos": "Pastor Julián",
+                "apellidosNombre": "Pastor Julián, Ana María",
+                "codParlamentario": 31,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/anapastorjulian",
+                "twitterUserId": "307570052",
+                "twitterUserName": "anapastorjulian"
+            },
+            17
+        ],
+        "order": 81,
+        "path": "../data/diaries-txts/DSCD-14-PL-017.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Pastor Julián)"
+    },
+    "text": "Muchas gracias. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). Muchísimas gracias. Por el Grupo Parlamentario Euskal Herria Bildu, tiene la palabra el señor Matute García de Jalón."
+}

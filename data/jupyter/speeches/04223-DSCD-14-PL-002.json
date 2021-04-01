@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON CARLOS GARCÍA ADANERO, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CUÁNDO TIENE PREVISTO EL GOBIERNO RETIRAR EL RECURSO DE INCONSTITUCIONALIDAD, PROMOVIDO POR EL PRESIDENTE DEL GOBIERNO, CONTRA EL ARTÍCULO 2 DE LA LEY FORAL 21/2019, DE 4 DE ABRIL, DE MODIFICACIÓN Y ACTUALIZACIÓN DE LA COMPILACIÓN DEL DERECHO CIVIL FORAL DE NAVARRA O FUERO NUEVO? ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pregunta dirigida a la señora ministra de Política Territorial y Función Pública. Pregunta del diputado don Carlos García Adanero, del Grupo Parlamentario Mixto."
+}

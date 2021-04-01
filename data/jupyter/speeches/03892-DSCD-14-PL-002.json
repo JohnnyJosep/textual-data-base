@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿POR QUÉ HAN CAMBIADO SU CRITERIO SOBRE LA POSIBILIDAD DE PAGAR YA EL TERCER TRAMO PREVISTO EN EL ACUERDO DE 2018 SOBRE LA EQUIPARACIÓN SALARIAL DE NUESTRAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO? ",
+        "diputado": [
+            {
+                "apellidos": "Olona Choclán",
+                "apellidosNombre": "Olona Choclán, Macarena",
+                "codParlamentario": 84,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 18,
+                "idLegislatura": 14,
+                "nombre": "Macarena",
+                "nombreCircunscripcion": "Granada",
+                "twitter": "https://twitter.com/Macarena_Olona",
+                "twitterUserId": "1109573601995440129",
+                "twitterUserName": "Macarena_Olona"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "OLONA CHOCLÁN"
+    },
+    "text": "Gracias, presidente. Señor ministro, ¿por qué han cambiado su criterio sobre el pago del tercer tramo de la equiparación salarial previsto en el acuerdo de 2018?"
+}

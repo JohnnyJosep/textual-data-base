@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-25T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 21/2020, DE 9 DE JUNIO, DE MEDIDAS URGENTES DE PREVENCIÓN, CONTENCIÓN Y COORDINACIÓN PARA HACER FRENTE A LA CRISIS SANITARIA OCASIONADA POR EL COVID-19. ",
+        "diputado": [
+            {
+                "apellidos": "Gil Lázaro",
+                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "codParlamentario": 295,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Ignacio",
+                "nombreCircunscripcion": "Valencia/València"
+            },
+            0
+        ],
+        "order": 39,
+        "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GIL LÁZARO"
+    },
+    "text": "Gracias, señora presidenta. En virtud del artículo 71 por una imputación falsa concreta que se le acaba de hacer a mi grupo parlamentario."
+}

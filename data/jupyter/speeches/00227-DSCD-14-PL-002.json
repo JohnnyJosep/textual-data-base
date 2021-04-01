@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Bassa Coll",
+                "apellidosNombre": "Bassa Coll, Montserrat",
+                "codParlamentario": 192,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 17,
+                "idLegislatura": 14,
+                "nombre": "Montserrat",
+                "nombreCircunscripcion": "Girona",
+                "twitter": "https://twitter.com/BassaMontse",
+                "twitterUserId": "1084408297",
+                "twitterUserName": "BassaMontse"
+            },
+            0
+        ],
+        "order": 57,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BASSA COLL"
+    },
+    "text": "Voy acabando. Y tienen razón, porque nosotros creemos en la paz y en la palabra frente a la violencia y el odio (la señora Vázquez Blanco: ¡Viva la Policía!--Varios señores diputados: ¡Viva!), porque nosotros no somos como ellos. (Aplausos)."
+}

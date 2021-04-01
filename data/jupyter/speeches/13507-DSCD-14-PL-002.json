@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "DEL DÍA: -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA RENDIR CUENTAS SOBRE LA CRÍTICA SITUACIÓN ACTUAL DE LA COVID-19 EN ESPAÑA --CON LOS PEORES REGISTROS DESDE ENERO DE 2020-- Y ACLARAR SI TIENE PREVISTO LLEVAR A LA PRÁCTICA EN ALGÚN MOMENTO ALGUNA MEDIDA DE UTILIDAD REAL PARA CONTROLAR LA PANDEMIA. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 10,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muchas gracias, señora Muñoz. Una aclaración. La Mesa no decide ninguna retirada de ningún punto, son los grupos proponentes los que tienen la capacidad de retirar los puntos que habían presentado previamente. Tiene la palabra, por el mismo grupo parlamentario, el señor Díaz Gómez."
+}

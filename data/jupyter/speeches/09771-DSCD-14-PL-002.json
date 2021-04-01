@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA GESTIÓN POLÍTICA DEL GOBIERNO, LA DEFENSA DEL ESTADO DE DERECHO Y DEL ORDEN CONSTITUCIONAL. ",
+        "diputado": [
+            {
+                "apellidos": "Rosique i Saltor",
+                "apellidosNombre": "Rosique i Saltor, Marta",
+                "codParlamentario": 185,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Marta",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/martarosiq",
+                "twitterUserId": "572925673",
+                "twitterUserName": "martarosiq"
+            },
+            0
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ROSIQUE I SALTOR"
+    },
+    "text": "Acabo. (Termina su intervención en catalán.--Aplausos)."
+}

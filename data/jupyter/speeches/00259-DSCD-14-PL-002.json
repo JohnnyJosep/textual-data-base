@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Oblanca",
+                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "codParlamentario": 20,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP-FORO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Isidro Manuel",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/imoblanca",
+                "twitterUserId": "3108277737",
+                "twitterUserName": "imoblanca"
+            },
+            0
+        ],
+        "order": 89,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ OBLANCA"
+    },
+    "text": "Señora presidenta, señorías, señor candidato, en nombre de Foro Asturias, atendiendo el mandato soberano recogido en el preámbulo de nuestra Carta Magna (muestra un ejemplar de la Constitución) para garantizar a los españoles la convivencia democrática dentro de la Constitución y de las leyes, conforme a un orden económico y social justo, cumpliendo fielmente el objetivo fijado en los estatutos de mi partido de contribuir en España a la construcción cívica de una sociedad libre y avanzada, sin privilegios ni discriminaciones por razones de historia, población o riqueza, proclamando para Asturias y para los asturianos lo mismo que para todas las comunidades autónomas de España, el derecho a no ser más que nadie, pero tampoco menos que los demás, votaré no a su investidura de presidente del Gobierno. Muchas gracias. (Aplausos)."
+}

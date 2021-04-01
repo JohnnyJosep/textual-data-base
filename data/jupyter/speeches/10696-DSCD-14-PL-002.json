@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-29T00:00:00.000Z",
+        "debate": "ENMIENDAS DEL SENADO: -- PROYECTO DE LEY REGULADORA DE DETERMINADOS ASPECTOS DE LOS SERVICIOS ELECTRÓNICOS DE CONFIANZA. ",
+        "diputado": [
+            {
+                "apellidos": "Borrego Cortés",
+                "apellidosNombre": "Borrego Cortés, Isabel María",
+                "codParlamentario": 130,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Isabel María",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/borrego_corte",
+                "twitterUserId": "803628460350509056",
+                "twitterUserName": "borrego_corte"
+            },
+            0
+        ],
+        "order": 23,
+        "path": "../data/diaries-txts/DSCD-14-PL-059.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORREGO CORTÉS"
+    },
+    "text": "Gracias, presidenta. Señorías, la propuesta de reforma que estamos debatiendo tiene un alcance parcial del estatuto, como antes se ha dicho. Mi voto y el de mi grupo serán favorables. (Rumores)."
+}

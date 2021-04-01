@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL ÁMBITO SOCIAL Y ECONÓMICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA.",
+        "diputado": [
+            {
+                "apellidos": "Mayoral Perales",
+                "apellidosNombre": "Mayoral Perales, Rafael",
+                "codParlamentario": 336,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Rafael",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/MayoralRafa",
+                "twitterUserId": "1269484171",
+                "twitterUserName": "MayoralRafa"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MAYORAL PERALES"
+    },
+    "text": "… el precio de las cosas, que es, desgraciadamente, lo que hemos estado viviendo en los últimos años en este país, millones de viviendas vacías mientras la población no tenía la posibilidad de poder disfrutar de ese derecho. Y ante esa situación se dan respuestas desesperadas. Nosotros sí creemos que se tiene que articular ese parque público y que la situación de esos millones de viviendas vacías o en manos de especuladores es el fracaso de la gestión privada del patrimonio inmobiliario resultante de la crisis. Me van a permitir decirles, tanto a ustedes como a los señores de Ciudadanos, algo muy sencillo: ¿por qué no cumplen la sentencia del Tribunal Supremo que dice que tienen que volver a asumir la titularidad de las 3000 viviendas sociales privatizadas en medio de la mayor crisis económica que ha vivido nuestro país hasta la fecha? ¿Por qué no lo hacen, por qué se niegan a cumplir la sentencia, por qué ponen en peligro la seguridad jurídica en nuestro país declarando a una institución como la Comunidad de Madrid en rebeldía frente a las resoluciones del Tribunal Supremo? Desgraciadamente, ya los conocemos…"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DEL DIPUTADO DON VICENTE BETORET COLL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿QUÉ PLANES TIENE EL GOBIERNO DE ESPAÑA EN RELACIÓN CON LA AUTONOMÍA DE LAS ENTIDADES LOCALES? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            57
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA (Darias San Sebastián)"
+    },
+    "text": "Muchas gracias, presidenta. Señorías, señor Batoret, este Gobierno tiene como objetivo irrenunciable recuperar la autonomía local que han perdido las entidades locales como consecuencia de la acción de Gobierno del Partido Popular. Ahora que ustedes quieren también la autonomía, les invito a que se sumen al Gobierno con las modificaciones legislativas que vamos a realizar para que los entes locales recuperen esa autonomía perdida con ustedes. (Aplausos)."
+}

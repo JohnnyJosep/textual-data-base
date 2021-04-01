@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "EAJ-JPNV. -- DEL DIPUTADO DON JOSÉ MARÍA MAZÓN RAMOS, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CÓMO HA NEGOCIADO EL GOBIERNO LOS PARÁMETROS APLICADOS PARA VALORAR LOS CRITERIOS DE REPARTO DEL FONDO REACT-EU ENTRE LAS COMUNIDADES AUTÓNOMAS? ",
+        "diputado": [
+            {
+                "apellidos": "Mazón Ramos",
+                "apellidosNombre": "Mazón Ramos, José María",
+                "codParlamentario": 349,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PRC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Cantabria"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MAZÓN RAMOS"
+    },
+    "text": "Señora ministra, de cómo piensan repartir ustedes entre las comunidades autónomas los 10 000 millones del Fondo React-Unión Europea nos enteramos por la nota de prensa del 28 de diciembre. No ha habido negociación ni información previa. No se sabe qué parámetros han utilizado ustedes para valorar los indicadores que dicen que han tenido en cuenta. No han mencionado ni siquiera un coeficiente corrector de convergencia que considere el PIB per cápita de cada comunidad autónoma. Parece obvio que si una catástrofe afecta a un rico y a un pobre en gran parte de sus bienes no habría que compensar en la misma proporción a ambos. Esto es algo que el Reglamento de la Unión Europea sí contempla. Pero con tanto oscurantismo, ni yo ni otros conocedores de estos temas hemos sido capaces de replicar los datos haciendo simulaciones. Por eso es obligado que expliquen ustedes exactamente qué valores han tomado, cuáles son las fuentes y por qué las han elegido. Ayer, en la Comisión de Hacienda, sus compañeros de coalición rechazaron su comparecencia para que lo explicara, una comparecencia que solicité porque no creo que en dos minutos y medio usted sea capaz de explicarlo. No sabemos si los repartos son a cuenta, ya que han sido tomados de estimaciones de la AIReF y no se han tenido en cuenta datos más reales, como pueden ser los del INE, salvo que ustedes dispongan, en el ministerio o en la Agencia Tributaria, de algo que desconocemos. Se supone que los datos del paro son los de la EPA y no los del paro registrado, pero tampoco lo sabemos. Tampoco nos parecen lógicas las fechas de referencia. Lo que sí sabemos es que últimamente a Cantabria siempre le toca menos de lo que calculamos."
+}

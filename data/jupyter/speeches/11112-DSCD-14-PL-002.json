@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ANA MARÍA ORAMAS GONZÁLEZ-MORO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL GOBIERNO: ¿PIENSA EL GOBIERNO DE ESPAÑA APROBAR UN PLAN EXTRAORDINARIO DE RESCATE DE LA ECONOMÍA CANARIA? ",
+        "diputado": [
+            {
+                "apellidos": "Oramas González-Moro",
+                "apellidosNombre": "Oramas González-Moro, Ana María",
+                "codParlamentario": 161,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "CCa-PNC-NC",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 38,
+                "idLegislatura": 14,
+                "nombre": "Ana María",
+                "nombreCircunscripcion": "S/C Tenerife",
+                "twitter": "https://twitter.com/anioramas",
+                "twitterUserId": "479394745",
+                "twitterUserName": "anioramas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ORAMAS GONZÁLEZ-MORO"
+    },
+    "text": "Gracias, señora presidenta. Señor Sánchez, señora ministra, ¿tienen algún plan para rescatar a Canarias?"
+}

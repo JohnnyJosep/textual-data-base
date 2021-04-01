@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA IDOIA SAGASTIZABAL UNZET ABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CÓMO PIENSA EL GOBIERNO GARANTIZAR LA SUPERVIVENCIA DEL PEQUEÑO COMERCIO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            42
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO (Maroto Illera)"
+    },
+    "text": "Muchas gracias, presidenta. Señoría, el Gobierno es muy consciente de la importancia del pequeño comercio y de su particular vulnerabilidad a la crisis sanitaria, entre otras razones, por tratarse de un sector de pymes y de autónomos. De ahí la necesidad de actuar de una manera urgente para minimizar su impacto. Para apoyar al sector del comercio, el Gobierno ha aprobado, como sabe, un amplio y ambicioso paquete de medidas económicas, fiscales y laborales. Y aprovecho para agradecer a las empresas y a los trabajadores del comercio que están trabajando en los servicios esenciales por su dedicación y su entrega durante estas semanas de confinamiento."
+}

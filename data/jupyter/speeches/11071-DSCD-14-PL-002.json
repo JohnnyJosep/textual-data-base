@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CON QUÉ ESPÍRITU AFRONTA USTED LOS COMPROMISOS PRESUPUESTARIOS CON EL GRUPO VASCO? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "Muchas gracias, señora presidenta. Gracias, señor Esteban. En primer lugar, agradezco, y mucho, el apoyo del Grupo Parlamentario del PNV a la tramitación de estos presupuestos, que creo que son muy beneficiosos y son indispensables tanto para España como para Euskadi. Desde luego, la voluntad es máxima, es total. Consideramos a su grupo como un socio estratégico de este Gobierno y, en consecuencia, creo que tenemos un trabajo por delante importante hasta la tramitación final de los presupuestos. Y le tiendo la mano, le tiende la mano la ministra de Hacienda para poder llegar a los acuerdos necesarios, que creo que van a ser muy positivos tanto para Euskadi como para el conjunto del Estado. (Aplausos)."
+}

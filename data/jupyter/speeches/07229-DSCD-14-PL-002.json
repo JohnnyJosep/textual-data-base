@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DOÑA MARÍA VALENTINA MARTÍNEZ FERRO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN: ¿CÓMO VALORA LA MINISTRA EL RESULTADO DE LAS GESTIONES REALIZADAS PARA A YUDAR A QUE ESPAÑA SEA PERCIBIDA EN EL MUNDO COMO UN DESTINO SEGURO? ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Ferro",
+                "apellidosNombre": "Martínez Ferro, María Valentina",
+                "codParlamentario": 341,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "María Valentina",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/valentinam",
+                "twitterUserId": "9242202",
+                "twitterUserName": "valentinam"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ FERRO"
+    },
+    "text": "Gracias, presidenta. España es un país seguro, que ha sabido tomar medidas a tiempo y que ha aprendido la lección. Estas son palabras suyas, ministra, en un viaje a Bruselas que hoy no podría hacer porque tendría que guardar cuarentena, porque aquello era en el mes de julio. Hoy es 9 de septiembre y España está dando por finalizada la peor temporada turística de la historia, con un balance de 165 países imponiendo restricciones a los viajeros que quieren venir a España, y esto supone 100 000 millones de euros en pérdidas. ¿Volvería usted a pronunciar esas palabras? (Aplausos)."
+}

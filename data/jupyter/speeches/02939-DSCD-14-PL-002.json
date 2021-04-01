@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- PREGUNTA DEL DIPUTADO DON PEDRO QUEVEDO ITURBE, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿TIENE PREVISTO FIJAR NUEVOS OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y DEUDA PÚBLICA A LAS COMUNIDADES AUTÓNOMAS, EN RESPUESTA A LA CRISIS PROVOCADA POR LA COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Quevedo Iturbe",
+                "apellidosNombre": "Quevedo Iturbe, Pedro",
+                "codParlamentario": 351,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "NC-CCa-PNC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Palmas (Las)"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "QUEVEDO ITURBE"
+    },
+    "text": "Gracias, señora presidenta. Señora ministra, ¿tiene previsto fijar nuevos objetivos de estabilidad presupuestaria y deuda pública a las comunidades autónomas en respuesta a la crisis provocada por la COVID-19?"
+}

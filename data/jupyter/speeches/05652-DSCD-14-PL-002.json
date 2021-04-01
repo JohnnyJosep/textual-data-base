@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-25T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR BOTRAN PAHISSA), RELATIVA A LA POSTURA DEL GOBIERNO EN RELACIÓN A LA REPRESIÓN A LA DISIDENCIA POLÍTICA EN EL ESTADO ESPAÑOL. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 6,
+        "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "En consecuencia, queda rechazado el punto número 6. Punto número 7. Comienza la votación. (Pausa.) Efectuada la votación, dio el siguiente resultado: votos emitidos, 132 más 214 votos telemáticos, 346; a favor, 24 más 49 votos telemáticos, 73; en contra, 108 más 164 votos telemáticos, 272; abstenciones, 1 voto telemático."
+}

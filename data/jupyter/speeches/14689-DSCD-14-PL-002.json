@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "EAJ-JPNV. -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿V A A DISCULP ARSE POR LAS V ALORACIONES HECHAS DESDE SU MINISTERIO EN MENOSCABO DE LA LABOR QUE REALIZAN LAS ASOCIACIONES DE VÍCTIMAS DEL TERRORISMO ETARRA CON LAS SUBVENCIONES QUE RECIBEN? ",
+        "diputado": [
+            {
+                "apellidos": "Gil Lázaro",
+                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "codParlamentario": 295,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Ignacio",
+                "nombreCircunscripcion": "Valencia/València"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GIL LÁZARO"
+    },
+    "text": "Gracias, señora presidenta. Señor ministro, ¿va a disculparse con las asociaciones de víctimas de ETA por las afirmaciones insidiosas vertidas por su ministerio en relación con la gestión de las ayudas públicas que reciben?"
+}

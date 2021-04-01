@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-21T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-036.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Señorías, se abre la sesión. (Rumores). Por favor, ruego silencio. Con carácter previo al examen del orden del día, vamos a proceder al juramento o promesa de acatamiento de la Constitución conforme al artículo 20.1.3.º del Reglamento. En sustitución de doña Isabel García Tejerina, pregunto a don Gabriel Elorriaga Pisarik si jura o promete acatar la Constitución."
+}

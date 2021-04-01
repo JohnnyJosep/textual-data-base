@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA ROSA MARÍA ROMERO SÁNCHEZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE SANIDAD: ¿SIGUE MANTENIENDO EL GOBIERNO SU COMPROMISO DE VACUNAR AL 70 % DE LA POBLACIÓN CONTRA LA COVID-19 EN VERANO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            30
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE SANIDAD (Darias San Sebastián)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señorías, España participa de la Estrategia Europea de Vacunación; una estrategia que es una fortaleza, y al igual que manifiesta la Comisión respecto de vacunar al 70 % de la población europea, mantenemos nuestro compromiso. Y , por cierto, esta ministra siempre dice la verdad; los demás, ustedes, no lo sé. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-23T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
+        "diputado": [
+            {
+                "apellidos": "Berja Vega",
+                "apellidosNombre": "Berja Vega, Laura",
+                "codParlamentario": 70,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Laura",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/lauraberja86",
+                "twitterUserId": "269472408",
+                "twitterUserName": "lauraberja86"
+            },
+            0
+        ],
+        "order": 168,
+        "path": "../data/diaries-txts/DSCD-14-PL-031.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BERJA VEGA"
+    },
+    "text": "No aceptamos ninguna. Gracias."
+}

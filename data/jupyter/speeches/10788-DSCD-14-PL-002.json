@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-11T00:00:00.000Z",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Borrás Pabón",
+                "apellidosNombre": "Borrás Pabón, Mireia",
+                "codParlamentario": 142,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/_mireiaborras",
+                "twitterUserId": "2348453556",
+                "twitterUserName": "_mireiaborras"
+            },
+            8
+        ],
+        "order": 58,
+        "path": "../data/diaries-txts/DSCD-14-PL-060.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BORRÀS CASTANYER"
+    },
+    "text": "Termino, es la última frase. Y fíjese que este último argumento no es nuestro. Lo suscribimos, sin embargo, en su totalidad; es la transcripción literal del principal argumento en el que en 2019 los compañeros de Esquerra Republicana basaron su enmienda a la totalidad en el proyecto de Presupuestos Generales del Estado. Señora ministra, enmienden su actitud con Cataluña y no tendremos nosotros que enmendarles su presupuesto. Muchas gracias."
+}

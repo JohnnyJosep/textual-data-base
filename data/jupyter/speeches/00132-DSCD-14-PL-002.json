@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Rufián Romero",
+                "apellidosNombre": "Rufián Romero, Gabriel",
+                "codParlamentario": 187,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Gabriel",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/gabrielrufian",
+                "twitterUserId": "2904896141",
+                "twitterUserName": "gabrielrufian"
+            },
+            0
+        ],
+        "order": 124,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUFIÁN ROMERO"
+    },
+    "text": "Nosotros vamos por la autodeterminación y la amnistía. Tres, calendario: monitorización, vía calendario público y claro; que todo el mundo sepa cuándo es la siguiente reunión. (Protestas). Cuatro, garantías: el acuerdo que se alcance entre las partes será consultado y refrendado por el pueblo de Cataluña. (Protestas). Me encanta. Cuál sea este dependerá de la fuerza y habilidad negociadora de cada cual. (Protestas). Señora presidenta, a mí me echaron por mucho menos. (Risas y aplausos). Desde aquí se oye todo. Y, a la pregunta del millón de cómo hacemos para que ustedes cumplan (varios señores diputados: ¡Ahhh!), de cómo hacemos para que el PSOE cumpla, intentaré ser muy claro y, evidentemente, con enorme respeto a todos, incluido, por supuesto, Podemos, miembro de esta coalición de Gobierno y que espero nos ayude en esta labor; intentaré ser muy claro: si no hay mesa, no hay legislatura. (Varios señores diputados: ¡Ahhh!). Si no hay mesa, no hay legislatura."
+}

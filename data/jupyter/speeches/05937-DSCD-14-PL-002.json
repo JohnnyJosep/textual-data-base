@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-14T00:00:00.000Z",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY DE CAMBIO CLIMÁTICO Y TRANSICIÓN ENERGÉTICA. ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez García",
+                "apellidosNombre": "Sánchez García, José María",
+                "codParlamentario": 322,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 50,
+        "path": "../data/diaries-txts/DSCD-14-PL-034.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ GARCÍA"
+    },
+    "text": "Con el debido respeto, está usted equivocado. Los discursos en sede parlamentaria se dirigen siempre al presidente, no a la Cámara. (Aplausos.) Segundo reproche, no ha llamado a la cuestión al portavoz de Podemos, que ha hecho aquí una digresión disparatada."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-25T00:00:00.000Z",
+        "debate": "DICTÁMENES DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN). -- DICTAMEN DE LA COMISIÓN DE ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UNA SEÑORA DIPUTADA. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 104,
+        "path": "../data/diaries-txts/DSCD-14-PL-033.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto, señor Guitarte Gimeno, sobre la necesidad de un plan especial para la recuperación de la España vaciada y el reto demográfico, de acuerdo con los objetivos del Plan de Recuperación para Europa de la Unión Europea. Se vota en los términos de la enmienda transaccional presentada por los Grupos Parlamentarios Socialista, Popular en el Congreso, Confederal de Unidas Podemos-En Común Podem-Galicia en Común, Ciudadanos y Mixto, señor Guitarte Gimeno. Comienza la votación. (Pausa.) Efectuada la votación, dio el siguiente resultado: votos emitidos, 133 más 214 votos telemáticos, 347; a favor, 125 más 170 votos telemáticos, 295; abstenciones, 8 más 44 votos telemáticos, 52."
+}

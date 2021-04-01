@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CUÁL ES LA POSICIÓN DE SU GOBIERNO ANTE LOS RETOS A LOS QUE SE ENFRENTA EUROPA? ",
+        "diputado": [
+            {
+                "apellidos": "Esteban Bravo",
+                "apellidosNombre": "Esteban Bravo, Aitor",
+                "codParlamentario": 94,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Aitor",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/AITOR_ESTEBAN",
+                "twitterUserId": "158442670",
+                "twitterUserName": "AITOR_ESTEBAN"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESTEBAN BRAVO"
+    },
+    "text": "Yo le pido que su Gobierno no se distraiga de estos temas europeos porque tienen una incidencia directa sobre toda la ciudadanía. En cuanto a la Conferencia sobre el Futuro de Europa, yo le pido que, atendiendo a la composición del Estado español, llevemos también la voz de esa manera y que, por lo tanto, las entidades supraestatales --hay algunos Gobiernos autonómicos con auténtica vocación-- puedan tener voz directa en esa conferencia para exponer sus ideas. Me parece que sería lo más realista, sobre todo conociendo esa vocación europea. También le pido que tenga usted en cuenta la participación en el Consejo del Ecofin y en el Consejo de Justicia e Interior de comunidades autónomas como la nuestra, con características propias y que, por ejemplo, tienen haciendas absolutamente diferenciadas. Sería muy importante esa participación directa en Europa. Haríamos más Europa de esa manera."
+}

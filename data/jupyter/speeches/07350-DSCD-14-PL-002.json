@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO PLURAL (SEÑOR REGO CANDAMIL), SOBRE LAS MEDIDAS QUE PREVÉ EL GOBIERNO PARA DAR SOLUCIÓN A LA CRISIS INDUSTRIAL EN GALICIA. ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "No, no las aceptamos."
+}

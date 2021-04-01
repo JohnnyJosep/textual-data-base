@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TOMÁS GUITARTE GIMENO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA DEL GOBIERNO Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿QUÉ MEDIDAS CONCRETAS VA A ADOPTAR EL GOBIERNO DE ESPAÑA PARA TENER UNA TRANSICIÓN JUSTA EN LAS COMARCAS MINERAS DE LA PROVINCIA DE TERUEL (ANDORRA, CUENCAS MINERAS, BAJO ARAGÓN...), MÁS ALLÁ DE LAS CENTRALES FOTOVOLTAICAS Y EÓLICAS QUE INTENTA PROMOVER EL SECTOR PRIVADO, CON UNA ESCASA CREACIÓN DE EMPLEO ESTABLE? ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "Buenos días, presidenta. Señora ministra, ¿qué medidas concretas para tener una transición justa ha adoptado o piensa adoptar el Gobierno de España tras el previsto cierre de la central térmica de Andorra en relación con las comarcas mineras de la provincia de Teruel --Andorra, Sierra de Arcos, Bajo Aragón, Cuencas Mineras--, más allá de las centrales fotovoltaicas y eólicas que pretende instalar el sector privado y que aportan muy poca creación de empleo?"
+}

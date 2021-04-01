@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-17T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA DE PROTECCIÓN DE LA SALUD Y DE LOS DERECHOS Y LIBERTADES FUNDAMENTALES. ",
+        "diputado": [
+            {
+                "apellidos": "Velasco Morillo",
+                "apellidosNombre": "Velasco Morillo, Elvira",
+                "codParlamentario": 10,
+                "fchAlta": "18/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 49,
+                "idLegislatura": 14,
+                "nombre": "Elvira",
+                "nombreCircunscripcion": "Zamora"
+            },
+            0
+        ],
+        "order": 126,
+        "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VELASCO MORILLO"
+    },
+    "text": "Se ha mostrado incapaz para resolver los problemas estructurales del sistema sanitario e incapaz en consecuencia para dar respuesta a las necesidades de salud pública. Sería bueno que el partido del Gobierno se comprometiera con las medidas que hemos apoyado en esta Cámara. Muchas gracias. (Aplausos)."
+}

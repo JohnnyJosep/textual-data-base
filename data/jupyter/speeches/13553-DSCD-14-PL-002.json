@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DE -- COMPARECENCIA DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO HA DESARROLLADO Y ESTÁ DESARROLLANDO ANTE LA SITUACIÓN DE LOS CAMIONEROS ATRAPADOS EN INGLATERRA, PARA GARANTIZAR SU SEGURIDAD Y LA VUELTA AL TERRITORIO ESPAÑOL.",
+        "diputado": [
+            {
+                "apellidos": "Montesinos de Miguel",
+                "apellidosNombre": "Montesinos de Miguel, Macarena",
+                "codParlamentario": 346,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Macarena",
+                "nombreCircunscripcion": "Alicante/Alacant",
+                "twitter": "https://twitter.com/MackMontesinos",
+                "twitterUserId": "1197128623364423680",
+                "twitterUserName": "MackMontesinos"
+            },
+            0
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MONTESINOS DE MIGUEL"
+    },
+    "text": "Termino, señor presidente. Entendemos que el ministro de Transportes y secretario general de Organización del Partido Socialista debería dedicarse más a su mandato como gestor de un ministerio y no al del Partido Socialista. Muchas gracias, presidente. (Aplausos)."
+}

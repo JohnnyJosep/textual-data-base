@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "MOCIÓN CONSECUENCIA DE INTERPELACIÓN URGENTE. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO EN EL ÁMBITO DE LA LIBERTAD DE EXPRESIÓN EN ESPAÑA. ",
+        "diputado": [
+            {
+                "apellidos": "Baldoví Roda",
+                "apellidosNombre": "Baldoví Roda, Joan",
+                "codParlamentario": 247,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÉS COMPROMÍS",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/joanbaldovi",
+                "twitterUserId": "378944786",
+                "twitterUserName": "joanbaldovi"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BALDOVÍ RODA"
+    },
+    "text": "Haga usted lo que quiera. Es lo que siento de verdad dentro de mi corazón."
+}

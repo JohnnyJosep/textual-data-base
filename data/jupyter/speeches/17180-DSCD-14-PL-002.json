@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-25T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACIÓN CON LAS ASIMETRÍAS HÍBRIDAS. ",
+        "diputado": [
+            {
+                "apellidos": "Hernanz Costa",
+                "apellidosNombre": "Hernanz Costa, Sofía",
+                "codParlamentario": 289,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 7,
+                "idLegislatura": 14,
+                "nombre": "Sofía",
+                "nombreCircunscripcion": "Balears (Illes)",
+                "twitter": "https://twitter.com/Hernanzsofia",
+                "twitterUserId": "393300798",
+                "twitterUserName": "Hernanzsofia"
+            },
+            13
+        ],
+        "order": 87,
+        "path": "../data/diaries-txts/DSCD-14-PL-092.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SECRETARIA (Hernanz Costa)"
+    },
+    "text": "Consejeros electos del Consejo de administración de la corporación Radiotelevisión Española: don José Manuel Pérez Tornero, doña Elena Sánchez Caballero, don José Manuel Martín Medem, doña María Carmen Sastre Bellas, don Jenaro Castro Muiña, don Juan José Baños Loinaz, don Roberto Lakidaín Zabalza, don Ramón Colom Esmatges, doña María Consuelo Aparicio Avendaño, doña Concepción Carmen Cascajosa Virino."
+}

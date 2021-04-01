@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Abascal Conde",
+                "apellidosNombre": "Abascal Conde, Santiago",
+                "codParlamentario": 43,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Santiago",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Santi_ABASCAL",
+                "twitterUserId": "260788584",
+                "twitterUserName": "Santi_ABASCAL"
+            },
+            0
+        ],
+        "order": 56,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ABASCAL CONDE"
+    },
+    "text": "Gracias, señor Sánchez, por acogernos en el templo de la soberanía y por habernos permitido la entrada en esta Cámara. Gracias por su magnanimidad. (Risas). Señor Sánchez, usted ha practicado aquí la estrategia del calamar, que suelta la tinta y huye por el mar. (Risas). Todo para no contestar a la única pregunta que le hemos hecho: ¿Por qué ha engañado a los españoles diciendo que no iba a pactar con Podemos y con los separatistas y por qué lo ha hecho justo al día siguiente de las elecciones? Muchas gracias. (Aplausos)."
+}

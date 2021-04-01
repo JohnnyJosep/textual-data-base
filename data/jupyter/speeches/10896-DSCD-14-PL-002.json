@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-17T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR: -- PROPOSICIÓN DE LEY DE MODIFICACIÓN DE LA LEY 39/2006, DE 14 DE DICIEMBRE, DE PROMOCIÓN DE LA AUTONOMÍA PERSONAL Y ATENCIÓN A LAS PERSONAS EN SITUACIÓN DE DEPENDENCIA, EN MATERIA DE PARTICIPACIÓN EN EL COSTE DE LAS PRESTACIONES Y SERVICIOS DE LAS PERSONAS BENEFICIARIAS (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 120/000031/0000 DE LA X LEGISLA TURA, 120/000001/0000 DE LA XI LEGISLA TURA, 120/000001/0000 DE LA XII LEGISLATURA Y 120/000001/0000 DE LA XIII LEGISLATURA). ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 24,
+        "path": "../data/diaries-txts/DSCD-14-PL-062.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Señora García, ha terminado su tiempo."
+}

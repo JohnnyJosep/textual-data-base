@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON NÉSTOR REGO CANDAMIL, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿POR QUÉ, TENIENDO EN CUENTA QUE EXISTEN LAS PARTIDAS NECESARIAS EN LOS PRESUPUESTOS GENERALES DEL ESTADO DE 2021, NO SE HAN EMPEZADO AÚN A APLICAR LAS REBAJAS Y DESCUENTOS EN LA AP-9? ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "Señor ministro, ¿por qué, existiendo las partidas necesarias en los presupuestos de 2021, no se han empezado aún a aplicar las rebajas y descuentos en la AP-9? Gracias."
+}

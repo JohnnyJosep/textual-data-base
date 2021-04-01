@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-15T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS P ARLAMENT ARIOS SOCIALIST A Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, ORGÁNICA POR LA QUE SE MODIFICA LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL ESTABLECIMIENTO DEL RÉGIMEN JURÍDICO APLICABLE AL CONSEJO GENERAL DEL PODER JUDICIAL EN FUNCIONES. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 20,
+        "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señor Santamaría. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). En turno de fijación de posiciones, por el Grupo Parlamentario Mixto, en primer lugar tiene la palabra el señor Mazón Ramos."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-29T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO. -- COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO EL 23 DE ABRIL, PARA INFORMAR DEL CONSEJO EUROPEO ORDINARIO CELEBRADO EL DÍA 19 DE JUNIO, ASÍ COMO DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 17, 18, 19, 20 Y 21 DE JULIO DE 2020. ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 17,
+        "path": "../data/diaries-txts/DSCD-14-PL-039.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Muchas gracias. Sí, voy acabando. Por tanto, si usted tiene esos fondos, lo que habrá que hacer es aplicarlos correctamente, y en esa aplicación correcta de los fondos le proponemos que lo haga en base a ese artículo 3 del memorándum que decía: conexiones energéticas; por ejemplo, el Gobierno de Ceuta va a pedirle la conexión con la península; por ejemplo, eficiencia energética industrial, Galicia le va a pedir la reconversión de As Pontes, de Alcoa, de la industria electrointensiva. ¿Movilidad sostenible? La Junta de Andalucía le va a pedir el corredor mediterráneo, transporte que no contamina. ¿Recursos hídricos? Murcia le va a pedir el Plan Agua y mejorar el Mar Menor. ¿Lucha contra la pandemia? Madrid le va a pedir el hospital de pandemias. ¿Cohesión territorial, vertebración? Castilla y León le va a pedir apostar por la PAC. Por cierto, la PAC, ¿le parece a usted que es para celebrar un 10 % de minoración de la PAC, 600 millones de euros menos para agricultores y ganaderos que no pueden ser los paganos otra vez de esto? (Rumores.--Aplausos)."
+}

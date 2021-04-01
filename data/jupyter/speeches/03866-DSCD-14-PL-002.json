@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON MARIO GARCÉS SANAGUSTÍN, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿PRETENDE CON EL ACUERDO DEL CONSEJO DE MINISTROS ADOPTADO HOY PARA FACILITAR EL PAGO DEL TERCER TRAMO DE LA EQUIPARACIÓN SALARIAL PACTADA EN 2018 ENCUBRIR LAS DECISIONES ARBITRARIAS ADOPTADAS EN SU MINISTERIO? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Muchas gracias, señor Garcés. Intentaré, si me da tiempo, referir conciencia, coherencia y competencia. Pero le diré una cosa, lo que a mí me preocupa es que utilice a las Fuerzas y Cuerpos de Seguridad del Estado hoy aquí, cuando estamos pudiendo celebrar el tercer tramo, el incremento salarial, que es lo que ustedes hacen (rumores y protestas)…"
+}

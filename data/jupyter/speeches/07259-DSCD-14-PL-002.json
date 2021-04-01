@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CÓMO PIENSA SOLUCIONAR EL COLAPSO QUE SUFREN LOS CENTROS DE EXAMINADORES DE TRÁFICO? ",
+        "diputado": [
+            {
+                "apellidos": "Aizpurua Arzallus",
+                "apellidosNombre": "Aizpurua Arzallus, Mertxe",
+                "codParlamentario": 69,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Mertxe",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/MertxeAizpurua",
+                "twitterUserId": "555326714",
+                "twitterUserName": "MertxeAizpurua"
+            },
+            0
+        ],
+        "order": 10,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "AIZPURUA ARZALLUS"
+    },
+    "text": "Gracias, presidenta. Igor González, cuarenta y siete años, de Bilbao, quince años preso en las cárceles de Badajoz, Valdemoro y Soria, estaba enfermo y había intentado suicidarse en tres ocasiones. Tenía cumplidas las tres cuartas partes de su condena. Con la ley ordinaria debería haber estado en la calle recibiendo tratamiento. El viernes pasado murió en su celda. El deber del Estado es velar por la vida de las personas privadas de libertad. No lo ha hecho. Esta era una muerte evitable, una muerte evitable si la política penitenciaria que hoy se aplica no fuese una política de excepción, sino una legislación adecuada al nuevo tiempo y respetuosa con los derechos humanos que asisten a todos los presos y presas, también a los presos y presas vascos. Señor ministro, construir la paz y la convivencia requiere de valentía y compromiso, de nuevas políticas para nuevos tiempos. Por eso le pregunto: ¿Qué hará el Gobierno para que muertes evitables como la de Igor González no vuelvan a suceder?"
+}

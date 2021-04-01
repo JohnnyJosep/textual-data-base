@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-25T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 4/2021, DE 9 DE MARZO, POR EL QUE SE MODIFICAN LA LEY 27/2014, DE 27 DE NOVIEMBRE, DEL IMPUESTO SOBRE SOCIEDADES, Y EL TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES, APROBADO MEDIANTE REAL DECRETO LEGISLATIVO 5/2004, DE 5 DE MARZO, EN RELACIÓN CON LAS ASIMETRÍAS HÍBRIDAS. ",
+        "diputado": [
+            {
+                "apellidos": "Capdevila i Esteve",
+                "apellidosNombre": "Capdevila i Esteve, Joan",
+                "codParlamentario": 172,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/capdevilajoan",
+                "twitterUserId": "331085228",
+                "twitterUserName": "capdevilajoan"
+            },
+            0
+        ],
+        "order": 55,
+        "path": "../data/diaries-txts/DSCD-14-PL-092.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CAPDEVILA I ESTEVE"
+    },
+    "text": "Enseguida acabo. Supongo que traspondrán la directiva concursal también por el democrático sistema del real Decreto- ley. (Aplausos)."
+}

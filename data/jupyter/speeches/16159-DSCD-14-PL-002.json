@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-16T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Calvo Gómez",
+                "apellidosNombre": "Calvo Gómez, Pilar",
+                "codParlamentario": 381,
+                "fchAlta": "16/03/2021",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Pilar",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/pilarcalvo13",
+                "twitterUserId": "287869490",
+                "twitterUserName": "pilarcalvo13"
+            },
+            2
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-087.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CALVO I GÓMEZ"
+    },
+    "text": "Lleial a l’mandat de l’1 d’octubre, per la llibertat dels presos polítics i el retorn dels exiliats, per imperatiu legal, prometo. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL ÁMBITO SOCIAL Y ECONÓMICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA.",
+        "diputado": [
+            {
+                "apellidos": "Legarda Uriarte",
+                "apellidosNombre": "Legarda Uriarte, Mikel",
+                "codParlamentario": 95,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Mikel",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/MikelLegarda",
+                "twitterUserId": "4178226827",
+                "twitterUserName": "MikelLegarda"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "LEGARDA URIARTE"
+    },
+    "text": "Muchas gracias, presidenta. Tal y como hemos manifestado en algún otro punto del orden del día, creemos que en este se replica una situación que ya hemos puesto de manifiesto. Vamos a debatir este mismo jueves la convalidación del Real Decreto-ley 37/2020, y consideramos que no debe proceder la convocatoria de una sesión extraordinaria de la Comisión correspondiente en lo que nos queda de mes; en definitiva, en un momento casi coincidente con la fecha que tenemos señalada para la convalidación del Real Decreto-ley 37/2020, que es precisamente sobre el que se pretende que el Gobierno informe y debatamos. Muchas gracias."
+}

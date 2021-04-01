@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO PLURAL, SOBRE LAS RELACIONES ECONÓMICAS CA T ALUÑA- ESPAÑA. ",
+        "diputado": [
+            {
+                "apellidos": "Castellón Rubio",
+                "apellidosNombre": "Castellón Rubio, Miguel Ángel",
+                "codParlamentario": 74,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 4,
+                "idLegislatura": 14,
+                "nombre": "Miguel Ángel",
+                "nombreCircunscripcion": "Almería",
+                "twitter": "https://twitter.com/mcastellonPP",
+                "twitterUserId": "265938163",
+                "twitterUserName": "mcastellonPP"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASTELLÓN RUBIO"
+    },
+    "text": "Termino. Señores diputados, hoy les obligan a publicar las balanzas fiscales con el único interés de quebrar el sistema, mientras tanto nosotros solo les pedimos dos cosas: que la señora Montero convoque el Consejo de Política Fiscal y Financiera y que aleje sus manos de nuestros bolsillos, porque cada vez que pide la palabra en el Consejo de Ministros los españoles nos tenemos que echar la mano a la cartera. Muchas gracias. (Aplausos)."
+}

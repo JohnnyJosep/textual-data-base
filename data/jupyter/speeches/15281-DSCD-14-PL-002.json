@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON IGNACIO GIL LÁZARO, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ OPINIÓN LE MERECE COMO MÁXIMO RESPONSABLE DE LA SEGURIDAD CIUDADANA QUE UNA PARTE DEL GOBIERNO APOYE PÚBLICAMENTE A LOS CAUSANTES DE LOS GRAVES DISTURBIOS QUE SE HAN PRODUCIDO EN LOS ÚLTIMOS DÍAS? ",
+        "diputado": [
+            {
+                "apellidos": "Gil Lázaro",
+                "apellidosNombre": "Gil Lázaro, Ignacio",
+                "codParlamentario": 295,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Ignacio",
+                "nombreCircunscripcion": "Valencia/València"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GIL LÁZARO"
+    },
+    "text": "Gracias, señora presidenta. Señor ministro del Interior, no me haga a continuación una cobarde condena genérica de la violencia, porque no es eso por lo que le pregunto. Lo que le pregunto es su opinión como ministro del Interior acerca del hecho de que una parte del Gobierno haya estado dando apoyo a los causantes de los graves disturbios de esta última semana. Y no me diga que nadie del Gobierno ha apoyado esos disturbios, porque estaría usted mintiendo a esta Cámara y ofendiendo a la inteligencia de los españoles."
+}

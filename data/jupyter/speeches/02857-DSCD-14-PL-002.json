@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿CÓMO TIENE PREVISTO GARANTIZAR EL GOBIERNO LA DISPONIBILIDAD DE EQUIPOS DE PROTECCIÓN INDIVIDUAL (EPI) Y DE TEST PARA DETECTAR EL COVID-19 EN NÚMERO SUFICIENTE PARA PODER ASEGURAR LA PROTECCIÓN ADECUADA DE LOS TRABAJADORES DEDICADOS A ACTIVIDADES ESENCIALES, ASÍ COMO DEL RESTO DE LA POBLACIÓN EN UN EVENTUAL ESCENARIO DE DESESCALADA DE LAS MEDIDAS DE CONFINAMIENTO? ",
+        "diputado": [
+            {
+                "apellidos": "Ruiz de Pinedo Undiano",
+                "apellidosNombre": "Ruiz de Pinedo Undiano, Iñaki",
+                "codParlamentario": 64,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Iñaki",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/RuizdePinedo",
+                "twitterUserId": "596531845",
+                "twitterUserName": "RuizdePinedo"
+            },
+            21
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE SANIDAD (Illa Roca)"
+    },
+    "text": "Muchas gracias, presidenta. Señoría, en materia de equipos de protección individual, la prioridad del Gobierno fueron los profesionales sanitarios. En este sentido desarrollamos una opción de compra de estos productos, productos todos ellos que cumplían los estándares necesarios para ser usados en la Unión Europea y que han sido revisados a su llegada a España para comprobar que sus especificaciones técnicas se correspondían con el material efectivamente suministrado. La segunda prioridad ha sido proporcionar equipos de protección a aquellos trabajadores de servicios esenciales que, por las características de su trabajo, así lo requerían. Además, quiero reconocer el trabajo que han hecho las organizaciones empresariales y sindicales en adaptar sus mecanismos y sus procesos de trabajo o de producción para que todos sus trabajadores tuvieran la necesaria protección requerida por las nuevas condiciones del Covid-19. Finalmente, la semana pasada --el miércoles-- el Centro Europeo de Prevención y Control de enfermedades adoptó por primera vez --el miércoles de la semana pasada-- una recomendación de uso de mascarillas. El Gobierno de España el día después --el jueves-- definió ya un nuevo tipo de mascarilla, la mascarilla higiénica, que ha sido regulada por tres normas UNE, la última publicada esta misma mañana. En esta materia el Gobierno de España tiene tres prioridades: el distanciamiento personal de las personas --idealmente dos metros, mínimo un metro--, el lavado frecuente de manos --por banal que parezca, muy efectivo-- y la higiene en espacios públicos y privados. Y, en consonancia con lo que el miércoles pasado recomendó el ECDC, el Gobierno de España puso este lunes y martes diez millones y medio de mascarillas a disposición de aquellas personas que no pudieran, por el medio de transporte que usaran, mantener la distancia interpersonal que nosotros recomendamos. En materia de test de diagnóstico, la estrategia del Gobierno de España se fundamenta en las PCR: hacemos 20 000 diarias y estamos trabajando para incrementarlas. Estamos en la banda alta de los países europeos. (Aplausos)."
+}

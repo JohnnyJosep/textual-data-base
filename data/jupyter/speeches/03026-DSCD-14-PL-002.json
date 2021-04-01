@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRET O-LEY 12/2020, DE 31 DE MARZO, DE MEDIDAS URGENTES EN MA TERIA DE PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE VIOLENCIA DE GÉNERO. ",
+        "diputado": [
+            {
+                "apellidos": "Elizo Serrano",
+                "apellidosNombre": "Elizo Serrano, María Gloria",
+                "codParlamentario": 300,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "María Gloria",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/gloriaelizo",
+                "twitterUserId": "301403189",
+                "twitterUserName": "gloriaelizo"
+            },
+            17
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA (Elizo Serrano)"
+    },
+    "text": "Muchas gracias, señora ministra. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). En turno de fijación de posiciones, en primer lugar, interviene el Grupo Parlamentario Mixto. Tiene la palabra el señor Martínez Oblanca."
+}

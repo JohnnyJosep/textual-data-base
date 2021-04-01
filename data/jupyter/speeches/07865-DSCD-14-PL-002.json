@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA INÉS ARRIMADAS GARCÍA, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿TIENE ESTE GOBIERNO UN COMPROMISO REAL CON LA REGENERACIÓN DEMOCRÁTICA? ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "Gracias, señora presidenta. Señor Sánchez, la corrupción sigue siendo un grave problema para España, y los españoles, desgraciadamente, estamos familiarizados con nombres como el de los ERE de Andalucía, el 3 %, la Gürtel y, más recientemente, la Kitchen o la financiación irregular de Podemos. Por eso, le pregunto: Señor Sánchez, ¿usted cree que su Gobierno tiene la misma firmeza para luchar contra la corrupción independientemente del partido al que afecte?"
+}

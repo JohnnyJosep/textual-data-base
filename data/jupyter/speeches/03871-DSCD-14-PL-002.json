@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ELOY SUÁREZ LAMA T A, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ PRETENDE OCULTAR EL MINISTERIO DEL INTERIOR CON EL IMPROVISADO ACUERDO DEL CONSEJO DE MINISTROS PARA HABILITAR EL PAGO DEL TERCER TRAMO DE LA EQUIPARACIÓN SALARIAL DE POLICÍA NACIONAL Y GUARDIA CIVIL? ",
+        "diputado": [
+            {
+                "apellidos": "Suárez Lamata",
+                "apellidosNombre": "Suárez Lamata, Eloy",
+                "codParlamentario": 214,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 50,
+                "idLegislatura": 14,
+                "nombre": "Eloy",
+                "nombreCircunscripcion": "Zaragoza",
+                "twitter": "https://twitter.com/eloysuarezl",
+                "twitterUserId": "241080178",
+                "twitterUserName": "eloysuarezl"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SUÁREZ LAMATA"
+    },
+    "text": "Gracias, señora presidenta. ¿Qué pretende ocultar el ministro del Interior con el improvisado acuerdo del Consejo de Ministros para habilitar el pago del tercer tramo de la equiparación salarial a la Policía Nacional y a la Guardia Civil?"
+}

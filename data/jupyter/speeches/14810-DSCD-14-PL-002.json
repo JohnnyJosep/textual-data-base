@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO, SEÑOR MARTÍNEZ OBLANCA, SOBRE EL DESARROLLO DE LA CAMPAÑA DE VACUNACIÓN DEL CORONAVIRUS COVID-19 PARA TRATAR DE INMUNIZAR A LA POBLACIÓN ESPAÑOLA EN EL MENOR TIEMPO POSIBLE Y FRENAR LAS TRÁGICAS SECUELAS DEL CONTAGIO. ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Oblanca",
+                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "codParlamentario": 20,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP-FORO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Isidro Manuel",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/imoblanca",
+                "twitterUserId": "3108277737",
+                "twitterUserName": "imoblanca"
+            },
+            0
+        ],
+        "order": 33,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ OBLANCA"
+    },
+    "text": "Señora presidenta, en función de los planteamientos de los tres grupos enmendantes se ha redactado una enmienda transaccional que de forma inmediata haré llegar a la Mesa. Muchas gracias."
+}

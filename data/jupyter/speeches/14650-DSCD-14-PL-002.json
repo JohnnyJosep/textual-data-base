@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN DIEGO REQUENA RUIZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿POR QUÉ OCULTA LA VICEPRESIDENTA CUARTA EN SU CURRÍCULUM OFICIAL SU VINCULACIÓN PROFESIONAL CON ISOFOTÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Requena Ruiz",
+                "apellidosNombre": "Requena Ruiz, Juan Diego",
+                "codParlamentario": 79,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Juan Diego",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/alcaldeJDR",
+                "twitterUserId": "",
+                "twitterUserName": "alcaldeJDR"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REQUENA RUIZ"
+    },
+    "text": "Muchas gracias, señora presidenta. Señora vicepresidenta, ¿por qué oculta en su currículum oficial su vinculación profesional con Isofotón? (Aplausos)."
+}

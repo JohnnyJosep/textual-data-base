@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON CARLOS GARCÍA ADANERO, DEL GRUPO P ARLAMENT ARIO MIXT O, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CUÁNDO TIENE PREVISTO EL GOBIERNO RETIRAR EL RECURSO DE INCONSTITUCIONALIDAD, PROMOVIDO POR EL PRESIDENTE DEL GOBIERNO, CONTRA EL ARTÍCULO 2 DE LA LEY FORAL 21/2019, DE 4 DE ABRIL, DE MODIFICACIÓN Y ACTUALIZACIÓN DE LA COMPILACIÓN DEL DERECHO CIVIL FORAL DE NAVARRA O FUERO NUEVO? ",
+        "diputado": [
+            {
+                "apellidos": "García Adanero",
+                "apellidosNombre": "García Adanero, Carlos",
+                "codParlamentario": 127,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Carlos",
+                "nombreCircunscripcion": "Navarra"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA ADANERO"
+    },
+    "text": "Muchas gracias, señora presidenta. Señora ministra, ¿cuándo piensa el Gobierno de España retirar el recurso de inconstitucionalidad a la Ley Foral que regula el Código Civil navarro o el Fuero Nuevo?"
+}

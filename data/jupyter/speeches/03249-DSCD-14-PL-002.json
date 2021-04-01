@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN LUIS PEDREÑO MOLINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CUÁLES SON LOS PLANES EXACTOS DEL GOBIERNO RESPECTO AL USO DE TÉCNICAS DE GEOLOCALIZACIÓN DE LOS CIUDADANOS? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            91
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTA TERCERA DEL GOBIERNO Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL (Calviño Santamaría)"
+    },
+    "text": "Muchas gracias. Muchas gracias, señoría, por su pregunta. El Gobierno, desde el primer momento, ha tratado de utilizar todos los instrumentos disponibles para tratar de luchar contra la emergencia sanitaria. Entre ellos se encuentran distintas aplicaciones digitales que, en ningún caso, consisten en el seguimiento de los movimientos individuales. Se trata de aplicaciones que respetan plenamente todas las normas de privacidad y protección de datos personales europeas y nacionales. Muchas gracias. (Aplausos)."
+}

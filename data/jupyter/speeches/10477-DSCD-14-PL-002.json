@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSEBA ANDONI AGIRRETXEA URRESTI, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN: ¿POR QUÉ NO HA DEFENDIDO EL GOBIERNO EN LA NEGOCIACIÓN EUROPEA DE LA PAC UN POSICIONAMIENTO A FAVOR DE QUE EXISTAN DIFERENTES PLANES ESTRATÉGICOS AGRARIOS EN CADA ESTADO MIEMBRO? ",
+        "diputado": [
+            {
+                "apellidos": "Agirretxea Urresti",
+                "apellidosNombre": "Agirretxea Urresti, Joseba Andoni",
+                "codParlamentario": 99,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Joseba Andoni",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/jagirretxea",
+                "twitterUserId": "821764964",
+                "twitterUserName": "jagirretxea"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "AGIRRETXEA URRESTI"
+    },
+    "text": "Gracias, señora presidenta. El Consejo Europeo ha alcanzado un acuerdo sobre el paquete de reforma de la PAC y, aunque compartimos los objetivos estratégicos de esta nueva PAC, el modelo de subsidiariedad no se ha extendido a las regiones con autonomía competencial y además con autonomía fiscal, como es el caso de Euskadi, impidiendo así la elaboración de un plan estratégico propio. ¿Por qué no ha defendido el Gobierno en la negociación europea un posicionamiento a favor de que existan diferentes planes estratégicos agrarios en cada Estado miembro?"
+}

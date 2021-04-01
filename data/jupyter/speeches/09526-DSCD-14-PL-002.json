@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CÓMO VALORA EL GOBIERNO DE COALICIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Abascal Conde",
+                "apellidosNombre": "Abascal Conde, Santiago",
+                "codParlamentario": 43,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Santiago",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Santi_ABASCAL",
+                "twitterUserId": "260788584",
+                "twitterUserName": "Santi_ABASCAL"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ABASCAL CONDE"
+    },
+    "text": "Señor Sánchez, ha demostrado usted una nueva falta de respeto en la sesión de control contestando al señor Casado en lugar de a mí y mintiendo sobre todas nuestras palabras. Yo no le voy a pedir que me respete cuando usted no respeta ni a los jueces ni al jefe del Estado. No se respeta ni a sí mismo, no respeta ni a sus propios electores. Suba a esa tribuna, pida perdón a los españoles y márchese de una vez por todas. (Aplausos)."
+}

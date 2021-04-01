@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ALBERT BOTRAN PAHISSA, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL MINISTRO DE JUSTICIA: ¿QUÉ MEDIDAS TOMARÁ EL GOBIERNO PARA LA DESJUDICIALIZACIÓN DEL CONFLICTO CATALÁN? ",
+        "diputado": [
+            {
+                "apellidos": "Botran Pahissa",
+                "apellidosNombre": "Botran Pahissa, Albert",
+                "codParlamentario": 87,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "CUP-PR",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Albert",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/albertbotran",
+                "twitterUserId": "2978274629",
+                "twitterUserName": "albertbotran"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BOTRAN PAHISSA"
+    },
+    "text": "Ministro, su Gobierno empezó la legislatura en relación con Cataluña con unas palabras del presidente Sánchez en el discurso de investidura que decían que había que dejar atrás la deriva judicial que tanto dolor había causado, que unos días después la ministra portavoz reforzó con unas declaraciones, donde señalaba que la política no podía esconderse detrás de las togas. Cuando ya llevamos más de un año de Gobierno del PSOE y Unidas Podemos, ¿nos podría resumir qué medidas han contribuido a desjudicializar el conflicto con Cataluña?"
+}

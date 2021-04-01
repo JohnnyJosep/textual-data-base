@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "─ DE LA DIPUT ADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO P ARLAMENT ARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿QUÉ HARÁ EL GOBIERNO PARA QUE MUERTES EVITABLES COMO LA DE IGOR GONZÁLEZ NO VUELVAN A OCURRIR? -- DEL DIPUTADO DON AGUSTÍN ALMODÓBAR BARCELÓ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CUÁL ES LA VALORACIÓN QUE HACE EL GOBIERNO DE LA SITUACIÓN DEL SECTOR TURÍSTICO ESPAÑOL? ",
+        "diputado": [
+            {
+                "apellidos": "Almodóbar Barceló",
+                "apellidosNombre": "Almodóbar Barceló, Agustín",
+                "codParlamentario": 305,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Agustín",
+                "nombreCircunscripcion": "Alicante/Alacant",
+                "twitter": "https://twitter.com/aalmodobar",
+                "twitterUserId": "155350950",
+                "twitterUserName": "aalmodobar"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ALMODÓBAR BARCELÓ"
+    },
+    "text": "Gracias, presidenta. ¿Cuál es la valoración que hace el Gobierno de la situación del sector turístico español?"
+}

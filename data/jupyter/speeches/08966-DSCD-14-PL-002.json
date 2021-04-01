@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUTADO DON CARLOS ROJAS GARCÍA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿CONSIDERA QUE EL PROYECTO DE PAÍS DEL GOBIERNO ENCAJA EN NUESTRO ESTADO DE DERECHO? ",
+        "diputado": [
+            {
+                "apellidos": "Nevado del Campo",
+                "apellidosNombre": "Nevado del Campo, María Magdalena",
+                "codParlamentario": 293,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 10,
+                "idLegislatura": 14,
+                "nombre": "María Magdalena",
+                "nombreCircunscripcion": "Cáceres",
+                "twitter": "https://twitter.com/malenanevado",
+                "twitterUserId": "274481242",
+                "twitterUserName": "malenanevado"
+            },
+            24
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE JUSTICIA (Campo Moreno)"
+    },
+    "text": "Le voy a decir que sí, hay proyecto de país y, sí, encaja en nuestro ordenamiento jurídico. Es un proyecto de país que mira al futuro, recogiendo lo mejor del pasado y restañando sus heridas; es un proyecto inclusivo y que abraza a todos y no deja a nadie fuera, como ustedes quieren (rumores); es un proyecto que, como explicó el presidente del Gobierno, tiene cuatro pilares que queremos que ustedes apoyen: justicia social, defensa de los servicios públicos, libertad, cohesión territorial. (Un señor diputado: ¡Como en Venezuela!). Claro, claro que hay un proyecto de país, proyecto que se mantiene incluso con la pandemia. Señor Rojas, la mayor cantidad de recursos económicos, 200 000 millones, el 20 % del PIB, destinado a sufragar esta crisis económica, social y sanitaria. (Rumores)."
+}

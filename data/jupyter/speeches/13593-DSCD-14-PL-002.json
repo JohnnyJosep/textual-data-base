@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "ORDEN DEL DÍA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA DAR EXPLICACIONES SOBRE LA CONVENIENCIA Y EL PREVISIBLE IMPACTO, DESDE UN PUNTO DE VISTA SANITARIO, DE LA CELEBRACIÓN DE COMICIOS ELECTORALES EN PLENA TERCERA OLA DEL COVID-19.",
+        "diputado": [
+            {
+                "apellidos": "Olona Choclán",
+                "apellidosNombre": "Olona Choclán, Macarena",
+                "codParlamentario": 84,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 18,
+                "idLegislatura": 14,
+                "nombre": "Macarena",
+                "nombreCircunscripcion": "Granada",
+                "twitter": "https://twitter.com/Macarena_Olona",
+                "twitterUserId": "1109573601995440129",
+                "twitterUserName": "Macarena_Olona"
+            },
+            0
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "OLONA CHOCLÁN"
+    },
+    "text": "Con la venia, señor presidente. Le pido disculpas, sustituiré al diputado Garriga y asumiré la defensa de la iniciativa."
+}

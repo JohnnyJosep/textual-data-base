@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-12T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÁNGEL LÓPEZ MARAVER, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN: ¿QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA SATISFACER LAS LEGÍTIMAS REIVINDICACIONES DEL MUNDO RURAL ESPAÑOL? ",
+        "diputado": [
+            {
+                "apellidos": "López de Uralde Garmendia",
+                "apellidosNombre": "López de Uralde Garmendia, Juan Antonio",
+                "codParlamentario": 205,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Juan Antonio",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/juralde",
+                "twitterUserId": "69060709",
+                "twitterUserName": "juralde"
+            },
+            48
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN (Planas Puchades)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señor diputado, en las últimas semanas se han venido produciendo movilizaciones de nuestros agricultores y ganaderos, de igual modo que en Francia o en Alemania, en reivindicación de unos precios justos por los alimentos que producen y también por su trabajo, y quiero decir que este Gobierno comparte esas peticiones legítimas y estamos trabajando para dar solución a las mismas. (Aplausos)."
+}

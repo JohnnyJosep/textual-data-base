@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-22T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO CIUDADANOS, ORGÁNICA DE MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL PODER JUDICIAL, PARA EL REFUERZO DE LA INDEPENDENCIA JUDICIAL. ",
+        "diputado": [
+            {
+                "apellidos": "Bas Corugeira",
+                "apellidosNombre": "Bas Corugeira, Javier",
+                "codParlamentario": 118,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 36,
+                "idLegislatura": 14,
+                "nombre": "Javier",
+                "nombreCircunscripcion": "Pontevedra",
+                "twitter": "https://twitter.com/javierbasco",
+                "twitterUserId": "1103313372479672320",
+                "twitterUserName": "javierbasco"
+            },
+            0
+        ],
+        "order": 89,
+        "path": "../data/diaries-txts/DSCD-14-PL-046.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAS CORUGEIRA"
+    },
+    "text": "Estoy acabando, presidenta. Por eso, hoy anuncio aquí que nuestro grupo presentará una proposición no de ley en la que se incluirán las soluciones que el Partido Popular propone para gestionar esta crisis, soluciones que ya fueron apuntadas públicamente por nuestro presidente, Pablo Casado, y que, entre otras medidas, plantean una importante rebaja en unos impuestos y la supresión de otros y soluciones que están en sintonía con las aplicadas en las principales economías europeas y que se basan también en la experiencia de haber gestionado…"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIÓN URGENTE (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO EXPLIQUE LA SITUACIÓN DE LAS MUJERES EN ESPAÑA AL CUMPLIRSE UN AÑO DE LA CREACIÓN DEL MINISTERIO DE IGUALDAD. ",
+        "diputado": [
+            {
+                "apellidos": "Pérez Díaz",
+                "apellidosNombre": "Pérez Díaz, María Auxiliadora",
+                "codParlamentario": 160,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "María Auxiliadora",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/AuxiPD",
+                "twitterUserId": "192883412",
+                "twitterUserName": "AuxiPD"
+            },
+            0
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PÉREZ DÍAZ"
+    },
+    "text": "Y solo por esa responsabilidad, tenemos que seguir avanzando en materia de igualdad, juntos, de la mano, las mujeres y los hombres de este país y no perder de vista a la mujer real, que trabaja en la ciudad o en el campo, que saca a sus hijos adelante cada día, que cuida a sus mayores en cualquier circunstancia…"
+}

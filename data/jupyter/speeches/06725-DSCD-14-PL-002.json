@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "ORDEN DEL DÍA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA INFORMAR SOBRE LA ACTUALIZACIÓN DE LA ESTRATEGIA DE SU DEPARTAMENTO PARA HACER FRENTE A LA EVOLUCIÓN CRÍTICA DE LA PANDEMIA, DADAS LAS ALARMANTES CIFRAS DE TRANSMISIÓN DE COVID-19 HECHAS PÚBLICAS POR SU MINISTERIO.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 18,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señora Garrido. Por el Grupo Parlamentario VOX, tiene la palabra el señor Steegmann Olmedillas."
+}

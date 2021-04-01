@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Baños Ruiz",
+                "apellidosNombre": "Baños Ruiz, Carmen",
+                "codParlamentario": 365,
+                "fchAlta": "24/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Carmen",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/carmen_banos",
+                "twitterUserId": "264362379",
+                "twitterUserName": "carmen_banos"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAÑOS RUIZ"
+    },
+    "text": "Sí, prometo."
+}

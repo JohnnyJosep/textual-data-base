@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO, SEÑOR MARTÍNEZ OBLANCA, SOBRE EL DESARROLLO DE LA CAMPAÑA DE VACUNACIÓN DEL CORONAVIRUS COVID-19 PARA TRATAR DE INMUNIZAR A LA POBLACIÓN ESPAÑOLA EN EL MENOR TIEMPO POSIBLE Y FRENAR LAS TRÁGICAS SECUELAS DEL CONTAGIO. ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "Finalizo. …, en la que incluso en situaciones extremas los grandes intereses de las farmacéuticas prevalecen. En ese sentido el Gobierno español debería explicar por qué votó en contra de liberar las patentes de las vacunas, algo que permitiría aplicarlas en todo el mundo con mayor eficacia y mayor facilidad. Creo que…"
+}

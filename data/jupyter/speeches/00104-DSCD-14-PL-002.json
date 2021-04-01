@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 96,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "Sin ningún tipo de cálculo partidista ni electoral y siempre dentro del marco constitucional, Teruel Existe va a cumplir con el compromiso que hizo en la campaña electoral de facilitar la gobernabilidad que demandaba la sociedad española y simplemente por evitar unas terceras elecciones, y lo hace por responsabilidad institucional. Hace nueve meses el corazón de la España vaciada latía fuerte a escasos metros de la puerta del Congreso, hoy una parte de ese corazón está aquí dentro y les aseguro que no vamos a permitir que deje de escucharse ese latido, que es el latido de la mayor parte del país. (Aplausos)."
+}

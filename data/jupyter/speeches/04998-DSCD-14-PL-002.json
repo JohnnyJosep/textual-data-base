@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE REFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS: -- DEL GRUPO P ARLAMENT ARIO PLURAL, DE REFORMA DEL REGLAMENT O DEL CONGRESO DE LOS DIPUTADOS POR LA QUE SE MODIFICA EL ARTÍCULO 61, CON EL FIN DE REGULAR, PARA CASOS DE EXTREMA NECESIDAD, LA POSIBILIDAD DE CELEBRAR SESIONES DEL CONGRESO A TRAVÉS DE MEDIOS TELEMÁTICOS. ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Continuamos con el punto del orden del día correspondiente a la toma en consideración de la proposición del Grupo Parlamentario Plural, de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 61 con el fin de regular para casos de extrema necesidad la posibilidad de celebrar sesiones del Congreso a través de medios telemáticos. Para la defensa de la iniciativa tiene la palabra el señor Alonso-Cuevillas i Sayrol."
+}

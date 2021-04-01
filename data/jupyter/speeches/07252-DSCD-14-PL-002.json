@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DOÑA JOSUNE GOROSPE ELEZCANO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CÓMO PIENSA SOLUCIONAR EL COLAPSO QUE SUFREN LOS CENTROS DE EXAMINADORES DE TRÁFICO? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Muchas gracias, señora Gorospe. Compartimos la preocupación a la que usted ha hecho alusión, ya lo referimos en el Senado también a una pregunta del Grupo Vasco. Y en ese sentido, estamos comprometidos con el fortalecimiento y el robustecimiento de los servicios públicos, reforzando, como usted bien sabe, la provisión de puestos de examinadores a través de procesos selectivos del cuerpo administrativo común, en concreto en el ámbito de tráfico, también trasladando examinadores itinerantes para apoyarles y habilitarles en la celebración de exámenes, y reforzando, en definitiva, todas las actuaciones necesarias que colmen la falta de examinadores que nos encontramos cuando llegamos al Gobierno, sobre todo en provincias, como bien sabe, como Málaga o Guipúzcoa."
+}

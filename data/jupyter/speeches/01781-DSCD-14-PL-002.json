@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-20T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 3/2020, DE 4 DE FEBRERO, DE MEDIDAS URGENTES POR EL QUE SE INCORPORAN AL ORDENAMIENTO JURÍDICO ESPAÑOL DIVERSAS DIRECTIVAS DE LA UNIÓN EUROPEA EN EL ÁMBITO DE LA CONTRATACIÓN PÚBLICA EN DETERMINADOS SECTORES; DE SEGUROS PRIVADOS; DE PLANES Y FONDOS DE PENSIONES; DEL ÁMBITO TRIBUTARIO Y DE LITIGIOS FISCALES. ",
+        "diputado": [
+            {
+                "apellidos": "Aizcorbe Torra",
+                "apellidosNombre": "Aizcorbe Torra, Juan José",
+                "codParlamentario": 151,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Juan José",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/JuanjoAizcorbe",
+                "twitterUserId": "2832034762",
+                "twitterUserName": "JuanjoAizcorbe"
+            },
+            0
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-011.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "AIZCORBE TORRA"
+    },
+    "text": "En definitiva, votaremos en contra de dicha convalidación del real decreto-ley, esperando que siga como proyecto de ley. Muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

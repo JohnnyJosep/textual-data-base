@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Arrimadas García",
+                "apellidosNombre": "Arrimadas García, Inés",
+                "codParlamentario": 331,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Inés",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/InesArrimadas",
+                "twitterUserId": "552561770",
+                "twitterUserName": "InesArrimadas"
+            },
+            0
+        ],
+        "order": 140,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIMADAS GARCÍA"
+    },
+    "text": "Sí, acabo enseguida, señora presidenta. Quiero dirigirme a todos los españoles que hoy están preocupados, que hoy están indignados, que hoy están intranquilos. Quiero decirles que no están solos y que no se rindan. No nos rendimos en Cataluña en el año 2017, no nos vamos a rendir ahora. Estos señores nos quieren enfadados, nos quieren callados, nos quieren desesperados, y nos encontrarán firmes luchando por España como siempre hemos hecho desde Ciudadanos. Quiero también recordar que esto requiere un centro fuerte, un centro liberal fuerte, porque el señor Sánchez quiere extremos, quiere resucitar las dos Españas. (Rumores). Sin las dos Españas, el señor Sánchez no se mantiene en Moncloa. Igual que en la Transición el centro fue determinante, igual que para parar el golpe de Estado en Cataluña el centro fue determinante, lo va a ser hoy. Por último, a los señores separatistas y nacionalistas que hoy están tan contentos, no se confundan, España no es Pedro Sánchez; España es mucho más que lo que representa hoy Pedro Sánchez e igual que os ganamos en Cataluña os vamos a ganar en el conjunto de España. Muchas gracias. (Aplausos)."
+}

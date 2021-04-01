@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            42
+        ],
+        "order": 58,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ PÉREZ-CASTEJÓN (candidato a la Presidencia del Gobierno)"
+    },
+    "text": "Muchas gracias, señor Abascal. Señorías del grupo de la ultraderecha, señor Abascal, le voy a decir una cosa bien clara, ¡si es que yo he respondido a esa pregunta, incluso, sin haberme imaginado que me la iba a hacer! Yo he dicho que la composición de los grupos parlamentarios de este Congreso de los Diputados no la ha elegido el Partido Socialista, no la ha elegido usted, no la ha elegido nadie; la han elegido, con su voto, los españoles; ¡con su voto, los españoles! Y tan legítimos son sus escaños como los escaños del resto de formaciones parlamentarias, señor Abascal. (Aplausos). Ahora bien, yo entiendo que para el máximo dirigente de la ultraderecha esto sea imposible de entender. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO BARANDIARAN BENITO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿QUÉ PREVISIONES TIENE EL MINISTERIO EN CUANTO A LA PRÓRROGA DE LOS ERTE? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            36
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL (Díaz Pérez)"
+    },
+    "text": "Gracias. Señoría, como conoce usted, vamos a mantener un mecanismo, que ha sido de máxima utilidad para las empresas y para los trabajadores en nuestro país, mientras sea necesario. Hay incertidumbre, no sabemos hasta dónde va alcanzar la pandemia, pero desde luego el mecanismo continuará siempre que sea necesario. (Aplausos.--Rumores)."
+}

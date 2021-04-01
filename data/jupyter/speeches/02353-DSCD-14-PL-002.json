@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-26T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ANDRÉS LORITE LORITE, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿ORDENÓ EL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA QUE SE HABILITARA UNA ZONA PREFERENTE PARA DELCY RODRÍ GUEZ EN EL AEROPUERTO DE ADOLFO SUÁREZ MADRID-BARAJAS CON MOTIVO DE SU RECIENTE ESTANCIA EN ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Lorite Lorite",
+                "apellidosNombre": "Lorite Lorite, Andrés",
+                "codParlamentario": 105,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 14,
+                "idLegislatura": 14,
+                "nombre": "Andrés",
+                "nombreCircunscripcion": "Córdoba",
+                "twitter": "https://twitter.com/AndresLorite",
+                "twitterUserId": "222267978",
+                "twitterUserName": "AndresLorite"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-013.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "LORITE LORITE"
+    },
+    "text": "Gracias, señora presidenta. Señor Ábalos, ¿ordenó usted que se habilitase una zona preferente para Delcy Rodrí guez en el Aeropuerto Adolfo Suárez, con motivo de su visita a España? (Rumores.--Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-18T00:00:00.000Z",
+        "debate": "ENMIENDAS DEL SENADO. (CONTINUACIÓN): -- PROYECTO DE LEY DE MEDIDAS URGENTES DE PREVENCIÓN, CONTENCIÓN Y COORDINACIÓN PARA HACER FRENTE A LA CRISIS SANITARIA OCASIONADA POR EL COVID-19 (PROCEDENTE DEL REAL DECRETO-LEY 21/2020, DE 9 DE JUNIO). ",
+        "diputado": [
+            {
+                "apellidos": "Steegmann Olmedillas",
+                "apellidosNombre": "Steegmann Olmedillas, Juan Luis",
+                "codParlamentario": 135,
+                "fchAlta": "22/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Juan Luis",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/jlsteeg_doc",
+                "twitterUserId": "900446435111579648",
+                "twitterUserName": "jlsteeg_doc"
+            },
+            0
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-089.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "STEEGMANN OLMEDILLAS"
+    },
+    "text": "Termino en dos segundos, señora presidenta. Les dijimos en junio que en VOX no vamos a olvidar ni a los muertos ni a sus familiares. Hoy se lo repito de nuevo; mañana, si hay justicia en este mundo, se lo dirán ustedes a un juez. Muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

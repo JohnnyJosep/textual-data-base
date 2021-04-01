@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-01T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Margall Sastre",
+                "apellidosNombre": "Margall Sastre, Joan",
+                "codParlamentario": 193,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 17,
+                "idLegislatura": 14,
+                "nombre": "Joan",
+                "nombreCircunscripcion": "Girona",
+                "twitter": "https://twitter.com/joanmargall",
+                "twitterUserId": "15071264",
+                "twitterUserName": "joanmargall"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARGALL SASTRE"
+    },
+    "text": "Gracias, señora presidenta. Desde el escaño damos por defendidas nuestras enmiendas en este punto y hasta el final del debate. Muchas gracias."
+}

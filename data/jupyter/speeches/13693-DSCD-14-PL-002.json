@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA -- COMPARECENCIA URGENTE DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA DAR CUENTA DE LAS MODIFICACIONES EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES DEL REAL DECRETO-LEY 11/2020, DE 31 DE MARZO, POR EL QUE SE ADOPTAN MEDIDAS URGENTES COMPLEMENTARIAS EN EL ÁMBITO SOCIAL Y ECONÓMICO PARA HACER FRENTE AL COVID-19, CONTENIDAS EN EL REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES Y EN EL REAL DECRETO-LEY 1/2021, DE 19 DE ENERO, DE PROTECCIÓN DE LOS CONSUMIDORES Y USUARIOS FRENTE A SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA.",
+        "diputado": [
+            {
+                "apellidos": "González Coello de Portugal",
+                "apellidosNombre": "González Coello de Portugal, Víctor",
+                "codParlamentario": 76,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 37,
+                "idLegislatura": 14,
+                "nombre": "Víctor",
+                "nombreCircunscripcion": "Salamanca",
+                "twitter": "https://twitter.com/vicpiedra",
+                "twitterUserId": "49607100",
+                "twitterUserName": "vicpiedra"
+            },
+            0
+        ],
+        "order": 48,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GONZÁLEZ COELLO DE PORTUGAL"
+    },
+    "text": "Veinte segundos. Los inmigrantes llegan a España como si fuera una tierra de promisión por culpa de los Gobiernos que les prometen lo que no quieren cumplir. VOX quiere garantizar un modelo de cobertura de retiro, que sea viable y garantice a los españoles unas pensiones, pero esta solicitud no va solo de la forma de actuar de este Gobierno y de su ministro, al decir una cosa e intentar hacer otra, o de eludir sistemáticamente la labor de control de esta Cámara, o incluso de la Seguridad Social. Esto va del Reino de España, de su capacidad de financiar su déficit anual y de refinanciar su deuda, en máximos en los dos casos, por cierto. Por eso, es bueno que venga el ministro, aunque sea a mentir. Pero mucho nos tememos que la política económica de la coalición progresista de este Gobierno es un programa incompatible con la estabilidad, con el crecimiento, con la defensa y creación de puestos de trabajo y, por supuesto, con la sostenibilidad financiera del sistema de pensiones. Gracias. (Aplausos)."
+}

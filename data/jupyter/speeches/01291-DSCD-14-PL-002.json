@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "diputado": [
+            {
+                "apellidos": "Cañadell Salvia",
+                "apellidosNombre": "Cañadell Salvia, Concep",
+                "codParlamentario": 21,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 25,
+                "idLegislatura": 14,
+                "nombre": "Concep",
+                "nombreCircunscripcion": "Lleida",
+                "twitter": "https://twitter.com/conceptermens",
+                "twitterUserId": "2867230876",
+                "twitterUserName": "conceptermens"
+            },
+            0
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CAÑADELL SALVIA"
+    },
+    "text": "Estoy terminando, presidente. Desde Junts per Catalunya deseamos llegar a entendimientos; deseamos poder alcanzar la unión de todos los grupos parlamentarios para poder dar respuesta, con la mayor urgencia posible, al sector frutícola, en este caso, pero también con mirada general al sector primario: sector lácteo, sector de los cereales, sector del aceite y un largo etcétera. Estamos hablando de una crisis estructural que viene de lejos."
+}

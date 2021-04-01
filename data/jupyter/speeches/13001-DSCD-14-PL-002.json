@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE LA INTENCIÓN DEL GOBIERNO DE RESOLVER EL CONFLICTO POLÍTICO CON CATALUÑA. ",
+        "diputado": [
+            {
+                "apellidos": "Mariscal Anaya",
+                "apellidosNombre": "Mariscal Anaya, Guillermo",
+                "codParlamentario": 339,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Guillermo",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/gmariscalanaya",
+                "twitterUserId": "196204374",
+                "twitterUserName": "gmariscalanaya"
+            },
+            0
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARISCAL ANAYA"
+    },
+    "text": "Mire, ese artículo del Reglamento establece la posibilidad de que el Gobierno aplace una pregunta parlamentaria, como ocurrió ayer con una pregunta registrada por nuestro grupo y que hace hincapié en la crisis migratoria de Canarias, dirigida al señor Escrivá, que se encuentra hoy aquí presente. Pues bien, el Gobierno ha trasladado la pregunta..."
+}

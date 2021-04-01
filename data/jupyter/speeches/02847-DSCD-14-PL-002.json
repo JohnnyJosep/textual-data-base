@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN LUIS STEEGMANN OLMEDILLAS, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE SANIDAD: ¿V A A INFORMAR ALGUNA VEZ EL GOBIERNO DEL NÚMERO REAL DE MUERTOS POR LA COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Ruiz de Pinedo Undiano",
+                "apellidosNombre": "Ruiz de Pinedo Undiano, Iñaki",
+                "codParlamentario": 64,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Iñaki",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/RuizdePinedo",
+                "twitterUserId": "596531845",
+                "twitterUserName": "RuizdePinedo"
+            },
+            21
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE SANIDAD (Illa Roca)"
+    },
+    "text": "Muchas gracias. El Gobierno informa cada día del número de fallecidos, número de contagiados, ingresos en UCI, profesionales contagiados y de toda una serie de datos que figuran en los informes que a diario damos a conocer. (Aplausos)."
+}

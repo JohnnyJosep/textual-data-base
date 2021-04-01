@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            43
+        ],
+        "order": 134,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ PÉREZ-CASTEJON (candidato a la Presidencia del Gobierno)"
+    },
+    "text": "Si me permite, señora presidenta, al señor Rufián le responderé desde el escaño simplemente para ratificarme en los extremos del compromiso que hemos alcanzado dos fuerzas políticas con bastante historia a nuestras espaldas (Rumores). Esquerra Republicana tiene su longevidad; el Partido Socialista Obrero Español tiene también su longevidad. Ambas hemos sufrido muchas cosas a lo largo de esta historia: el exilio, la represión, la dictadura, el exterminio de muchas personas que defendían la causa republicana en Cataluña y también la causa socialista en el conjunto del país, y creo que tenemos una enorme responsabilidad también como fuerzas políticas históricas para con nuestras sociedades. Me ha gustado escucharle decir --me reconforta mucho-- de su boca que se rechaza la violencia. No tenía ninguna duda de ello, porque precisamente durante el mes de octubre escuché al secretario general de su partido, el señor Pere Aragonès, desmarcarse absolutamente de la violencia. Agradezco de verdad que planteemos trascender los bloques, porque efectivamente los sentimientos no se imponen. No le voy a imponer yo el sentimiento de ser español ni usted me va imponer a mí el sentimiento del independentismo catalán, pero creo que entre ambos podemos lograr un cambio de percepciones, tanto de ustedes como de nosotros, y a eso estamos llamados, al menos, a empezar a andar en esta legislatura. Por nosotros, señor Rufián, no será. (Aplausos)."
+}

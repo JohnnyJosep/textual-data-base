@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 20/2020, DE 29 DE MAYO, POR EL QUE SE ESTABLECE EL INGRESO MÍNIMO VITAL. ",
+        "diputado": [
+            {
+                "apellidos": "Sicilia Alférez",
+                "apellidosNombre": "Sicilia Alférez, Felipe Jesús",
+                "codParlamentario": 259,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Felipe Jesús",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/felipe_sicilia",
+                "twitterUserId": "246982544",
+                "twitterUserName": "felipe_sicilia"
+            },
+            0
+        ],
+        "order": 92,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SICILIA ALFÉREZ"
+    },
+    "text": "Sí, presidenta, solo para informar que aceptaremos la enmienda de Ciudadanos al punto 3. Dado que los puntos 3 y 4 que propone Ciudadanos están redactados en una única enmienda, estamos trabajando en una transaccional que solo incluya lo que aceptan Unidas Podemos y este grupo, solo el punto 3 de la enmienda de Ciudadanos. Ahora le llevaremos a la Mesa esa enmienda transaccional."
+}

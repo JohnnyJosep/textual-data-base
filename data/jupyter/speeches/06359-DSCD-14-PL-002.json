@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-22T00:00:00.000Z",
+        "debate": "SEGUNDO DE SU LABOR DE GOBIERNO? -- DE LA DIPUT ADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿CONSIDERA QUE INCUMBE AL GOBIERNO EL LLAMADO «CASO DINA»? ",
+        "diputado": [
+            {
+                "apellidos": "Olona Choclán",
+                "apellidosNombre": "Olona Choclán, Macarena",
+                "codParlamentario": 84,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 18,
+                "idLegislatura": 14,
+                "nombre": "Macarena",
+                "nombreCircunscripcion": "Granada",
+                "twitter": "https://twitter.com/Macarena_Olona",
+                "twitterUserId": "1109573601995440129",
+                "twitterUserName": "Macarena_Olona"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "OLONA CHOCLÁN"
+    },
+    "text": "Gracias, señora presidenta. Señor ministro, ¿considera que incumbe al Gobierno el llamado caso Dina?"
+}

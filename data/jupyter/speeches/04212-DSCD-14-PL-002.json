@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ANTONIO GONZÁLEZ TEROL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA: ¿QUÉ CRITERIOS GUÍAN LA POLÍTICA DE NOMBRAMIENTOS EN EL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            49
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA (Ábalos Meco)"
+    },
+    "text": "… para que se vaya con algo a su municipio, para que tenga sentido su representación política y algo les pueda decir a sus representados: El sábado se publicó la licitación del contrato para la viabilidad del cercanías a su municipio. ¡Llévese algo para casa, hombre! (Aplausos). --"
+}

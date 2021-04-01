@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CUÁLES SON LAS PERSPECTIVAS ECONÓMICAS DEL GOBIERNO PARA NUESTRO PAÍS? ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Señor Sánchez, ayer se cumplieron diez años del Pleno en el que, con su voto, se atacó al Estado del bienestar como nunca antes había pasado: Zapatero recortó 15 000 millones de euros, con su apoyo, el sueldo de los funcionarios, pensiones, ayudas a la maternidad o ayudas a la dependencia. Antes ya habían modificado la ley para agilizar los desahucios y también para precarizar el empleo; todo ello, por supuesto, después de muchos meses ocultando datos y engañando a los españoles. Ahora pasamos de esos brotes verdes a la V asimétrica, de la Champions League a la gama alta del éxito, del Plan E al escudo social. Misma propaganda en España, mismas mentiras en Europa. Ahora piden otro plan Marshall, pero recuerden que el que tomó Europa hace setenta y cinco años fue para contener el comunismo, no para patrocinarlo, como pedía el otro día su vicepresidente en el Financial Times, recordando, por cierto, esos pulsos que echaban Tsipras y Varoufakis y que acabaron en un corralito. Para no tener que enterarnos otra vez por el Gobierno italiano, señor Sánchez, ¿nos puede decir si va a pedir el rescate, cuánto costaría y qué perspectivas económicas tiene el Gobierno?"
+}

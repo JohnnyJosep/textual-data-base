@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "ORDEN DEL DÍA: -- COMPARECENCIA DEL MINISTRO DE SANIDAD, PARA DAR EXPLICACIONES SOBRE LA CONVENIENCIA Y EL PREVISIBLE IMPACTO, DESDE UN PUNTO DE VISTA SANITARIO, DE LA CELEBRACIÓN DE COMICIOS ELECTORALES EN PLENA TERCERA OLA DEL COVID-19.",
+        "diputado": [
+            {
+                "apellidos": "Zaragoza Alonso",
+                "apellidosNombre": "Zaragoza Alonso, José",
+                "codParlamentario": 196,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "José",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/j_zaragoza_",
+                "twitterUserId": "715890348569010176",
+                "twitterUserName": "j_zaragoza_"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ZARAGOZA ALONSO"
+    },
+    "text": "Acabo inmediatamente. Mañana, después del Consejo de Ministros, Salvador Illa será el único candidato que cuando comience la campaña habrá abandonado su cargo. El señor Aragonès seguirá en su cargo, la señora Borràs seguirá en su cargo, el señor Carrizosa seguirá en su cargo, la señora Albiach seguirá en su cargo, el señor Fernández seguirá en su cargo; el único que habrá abandonado su cargo para enfrentarse a las elecciones será el señor Illa. Esa es la demostración de su compromiso por solventar los problemas que han creado ustedes en Cataluña. Muchas gracias. (Aplausos)."
+}

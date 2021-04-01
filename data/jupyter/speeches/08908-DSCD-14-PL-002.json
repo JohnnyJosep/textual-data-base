@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-29T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO MIXTO, PARA HABILITAR A LOS AYUNTAMIENTOS PARA QUE, DE MANERA POTESTATIVA, PUEDAN ESTABLECER BONIFICACIONES DEL IBI A EMPRESAS, PYMES, AUTÓNOMOS, COMERCIO, SECTOR PRIMARIO Y EMPRENDEDORES QUE HAYAN VISTO SUSPENDIDAS, RESTRINGIDAS Y AFECTADAS SUS ACTIVIDADES POR LAS CONSECUENCIAS DE LA CRISIS SANITARIA DEL COVID-19. ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            0
+        ],
+        "order": 87,
+        "path": "../data/diaries-txts/DSCD-14-PL-048.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DE JALÓN"
+    },
+    "text": "Únicamente la autoenmienda presentada."
+}

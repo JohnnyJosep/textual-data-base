@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MÍRIAM NOGUERAS I CAMERO, DEL GRUPO PARLAMENTARIO PLURAL, EN SUSTITUCIÓN DE LA DIPUTADA DOÑA LAURA BORRÀS CASTANYER, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿A RAÍZ DE LOS ÚLTIMOS HECHOS, EL GOBIERNO SIGUE PENSANDO QUE LAS RELACIONES ENTRE CATALUÑA Y ESPAÑA SOLO SON UN CONFLICTO INTERNO? ",
+        "diputado": [
+            {
+                "apellidos": "Nogueras i Camero",
+                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "codParlamentario": 27,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Míriam",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/miriamnoguerasM",
+                "twitterUserId": "343507680",
+                "twitterUserName": "miriamnoguerasM"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "NOGUERAS I CAMERO"
+    },
+    "text": "Gracias, presidenta. A raíz de los últimos acontecimientos, ¿el Gobierno en general y el presidente en particular siguen pensando que las relaciones entre Cataluña y España son solo un conflicto interno? Gracias."
+}

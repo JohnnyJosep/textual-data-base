@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN LUIS PEDREÑO MOLINA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA TERCERA Y MINISTRA DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL: ¿CUÁLES SON LOS PLANES EXACTOS DEL GOBIERNO RESPECTO AL USO DE TÉCNICAS DE GEOLOCALIZACIÓN DE LOS CIUDADANOS? ",
+        "diputado": [
+            {
+                "apellidos": "Pedreño Molina",
+                "apellidosNombre": "Pedreño Molina, Juan Luis",
+                "codParlamentario": 132,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Juan Luis",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/juan_pedreno",
+                "twitterUserId": "3208501132",
+                "twitterUserName": "juan_pedreno"
+            },
+            0
+        ],
+        "order": 5,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PEDREÑO MOLINA"
+    },
+    "text": "Gracias, presidenta. Señora vicepresidenta, yo le preguntaba específicamente por la plataforma que ustedes en el ministerio han llamado DataCOVID de geolocalización, que parece ser que es su apuesta de las nuevas tecnologías para ayudar a combatir la pandemia. Esta, junto a la aplicación de autodiagnóstico --que supongo que es a la que usted se refería--, es una aplicación que saben que ha llegado tarde, que saben que no han sido capaces de ponerla en marcha a tiempo, y que han cogido el modelo que tiene la Comunidad de Madrid para empezar a exportarlo al resto de las comunidades autónomas. De momento llevan cinco comunidades autónomas, a ver en qué fase terminan de implementarla. ¿Para qué ha servido exactamente la plataforma de geolocalización? Porque lo único que sabemos es que el Instituto Nacional de Estadística --y no hace mucho, por cierto-- decía que el 85 % de las personas se habían quedado en casa durante el confinamiento. ¿Eso para qué sirve? Además, el propio ministro de Sanidad, señor Illa, decía que esto solo se utilizaría si aportara algún valor añadido. Primero planifiquen un proyecto antes de ponerlo en marcha, no lo pongan en marcha y luego se pregunten para qué sirve. Yo le voy a decir para qué sirve. Ha servido para generar una alarma en la ciudadanía por el tema de la geolocalización totalmente injustificada; sobre todo, también por unas declaraciones aquí del propio presidente del Gobierno en las que manifestaba que esto solo se iba a utilizar para saber que cada persona estaba donde decía que tenía que estar. Usted sabe que eso no es posible, porque son datos anonimizados y porque por supuesto --está fuera del debate-- el Gobierno tiene que cumplir el reglamento europeo y la Ley Orgánica de Protección de Datos. ¿Se han utilizado, por ejemplo, estos datos para planificar el desconfinamiento? ¿Se está pensando utilizarlos para el futuro, para el turismo, por ejemplo? Señora vicepresidenta, si no hay test para qué sirve esta aplicación. La semana pasada en la Comisión usted decía que las nuevas tecnologías iban a ser un instrumento para combatir de alguna manera la pandemia. De las dos medidas, la aplicación de geolocalización y la plataforma de autodiagnóstico, es decir, una sirve y no se ha hecho y una se ha hecho y no sirve, yo le digo que este instrumento en España ya lleva dos meses desafiando, y mucho nos tenemos que en Europa, probablemente, empiecen ahora. Gracias."
+}

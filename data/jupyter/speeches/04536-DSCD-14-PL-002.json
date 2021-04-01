@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-11T00:00:00.000Z",
+        "debate": "ACUERDO DE TRAMITACIÓN DIRECTA Y EN LECTURA ÚNICA DE INICIATIVAS LEGISLATIVAS: -- ACUERDO DE TRAMIT ACIÓN DIRECT A Y EN LECTURA ÚNICA DEL PROYECT O DE LEY POR LA QUE SE DEROGA EL DESPIDO OBJETIVO POR FALTAS DE ASISTENCIA AL TRABAJO ESTABLECIDO EN EL ARTÍCULO 52.D) DEL TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES, APROBADO POR EL REAL DECRETO LEGISLATIVO 2/2015, DE 23 DE OCTUBRE (PROCEDENTE DEL REAL DECRETO-LEY 4/2020, DE 18 DE FEBRERO). ",
+        "diputado": [
+            {
+                "apellidos": "Cambronero Piqueras",
+                "apellidosNombre": "Cambronero Piqueras, Pablo",
+                "codParlamentario": 58,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/PauCambroneroCs",
+                "twitterUserId": "",
+                "twitterUserName": "PauCambroneroCs"
+            },
+            0
+        ],
+        "order": 4,
+        "path": "../data/diaries-txts/DSCD-14-PL-028.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CAMBRONERO PIQUERAS"
+    },
+    "text": "Gracias, presidenta. Renunciamos a nuestro turno de palabra."
+}

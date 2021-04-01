@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-20T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, 492/2020, DE 24 DE ABRIL, Y 514/2020, DE 8 DE MAYO. ",
+        "diputado": [
+            {
+                "apellidos": "Garzón Espinosa",
+                "apellidosNombre": "Garzón Espinosa, Alberto",
+                "codParlamentario": 12,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Alberto",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/agarzon",
+                "twitterUserId": "11904592",
+                "twitterUserName": "agarzon"
+            },
+            22
+        ],
+        "order": 206,
+        "path": "../data/diaries-txts/DSCD-14-PL-023.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE CONSUMO (Garzón Espinosa)"
+    },
+    "text": "Señor Mariscal, el sector del turismo es muy importante para la economía española, representa el 12 % del producto interior bruto. Desgraciadamente, está sufriendo el impacto económico de esta crisis y por eso este Gobierno ha aprobado una serie de medidas extraordinarias entre las que se encuentran los ERTE turísticos, las líneas ICO y, en definitiva, estamos haciendo de la necesidad virtud. Estamos modernizando, profesionalizando y elevando el valor añadido también del sector en momentos tan duros como este. (Aplausos)."
+}

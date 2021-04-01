@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SERGIO SAYAS LÓPEZ, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ VA A HACER SU GOBIERNO PARA IMPULSAR LA CREACIÓN DE EMPLEO EN ESPAÑA, Y ESPECIALMENTE EN NAVARRA? ",
+        "diputado": [
+            {
+                "apellidos": "Sayas López",
+                "apellidosNombre": "Sayas López, Sergio",
+                "codParlamentario": 55,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Sergio",
+                "nombreCircunscripcion": "Navarra",
+                "twitter": "https://twitter.com/sergiosayas",
+                "twitterUserId": "144600462",
+                "twitterUserName": "sergiosayas"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SAYAS LÓPEZ"
+    },
+    "text": "Señor presidente, ¿qué piensa hacer su Gobierno para crear empleo?"
+}

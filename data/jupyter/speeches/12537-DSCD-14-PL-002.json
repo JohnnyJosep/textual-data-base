@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-15T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO CIUDADANOS, SOBRE LAS MEDIDAS QUE PIENSA ADOPTAR EL GOBIERNO PARA GARANTIZAR EL DERECHO A LA CONCILIACIÓN DEL TRABAJO Y LA FAMILIA, ESPECIALMENTE ANTE LAS DIFICULTADES EXCEPCIONALES GENERADAS POR LA EMERGENCIA SANITARIA DE LA COVID-19. ",
+        "diputado": [
+            {
+                "apellidos": "Trías Gil",
+                "apellidosNombre": "Trías Gil, Georgina",
+                "codParlamentario": 277,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 5,
+                "idLegislatura": 14,
+                "nombre": "Georgina",
+                "nombreCircunscripcion": "Ávila",
+                "twitter": "https://twitter.com/georgina_vox",
+                "twitterUserId": "1118102485053399041",
+                "twitterUserName": "georgina_vox"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "TRÍAS GIL"
+    },
+    "text": "Que la familia claramente no es una prioridad para este Gobierno… (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

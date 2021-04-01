@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-23T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 5/1985, DE 19 DE JUNIO, DEL RÉGIMEN ELECTORAL GENERAL, PARA LA REGULACIÓN DEL EJERCICIO DEL VOTO POR LOS ESPAÑOLES QUE VIVEN EN EL EXTRANJERO. ",
+        "diputado": [
+            {
+                "apellidos": "Romero Vilches",
+                "apellidosNombre": "Romero Vilches, María de los Reyes",
+                "codParlamentario": 174,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "María de los Reyes",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/rromerovilches",
+                "twitterUserId": "3074491774",
+                "twitterUserName": "rromerovilches"
+            },
+            0
+        ],
+        "order": 69,
+        "path": "../data/diaries-txts/DSCD-14-PL-081.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ROMERO VILCHES"
+    },
+    "text": "Por eso, anunciamos nuestro voto favorable a esta iniciativa. Muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

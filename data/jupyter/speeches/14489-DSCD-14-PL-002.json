@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-16T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, ORGÁNICA CONTRA LA OCUPACIÓN ILEGAL Y PARA LA CONVIVENCIA VECINAL Y LA PROTECCIÓN DE LA SEGURIDAD DE LAS PERSONAS Y COSAS EN LAS COMUNIDADES DE PROPIETARIOS. ",
+        "diputado": [
+            {
+                "apellidos": "Mayoral Perales",
+                "apellidosNombre": "Mayoral Perales, Rafael",
+                "codParlamentario": 336,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Rafael",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/MayoralRafa",
+                "twitterUserId": "1269484171",
+                "twitterUserName": "MayoralRafa"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-078.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MAYORAL PERALES"
+    },
+    "text": "Desgraciadamente, en demasiadas ocasiones la justicia emana del pueblo, pero se manipula en nombre del rey. Gracias. (Rumores.--Aplausos)."
+}

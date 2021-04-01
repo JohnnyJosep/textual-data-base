@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON DIEGO GAGO BUGARÍN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿CONSIDERA QUE SUS POLÍTICAS EN LA LUCHA CONTRA EL CAMBIO CLIMÁTICO FAVORECEN EL DESARROLLO DE LA INDUSTRIA DE NUESTRO PAÍS? ",
+        "diputado": [
+            {
+                "apellidos": "Gago Bugarín",
+                "apellidosNombre": "Gago Bugarín, Diego",
+                "codParlamentario": 121,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 36,
+                "idLegislatura": 14,
+                "nombre": "Diego",
+                "nombreCircunscripcion": "Pontevedra",
+                "twitter": "https://twitter.com/diegogagob",
+                "twitterUserId": "267707645",
+                "twitterUserName": "diegogagob"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GAGO BUGARÍN"
+    },
+    "text": "Muchas gracias, presidenta. Señora vicepresidenta, fíjese: Nissan, Siemens Gamesa, Alcoa o Vestas. Le suenan de algo, ¿verdad? Son solo cuatro de un listado interminable de empresas que han tenido que echar el cierre y enviar a miles de trabajadores a la calle desde que usted es la ministra para la Transición Ecológica. Por ello le pregunto si considera que sus decisiones, las que adopta para producir esta transición energética, generan crecimiento económico y trasformación a la industria de nuestro país. (Aplausos)."
+}

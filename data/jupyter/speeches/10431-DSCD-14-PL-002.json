@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-28T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MACARENA OLONA CHOCLÁN, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿QUÉ OPINIÓN LE MERECE EL LLAMADO «MANIFIESTO EN FAVOR DE LA DEMOCRACIA»? ",
+        "diputado": [
+            {
+                "apellidos": "Olona Choclán",
+                "apellidosNombre": "Olona Choclán, Macarena",
+                "codParlamentario": 84,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 18,
+                "idLegislatura": 14,
+                "nombre": "Macarena",
+                "nombreCircunscripcion": "Granada",
+                "twitter": "https://twitter.com/Macarena_Olona",
+                "twitterUserId": "1109573601995440129",
+                "twitterUserName": "Macarena_Olona"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-058.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "OLONA CHOCLÁN"
+    },
+    "text": "Gracias, presidenta. Doy por reproducida la pregunta."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA CONTENER LA PROPAGACIÓN DE INFECCIONES CAUSADAS POR EL SARS-COV-2, PARA DAR CUENTA DE LOS DATOS Y GESTIONES DEL GOBIERNO EN RELACIÓN A LA APLICACIÓN DEL MISMO. ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 69,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Sí, señora presidenta, voy acabando. Hablando de economía, esos 140 000 millones de euros, como usted bien sabe, no pueden paliar los 139 000 que ha caído el PIB o no pueden paliar los 300 000 millones de euros que tiene el BCE de deuda soberana española, es decir, doce veces más. Si el BCE siguiera seis años --que es lo que dura el fondo de reconstrucción-- financiando 300 000 millones de euros, serían doce veces más de lo que usted fía toda su recuperación económica. El problema es que, como ha pasado con Tsipras --me lo decía el viernes pasado Mitsotakis, el primer ministro griego--, la inflación puede aparecer por Alemania y el señor Söder, el señor Laschet, el señor Merz, el señor Spahn, el que sea candidato, ya han dicho que no van a tolerar que siga habiendo una liquidez extrema en países que no están haciendo reformas. Le pido que traiga aquí el plan de reformas. ¿Por qué me tengo que enterar a través de fuentes comunitarias de que usted incluye en su plan de reformas la reforma de las pensiones o la reforma laboral? ¿En qué quedamos? ¿Va usted a hacer como Zapatero? ¿Va a venir aquí dentro de dos años a decir: oiga, señores del Partido Popular, colaboren en la reconstrucción para recortar un 10 % del gasto público, para dar un tajo de 35 000 millones de euros, para bajar las pensiones, para bajar el sueldo de los funcionarios? No, no, ahora se lo decimos, ahora es cuando se puede pactar un plan de recuperación sin tener que hacer estragos al sistema del bienestar que usted votó como diputado cuando estaba Zapatero en el Gobierno."
+}

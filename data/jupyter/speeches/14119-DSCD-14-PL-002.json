@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO PARA FRENAR LA INVASIÓN MIGRATORIA EN ESPAÑA. ",
+        "diputado": [
+            {
+                "apellidos": "De Meer Méndez",
+                "apellidosNombre": "De Meer Méndez, Rocío",
+                "codParlamentario": 340,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 4,
+                "idLegislatura": 14,
+                "nombre": "Rocío",
+                "nombreCircunscripcion": "Almería",
+                "twitter": "https://twitter.com/MeerRocio",
+                "twitterUserId": "4525423215",
+                "twitterUserName": "MeerRocio"
+            },
+            0
+        ],
+        "order": 25,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "DE MEER MÉNDEZ"
+    },
+    "text": "Solo quería decir que el señor Errejón, que ha pretendido ofendernos, no se ha mirado ni siquiera el minuto de intervención en el que yo decía que ustedes convierten los barrios humildes en estercoleros multiculturales. Pero no solo eso, sino que usted con su discurso lo que acaba de hacer…"
+}

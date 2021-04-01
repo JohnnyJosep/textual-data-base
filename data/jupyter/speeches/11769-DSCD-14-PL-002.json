@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-01T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Nogueras i Camero",
+                "apellidosNombre": "Nogueras i Camero, Míriam",
+                "codParlamentario": 27,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Míriam",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/miriamnoguerasM",
+                "twitterUserId": "343507680",
+                "twitterUserName": "miriamnoguerasM"
+            },
+            0
+        ],
+        "order": 40,
+        "path": "../data/diaries-txts/DSCD-14-PL-066.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "NOGUERAS I CAMERO"
+    },
+    "text": "Gracias, president. Nosotros damos por defendidas todas nuestras enmiendas. Muchas gracias."
+}

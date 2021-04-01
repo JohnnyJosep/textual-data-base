@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-14T00:00:00.000Z",
+        "debate": "DICTÁMENES DE LA COMISIÓN DE ASUNTOS EXTERIORES SOBRE CONVENIOS INTERNACIONALES: -- ACUERDO SOBRE TRANSPORTE AÉREO ENTRE EL REINO DE ESPAÑA Y LA REPÚBLICA DE COREA, HECHO EN MADRID EL 20 DE DICIEMBRE DE 2018. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-034.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muchas gracias, señora Martín. Por el Grupo Parlamentario Confederal Unidas Podemos-En Comú Podem-Galicia en Común, tiene la palabra la señora Muñoz Dalda."
+}

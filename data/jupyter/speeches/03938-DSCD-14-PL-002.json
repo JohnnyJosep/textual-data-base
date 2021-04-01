@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-27T00:00:00.000Z",
+        "debate": "INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO P ARLAMENT ARIO MIXT O (SEÑOR MARTÍNEZ OBLANCA), SOBRE LAS MEDIDAS URGENTES QUE TIENE PREVISTO EN ESTE MOMENTO APLICAR EL GOBIERNO PARA RECUPERAR Y RELANZAR EL TURISMO, EL COMERCIO, EL SECTOR ENERGÉTICO, LA INDUSTRIA ELECTROINTENSIV A --MET ALÚRGICA Y DEMÁS SECT ORES AFINES-- Y LA INDUSTRIA DEL AUTOMÓVIL, CUYA COMPETITIVIDAD EN ALGUNO DE ELLOS YA SE ENCONTRABA EN PROCESO DE RECESIÓN A FINALES DE 2019, PERO QUE SE HA AGRAVADO DRAMÁTICAMENTE EN 2020 COMO CONSECUENCIA DE LA EMERGENCIA SANITARIA DEL COVID-19, AL OBJETO DE EVITAR LA DESTRUCCIÓN DE MILES DE PUESTOS DE TRABAJO DE LA MÁS ALTA CALIDAD Y DETENER EL DESCALABRO DEL PIB DE ESPAÑA Y DE MUCHAS COMUNIDADES AUTÓNOMAS COMO ASTURIAS. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 2,
+        "path": "../data/diaries-txts/DSCD-14-PL-024.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Gracias, señora, ministra de Industria, Comercio y Turismo. (Pausa.--Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). --"
+}

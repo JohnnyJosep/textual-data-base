@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Pita Cárdenes",
+                "apellidosNombre": "Pita Cárdenes, María del Carmen",
+                "codParlamentario": 356,
+                "fchAlta": "31/01/2020",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "María del Carmen",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/meripita44",
+                "twitterUserId": "1369105908",
+                "twitterUserName": "meripita44"
+            },
+            0
+        ],
+        "order": 11,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PITA CÁRDENES"
+    },
+    "text": "Sí, prometo."
+}

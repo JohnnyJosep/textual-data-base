@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-15T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE EL ABORDAJE DEL IMPACTO SOCIAL Y SANITARIO FRENTE A LA CRECIENTE PROLIFERACIÓN DE LAS CASAS DE APUESTAS Y SALONES DE JUEGO. ",
+        "diputado": [
+            {
+                "apellidos": "Vicente Viondi",
+                "apellidosNombre": "Vicente Viondi, Daniel",
+                "codParlamentario": 80,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Daniel",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/viondi",
+                "twitterUserId": "15667049",
+                "twitterUserName": "viondi"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICENTE VIONDI"
+    },
+    "text": "Aceptamos la que ha presentado el Grupo Parlamentario Socialista y la del Grupo Confederal de Unidas Podemos."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAROLINA TELECHEA I LOZANO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA AL GOBIERNO: ¿CUÁNTAS REGULARIZACIONES EXTRAORDINARIAS DE MÁS DE UN MILLÓN DE EUROS TIENE CONTABILIZADAS EL MINISTERIO EN EL ÚLTIMO AÑO? ",
+        "diputado": [
+            {
+                "apellidos": "Telechea i Lozano",
+                "apellidosNombre": "Telechea i Lozano, Carolina",
+                "codParlamentario": 188,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Carolina",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/caroltelechea",
+                "twitterUserId": "2234780184",
+                "twitterUserName": "caroltelechea"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-085.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "TELECHEA I LOZANO"
+    },
+    "text": "Gracias, presidenta. ¿Cuántas regularizaciones extraordinarias de más de 1 millón de euros tiene contabilizadas el ministerio en el último año?"
+}

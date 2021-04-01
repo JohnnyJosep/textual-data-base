@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿QUÉ FUNCIONES TENDRÁ EL VICEPRESIDENTE SEGUNDO EN EL DESCONFINAMIENTO? ",
+        "diputado": [
+            {
+                "apellidos": "García Egea",
+                "apellidosNombre": "García Egea, Teodoro",
+                "codParlamentario": 310,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Teodoro",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/teogarciaegea",
+                "twitterUserId": "224074203",
+                "twitterUserName": "teogarciaegea"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA EGEA"
+    },
+    "text": "Gracias, señora presidenta. Señor Iglesias, toda España se ha estado preguntando quiénes son los expertos que asesoran al Gobierno. En otras latitudes serían usted, el señor Echenique, el señor Monedero los que asesoraban, eso sí, sin mucho éxito, porque esos países acabaron arruinados y con graves crisis sociales. Aquí en España ni siquiera sabemos quiénes son los expertos que deciden. Muchas comunidades autónomas han pasado de la fase 0 a la fase 1 y no sabemos quién lo ha decidido. Mi pregunta es por qué ocultan sus nombres, ¿es acaso porque están negociando con la salud de los españoles para mantener la poca salud que le queda al Gobierno? Desde la última vez que usted y yo hablamos, ¿cuáles han sido las funciones concretas que ha desarrollado como vicepresidente en esta pandemia?"
+}

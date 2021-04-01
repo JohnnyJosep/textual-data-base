@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Guerra López",
+                "apellidosNombre": "Guerra López, Sonia",
+                "codParlamentario": 357,
+                "fchAlta": "03/02/2020",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Sonia",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/SonyaGuerraLpz",
+                "twitterUserId": "701090171865976832",
+                "twitterUserName": "SonyaGuerraLpz"
+            },
+            0
+        ],
+        "order": 13,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUERRA LÓPEZ"
+    },
+    "text": "Sí, prometo."
+}

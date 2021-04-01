@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-21T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Elorriaga Pisarik",
+                "apellidosNombre": "Elorriaga Pisarik, Gabriel",
+                "codParlamentario": 376,
+                "fchAlta": "16/07/2020",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Gabriel",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/gabrielorriaga",
+                "twitterUserId": "271875852",
+                "twitterUserName": "gabrielorriaga"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-036.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ELORRIAGA PISARIK"
+    },
+    "text": "Sí, juro."
+}

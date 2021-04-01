@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Casado Blanco",
+                "apellidosNombre": "Casado Blanco, Pablo",
+                "codParlamentario": 307,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/pablocasado_",
+                "twitterUserId": "523386042",
+                "twitterUserName": "pablocasado_"
+            },
+            0
+        ],
+        "order": 32,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASADO BLANCO"
+    },
+    "text": "Acabo ya, señora presidenta. Señor Sánchez, seguimos en el centenario de Galdós. Decía otra cosa sobre usted, voy a decir, cien años después. Decía que un hombre sin ideal es como el mendigo cojo que está en el medio del camino pidiendo limosna a quien sea sin saber quién es. Eso es lo que hace usted, le da igual pedir la abstención al Partido Popular que a Ciudadanos que a los de Bildu que a los de Esquerra que a los de Junts per Cat que a los de Podemos. Le da igual, porque solo le importa usted, y España, señor Sánchez, no se merece un presidente como usted, pero tendrá una oposición como merece, firme e inflexible frente al atropello que usted pretende votar aquí. Muchas gracias. (Prolongados aplausos de las señoras diputadas y los señores diputados del Grupo Parlamentario Popular en el Congreso, puestos en pie.--Algunos señores diputados: ¡Bravo!)."
+}

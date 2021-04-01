@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-02T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Mazón Ramos",
+                "apellidosNombre": "Mazón Ramos, José María",
+                "codParlamentario": 349,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PRC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Cantabria"
+            },
+            0
+        ],
+        "order": 96,
+        "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MAZÓN RAMOS"
+    },
+    "text": "Doy por defendidas las enmiendas presentadas desde el Grupo Parlamentario Mixto, en particular las de Foro Asturias, Nueva Canarias y Coalición Canaria. Muchas gracias."
+}

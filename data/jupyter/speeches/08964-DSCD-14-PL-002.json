@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-30T00:00:00.000Z",
+        "debate": "PREGUNTA DEL DIPUTADO DON PABLO CASADO BLANCO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTÁ PROTEGIENDO EL FUTURO DE LOS ESPAÑOLES? -- DEL DIPUTADO DON CARLOS ROJAS GARCÍA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE JUSTICIA: ¿CONSIDERA QUE EL PROYECTO DE PAÍS DEL GOBIERNO ENCAJA EN NUESTRO ESTADO DE DERECHO? ",
+        "diputado": [
+            {
+                "apellidos": "Nevado del Campo",
+                "apellidosNombre": "Nevado del Campo, María Magdalena",
+                "codParlamentario": 293,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 10,
+                "idLegislatura": 14,
+                "nombre": "María Magdalena",
+                "nombreCircunscripcion": "Cáceres",
+                "twitter": "https://twitter.com/malenanevado",
+                "twitterUserId": "274481242",
+                "twitterUserName": "malenanevado"
+            },
+            24
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-049.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE JUSTICIA (Campo Moreno)"
+    },
+    "text": "Gracias, señora presidenta. Señor Rojas, muchas gracias. Me gustaría hacer una primera reflexión. Veo que ese concepto freudiano de que la voz de la razón es suave y no descansa hasta ser oída va calando en su grupo. Hoy con la formulación de su pregunta sé que saben que este Gobierno tiene un proyecto de país, otra cosa es que no les guste. (Protestas)."
+}

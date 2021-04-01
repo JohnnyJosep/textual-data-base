@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Gutiérrez Salinas",
+                "apellidosNombre": "Gutiérrez Salinas, Indalecio",
+                "codParlamentario": 358,
+                "fchAlta": "03/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 4,
+                "idLegislatura": 14,
+                "nombre": "Indalecio",
+                "nombreCircunscripcion": "Almería",
+                "twitter": "https://twitter.com/indasalinas",
+                "twitterUserId": "293944355",
+                "twitterUserName": "indasalinas"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUTIÉRREZ SALINAS"
+    },
+    "text": "Sí, prometo."
+}

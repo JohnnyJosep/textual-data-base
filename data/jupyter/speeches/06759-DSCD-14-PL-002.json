@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "DEL DÍA: -- COMPARECENCIA DE LA MINISTRA DE HACIENDA, PARA INFORMAR SOBRE EL ACUERDO ALCANZADO ENTRE EL DEPARTAMENTO QUE DIRIGE Y LA FEDERACIÓN ESPAÑOLA DE MUNICIPIOS Y PROVINCIAS (FEMP) RELATIVO A LA INCAUTACIÓN DE REMANENTES DE LAS ENTIDADES LOCALES POR PARTE DEL ESTADO, ASÍ COMO LA AUTORIZACIÓN DEL USO DE SUPERÁVIT DE LOS AYUNTAMIENTOS.",
+        "diputado": [
+            {
+                "apellidos": "Sumelzo Jordán",
+                "apellidosNombre": "Sumelzo Jordán, Susana",
+                "codParlamentario": 126,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 50,
+                "idLegislatura": 14,
+                "nombre": "Susana",
+                "nombreCircunscripcion": "Zaragoza",
+                "twitter": "https://twitter.com/SSumelzo",
+                "twitterUserId": "520609496",
+                "twitterUserName": "SSumelzo"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SUMELZO JORDÁN"
+    },
+    "text": "Nadie se va a quedar atrás, señores diputados y señoras diputadas. Nombraban a los algo más de trescientos ayuntamientos sin remanentes, en situación de riesgo financiero. El acuerdo también recoge medidas para estos ayuntamientos vulnerables. Nuestro grupo ha querido de una forma rápida y concisa señalar algunas, solo algunas, de las medidas más destacadas que recoge este buen acuerdo, insistimos, entre la FEMP y el Gobierno, y del que dará explicaciones más pormenorizadas la ministra de Hacienda próximamente en su comparecencia en la Comisión de Hacienda en el Congreso. Muchas gracias por su atención. (Aplausos)."
+}

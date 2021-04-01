@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-23T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
+        "diputado": [
+            {
+                "apellidos": "Botran Pahissa",
+                "apellidosNombre": "Botran Pahissa, Albert",
+                "codParlamentario": 87,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "CUP-PR",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Albert",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/albertbotran",
+                "twitterUserId": "2978274629",
+                "twitterUserName": "albertbotran"
+            },
+            0
+        ],
+        "order": 182,
+        "path": "../data/diaries-txts/DSCD-14-PL-031.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BOTRAN PAHISSA"
+    },
+    "text": "Pediría a la Mesa, que tan sensible ha sido en otras ocasiones…"
+}

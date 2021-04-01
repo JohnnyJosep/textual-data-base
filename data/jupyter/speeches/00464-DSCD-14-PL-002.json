@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 2/2020, DE 21 DE ENERO, POR EL QUE SE APRUEBAN MEDIDAS URGENTES EN MATERIA DE RETRIBUCIONES EN EL ÁMBITO DEL SECTOR PÚBLICO. ",
+        "diputado": [
+            {
+                "apellidos": "Sicilia Alférez",
+                "apellidosNombre": "Sicilia Alférez, Felipe Jesús",
+                "codParlamentario": 259,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Felipe Jesús",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/felipe_sicilia",
+                "twitterUserId": "246982544",
+                "twitterUserName": "felipe_sicilia"
+            },
+            0
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SICILIA ALFÉREZ"
+    },
+    "text": "… y los fondos reservados para tratar de ocultarla. (Aplausos). Así entienden ustedes lo público, señorías."
+}

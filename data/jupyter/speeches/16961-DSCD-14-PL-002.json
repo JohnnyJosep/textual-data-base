@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN JOSÉ MATARÍ SÁEZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿POR QUÉ EL GOBIERNO LEGISLA EN EDUCACIÓN AL MARGEN DE LA CONSTITUCIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Matarí Sáez",
+                "apellidosNombre": "Matarí Sáez, Juan José",
+                "codParlamentario": 48,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 4,
+                "idLegislatura": 14,
+                "nombre": "Juan José",
+                "nombreCircunscripcion": "Almería"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-091.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATARÍ SÁEZ"
+    },
+    "text": "Gracias, señora presidenta. Señor Ábalos, hablando de dos últimos presidentes, los del PSOE, Griñán y Chaves, están condenados por corrupción. (Aplausos.--Rumores). Señora ministra, ¿por qué el Gobierno legisla en Educación al margen de la Constitución?"
+}

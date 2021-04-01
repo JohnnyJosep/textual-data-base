@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ÓSCAR CLA VELL LÓPEZ, EN SUSTITUCIÓN DE DOÑA MACARENA MONTESINOS DE MIGUEL, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ ENTIENDE LA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL POR DAR CUMPLIMIENTO A LOS ARTÍCULOS 3 Y 27 DE LA CONSTITUCIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Clavell López",
+                "apellidosNombre": "Clavell López, Óscar",
+                "codParlamentario": 108,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 12,
+                "idLegislatura": 14,
+                "nombre": "Óscar",
+                "nombreCircunscripcion": "Castellón/Castelló",
+                "twitter": "https://twitter.com/OscarClavell",
+                "twitterUserId": "540111388",
+                "twitterUserName": "OscarClavell"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CLAVELL LÓPEZ"
+    },
+    "text": "Gracias, señora presidenta. Buenos días, señora ministra. ¿Qué entiende usted por dar cumplimiento a los artículos 3 y 27 de la Constitución española?"
+}

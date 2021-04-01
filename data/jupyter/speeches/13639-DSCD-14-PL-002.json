@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR LOS GRUPOS PARLAMENTARIOS EUSKAL HERRIA BILDU Y REPUBLICANO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN DEL PLENO DE LA -- COMPARECENCIA DE LA VICEPRESIDENTA PRIMERA DEL GOBIERNO Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA, PARA DAR CUENTA DE LA IMPLICACIÓN, GASTOS Y ACTUACIONES DE PATRIMONIO NACIONAL EN RELACIÓN CON LA ESTANCIA DEL REY EMÉRITO EN LOS EMIRATOS ÁRABES UNIDOS. ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez García",
+                "apellidosNombre": "Sánchez García, José María",
+                "codParlamentario": 322,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ GARCÍA"
+    },
+    "text": "De modo que, por las razones expuestas y porque esto es verdaderamente una tomadura de pelo y un insulto a esta Cámara --y un insulto a ustedes mismos, que deben hacer examen de conciencia, comparecer ante sí mismos, en su fuero interno y dejar de pedir comparecencias ajenas ante cámaras parlamentarias--, votaremos en contra de esta solicitud. (Aplausos)."
+}

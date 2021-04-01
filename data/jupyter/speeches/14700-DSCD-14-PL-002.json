@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "EAJ-JPNV. -- DE LA DIPUTADA DOÑA MILAGROS MARCOS ORTEGA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN: ¿PARTICIPÓ DIRECTAMENTE EN LA CONCESIÓN DE SUBVENCIONES ILEGALES A ISOFOTÓN COMO CONSEJERO DE LA JUNTA DE ANDALUCÍA? ",
+        "diputado": [
+            {
+                "apellidos": "López de Uralde Garmendia",
+                "apellidosNombre": "López de Uralde Garmendia, Juan Antonio",
+                "codParlamentario": 205,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Juan Antonio",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/juralde",
+                "twitterUserId": "69060709",
+                "twitterUserName": "juralde"
+            },
+            48
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN (Planas Puchades)"
+    },
+    "text": "Muchas gracias, señora presidenta. La respuesta a la pregunta formulada es no. (Aplausos del Grupo Parlamentario Socialista)."
+}

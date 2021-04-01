@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-12T00:00:00.000Z",
+        "debate": "DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. ",
+        "diputado": [
+            {
+                "apellidos": "Echenique Robba",
+                "apellidosNombre": "Echenique Robba, Pablo",
+                "codParlamentario": 13,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 50,
+                "idLegislatura": 14,
+                "nombre": "Pablo",
+                "nombreCircunscripcion": "Zaragoza",
+                "twitter": "https://twitter.com/PabloEchenique",
+                "twitterUserId": "25555639",
+                "twitterUserName": "PabloEchenique"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-061.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ECHENIQUE ROBBA"
+    },
+    "text": "Gracias, señora presidenta. Compatriotas que estáis siguiendo este Pleno desde casa, a vosotros y a vosotras me quiero dirigir en primer lugar. (Rumores). A la inmensa mayoría…"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON DIEGO GAGO BUGARÍN, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿QUÉ SOLUCIONES OFRECE EL GOBIERNO P ARA LOS TRABAJADORES SUJET OS A ERTE A PARTIR DEL 30 DE SEPTIEMBRE DE 2020? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            36
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-032.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL (Díaz Pérez)"
+    },
+    "text": "Gracias, presidenta. Buenos días, señor Gago. Gracias por su pregunta. A nuestro juicio, el diseño de los ERTE propiciado por este Gobierno se ha convertido en la herramienta más eficaz para proteger a las empresas y a los trabajadores. Existe consenso social en nuestro país sobre ello, excepto en el Partido Popular que, de manera incomprensible, se ha quedado al margen. (Aplausos)."
+}

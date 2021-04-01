@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "COMPARECENCIA DEL GOBIERNO ANTE EL PLENO DE LA CÁMARA, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 203 DEL REGLAMENTO: -- SOLICITUD DE COMPARECENCIA, A PETICIÓN PROPIA, DEL PRESIDENTE DEL GOBIERNO ANTE EL PLENO DEL CONGRESO DE LOS DIPUTADOS, PARA INFORMAR DEL CONSEJO EUROPEO EXTRAORDINARIO CELEBRADO LOS DÍAS 1 Y 2 DE OCTUBRE Y DE LOS CONSEJOS EUROPEOS ORDINARIOS CELEBRADOS LOS DÍAS 15 Y 16 DE OCTUBRE Y EL CELEBRADO LOS DÍAS 10 Y 11 DE DICIEMBRE, ASÍ COMO EN CUMPLIMIENTO DEL ARTÍCULO 14 DEL REAL DECRETO 926/2020, DE 25 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA ",
+        "diputado": [
+            {
+                "apellidos": "Errejón Galván",
+                "apellidosNombre": "Errejón Galván, Íñigo",
+                "codParlamentario": 233,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "MÁS PAÍS-EQUO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Íñigo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ierrejon",
+                "twitterUserId": "482389606",
+                "twitterUserName": "ierrejon"
+            },
+            0
+        ],
+        "order": 40,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ERREJÓN GALVÁN"
+    },
+    "text": "Este año, señor Sánchez, no hemos tenido mucha suerte. No está siendo muy fácil, por lo que sea, que acepten algunas de las ideas que desde Más País les proponemos. Les propusimos una semana de cuatro días laborables, que es buena para la vida, para el ecosistema y para la productividad y nos dijeron que no. Les propusimos una tasa COVID para que contribuyan más los millonarios a la reconstrucción nacional y nos dijeron que no. Les propusimos una farmacéutica pública que garantice la soberanía tecnológica y el abastecimiento y nos dijeron que no. Les propusimos blindar la sanidad pública en la Constitución española y nos dijeron que no. Estas ideas y otras más son posibles, son de sentido común y son buenas para España. Las buenas ideas no tienen dueño. Si es difícil que las acepten porque vienen de nosotros..."
+}

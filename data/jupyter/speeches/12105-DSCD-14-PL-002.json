@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-02T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "García Puig",
+                "apellidosNombre": "García Puig, María del Mar",
+                "codParlamentario": 265,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "ECP-GUAYEM EL CANVI",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "María del Mar",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/margpuig",
+                "twitterUserId": "2921983427",
+                "twitterUserName": "margpuig"
+            },
+            0
+        ],
+        "order": 65,
+        "path": "../data/diaries-txts/DSCD-14-PL-067.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA PUIG"
+    },
+    "text": "Gracias presidente. Buenos días, señorías. Buenos días, ministro. La ventaja de que a VOX no le guste trabajar… (Rumores)."
+}

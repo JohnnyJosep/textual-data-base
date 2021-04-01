@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÍÑIGO BARANDIARAN BENITO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE TRABAJO Y ECONOMÍA SOCIAL: ¿QUÉ PREVISIONES TIENE EL MINISTERIO EN CUANTO A LA PRÓRROGA DE LOS ERTE? ",
+        "diputado": [
+            {
+                "apellidos": "Barandiaran Benito",
+                "apellidosNombre": "Barandiaran Benito, Íñigo",
+                "codParlamentario": 97,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Íñigo",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/inibaran",
+                "twitterUserId": "878647221532729345",
+                "twitterUserName": "inibaran"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BARANDIARAN BENITO"
+    },
+    "text": "Gracias, señora presidenta. ¿Qué previsiones tiene el ministerio en cuanto a la prórroga de los ERTE, señora ministra?"
+}

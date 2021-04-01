@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA INFORMAR SOBRE LAS CAUSAS QUE HAN LLEVADO AL GOBIERNO A SOLICITAR EL ACCESO AL PROGRAMA SURE DE LA COMISIÓN EUROPEA Y, EN SU CASO, CONFIRMAR EN SEDE PARLAMENTARIA LA INTENCIÓN O NO DE ACUDIR A LA LÍNEA DEL MEDE. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos al punto 6 del orden del día, petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria del Pleno con el siguiente orden del día: comparecencia del presidente del Gobierno para informar sobre las causas que han llevado al Gobierno a solicitar el acceso al Programa SURE de la Comisión Europea y, en su caso, confirmar en sede parlamentaria la intención o no de acudir a la línea del MEDE. Para la defensa de la iniciativa, por el Grupo Parlamentario Popular en el Congreso, tiene la palabra el señor Garcés Sanagustín."
+}

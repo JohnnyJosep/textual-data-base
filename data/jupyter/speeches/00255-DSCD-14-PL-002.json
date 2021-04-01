@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-07T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Vehí Cantenys",
+                "apellidosNombre": "Vehí Cantenys, Mireia",
+                "codParlamentario": 86,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "CUP-PR",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Mireia",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/Mireia_veca",
+                "twitterUserId": "312297259",
+                "twitterUserName": "Mireia_veca"
+            },
+            0
+        ],
+        "order": 85,
+        "path": "../data/diaries-txts/DSCD-14-PL-004.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VEHÍ CANTENYS"
+    },
+    "text": "… en barrios altos y traen trajes caros. No nos engañen. Sabemos que vienen tiempos oscuros en Europa, pero, como dice la canción, ojalá que la tierra no te bese los pasos. Porque, a pesar de vuestro auge, nosotras en esta legislatura trabajaremos para que la gente que os vote vea en nosotros una alternativa, porque lo que nosotros tenemos es memoria: la de Quico Sabaté, la de Guillem Agulló, la de Aurora Picornell y les Roges del Molinar, la de las Trece Rosas, la de los abogados de Atocha, porque nuestro independentismo es, sobre todo, antifascista y está visto cada día más que en este Estado la amnistía y la autodeterminación son imprescindibles en el “no pasarán”. Y termino. Como dijo uno de los nuestros: nuestra revolución solo puede nacer de un gran sentimiento de amor. (Rumores.--Aplausos)."
+}

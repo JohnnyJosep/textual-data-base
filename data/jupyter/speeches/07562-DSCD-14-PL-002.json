@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-10T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 27/2020, DE 4 DE AGOSTO, DE MEDIDAS FINANCIERAS, DE CARÁCTER EXTRAORDINARIO Y URGENTE, APLICABLES A LAS ENTIDADES LOCALES. ",
+        "diputado": [
+            {
+                "apellidos": "Mazón Ramos",
+                "apellidosNombre": "Mazón Ramos, José María",
+                "codParlamentario": 349,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "PRC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 39,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Cantabria"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-043.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MAZÓN RAMOS"
+    },
+    "text": "Termino."
+}

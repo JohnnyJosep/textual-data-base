@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "VOX. -- DEL DIPUTADO DON FRANCISCO JAVIER ORTEGA SMITH-MOLINA, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿VA A GARANTIZAR QUE LA CAMPAÑA ELECTORAL CATALANA SE DESARROLLE SIN VIOLENCIA SOBRE NINGUNA DE LAS CANDIDATURAS CONCURRENTES? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Muchas gracias, señor Ortega Smith. Aprovecho para recomendarle en esta ocasión que siga todos los debates parlamentarios, porque uno bastante similar al presente, en relación con las competencias del Ministerio del Interior del Gobierno de la nación y las competencias de las comunidades autónomas, tuvo lugar el 24 de junio pasado, con ocasión de las elecciones que tenían lugar en el País Vasco --Euskadi-- y en Galicia. Entonces contesté a su candidato hoy en Cataluña, el señor Garriga. En materia de seguridad, en un país complejo y compuesto y, en concreto, en Cataluña, con una policía integral, corresponde esa función sustancialmente, con coordinación y cooperación, a los Mossos d’Esquadra. (Aplausos)."
+}

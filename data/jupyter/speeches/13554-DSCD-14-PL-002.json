@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DE -- COMPARECENCIA DEL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, PARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO HA DESARROLLADO Y ESTÁ DESARROLLANDO ANTE LA SITUACIÓN DE LOS CAMIONEROS ATRAPADOS EN INGLATERRA, PARA GARANTIZAR SU SEGURIDAD Y LA VUELTA AL TERRITORIO ESPAÑOL.",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 4,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Muchas gracias. Pasamos al turno de fijación de posiciones. Por el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra el señor Legarda Uriarte."
+}

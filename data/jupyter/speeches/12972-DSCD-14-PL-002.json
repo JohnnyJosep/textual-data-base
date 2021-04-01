@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON ÓSCAR CLA VELL LÓPEZ, DEL GRUPO P ARLAMENT ARIO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ COSTE SE HA PAGADO EN LA LEY DE EDUCACIÓN PARA SACAR ADELANTE LOS PRESUPUESTOS? ",
+        "diputado": [
+            {
+                "apellidos": "Clavell López",
+                "apellidosNombre": "Clavell López, Óscar",
+                "codParlamentario": 108,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 12,
+                "idLegislatura": 14,
+                "nombre": "Óscar",
+                "nombreCircunscripcion": "Castellón/Castelló",
+                "twitter": "https://twitter.com/OscarClavell",
+                "twitterUserId": "540111388",
+                "twitterUserName": "OscarClavell"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CLAVELL LÓPEZ"
+    },
+    "text": "Gracias, señora presidenta. Vaya por delante nuestro rechazo al tono jocoso utilizado hoy por el presidente del Gobierno habiendo tantos españoles fallecidos. (Aplausos). Señora ministra, ¿qué coste se ha pagado en la ley de educación para sacar adelante los Presupuestos Generales del Estado? (Aplausos)."
+}

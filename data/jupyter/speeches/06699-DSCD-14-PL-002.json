@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DE -- COMPARECENCIA DEL MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES, PARA EXPLICAR LAS ACTUACIONES ADOPTADAS POR SU MINISTERIO PARA COORDINAR LA RESPUESTA DEL GOBIERNO ANTE LA LLEGADA DE INMIGRACIÓN IRREGULAR DURANTE LOS MESES DE VERANO.",
+        "diputado": [
+            {
+                "apellidos": "De Meer Méndez",
+                "apellidosNombre": "De Meer Méndez, Rocío",
+                "codParlamentario": 340,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 4,
+                "idLegislatura": 14,
+                "nombre": "Rocío",
+                "nombreCircunscripcion": "Almería",
+                "twitter": "https://twitter.com/MeerRocio",
+                "twitterUserId": "4525423215",
+                "twitterUserName": "MeerRocio"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "DE MEER MÉNDEZ"
+    },
+    "text": "La regularización masiva y la concesión de la nacionalidad, señorías de Podemos, no es patriotismo, es kétchup. (Aplausos)."
+}

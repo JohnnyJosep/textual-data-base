@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-23T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY 9/1968, DE 5 DE ABRIL, SOBRE SECRETOS OFICIALES. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 217,
+        "path": "../data/diaries-txts/DSCD-14-PL-031.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "En consecuencia, se toma en consideración la proposición de ley. (Aplausos). Señorías, les informo de que el resto de puntos del orden del día se votarán presencialmente al final de la sesión del jueves. Si bien el suplicatorio se votará telemáticamente desde que finalice el debate correspondiente y hasta una hora y media después, y para el resto de asuntos el plazo para la votación telemática será desde mañana miércoles al finalizar el Pleno y hasta el jueves a las once horas. Se suspende la sesión hasta mañana a las nueve."
+}

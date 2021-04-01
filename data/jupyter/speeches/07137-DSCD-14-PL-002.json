@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-08T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, RELA TIV A A LA MODIFICACIÓN DE LA LEY 50/1981, DE 30 DE DICIEMBRE, POR LA QUE SE REGULA EL EST A TUT O ORGÁNICO DEL MINISTERIO FISCAL. ",
+        "diputado": [
+            {
+                "apellidos": "Navarro López",
+                "apellidosNombre": "Navarro López, Pedro",
+                "codParlamentario": 220,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 50,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Zaragoza",
+                "twitter": "https://twitter.com/PedroNavarroL",
+                "twitterUserId": "116701487",
+                "twitterUserName": "PedroNavarroL"
+            },
+            0
+        ],
+        "order": 99,
+        "path": "../data/diaries-txts/DSCD-14-PL-041.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "NAVARRO LÓPEZ"
+    },
+    "text": "Gracias, señor vicepresidente. Aceptamos con enorme felicidad la enmienda del señor Martínez Oblanca, de Foro Asturias, y agradecemos al señor Ruiz Navarro, en nombre de VOX, la presentación de las trabajadas enmiendas, que por motivos de tradición constitucional no aceptamos. Gracias."
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-16T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR QUEVEDO ITURBE), SOBRE LAS POLÍTICAS QUE VA A DESARROLLAR EL GOBIERNO DE ESPAÑA PARA FAVORECER LA CONECTIVIDAD Y LA RECUPERACIÓN DEL TURISMO EN CANARIAS. ",
+        "diputado": [
+            {
+                "apellidos": "Quevedo Iturbe",
+                "apellidosNombre": "Quevedo Iturbe, Pedro",
+                "codParlamentario": 351,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "NC-CCa-PNC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Palmas (Las)"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "QUEVEDO ITURBE"
+    },
+    "text": "Voy a formular una transaccional de acuerdo con lo que he hablado con los grupos."
+}

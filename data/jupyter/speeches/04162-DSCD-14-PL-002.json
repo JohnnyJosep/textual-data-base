@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON MIKEL LEGARDA URIARTE, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CREE EL GOBIERNO QUE HA PROTEGIDO LOS DERECHOS FUNDAMENTALES DE LA CIUDADANÍA A LO LARGO DEL ESTADO DE ALARMA? ",
+        "diputado": [
+            {
+                "apellidos": "Legarda Uriarte",
+                "apellidosNombre": "Legarda Uriarte, Mikel",
+                "codParlamentario": 95,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 1,
+                "idLegislatura": 14,
+                "nombre": "Mikel",
+                "nombreCircunscripcion": "Araba/Álava",
+                "twitter": "https://twitter.com/MikelLegarda",
+                "twitterUserId": "4178226827",
+                "twitterUserName": "MikelLegarda"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "LEGARDA URIARTE"
+    },
+    "text": "Muchas gracias, presidenta, y buenos días, ministro. Le preguntamos si considera que el Gobierno ha protegido suficientemente los derechos de la ciudadanía durante el estado de alarma."
+}

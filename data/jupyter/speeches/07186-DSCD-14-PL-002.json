@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL PRESIDENTE DEL GOBIERNO: ¿PIENSA EL GOBIERNO SEGUIR ANTEPONIENDO SU AGENDA IDEOLÓGICA A LAS VERDADERAS NECESIDADES DE LOS ESPAÑOLES? ",
+        "diputado": [
+            {
+                "apellidos": "Abascal Conde",
+                "apellidosNombre": "Abascal Conde, Santiago",
+                "codParlamentario": 43,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Santiago",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Santi_ABASCAL",
+                "twitterUserId": "260788584",
+                "twitterUserName": "Santi_ABASCAL"
+            },
+            0
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ABASCAL CONDE"
+    },
+    "text": "Son ustedes una catástrofe con patas para España. Señor Sánchez, preside el peor Gobierno que ha tenido nuestro país en ochenta años, el que ha provocado la mayor contracción del producto interior bruto. El Gobierno… (El señor vicepresidente segundo del Gobierno, Iglesias Turrión, hace signos negativos). Sí, señor Iglesias, en ochenta años. La mayor destrucción de la economía, la mayor destrucción del PIB y la mayor deuda pública y la mayor división territorial."
+}

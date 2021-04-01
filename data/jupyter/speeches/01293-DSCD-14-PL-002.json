@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO REPUBLICANO, SOBRE LA SITUACIÓN QUE A TRA VIESA EL SECTOR FRUTÍCOLA. ",
+        "diputado": [
+            {
+                "apellidos": "Cañadell Salvia",
+                "apellidosNombre": "Cañadell Salvia, Concep",
+                "codParlamentario": 21,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "JxCat-JUNTS",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 25,
+                "idLegislatura": 14,
+                "nombre": "Concep",
+                "nombreCircunscripcion": "Lleida",
+                "twitter": "https://twitter.com/conceptermens",
+                "twitterUserId": "2867230876",
+                "twitterUserName": "conceptermens"
+            },
+            0
+        ],
+        "order": 15,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CAÑADELL SALVIA"
+    },
+    "text": "Termino. Pero hoy el sector ha dicho basta. Es decir, soluciones o soluciones; que estas sean para hoy, mañana será tarde. Salvem la pagesia, defensem el món rural. (Aplausos)."
+}

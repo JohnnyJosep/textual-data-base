@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-09T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON EL ESTADO DE ALARMA, EXCEPCIÓN Y SITIO: -- SOLICITUD DE AUT ORIZACIÓN DE LA PRÓRROGA DEL EST ADO DE ALARMA DECLARADO MEDIANTE REAL DECRET O 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL EST ADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR EL REAL DECRET O 476/2020, DE 27 DE MARZO. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 110,
+        "path": "../data/diaries-txts/DSCD-14-PL-017.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Continuamos con el debate sobre la convalidación o derogación del Real Decreto-ley 9/2020, de 27 de marzo, por el que se adoptan medidas complementarias en el ámbito laboral para paliar los efectos derivados del COVID-19, que, conforme a lo acordado por la Junta de Portavoces, se debatirá conjuntamente con el Real Decreto-ley 10/2020, de 29 de marzo, por el que se regula un permiso retribuido recuperable para las personas trabajadoras por cuenta ajena que no presten servicios esenciales, con el fin de reducir la movilidad de la población en el contexto de la lucha contra el COVID-19. Para presentar estos reales decretos-leyes tiene la palabra, en nombre del Gobierno, la señora ministra de Trabajo y Economía Social."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-29T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), DE REFORMA DE LA LEY ORGÁNICA 4/2015, DE 30 DE MARZO, DE PROTECCIÓN DE LA SEGURIDAD CIUDADANA (ORGÁNICA). ",
+        "diputado": [
+            {
+                "apellidos": "Fernández Castañón",
+                "apellidosNombre": "Fernández Castañón, Sofía",
+                "codParlamentario": 272,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "UP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Sofía",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/SofCastanon",
+                "twitterUserId": "3495603017",
+                "twitterUserName": "SofCastanon"
+            },
+            0
+        ],
+        "order": 30,
+        "path": "../data/diaries-txts/DSCD-14-PL-048.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "FERNÁNDEZ CASTAÑÓN"
+    },
+    "text": "Perdone, presidenta. Desde nuestro grupo parlamentario queríamos formularle dos preguntas. Una de las preguntas es si se puede interrumpir a la persona que está en uso de la palabra en la tribuna, y la otra…"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-18T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON NÉSTOR REGO CANDAMIL, DEL GRUPO PARLAMENTARIO PLURAL, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿PIENSA EL GOBIERNO CORREGIR EL TRATO DISCRIMINATORIO DADO A GALICIA EN LAS INVERSIONES TERRITORIALIZADAS CONSIGNADAS EN EL PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA 2021? ",
+        "diputado": [
+            {
+                "apellidos": "Rego Candamil",
+                "apellidosNombre": "Rego Candamil, Néstor",
+                "codParlamentario": 40,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "BNG",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Plural",
+                "idCircunscripcion": 15,
+                "idLegislatura": 14,
+                "nombre": "Néstor",
+                "nombreCircunscripcion": "Coruña (A)",
+                "twitter": "https://twitter.com/NestorRego",
+                "twitterUserId": "435720619",
+                "twitterUserName": "NestorRego"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-063.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REGO CANDAMIL"
+    },
+    "text": "Gracias, señora presidenta. Señora ministra, ¿piensa el Gobierno corregir el trato discriminatorio dado a Galiza en las inversiones previstas en los presupuestos de 2021?"
+}

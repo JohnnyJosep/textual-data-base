@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-17T00:00:00.000Z",
+        "debate": "DICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN): -- DICTAMEN DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS ACERCA DEL SUPLICATORIO FORMULADO EN RELACIÓN CON UN SEÑOR DIPUTADO. ",
+        "diputado": [
+            {
+                "apellidos": "Fuentes Curbelo",
+                "apellidosNombre": "Fuentes Curbelo, Juan Bernardo",
+                "codParlamentario": 359,
+                "fchAlta": "03/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Juan Bernardo",
+                "nombreCircunscripcion": "Palmas (Las)",
+                "twitter": "https://twitter.com/Juanb0462",
+                "twitterUserId": "379117713",
+                "twitterUserName": "Juanb0462"
+            },
+            0
+        ],
+        "order": 56,
+        "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "FUENTES CURBELO"
+    },
+    "text": "Quiero desearles mucha felicidad en estas fiestas y mucha salud. Muchas gracias. (Aplausos)."
+}

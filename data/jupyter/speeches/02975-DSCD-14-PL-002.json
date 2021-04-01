@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA IDOIA SAGASTIZABAL UNZET ABARRENETXEA, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA A LA SEÑORA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO: ¿CÓMO PIENSA EL GOBIERNO GARANTIZAR LA SUPERVIVENCIA DEL PEQUEÑO COMERCIO? ",
+        "diputado": [
+            {
+                "apellidos": "Sagastizabal Unzetabarrenetxea",
+                "apellidosNombre": "Sagastizabal Unzetabarrenetxea, Idoia",
+                "codParlamentario": 98,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Idoia",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/Idosagasti",
+                "twitterUserId": "250635207",
+                "twitterUserName": "Idosagasti"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SAGASTIZABAL UNZETABARRENETXEA"
+    },
+    "text": "Gracias, presidenta. Buenos días, ministra. ¿Cómo piensa el Gobierno garantizar la supervivencia del pequeño comercio?"
+}

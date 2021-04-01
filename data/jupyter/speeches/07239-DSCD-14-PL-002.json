@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DE LA DIPUTADA DOÑA MARÍA VALENTINA MARTÍNEZ FERRO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN: ¿CÓMO VALORA LA MINISTRA EL RESULTADO DE LAS GESTIONES REALIZADAS PARA A YUDAR A QUE ESPAÑA SEA PERCIBIDA EN EL MUNDO COMO UN DESTINO SEGURO? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            57
+        ],
+        "order": 11,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN (González Laya)"
+    },
+    "text": "Lo que dice el estudio que el Instituto Elcano publicará mañana --le doy la primicia-- es que España y su imagen se mantienen estables, a pesar de que esta imagen cayó en picado entre 2011 y 2013. Lo que dice el Índice Global de Soft Power que se acaba de publicar es que la imagen de España se mantiene estable entre los veinte países más influyentes del mundo. Lo que le pido que haga, señoría, es menos cantar y, por favor, más arrimar el hombro. Gracias. (Aplausos.--El señor Hispán Iglesias de Ussel pronuncia palabras que no se perciben)."
+}

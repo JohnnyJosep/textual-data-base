@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-14T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JUAN DIEGO REQUENA RUIZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA CUARTA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO: ¿QUÉ OPINIÓN TIENE SOBRE LAS EMPRESAS QUE NO APROVECHAN LAS AYUDAS NI DEVUELVEN LOS PRÉSTAMOS QUE LE REALIZAN LAS ADMINISTRACIONES PÚBLICAS? ",
+        "diputado": [
+            {
+                "apellidos": "Requena Ruiz",
+                "apellidosNombre": "Requena Ruiz, Juan Diego",
+                "codParlamentario": 79,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Juan Diego",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/alcaldeJDR",
+                "twitterUserId": "",
+                "twitterUserName": "alcaldeJDR"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-052.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "REQUENA RUIZ"
+    },
+    "text": "Gracias, señora presidenta. Le quiero preguntar, vicepresidenta, qué opinión tiene sobre las empresas que no aprovechan las ayudas ni devuelven los préstamos que realizan las administraciones públicas. Gracias."
+}

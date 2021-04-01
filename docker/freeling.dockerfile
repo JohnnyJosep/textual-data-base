@@ -3,12 +3,6 @@ FROM debian:stable
 ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=Europe/Berlin
 
-#COPY startup.sh /home/freelingapi.sh
-#COPY freeling-0.0.1-SNAPSHOT.jar /home/freelingapi.jar
-#COPY freeling.service /etc/systemd/system/freelingapi.service
-
-#RUN chmod u+x /home/freelingapi.sh
-
 
 RUN echo "******** Installing dependencies... please wait" && \
     apt-get update -qq && \

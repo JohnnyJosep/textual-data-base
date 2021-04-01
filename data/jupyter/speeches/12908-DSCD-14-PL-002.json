@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON PEDRO QUEVEDO ITURBE, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿ESTARÍA DISPUESTO A CONSENSUAR CON LAS INSTITUCIONES CANARIAS LA GESTIÓN SOLIDARIA A ESCALA ESTATAL PARA HACER FRENTE A LA CRISIS MIGRATORIA QUE SOPORTAN LAS ISLAS, DE MANERA QUE LA ATENCIÓN A LOS MENORES Y ADULTOS SEA COMPARTIDA POR EL CONJUNTO DEL ESTADO? ",
+        "diputado": [
+            {
+                "apellidos": "Quevedo Iturbe",
+                "apellidosNombre": "Quevedo Iturbe, Pedro",
+                "codParlamentario": 351,
+                "fchAlta": "02/12/2019",
+                "fchBaja": "",
+                "formacion": "NC-CCa-PNC",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 35,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Palmas (Las)"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-070.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "QUEVEDO ITURBE"
+    },
+    "text": "Gracias, señora presidenta. Señor presidente, ¿estaría dispuesto a consensuar con las instituciones canarias la gestión solidaria a escala estatal de la crisis migratoria?"
+}

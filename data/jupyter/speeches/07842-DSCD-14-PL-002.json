@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-15T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, EN RELACIÓN A LA DESIDIA Y LA INCAPACIDAD DEL GOBIERNO PARA GARANTIZAR UNA VUELTA SEGURA A LAS AULAS EN CONDICIONES DE IGUALDAD, A LO LARGO Y ANCHO DE TODO EL TERRITORIO ESPAÑOL. ",
+        "diputado": [
+            {
+                "apellidos": "Jiménez Linuesa",
+                "apellidosNombre": "Jiménez Linuesa, Beatriz",
+                "codParlamentario": 206,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 16,
+                "idLegislatura": 14,
+                "nombre": "Beatriz",
+                "nombreCircunscripcion": "Cuenca",
+                "twitter": "https://twitter.com/Linuesita",
+                "twitterUserId": "",
+                "twitterUserName": "Linuesita"
+            },
+            0
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-044.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "JIMÉNEZ LINUESA"
+    },
+    "text": "Sí, presidenta, aceptamos las enmiendas presentadas por el Grupo Parlamentario VOX y Ciudadanos."
+}

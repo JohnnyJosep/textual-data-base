@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-17T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA DEJAR DE HUMILLAR A LAS VÍCTIMAS DEL TERRORISMO DE ETA. ",
+        "diputado": [
+            {
+                "apellidos": "Alcaraz Martos",
+                "apellidosNombre": "Alcaraz Martos, Francisco José",
+                "codParlamentario": 252,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 23,
+                "idLegislatura": 14,
+                "nombre": "Francisco José",
+                "nombreCircunscripcion": "Jaén",
+                "twitter": "https://twitter.com/fjosealcaraz",
+                "twitterUserId": "266066285",
+                "twitterUserName": "fjosealcaraz"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-088.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ALCARAZ MARTOS"
+    },
+    "text": "Aquí tengo los pedazos."
+}

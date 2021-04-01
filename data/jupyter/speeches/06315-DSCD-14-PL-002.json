@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-22T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ VALORACIÓN HACE DE LA EVOLUCIÓN DE LA PANDEMIA Y DE LA RESPUESTA QUE SE ESTÁ DANDO TANTO A NIVEL NACIONAL COMO EUROPEO? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "Señoría, comparto con usted la preocupación sobre la evolución de la pandemia en el mundo, en Europa y también en España. Vivimos en un Estado compuesto, las competencias en sanidad están en manos de los Gobiernos autonómicos --su partido forma parte de algunos de esos Gobiernos autonómicos--, estamos coordinando con las comunidades autónomas precisamente la evolución de los contagios en los rebrotes, estamos también alumbrando un acuerdo inédito, histórico, en la construcción europea, como el que hemos logrado a lo largo de estos cinco extenuantes días de trabajo en el Consejo Europeo. (Rumores). Sí, es verdad, señorías, es verdad, no se pongan ustedes así, celébrenlo; si ayer el propio señor Casado también celebró este acuerdo."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON AITOR ESTEBAN BRAVO, DEL GRUPO PARLAMENTARIO VASCO (EAJ-PNV), QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ ENTIENDE USTED POR NUEVA NORMALIDAD? ",
+        "diputado": [
+            {
+                "apellidos": "Esteban Bravo",
+                "apellidosNombre": "Esteban Bravo, Aitor",
+                "codParlamentario": 94,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Aitor",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/AITOR_ESTEBAN",
+                "twitterUserId": "158442670",
+                "twitterUserName": "AITOR_ESTEBAN"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESTEBAN BRAVO"
+    },
+    "text": "Señor presidente, ¿qué entiende usted por nueva normalidad?"
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-28T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 36/2020, DE 30 DE DICIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS URGENTES PARA LA MODERNIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA Y PARA LA EJECUCIÓN DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA. ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Gómez de Celis",
+                "apellidosNombre": "Rodríguez Gómez de Celis, Alfonso",
+                "codParlamentario": 168,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "Alfonso",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/gomezdcelis",
+                "twitterUserId": "22473944",
+                "twitterUserName": "gomezdcelis"
+            },
+            18
+        ],
+        "order": 71,
+        "path": "../data/diaries-txts/DSCD-14-PL-074.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICEPRESIDENTE (Rodrí guez Gómez de Celis)"
+    },
+    "text": "Muchísimas gracias. (Una trabajadora del servicio de limpieza procede a desinfectar la tribuna de oradores). -- REAL DECRETO-LEY 37/2020, DE 22 DE DICIEMBRE, DE MEDIDAS URGENTES PARA HACER FRENTE A LAS SITUACIONES DE VULNERABILIDAD SOCIAL Y ECONÓMICA EN EL ÁMBITO DE LA VIVIENDA Y EN MATERIA DE TRANSPORTES."
+}

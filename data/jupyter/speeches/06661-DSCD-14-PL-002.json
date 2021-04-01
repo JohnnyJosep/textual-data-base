@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "EL SIGUIENTE ORDEN DEL DÍA: -- COMP ARECENCIA DE LA MINISTRA DE INDUSTRIA, COMERCIO Y TURISMO, P ARA INFORMAR SOBRE LAS ACCIONES QUE EL GOBIERNO TIENE PREVISTO EMPRENDER PARA PROTEGER AL SECTOR TURÍSTICO Y, SINGULARMENTE, SUS PRINCIPALES DESTINOS, ASÍ COMO PALIAR LAS CATASTRÓFICAS CONSECUENCIAS DERIVADAS DE LAS RESTRICCIONES Y RECOMENDACIONES DE NO VIAJAR A ESPAÑA APROBADAS POR TERCEROS PAÍSES, Y LAS DECISIONES DE GRANDES OPERADORES DE NO PROGRAMAR VIAJES A NUESTRO PAÍS.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 8,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Muchas gracias, señora Aizpurua. Por el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra el señor Legarda Uriarte."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-04T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 18/2019, DE 27 DE DICIEMBRE, POR EL QUE SE ADOPT AN DETERMINADAS MEDIDAS EN MATERIA TRIBUTARIA, CATASTRAL Y DE SEGURIDAD SOCIAL. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-006.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Queda convalidado el real decreto-ley. (Aplausos). Se ha solicitado la tramitación de este real decreto-ley como proyecto de ley por el procedimiento de urgencia, por lo que procedemos a votar dicha solicitud. Comienza la votación. (Pausa). Efectuada la votación, dio el siguiente resultado: votos emitidos, 342 más 3 telemáticos, 345; a favor, 122 más 3 votos telemáticos, 125; en contra, 160; abstenciones, 60."
+}

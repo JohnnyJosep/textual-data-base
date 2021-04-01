@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "DEBATE SOBRE LA INVESTIDURA DEL CANDIDATO A LA PRESIDENCIA DEL GOBIERNO. ",
+        "diputado": [
+            {
+                "apellidos": "Esteban Bravo",
+                "apellidosNombre": "Esteban Bravo, Aitor",
+                "codParlamentario": 94,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Aitor",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/AITOR_ESTEBAN",
+                "twitterUserId": "158442670",
+                "twitterUserName": "AITOR_ESTEBAN"
+            },
+            0
+        ],
+        "order": 160,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ESTEBAN BRAVO"
+    },
+    "text": "Señor presidente, le agradezco sus palabras, pero ya es tarde --miro las caras de las diputadas y de los diputados; llevamos todo el día discutiendo-- y tendremos ocasión de dialogar en otro momento. Entre todos vamos a intentar que funcione, que se cumplan los acuerdos por parte de todos, y me quedo con una frase que ha pronunciado usted en su intervención de esta mañana, en la inicial. Casualmente, coincide con el casi mantra que he ido repitiendo en estas últimas campañas electorales: que la solución pasa por diálogo, negociación, acuerdo. Y lo ha dicho usted literalmente; coincido plenamente. Espero que todo esto funcione y que para el bien --lo he dicho antes y lo vuelvo a repetir-- de toda la ciudadanía pueda haber un Gobierno y se empiecen a tomar determinaciones y a arbitrar soluciones. Muchas gracias. (Aplausos)."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JAVIER MERINO MARTÍNEZ, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE CULTURA Y DEPORTE: ¿CONFIRMA EL GOBIERNO QUE HA ACORDADO QUE LA SELECCIÓN VASCA DE FÚTBOL PUEDA OSTENT AR REPRESENT ACIÓN INTERNACIONAL DEL P AÍS V ASCO EN COMPETICIONES OFICIALES? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            33
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE CULTURA Y DEPORTE (Rodrí guez Uribes)"
+    },
+    "text": "Gracias, presidenta. No, señoría, el Gobierno no ha acordado nada en relación con la cuestión que me pregunta. (Aplausos)."
+}

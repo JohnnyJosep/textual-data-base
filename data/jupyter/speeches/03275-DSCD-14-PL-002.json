@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SERGIO SAYAS LÓPEZ, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿CUÁNDO TIENE PREVISTO EL GOBIERNO CELEBRAR UNA REUNIÓN DE LA COMISIÓN COORDINADORA DEL CONVENIO ECONÓMICO PARA ABORDAR LA PARTICIPACIÓN DE LA COMUNIDAD FORAL DE NAVARRA EN EL REPARTO DEL FONDO DE 16 000 MILLONES DE EUROS PARA LAS COMUNIDADES AUTÓNOMAS ANUNCIADO POR EL GOBIERNO DE ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "Montero Cuadrado",
+                "apellidosNombre": "Montero Cuadrado, María Jesús",
+                "codParlamentario": 225,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 41,
+                "idLegislatura": 14,
+                "nombre": "María Jesús",
+                "nombreCircunscripcion": "Sevilla",
+                "twitter": "https://twitter.com/mjmonteroc",
+                "twitterUserId": "310187114",
+                "twitterUserName": "mjmonteroc"
+            },
+            23
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRA DE HACIENDA (Montero Cuadrado)"
+    },
+    "text": "Muchas gracias, señor Sayas. La respuesta es: evidentemente. Usted me preguntaba a propósito de si tenía previsto convocar la reunión, y ya ha anunciado que la reunión se celebra mañana. A la pregunta de si la reunión es para el objetivo que usted plantea de ver cómo Navarra participa de esa distribución del fondo y cómo podemos tener en cuenta la situación singular de un régimen foral, la respuesta es sí."
+}

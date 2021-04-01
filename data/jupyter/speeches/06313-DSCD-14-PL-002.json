@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-22T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO PARLAMENTARIO CIUDADANOS, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿QUÉ VALORACIÓN HACE DE LA EVOLUCIÓN DE LA PANDEMIA Y DE LA RESPUESTA QUE SE ESTÁ DANDO TANTO A NIVEL NACIONAL COMO EUROPEO? ",
+        "diputado": [
+            {
+                "apellidos": "Bal Francés",
+                "apellidosNombre": "Bal Francés, Edmundo",
+                "codParlamentario": 211,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edmundo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/BalEdmundo",
+                "twitterUserId": "1099251922152931329",
+                "twitterUserName": "BalEdmundo"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-037.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAL FRANCÉS"
+    },
+    "text": "Señor Sánchez, decenas de miles de vidas --muchas más de las que constan en los registros oficiales--, cientos de miles de empleos y un escenario muy complicado con los rebrotes, un horizonte muy complejo; necesitamos grandes acuerdos como el que se ha alumbrado en el Consejo Europeo, pero le quiero preguntar si en esta senda que nos marca Europa va a acordar usted, va a acometer la reformas que necesita nuestro país o va a seguir apoyándose en nacionalistas y populistas que no creen ni en España ni en el proyecto europeo. (Aplausos)."
+}

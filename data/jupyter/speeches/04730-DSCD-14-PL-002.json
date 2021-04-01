@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-16T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MARTÍNEZ OBLANCA), SOBRE LA POLÍTICA FERROVIARIA DEL MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA TRAS FINALIZAR LA EMERGENCIA SANITARIA DEL COVID-19. ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Oblanca",
+                "apellidosNombre": "Martínez Oblanca, Isidro Manuel",
+                "codParlamentario": 20,
+                "fchAlta": "19/11/2019",
+                "fchBaja": "",
+                "formacion": "PP-FORO",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 33,
+                "idLegislatura": 14,
+                "nombre": "Isidro Manuel",
+                "nombreCircunscripcion": "Asturias",
+                "twitter": "https://twitter.com/imoblanca",
+                "twitterUserId": "3108277737",
+                "twitterUserName": "imoblanca"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-029.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ OBLANCA"
+    },
+    "text": "No, no acepto ninguna enmienda, señor presidente, y le recuerdo mi solicitud para que se vote la moción por puntos. Muchas gracias."
+}

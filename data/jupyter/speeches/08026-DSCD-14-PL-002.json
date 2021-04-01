@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "ENMIENDAS DEL SENADO. (VOTACIÓN): -- PROYECTO DE LEY DE MEDIDAS PROCESALES Y ORGANIZATIVAS PARA HACER FRENTE AL COVID-19 EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA (PROCEDENTE DEL REAL DECRETO-LEY 16/2020, DE 28 DE ABRIL). ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Enmiendas aprobadas por el Senado al proyecto de ley de medidas procesales y organizativas para hacer frente al COVID-19 en el ámbito de la Administración de Justicia. Procedente del Real Decreto-ley 16/2020, de 28 de abril. En turno de fijación de posiciones, por el Grupo Parlamentario Mixto, tiene la palabra el señor García Adanero."
+}

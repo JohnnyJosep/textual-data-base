@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-11T00:00:00.000Z",
+        "debate": "ACUERDO DE TRAMITACIÓN DIRECTA Y EN LECTURA ÚNICA DE INICIATIVAS LEGISLATIVAS: -- ACUERDO DE TRAMIT ACIÓN DIRECT A Y EN LECTURA ÚNICA DEL PROYECT O DE LEY POR LA QUE SE DEROGA EL DESPIDO OBJETIVO POR FALTAS DE ASISTENCIA AL TRABAJO ESTABLECIDO EN EL ARTÍCULO 52.D) DEL TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES, APROBADO POR EL REAL DECRETO LEGISLATIVO 2/2015, DE 23 DE OCTUBRE (PROCEDENTE DEL REAL DECRETO-LEY 4/2020, DE 18 DE FEBRERO). ",
+        "diputado": [
+            {
+                "apellidos": "Barandiaran Benito",
+                "apellidosNombre": "Barandiaran Benito, Íñigo",
+                "codParlamentario": 97,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Íñigo",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/inibaran",
+                "twitterUserId": "878647221532729345",
+                "twitterUserName": "inibaran"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-028.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BARANDIARAN BENITO"
+    },
+    "text": "Desde mi escaño, presidenta, únicamente quiero recordar que este punto está llamado a ser debatido en este Congreso a los efectos simplemente de aceptar o no la lectura única del proyecto de ley, es decir, aplicar o no el artículo 150 --si no me equivoco-- del Reglamento del Congreso, y poco debate puede haber sobre eso, salvo que queramos mantener un minuto de gloria en algún medio; cualquier otra cosa sobra en este debate. Muchas gracias, señora presidenta."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-24T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES (CONTINUACIÓN): -- DEL GRUPO PARLAMENTARIO VOX, SOBRE QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA INDEMNIZAR A TODOS LOS ESPAÑOLES A QUIENES SE LES HA PROHIBIDO TRABAJAR. ",
+        "diputado": [
+            {
+                "apellidos": "Rueda Perelló",
+                "apellidosNombre": "Rueda Perelló, Patricia",
+                "codParlamentario": 75,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Patricia",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/_patricia_rueda",
+                "twitterUserId": "2613310915",
+                "twitterUserName": "_patricia_rueda"
+            },
+            0
+        ],
+        "order": 21,
+        "path": "../data/diaries-txts/DSCD-14-PL-082.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RUEDA PERELLÓ"
+    },
+    "text": "Sí, las aceptamos. Le ruego, por favor…"
+}

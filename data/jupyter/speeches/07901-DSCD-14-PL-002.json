@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-16T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA CAROLINA TELECHEA I LOZANO, DEL GRUPO PARLAMENTARIO REPUBLICANO, QUE FORMULA A LA SEÑORA VICEPRESIDENTA PRIMERA Y MINISTRA DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA: ¿QUÉ MEDIDAS PRETENDE ADOPTAR EL GOBIERNO PARA REPARAR A LAS VÍCTIMAS DE DELITOS Y VULNERACIONES DE DERECHOS PRODUCIDOS DURANTE EL FRANQUISMO Y LA TRANSICIÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Telechea i Lozano",
+                "apellidosNombre": "Telechea i Lozano, Carolina",
+                "codParlamentario": 188,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "ERC-S",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Republicano",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Carolina",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/caroltelechea",
+                "twitterUserId": "2234780184",
+                "twitterUserName": "caroltelechea"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-045.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "TELECHEA I LOZANO"
+    },
+    "text": "Gracias, presidenta. ¿Qué medidas pretende adoptar el Gobierno para reparar a las víctimas de delitos y vulneración de derechos producidos durante el franquismo y la Transición?"
+}

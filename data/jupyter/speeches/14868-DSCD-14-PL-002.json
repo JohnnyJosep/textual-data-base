@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-18T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES: -- REAL DECRETO-LEY 2/2021, DE 26 DE ENERO, DE REFUERZO Y CONSOLIDACIÓN DE MEDIDAS SOCIALES EN DEFENSA DEL EMPLEO. ",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 31,
+        "path": "../data/diaries-txts/DSCD-14-PL-080.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Pasamos al siguiente punto del orden del día, convalidación o derogación del Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico. Para presentar el real decreto-ley tiene la palabra, en nombre del Gobierno, el señor ministro de Inclusión, Seguridad Social y Migraciones."
+}

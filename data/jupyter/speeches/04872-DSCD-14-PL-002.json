@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUT ADO DON EDMUNDO BAL FRANCÉS, DEL GRUPO P ARLAMENT ARIO CIUDADANOS, QUE FORMULA A LA SEÑORA MINISTRA DE EDUCACIÓN Y FORMACIÓN PROFESIONAL: ¿QUÉ MEDIDAS TIENE PREVISTO IMPULSAR SU MINISTERIO, EN COLABORACIÓN CON EL REST O DEL GOBIERNO, P ARA GARANTIZAR LA CONCILIACIÓN F AMILIAR, INCLUYENDO AL PROPIO PROFESORADO, EN CASO DE QUE FINALMENTE SEA IMPOSIBLE QUE TODO EL ALUMNADO VUELVA A LOS COLEGIOS EL SIGUIENTE CURSO? ",
+        "diputado": [
+            {
+                "apellidos": "Bal Francés",
+                "apellidosNombre": "Bal Francés, Edmundo",
+                "codParlamentario": 211,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "Cs",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Ciudadanos",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Edmundo",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/BalEdmundo",
+                "twitterUserId": "1099251922152931329",
+                "twitterUserName": "BalEdmundo"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BAL FRANCÉS"
+    },
+    "text": "Señora Celaá, ¿piensa el Gobierno presentar un plan serio y ordenado de retorno a las aulas en septiembre, un plan que valga para toda España y que dé a los estudiantes y a sus familias la tranquilidad y la certidumbre que hacen falta para el curso que viene? (Aplausos)."
+}

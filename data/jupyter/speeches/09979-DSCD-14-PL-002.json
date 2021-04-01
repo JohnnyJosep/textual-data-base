@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-15T00:00:00.000Z",
+        "debate": "ACTOS EN RELACIÓN CON LOS ESTADOS DE ALARMA, EXCEPCIÓN Y SITIO: -- COMUNICACIÓN DEL GOBIERNO QUE ACOMPAÑA AL REAL DECRETO 900/2020, DE 9 DE OCTUBRE, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA RESPONDER ANTE SITUACIONES DE ESPECIAL RIESGO POR TRANSMISIÓN NO CONTROLADA DE INFECCIONES CAUSADAS POR EL SARS-COV-2. ",
+        "diputado": [
+            {
+                "apellidos": "Martínez Seijo",
+                "apellidosNombre": "Martínez Seijo, María Luz",
+                "codParlamentario": 251,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 34,
+                "idLegislatura": 14,
+                "nombre": "María Luz",
+                "nombreCircunscripcion": "Palencia",
+                "twitter": "https://twitter.com/luzseijo",
+                "twitterUserId": "270356445",
+                "twitterUserName": "luzseijo"
+            },
+            0
+        ],
+        "order": 175,
+        "path": "../data/diaries-txts/DSCD-14-PL-053.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MARTÍNEZ SEIJO"
+    },
+    "text": "Por no decir también que están votando en contra del alumnado de formación profesional y de que puedan realizar la formación en un centro de trabajo. También votan en contra de aquellas medidas extraordinarias en las enseñanzas artísticas, en las enseñanzas de idiomas y en las enseñanzas deportivas. Ustedes votan en contra de todo por sistema."
+}

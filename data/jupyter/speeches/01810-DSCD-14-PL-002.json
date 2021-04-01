@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "MODIFICACIÓN DEL ORDEN DEL DÍA.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "De conformidad con lo dispuesto en el artículo 68.1 del Reglamento y con lo acordado por la Junta de Portavoces, esta Presidencia somete al Pleno de la Cámara la modificación del orden del día en la parte correspondiente a las interpelaciones, de tal manera que la interpelación urgente del Grupo Parlamentario Popular en el Congreso, que figura en el orden del día como punto 25, sea debatida en primer lugar, pasando a debatirse, a continuación, la interpelación urgente del Grupo Parlamentario Mixto, señor Botran Pahissa, que figura como punto 24 del orden del día. ¿Lo acuerda así la Cámara? (Asentimiento). Muchas gracias. En consecuencia, queda aprobada la modificación del orden del día. Por otra parte, les informo de que, de conformidad con lo acordado también por la Junta de Portavoces, los puntos 6 y 7 del orden del día, correspondientes a las mociones consecuencia de interpelación urgente del Grupo Parlamentario Ciudadanos y del Grupo Parlamentario Plural respectivamente, se debatirán en la sesión de mañana y su votación tendrá lugar en la sesión del jueves."
+}

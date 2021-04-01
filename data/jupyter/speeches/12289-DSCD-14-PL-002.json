@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-03T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (CONTINUACIÓN): -- PROYECTO DE LEY DE PRESUPUESTOS GENERALES DEL ESTADO PARA EL AÑO 2021. (CONTINUACIÓN). ",
+        "diputado": [
+            {
+                "apellidos": "Sayas López",
+                "apellidosNombre": "Sayas López, Sergio",
+                "codParlamentario": 55,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Sergio",
+                "nombreCircunscripcion": "Navarra",
+                "twitter": "https://twitter.com/sergiosayas",
+                "twitterUserId": "144600462",
+                "twitterUserName": "sergiosayas"
+            },
+            0
+        ],
+        "order": 39,
+        "path": "../data/diaries-txts/DSCD-14-PL-068.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SAYAS LÓPEZ"
+    },
+    "text": "Gracias, señor presidente. Por brevedad, doy por defendidas las enmiendas. Muchas gracias."
+}

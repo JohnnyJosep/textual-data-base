@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-13T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON OSKAR MATUTE GARCÍA DE JALÓN, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿APUESTA POR LA DERECHA NEOLIBERAL RECENTRALIZADORA Y SUS POLÍTICAS FRENTE A LA MAYORÍA PROGRESISTA DE LA INVESTIDURA? ",
+        "diputado": [
+            {
+                "apellidos": "Matute García de Jalón",
+                "apellidosNombre": "Matute García de Jalón, Oskar",
+                "codParlamentario": 63,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 48,
+                "idLegislatura": 14,
+                "nombre": "Oskar",
+                "nombreCircunscripcion": "Bizkaia",
+                "twitter": "https://twitter.com/oskarmatute",
+                "twitterUserId": "27675374",
+                "twitterUserName": "oskarmatute"
+            },
+            1
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-022.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MATUTE GARCÍA DEL JALÓN"
+    },
+    "text": "Muchas gracias, presidenta. Señor presidente, a estas alturas yo creo que poca gente duda de que estamos ante una crisis de época y creemos que, ante esa crisis de época, lo que hace falta es claridad y determinación. Por eso le realizamos una pregunta que fácilmente se puede responder con un sí o con un no: ¿Apuesta por la derecha neoliberal recentralizadora y sus políticas frente a la mayoría progresista de la investidura?"
+}

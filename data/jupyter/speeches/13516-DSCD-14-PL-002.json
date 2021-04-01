@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-01-25T00:00:00.000Z",
+        "debate": "DEL DÍA: -- COMPARECENCIA DEL PRESIDENTE DEL GOBIERNO, PARA RENDIR CUENTAS SOBRE LA CRÍTICA SITUACIÓN ACTUAL DE LA COVID-19 EN ESPAÑA --CON LOS PEORES REGISTROS DESDE ENERO DE 2020-- Y ACLARAR SI TIENE PREVISTO LLEVAR A LA PRÁCTICA EN ALGÚN MOMENTO ALGUNA MEDIDA DE UTILIDAD REAL PARA CONTROLAR LA PANDEMIA. ",
+        "diputado": [
+            {
+                "apellidos": "Asens Llodrà",
+                "apellidosNombre": "Asens Llodrà, Jaume",
+                "codParlamentario": 291,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "ECP-GUAYEM EL CANVI",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Jaume",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/Jaumeasens",
+                "twitterUserId": "212377097",
+                "twitterUserName": "Jaumeasens"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-073.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ASENS LLODRÀ"
+    },
+    "text": "Gracias, presidenta. A nosotros nos pareció una buena noticia que el ministro Illa, a iniciativa propia, dijera que iba a comparecer en la Comisión de Sanidad. Nos parece una mala noticia, un error, que se haya anunciado esta mañana que el ministro va a dimitir antes de dar explicaciones en sede parlamentaria. Creo que mucha gente puede pensar que durante este último mes el ministro Illa ha actuado en su doble condición de ministro y candidato y creo que mucha gente se puede preguntar qué es lo que habría hecho el ministro Illa en plena tercera ola si no fuera también candidato. Por eso nos parecía importante que pudiera comparecer y que rompiera el silencio que ha mantenido hasta ahora en relación con la conveniencia o no de aplazar las elecciones en Cataluña, porque así lo hizo en las elecciones vascas y gallegas, cuando expresó su posición y cuando manifestó que estaba de acuerdo con ese aplazamiento. Ese silencio contrasta con esas declaraciones. Por tanto, parece razonable que haya ciudadanos que se planteen si su posición viene influida o no por esa doble condición y por el miedo a que el efecto Illa se pueda convertir en el suflé Illa. Precisamente por eso nosotros pensamos --termino, presidenta-- que si finalmente las elecciones se celebran en la fecha que está prevista, si el Tribunal Superior de Justicia de Cataluña no dice lo contrario, vamos a celebrar las elecciones en un contexto en el que los hospitales van a estar muy tensados y las UCI van a estar al borde del colapso. Por tanto, creo que el ministro Illa debería dar explicaciones para darnos cuenta de la evolución de la pandemia y para dilucidar todas las dudas que se han planteado a lo largo de estas semanas sobre su actuación como ministro y candidato del Partido Socialista a la vez."
+}

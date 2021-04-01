@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-15T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON VÍCTOR MANUEL SÁNCHEZ DEL REAL, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿VA A SEGUIR EL GOBIERNO COMPRANDO LA PROTECCIÓN MEDIÁTICA CON EL DINERO DE LOS ESPAÑOLES? ",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            32
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-018.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DEL INTERIOR (Grande-Marlaska Gómez)"
+    },
+    "text": "Muchas gracias, señora presidenta. Señor Sánchez del Real, el Gobierno de España no compra protección mediática. El Gobierno de España se protege con su trabajo del día a día y con su compromiso con la sociedad española en la lucha contra el virus. Quiero referirle que todas las políticas de comunicación institucional se materializan en términos de transparencia y en términos de la legalidad vigente, y las ayudas que se han decretado para medios de comunicación --algunas de ellas en el Real Decreto ley 11/2020, como usted bien conoce-- tienen consecuencia o razón en el impacto económico de la crisis del coronavirus, en el impacto sobre el empleo y sobre los ingresos y en la necesidad de garantizar la información pública, la información de los distintos medios de comunicación para generar información pública. (Aplausos)."
+}

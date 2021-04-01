@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-01-04T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Álvarez de Toledo Peralta-Ramos",
+                "apellidosNombre": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+                "codParlamentario": 308,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Cayetana",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/cayetanaAT",
+                "twitterUserId": "303168830",
+                "twitterUserName": "cayetanaAT"
+            },
+            0
+        ],
+        "order": 6,
+        "path": "../data/diaries-txts/DSCD-14-PL-002.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ÁLVAREZ DE TOLEDO PERALTA-RAMOS"
+    },
+    "text": "Gracias, señora presidenta. En función del artículo 72.2 del Reglamento, mi grupo pide que antes de esta sesión de investidura se lea por parte de la Presidencia o de la Secretaría de esta Cámara el acuerdo entre Esquerra Republicana de Catalunya y el Partido Socialista de creación de una mesa entre el Gobierno de España y el Govern de la Generalitat de Catalunya para la resolución del conflicto político. Nos parece que es de absoluta pertinencia para este debate. (Rumores.--Aplausos)."
+}

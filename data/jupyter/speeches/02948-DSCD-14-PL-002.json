@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-04-29T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON JOSÉ MARÍA SÁNCHEZ GARCÍA, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿CONSIDERA EL GOBIERNO QUE HA HECHO USO Y ABUSO DEL ESTADO DE ALARMA POR LA CRISIS SANITARIA DE LA COVID-19? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez García",
+                "apellidosNombre": "Sánchez García, José María",
+                "codParlamentario": 322,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-020.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ GARCÍA"
+    },
+    "text": "Señor ministro, ¿considera usted que el Gobierno ha abusado del estado de alarma?"
+}

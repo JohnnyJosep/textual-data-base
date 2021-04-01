@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-11T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORGÁNICA DE REGULACIÓN DE LA EUTANASIA). ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez García",
+                "apellidosNombre": "Sánchez García, José María",
+                "codParlamentario": 322,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 123,
+        "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ GARCÍA"
+    },
+    "text": "Concluyo. A ese desatino han contribuido incesantemente, primero, los Gobiernos centristas, luego el Gobierno del Partido Socialista durante catorce años, posteriormente el Gobierno del Partido Popular durante ocho, después el señor Zapatero durante siete y, finalmente, el señor Rajoy en su mandato. Y a día de hoy estamos en esta situación deplorable con este Gobierno. No he dicho nada…"
+}

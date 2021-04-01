@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-11-27T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, RELATIVA A GARANTIZAR LA PROTECCIÓN, INCLUSIÓN Y ATENCIÓN ADECUADA DE LOS Y LAS MENORES MIGRANTES NO ACOMPAÑADOS. ",
+        "diputado": [
+            {
+                "apellidos": "Anguita Pérez",
+                "apellidosNombre": "Anguita Pérez, Omar",
+                "codParlamentario": 354,
+                "fchAlta": "29/01/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Omar",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/AnguitaOmar",
+                "twitterUserId": "875222185",
+                "twitterUserName": "AnguitaOmar"
+            },
+            0
+        ],
+        "order": 27,
+        "path": "../data/diaries-txts/DSCD-14-PL-057.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ANGUITA PÉREZ"
+    },
+    "text": "Agradecemos las aportaciones de los grupos, pero mantendremos el texto inicial."
+}

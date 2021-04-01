@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-08-25T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DEL -- COMPARECENCIA URGENTE DEL VICEPRESIDENTE SEGUNDO DEL GOBIERNO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030, PARA DAR CUENTA DE LAS ÚLTIMAS INFORMACIONES RELATIVAS A LA FINANCIACIÓN IRREGULAR DE PODEMOS Y LA RECIENTE IMPUTACIÓN, TANTO DEL PARTIDO COMO DE ALTOS CARGOS DEL MISMO, Y EL PAPEL DEL VICEPRESIDENTE EN ESTE ASUNTO.",
+        "diputado": [
+            {
+                "apellidos": "Aizpurua Arzallus",
+                "apellidosNombre": "Aizpurua Arzallus, Mertxe",
+                "codParlamentario": 69,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Mertxe",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/MertxeAizpurua",
+                "twitterUserId": "555326714",
+                "twitterUserName": "MertxeAizpurua"
+            },
+            0
+        ],
+        "order": 19,
+        "path": "../data/diaries-txts/DSCD-14-PL-040.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "AIZPURUA ARZALLUS"
+    },
+    "text": "Eskerrik asko. El PP, autor y coautor de las iniciativas que se presentan, es la única formación política del Estado español que ha sido declarada judicialmente responsable de una trama de corrupción que afecta desde el principio al final al partido. No caeremos en el juego que este partido pretende comenzar con las iniciativas y consecuentemente votaremos en contra. Gracias."
+}

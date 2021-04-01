@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-14T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROYECTO DE LEY ORGÁNICA SOBRE LA UTILIZACIÓN DE LOS DATOS DEL REGISTRO DE NOMBRES DE PASAJEROS PARA LA PREVENCIÓN, DETECCIÓN, INVESTIGACIÓN Y ENJUICIAMIENTO DE DELITOS DE TERRORISMO Y DELITOS GRAVES. ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez García",
+                "apellidosNombre": "Sánchez García, José María",
+                "codParlamentario": 322,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "José María",
+                "nombreCircunscripcion": "Alicante/Alacant"
+            },
+            0
+        ],
+        "order": 17,
+        "path": "../data/diaries-txts/DSCD-14-PL-034.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "SÁNCHEZ GARCÍA"
+    },
+    "text": "Con la venia, señor vicepresidente. En ejercicio de la Presidencia, mis palabras iniciales tienen que ser de reproche a esta Presidencia. No ha llamado al orden a la portavoz señora Nogueras."
+}

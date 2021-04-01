@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-17T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 34/2020, DE 17 DE NOVIEMBRE, DE MEDIDAS URGENTES DE APOYO A LA SOLVENCIA EMPRESARIAL Y AL SECTOR ENERGÉTICO, Y EN MATERIA TRIBUTARIA. ",
+        "diputado": [
+            {
+                "apellidos": "Blanquer Alcaraz",
+                "apellidosNombre": "Blanquer Alcaraz, Patricia",
+                "codParlamentario": 71,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 3,
+                "idLegislatura": 14,
+                "nombre": "Patricia",
+                "nombreCircunscripcion": "Alicante/Alacant",
+                "twitter": "https://twitter.com/Patri_Blanquer",
+                "twitterUserId": "399278810",
+                "twitterUserName": "Patri_Blanquer"
+            },
+            0
+        ],
+        "order": 35,
+        "path": "../data/diaries-txts/DSCD-14-PL-071.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BLANQUER ALCARAZ"
+    },
+    "text": "En definitiva, todas las medidas incluidas son positivas, están adaptadas en tiempo y forma y, por tanto, votaremos a favor de este real decreto-ley. Muchísimas gracias. (Prolongados aplausos de las señoras y los señores diputados de los grupos parlamentarios Socialista y Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, puestos en pie)."
+}

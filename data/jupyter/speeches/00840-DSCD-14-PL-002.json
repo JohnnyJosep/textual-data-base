@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-11T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DEL GRUPO PARLAMENTARIO SOCIALISTA, ORGÁNICA DE REGULACIÓN DE LA EUTANASIA). ",
+        "diputado": [
+            {
+                "apellidos": "Ros Martínez",
+                "apellidosNombre": "Ros Martínez, Susana",
+                "codParlamentario": 53,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 12,
+                "idLegislatura": 14,
+                "nombre": "Susana",
+                "nombreCircunscripcion": "Castellón/Castelló",
+                "twitter": "https://twitter.com/susana_ros",
+                "twitterUserId": "365957901",
+                "twitterUserName": "susana_ros"
+            },
+            0
+        ],
+        "order": 104,
+        "path": "../data/diaries-txts/DSCD-14-PL-007.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ROS MARTÍNEZ"
+    },
+    "text": "Aceptaremos la enmienda número 2 de Más País-Equo, la enmienda número 1 de Junts per Catalunya y la enmienda número 1 de Esquerra Republicana."
+}

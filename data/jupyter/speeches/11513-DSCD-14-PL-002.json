@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-12-19T00:00:00.000Z",
+        "debate": "CONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN): -- REAL DECRETO-LEY 32/2020, DE 3 DE NOVIEMBRE, POR EL QUE SE APRUEBAN MEDIDAS SOCIALES COMPLEMENTARIAS PARA LA PROTECCIÓN POR DESEMPLEO Y DE APOYO AL SECTOR CULTURAL. ",
+        "diputado": [
+            {
+                "apellidos": "Agirretxea Urresti",
+                "apellidosNombre": "Agirretxea Urresti, Joseba Andoni",
+                "codParlamentario": 99,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "EAJ-PNV",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Vasco (EAJ-PNV)",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Joseba Andoni",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/jagirretxea",
+                "twitterUserId": "821764964",
+                "twitterUserName": "jagirretxea"
+            },
+            1
+        ],
+        "order": 9,
+        "path": "../data/diaries-txts/DSCD-14-PL-064.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "AGIRRETEXEA URRESTI"
+    },
+    "text": "Finalizo, señora presidenta. Por lo tanto, vamos a apoyar este decreto porque consideramos necesario que la gente que sí está incluida pueda tener estas ayudas y pueda volver a una situación mínimamente digna dentro de su actividad. Muchísimas gracias, señora presidenta."
+}

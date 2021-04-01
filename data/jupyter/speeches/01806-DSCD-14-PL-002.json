@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-25T00:00:00.000Z",
+        "debate": "JURAMENTO O PROMESA DE ACATAMIENTO DE LA CONSTITUCIÓN POR NUEVOS SEÑORES DIPUTADOS.",
+        "diputado": [
+            {
+                "apellidos": "Arribas Maroto",
+                "apellidosNombre": "Arribas Maroto, Manuel",
+                "codParlamentario": 369,
+                "fchAlta": "24/02/2020",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 5,
+                "idLegislatura": 14,
+                "nombre": "Manuel",
+                "nombreCircunscripcion": "Ávila",
+                "twitter": "https://twitter.com/ArribasManuel",
+                "twitterUserId": "396773774",
+                "twitterUserName": "ArribasManuel"
+            },
+            0
+        ],
+        "order": 17,
+        "path": "../data/diaries-txts/DSCD-14-PL-012.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ARRIBAS MAROTO"
+    },
+    "text": "Sí, prometo."
+}

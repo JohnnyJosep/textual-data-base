@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-18T00:00:00.000Z",
+        "debate": "PROPOSICIONES NO DE LEY. (VOTACIÓN): -- DEL GRUPO P ARLAMENT ARIO VOX, RELA TIV A A LA APLICACIÓN DE LAS MEDIDAS NECESARIAS PARA ACABAR CON EL INVIERNO DEMOGRÁFICO, FOMENTAR LA NATALIDAD Y PROTEGER LA FAMILIA COMO NÚCLEO DE LA SOCIEDAD. ",
+        "diputado": [
+            {
+                "apellidos": "González Coello de Portugal",
+                "apellidosNombre": "González Coello de Portugal, Víctor",
+                "codParlamentario": 76,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 37,
+                "idLegislatura": 14,
+                "nombre": "Víctor",
+                "nombreCircunscripcion": "Salamanca",
+                "twitter": "https://twitter.com/vicpiedra",
+                "twitterUserId": "49607100",
+                "twitterUserName": "vicpiedra"
+            },
+            0
+        ],
+        "order": 117,
+        "path": "../data/diaries-txts/DSCD-14-PL-009.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GONZÁLEZ COELLO DE PORTUGAL"
+    },
+    "text": "Dos minutos."
+}

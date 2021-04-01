@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-23T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY: -- DE LOS GRUPOS PARLAMENTARIOS SOCIALISTA Y CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-GALICIA EN COMÚN, ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 5/1985, DE 19 DE JUNIO, DEL RÉGIMEN ELECTORAL GENERAL, PARA LA REGULACIÓN DEL EJERCICIO DEL VOTO POR LOS ESPAÑOLES QUE VIVEN EN EL EXTRANJERO. ",
+        "diputado": [
+            {
+                "apellidos": "Manso Olivar",
+                "apellidosNombre": "Manso Olivar, Rubén Silvano",
+                "codParlamentario": 119,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 29,
+                "idLegislatura": 14,
+                "nombre": "Rubén Silvano",
+                "nombreCircunscripcion": "Málaga",
+                "twitter": "https://twitter.com/rubenmansolivar",
+                "twitterUserId": "386796948",
+                "twitterUserName": "rubenmansolivar"
+            },
+            0
+        ],
+        "order": 110,
+        "path": "../data/diaries-txts/DSCD-14-PL-081.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MANSO OLIVAR"
+    },
+    "text": "Muchas gracias. (Prolongados aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos en pie)."
+}

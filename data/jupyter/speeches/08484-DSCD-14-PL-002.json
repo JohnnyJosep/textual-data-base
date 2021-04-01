@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-23T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON TOMÁS GUITARTE GIMENO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA A LA SEÑORA MINISTRA DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA: ¿CUÁL ES LA DISPOSICIÓN DEL GOBIERNO PARA CONSOLIDAR PLANTILLAS ESTABLES DE EMPLEADOS PÚBLICOS, PERTENECIENTES A LA ADMINISTRACIÓN DEL ESTADO Y A LAS EMPRESAS PÚBLICAS QUE NO ESTÁN CUBIERTAS EN EL MEDIO RURAL Y PEQUEÑAS CIUDADES DE ARAGÓN? ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "Señora ministra, ¿cuál es la disposición del Gobierno para consolidar plantillas estables pertenecientes a la Administración del Estado y a las empresas públicas que no están cubiertas en el medio rural y en las pequeñas ciudades de Aragón?"
+}

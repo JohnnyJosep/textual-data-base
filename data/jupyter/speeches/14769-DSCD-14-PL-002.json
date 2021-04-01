@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-17T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE SI TIENE PREVISTO EL GOBIERNO UN GIRO EN SU POLÍTICA TERRITORIAL, Y EN PARTICULAR RESPECTO AL CONFLICTO CON CATALUÑA. ",
+        "diputado": [
+            {
+                "apellidos": "Betoret Coll",
+                "apellidosNombre": "Betoret Coll, Vicente",
+                "codParlamentario": 228,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 46,
+                "idLegislatura": 14,
+                "nombre": "Vicente",
+                "nombreCircunscripcion": "Valencia/València",
+                "twitter": "https://twitter.com/VicenteBetoret",
+                "twitterUserId": "141173322",
+                "twitterUserName": "VicenteBetoret"
+            },
+            0
+        ],
+        "order": 25,
+        "path": "../data/diaries-txts/DSCD-14-PL-079.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "BETORET COLL"
+    },
+    "text": "Acabo ya. Eso es una irresponsabilidad mayúscula y más aún estando en el Gobierno; una irresponsabilidad que, sin ninguna duda y por desgracia, pagaremos todos los españoles, especialmente los que están en Cataluña. Muchas gracias. (Aplausos)."
+}

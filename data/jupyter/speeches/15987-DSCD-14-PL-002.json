@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-05-11T00:00:00.000Z",
+        "debate": "DICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS: -- PROPOSICIÓN DE LEY ORGÁNICA DE DEROGACIÓN DEL ARTÍCULO 315, APARTADO 3, DEL CÓDIGO PENAL. ",
+        "diputado": [
+            {
+                "apellidos": "Olano Vela",
+                "apellidosNombre": "Olano Vela, Jaime Eduardo de",
+                "codParlamentario": 167,
+                "fchAlta": "25/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 27,
+                "idLegislatura": 14,
+                "nombre": "Jaime Eduardo de",
+                "nombreCircunscripcion": "Lugo",
+                "twitter": "https://twitter.com/jaimedeolano",
+                "twitterUserId": "1637483929",
+                "twitterUserName": "jaimedeolano"
+            },
+            3
+        ],
+        "order": 11,
+        "path": "../data/diaries-txts/DSCD-14-PL-086.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "DE OLANO VELA"
+    },
+    "text": "Gracias por su generosidad, señora presidenta. (Aplausos)."
+}

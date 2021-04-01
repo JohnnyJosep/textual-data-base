@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-17T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON CARLOS GARCÍA ADANERO, DEL GRUPO PARLAMENTARIO MIXTO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿CREE QUE TIENE EL GOBIERNO ADECUADO PARA LLEVAR A CABO LA RECONSTRUCCIÓN SOCIAL Y ECONÓMICA DE ESPAÑA? ",
+        "diputado": [
+            {
+                "apellidos": "García Adanero",
+                "apellidosNombre": "García Adanero, Carlos",
+                "codParlamentario": 127,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "NA+",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 31,
+                "idLegislatura": 14,
+                "nombre": "Carlos",
+                "nombreCircunscripcion": "Navarra"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-030.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA ADANERO"
+    },
+    "text": "Muchas gracias, señora presidenta. Señor Sánchez, ¿cree usted que tiene el Gobierno más apropiado para la reconstrucción económica y social de España?"
+}

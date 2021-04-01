@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "celebrated": "2020-03-06T00:00:00.000Z",
+        "debate": "SOLICITUD DE AUTORIZACIÓN DE LA PRÓRROGA DEL ESTADO DE ALARMA DECLARADO MEDIANTE EL REAL DECRETO 463/2020, DE 14 DE MARZO, POR EL QUE SE DECLARA EL ESTADO DE ALARMA PARA LA GESTIÓN DE LA SITUACIÓN DE CRISIS SANITARIA OCASIONADA POR EL COVID-19, PRORROGADO POR LOS REALES DECRETOS 476/2020, DE 27 DE MARZO, 487/2020, DE 10 DE ABRIL, Y 492/2020, DE 24 DE ABRIL. ",
+        "diputado": [
+            {
+                "apellidos": "Guitarte Gimeno",
+                "apellidosNombre": "Guitarte Gimeno, Tomás",
+                "codParlamentario": 306,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "¡Teruel Existe!",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Mixto",
+                "idCircunscripcion": 44,
+                "idLegislatura": 14,
+                "nombre": "Tomás",
+                "nombreCircunscripcion": "Teruel"
+            },
+            0
+        ],
+        "order": 44,
+        "path": "../data/diaries-txts/DSCD-14-PL-021.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GUITARTE GIMENO"
+    },
+    "text": "En ese afán de colaborar quiero comunicar que, por ejemplo, en nuestra provincia hemos gestionado el inicio de un pacto por la reconstrucción, animados por las palabras del presidente y el propio pacto que se va a constituir aquí mañana, en el que toda la sociedad civil va a ser capaz de contribuir de forma transversal a solucionar aportando aquello que cree bueno y conveniente para la provincia y el país. Creo que es un ejemplo que se debería tomar y que, de forma constructiva, vayamos aportando todos desde nuestros territorios aquello que creemos necesario para un nuevo orden económico o un nuevo modelo de desarrollo que mejore la situación en el conjunto de España. Solos, en general, podemos hacer poco. Si vamos juntos, podremos hacer mucho. Gracias."
+}

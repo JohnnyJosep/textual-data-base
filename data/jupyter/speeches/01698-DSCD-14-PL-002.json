@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MARÍA TERESA LÓPEZ ÁL V AREZ, DEL GRUPO P ARLAMENT ARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿VA A DEJAR DE FOMENTAR EL GOBIERNO LA INMIGRACIÓN ILEGAL? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            55
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES (Escrivá Belmonte)"
+    },
+    "text": "Señora López Álvarez, en primer lugar, permítame que me dirija hacia la pantalla, aunque le dé la espalda, para que se me pueda oír y responda por el señor Marlaska en términos solidarios, ya que puede ser contestada por el Gobierno. La contestación es clara: no solamente el Gobierno español, yo diría que ningún Gobierno, al menos europeo, en ningún caso fomenta la inmigración irregular, en ningún caso. Lo que hace es intentar evitar que ocurra. (Aplausos)."
+}

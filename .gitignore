@@ -1,6 +1,7 @@
 # Data
 venv/
-data/
+data/elasticsearch/
+data/kibana/
 __pycache__/
 *.pyc
 bin/

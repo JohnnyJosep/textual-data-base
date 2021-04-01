@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-19T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUT ADA DOÑA MARÍA EL VIRA RODRÍ GUEZ HERRER, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA A LA SEÑORA MINISTRA DE HACIENDA: ¿QUÉ ESCENARIO CONTEMPLA EL GOBIERNO PARA LA ELABORACIÓN DE LOS PRÓXIMOS PRESUPUESTOS? ",
+        "diputado": [
+            {
+                "apellidos": "Rodríguez Herrer",
+                "apellidosNombre": "Rodríguez Herrer, María Elvira",
+                "codParlamentario": 123,
+                "fchAlta": "21/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "María Elvira",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/erodriguez_2019",
+                "twitterUserId": "1184610201812590593",
+                "twitterUserName": "erodriguez_2019"
+            },
+            1
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-010.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "RODRÍ GUEZ HERRER"
+    },
+    "text": "Gracias, presidenta. Señora ministra, el pasado día 11 anunció la voluntad del Gobierno de aprobar el proyecto de presupuestos para 2020 a lo largo del verano para su tramitación en el Congreso o para que se iniciara en el mes de septiembre. Por esto le realizo la pregunta registrada que, por si no se han dado cuenta, va de normalidad y de responsabilidad. (Aplausos)."
+}

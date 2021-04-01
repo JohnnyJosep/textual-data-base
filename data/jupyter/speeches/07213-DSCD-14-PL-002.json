@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-09T00:00:00.000Z",
+        "debate": "PREGUNTAS: ─ DEL DIPUT ADO DON P ABLO CASADO BLANCO, DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿HA DERROTADO EL GOBIERNO EL VIRUS? -- DEL DIPUTADO DON TEODORO GARCÍA EGEA, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR VICEPRESIDENTE SEGUNDO Y MINISTRO DE DERECHOS SOCIALES Y AGENDA 2030: ¿CONSIDERA EL VICEPRESIDENTE SEGUNDO QUE TIENE ALGUNA RESPONSABILIDAD EN EL HECHO DE QUE EL GOBIERNO DE ESPAÑA SEA EL QUE PEOR HA GESTIONADO LA PANDEMIA DEL COVID EN EUROPA? ",
+        "diputado": [
+            {
+                "apellidos": "García Egea",
+                "apellidosNombre": "García Egea, Teodoro",
+                "codParlamentario": 310,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 30,
+                "idLegislatura": 14,
+                "nombre": "Teodoro",
+                "nombreCircunscripcion": "Murcia",
+                "twitter": "https://twitter.com/teogarciaegea",
+                "twitterUserId": "224074203",
+                "twitterUserName": "teogarciaegea"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-042.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "GARCÍA EGEA"
+    },
+    "text": "Gracias, señora presidenta. Señores del Gobierno, ETA es una banda terrorista, no una banda de música, señor Sánchez, que hay que ver cómo le gusta a usted insultar al PP pero a sus socios le cuesta describirlos. (Aplausos). Señor Iglesias, le he visto poco este verano, se ve que estaba usted liado con la fusión de Bankia y La Caixa y no ha tenido tiempo de aparecer mucho. Tenemos 3,8 millones de españoles en paro, 800 000 en un ERTE, 1 millón de autónomos en la cuerda floja. Con ustedes ya hemos entrado oficialmente de nuevo en la Champions: somos el único país con indicadores negativos adelantados durante dos meses; somos el país número uno en paro juvenil; somos los primeros en infectados. Señor Iglesias, ¿sus asesores han cobrado este mes, verdad? Pues hay gente en el ERTE que no. ¿Su amigo el de las puertas giratorias ha cobrado este mes, no? Pues hay gente en el ingreso mínimo vital que no ha cobrado. Señor Iglesias, ¿qué responsabilidad tiene el Gobierno en que España sea el país que peor ha gestionado la pandemia? (Aplausos)."
+}

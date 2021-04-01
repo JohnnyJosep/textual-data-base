@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-23T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MARGARITA PROHENS RIGO, DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, QUE FORMULA AL SEÑOR MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES: ¿A CUÁNTAS FAMILIAS QUE HAN SOLICITADO EL INGRESO MÍNIMO VITAL SE LES HA CONCEDIDO A FECHA 31 DE AGOSTO DE 2020? ",
+        "diputado": [
+            {
+                "apellidos": "Espinosa de los Monteros de Simón",
+                "apellidosNombre": "Espinosa de los Monteros de Simón, Iván",
+                "codParlamentario": 83,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Iván",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/ivanedlm",
+                "twitterUserId": "48976307",
+                "twitterUserName": "ivanedlm"
+            },
+            55
+        ],
+        "order": 7,
+        "path": "../data/diaries-txts/DSCD-14-PL-047.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "MINISTRO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES (Escrivá Belmonte)"
+    },
+    "text": "Creo que es difícil encontrar una intervención más demagógica. (Rumores.--Aplausos). De los 840 000 expedientes que ha recibido la Seguridad Social --y es un éxito recibir en este periodo 840 000 expedientes--, se han resuelto en tres meses el 40 %. De ese 40 %, aproximadamente a un tercio ya se ha concedido el ingreso mínimo vital. Un 45 % está pendiente, y se ha contactado con los potenciales beneficiarios para que completen el expediente. Finalmente, hay una denegación en torno a un 20 %. (Rumores)."
+}

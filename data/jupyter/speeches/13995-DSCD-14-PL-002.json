@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2021-02-03T00:00:00.000Z",
+        "debate": "VOX. -- DEL DIPUTADO DON FRANCISCO JAVIER ORTEGA SMITH-MOLINA, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DEL INTERIOR: ¿VA A GARANTIZAR QUE LA CAMPAÑA ELECTORAL CATALANA SE DESARROLLE SIN VIOLENCIA SOBRE NINGUNA DE LAS CANDIDATURAS CONCURRENTES? ",
+        "diputado": [
+            {
+                "apellidos": "Ortega Smith-Molina",
+                "apellidosNombre": "Ortega Smith-Molina, Francisco Javier",
+                "codParlamentario": 326,
+                "fchAlta": "29/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Francisco Javier",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/Ortega_Smith",
+                "twitterUserId": "1118941682",
+                "twitterUserName": "Ortega_Smith"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-076.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "ORTEGA SMITH-MOLINA"
+    },
+    "text": "Señor ministro del Interior, ¿va a garantizar que las elecciones en Cataluña puedan desarrollarse sin violencia contra ninguna de las candidaturas concurrentes? Gracias."
+}

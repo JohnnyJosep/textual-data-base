@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-09-08T00:00:00.000Z",
+        "debate": "MOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES: -- DEL GRUPO P ARLAMENT ARIO POPULAR EN EL CONGRESO, SOBRE LAS MEDIDAS QUE ESTÁ PONIENDO EN MARCHA EL GOBIERNO DE ESP AÑA P ARA LA REACTIV ACIÓN DE LA ECONOMÍA. ",
+        "diputado": [
+            {
+                "apellidos": "Castellón Rubio",
+                "apellidosNombre": "Castellón Rubio, Miguel Ángel",
+                "codParlamentario": 74,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PP",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Popular en el Congreso",
+                "idCircunscripcion": 4,
+                "idLegislatura": 14,
+                "nombre": "Miguel Ángel",
+                "nombreCircunscripcion": "Almería",
+                "twitter": "https://twitter.com/mcastellonPP",
+                "twitterUserId": "265938163",
+                "twitterUserName": "mcastellonPP"
+            },
+            0
+        ],
+        "order": 29,
+        "path": "../data/diaries-txts/DSCD-14-PL-041.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "CASTELLÓN RUBIO"
+    },
+    "text": "Señora presidenta, aunque podemos compartir alguna parte de las mismas --esta es una moción de política general económica--, son muy concretas. Preferimos que se vote en los términos presentados."
+}

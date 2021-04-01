@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-13-15T00:00:00.000Z",
+        "debate": "TOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY DE INICIATIVA POPULAR. (VOTACIÓN): -- PROPOSICIÓN DE LEY SOBRE RATIOS DE ENFERMERAS PARA GARANTIZAR LA SEGURIDAD DEL PACIENTE EN CENTROS SANITARIOS Y OTROS ÁMBITOS (CORRESPONDE A LOS NÚMEROS DE EXPEDIENTE 120/000018 DE LA XII LEGISLATURA Y 120/000005 DE LA XIII LEGISLATURA). ",
+        "diputado": [
+            {
+                "apellidos": "Vicente Viondi",
+                "apellidosNombre": "Vicente Viondi, Daniel",
+                "codParlamentario": 80,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Daniel",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/viondi",
+                "twitterUserId": "15667049",
+                "twitterUserName": "viondi"
+            },
+            0
+        ],
+        "order": 120,
+        "path": "../data/diaries-txts/DSCD-14-PL-069.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "VICENTE VIONDI"
+    },
+    "text": "Aceptamos la que ha presentado el Grupo Parlamentario Socialista y la del Grupo Confederal de Unidas Podemos."
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-07-28T00:00:00.000Z",
+        "debate": "PETICIÓN FORMULADA POR UN NÚMERO SUFICIENTE DE DIPUTADOS MIEMBROS DE LA DIPUTACIÓN PERMANENTE, PERTENECIENTES AL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, DE QUE SE ACUERDE LA CONVOCATORIA DE UNA SESIÓN EXTRAORDINARIA DE LA COMISIÓN MIXTA DE CONTROL PARLAMENTARIO DE LA CORPORACIÓN RTVE Y SUS -- COMPARECENCIA URGENTE DE LA ADMINISTRADORA PROVISIONAL ÚNICA PARA LA CORPORACIÓN RTVE, PARA DAR CUENTA DE LOS CESES, DIMISIONES Y NOMBRAMIENTOS DE LOS ÚLTIMOS DÍAS TANTO EN LA DIRECCIÓN DE RNE COMO EN TVE.",
+        "diputado": [
+            {
+                "apellidos": "Batet Lamaña",
+                "apellidosNombre": "Batet Lamaña, Meritxell",
+                "codParlamentario": 215,
+                "fchAlta": "26/11/2019",
+                "fchBaja": "",
+                "formacion": "PSC-PSOE",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 8,
+                "idLegislatura": 14,
+                "nombre": "Meritxell",
+                "nombreCircunscripcion": "Barcelona",
+                "twitter": "https://twitter.com/meritxell_batet",
+                "twitterUserId": "725700028392689664",
+                "twitterUserName": "meritxell_batet"
+            },
+            10
+        ],
+        "order": 0,
+        "path": "../data/diaries-txts/DSCD-14-PL-038.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTA"
+    },
+    "text": "Punto primero del orden del día: Petición formulada por un número suficiente de diputados miembros de la Diputación Permanente, pertenecientes al Grupo Parlamentario Popular en el Congreso, de que se acuerde la convocatoria de una sesión extraordinaria de la Comisión Mixta de Control Parlamentario de la Corporación Radiotelevisión Española y sus Sociedades, con el siguiente orden del día: Comparecencia urgente de la administradora provisional única para la Corporación Radiotelevisión Española para dar cuenta de los ceses, dimisiones y nombramientos de los últimos días tanto en la dirección de Radio Nacional de España como en Televisión Española. Para la defensa de la iniciativa, por el Grupo Parlamentario Popular en el Congreso tiene la palabra la señora Montesinos de Miguel."
+}

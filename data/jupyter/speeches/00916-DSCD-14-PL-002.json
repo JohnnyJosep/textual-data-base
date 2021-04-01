@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-12T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON SANTIAGO ABASCAL CONDE, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿SE REUNIÓ EL MINISTRO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA, SEÑOR ÁBALOS, CON LA VICEPRESIDENTA DE VENEZUELA, DOÑA DELCY RODRÍ GUEZ, EN EL AEROPUERTO MADRID­BARAJAS ADOLFO SUÁREZ Y FUERA DEL AVIÓN POR INSTRUCCIONES EXPRESAS DEL PRESIDENTE DEL GOBIERNO? ",
+        "diputado": [
+            {
+                "apellidos": "Sánchez Pérez-Castejón",
+                "apellidosNombre": "Sánchez Pérez-Castejón, Pedro",
+                "codParlamentario": 274,
+                "fchAlta": "27/11/2019",
+                "fchBaja": "",
+                "formacion": "PSOE",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario Socialista",
+                "idCircunscripcion": 28,
+                "idLegislatura": 14,
+                "nombre": "Pedro",
+                "nombreCircunscripcion": "Madrid",
+                "twitter": "https://twitter.com/sanchezcastejon",
+                "twitterUserId": "68740712",
+                "twitterUserName": "sanchezcastejon"
+            },
+            26
+        ],
+        "order": 3,
+        "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "PRESIDENTE DEL GOBIERNO (Sánchez Pérez-Castejón)"
+    },
+    "text": "Señor Abascal, señorías, el señor Ábalos hizo su deber, que fue evitar con su intervención una crisis diplomática. (Risas.--Rumores.-- Aplausos)."
+}

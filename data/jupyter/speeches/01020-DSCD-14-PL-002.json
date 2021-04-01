@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-02-12T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DEL DIPUTADO DON ÁNGEL LÓPEZ MARAVER, DEL GRUPO PARLAMENTARIO VOX, QUE FORMULA AL SEÑOR MINISTRO DE AGRICULTURA, PESCA Y ALIMENTACIÓN: ¿QUÉ MEDIDAS VA A ADOPTAR EL GOBIERNO PARA SATISFACER LAS LEGÍTIMAS REIVINDICACIONES DEL MUNDO RURAL ESPAÑOL? ",
+        "diputado": [
+            {
+                "apellidos": "López Maraver",
+                "apellidosNombre": "López Maraver, Ángel",
+                "codParlamentario": 311,
+                "fchAlta": "28/11/2019",
+                "fchBaja": "",
+                "formacion": "Vox",
+                "genero": 1,
+                "grupo": "Grupo Parlamentario VOX",
+                "idCircunscripcion": 19,
+                "idLegislatura": 14,
+                "nombre": "Ángel",
+                "nombreCircunscripcion": "Guadalajara",
+                "twitter": "https://twitter.com/A_LopezMaraver",
+                "twitterUserId": "1039475426651979781",
+                "twitterUserName": "A_LopezMaraver"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-008.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "LÓPEZ MARAVER"
+    },
+    "text": "Buenos días, señor Planas. ¿Qué medidas va a adoptar el Gobierno para satisfacer las legítimas reivindicaciones del mundo rural español?"
+}

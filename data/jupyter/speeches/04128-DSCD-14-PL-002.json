@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "celebrated": "2020-06-10T00:00:00.000Z",
+        "debate": "PREGUNTAS: -- DE LA DIPUTADA DOÑA MERTXE AIZPURUA ARZALLUS, DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, QUE FORMULA AL SEÑOR PRESIDENTE DEL GOBIERNO: ¿SE COMPROMETE A NO HACER RECORTES? ",
+        "diputado": [
+            {
+                "apellidos": "Aizpurua Arzallus",
+                "apellidosNombre": "Aizpurua Arzallus, Mertxe",
+                "codParlamentario": 69,
+                "fchAlta": "20/11/2019",
+                "fchBaja": "",
+                "formacion": "EH Bildu",
+                "genero": 2,
+                "grupo": "Grupo Parlamentario Euskal Herria Bildu",
+                "idCircunscripcion": 20,
+                "idLegislatura": 14,
+                "nombre": "Mertxe",
+                "nombreCircunscripcion": "Gipuzkoa",
+                "twitter": "https://twitter.com/MertxeAizpurua",
+                "twitterUserId": "555326714",
+                "twitterUserName": "MertxeAizpurua"
+            },
+            0
+        ],
+        "order": 1,
+        "path": "../data/diaries-txts/DSCD-14-PL-027.txt",
+        "president": "MERITXELL BATET LAMAÑA",
+        "presidentTreatment": "Presidenta",
+        "speacker": "AIZPURUA ARZALLUS"
+    },
+    "text": "Señor Sánchez, hoy le hago la pregunta que prácticamente toda la ciudadanía se está haciendo: ¿hará usted recortes públicos y sociales? ¿Aplicará las recetas de austeridad y recortes que tanto daño hicieron en 2008 a la gente? Le pido claridad en su respuesta, no por nosotras, sino porque la ciudadanía se merece claridad y que le digan la verdad. Por eso le pregunto directa y claramente: ¿Se compromete a no realizar recortes?"
+}
