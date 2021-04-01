@@ -1,31 +1,30 @@
 version: '3.9'
-
 services:
 
   freeling:
     container_name: tfg-freeling
     hostname: my-freeling
-    build: 
+    build:
       context: ./docker
       dockerfile: freeling.dockerfile
     command: analyze -f es.cfg --server -p 50005
-    ports: 
-      - 50005:50005
-    networks: 
+    ports:
+      - '50005:50005'
+    networks:
       - tfg-network
 
   freelingapi:
     container_name: tfg-freeling-api
     hostname: my-freeling-api
-    build: 
+    build:
       context: ./docker
       dockerfile: freelingapi.dockerfile
     command: /usr/bin/java -jar /freelingapi.jar
     ports:
-      - 8080:8080
-    networks: 
+      - '8080:8080'
+    networks:
       - tfg-network
-    depends_on: 
+    depends_on:
       - freeling
 
   pdfapi:
@@ -34,60 +33,59 @@ services:
     build:
       context: ./TextualApi
       dockerfile: dotnet.dockerfile
-    ports: 
-      - 8081:80
-    networks: 
+    ports:
+      - '8081:80'
+    networks:
       - tfg-network
 
   elasticsearch:
     container_name: tfg-elasticsearch
-    image: elasticsearch:7.10.1
+    image: 'elasticsearch:7.10.1'
     hostname: my-elasticsearch
-    volumes: 
-      - ./data/elasticsearch:/usr/share/elasticsearch/data
-    environment: 
+    volumes:
+      - './data/elasticsearch:/usr/share/elasticsearch/data'
+    environment:
       - discovery.type=single-node
       - ELASTIC_PASSWORD=password
       - xpack.security.enabled=true
-    ports: 
-      - 9200:9200
-      - 9300:9300
-    networks: 
+    ports:
+      - '9200:9200'
+      - '9300:9300'
+    networks:
       - tfg-network
 
   kibana:
     container_name: tfg-kibana
-    image: kibana:7.10.1
-    environment: 
+    image: 'kibana:7.10.1'
+    environment:
       - ELASTICSEARCH_USERNAME=elastic
       - ELASTICSEARCH_PASSWORD=password
-    ports: 
-      - 5601:5601
-    networks: 
+    ports:
+      - '5601:5601'
+    networks:
       - tfg-network
-    depends_on: 
+    depends_on:
       - elasticsearch
 
   jupyterlab:
     container_name: tfg-jupyterlab
     image: jupyter/datascience-notebook
-    volumes: 
-      - ./Notebooks:/home/jovyan/work
-      - ./data/jupyter:/home/jovyan/data
-    environment: 
+    volumes:
+      - './Notebooks:/home/jovyan/work'
+      - './data/jupyter:/home/jovyan/data'
+    environment:
       - JUPYTER_ENABLE_LAB=yes
       - JUPYTER_TOKEN=token
-    ports: 
-      - 8888:8888
-    networks: 
+    ports:
+      - '8888:8888'
+    networks:
       - tfg-network
-    depends_on: 
+    depends_on:
       - freeling
       - elasticsearch
       - pdfapi
       - freelingapi
-
-networks: 
+      
+networks:
   tfg-network:
     driver: bridge
-  
